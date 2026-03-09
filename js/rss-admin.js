@@ -2,11 +2,117 @@
  *  CLEARDOOR — RSS ADMIN  (js/rss-admin.js)
  *  Manages the list of RSS news sources stored in localStorage.
  *  The Live News tab in blog.js reads from this same key.
+ *  Protected by a simple username/password login gate.
+ *
+ *  Default credentials:  admin / cleardoor2026
+ *  (Change them inside the dashboard after first login)
  */
 
+/* ═══════════════════════════════════════════════════════════
+   AUTH
+   ═══════════════════════════════════════════════════════════ */
+var ADMIN_CREDS_KEY   = 'cd_admin_creds';
+var ADMIN_SESSION_KEY = 'cd_admin_session';
+
+function rssAdminGetCreds() {
+  try {
+    var c = JSON.parse(localStorage.getItem(ADMIN_CREDS_KEY));
+    if (c && c.user && c.pass) return c;
+  } catch(e) {}
+  return { user: 'admin', pass: 'cleardoor2026' };
+}
+
+function rssAdminIsAuth() {
+  return sessionStorage.getItem(ADMIN_SESSION_KEY) === '1';
+}
+
+function rssAdminShowLoginGate() {
+  var gate    = document.getElementById('rss-login-gate');
+  var content = document.getElementById('rss-admin-content');
+  if (gate)    gate.style.display    = 'flex';
+  if (content) content.style.display = 'none';
+  /* Pre-fill the username field for convenience */
+  var u = document.getElementById('rss-login-user');
+  if (u && !u.value) u.value = rssAdminGetCreds().user;
+}
+
+function rssAdminShowAdminContent() {
+  var gate    = document.getElementById('rss-login-gate');
+  var content = document.getElementById('rss-admin-content');
+  if (gate)    gate.style.display    = 'none';
+  if (content) content.style.display = '';
+}
+
+function rssAdminLogin() {
+  var user  = (document.getElementById('rss-login-user').value || '').trim();
+  var pass  = document.getElementById('rss-login-pass').value || '';
+  var creds = rssAdminGetCreds();
+  var errEl = document.getElementById('rss-login-err');
+
+  if (user === creds.user && pass === creds.pass) {
+    sessionStorage.setItem(ADMIN_SESSION_KEY, '1');
+    if (errEl) errEl.style.display = 'none';
+    rssAdminShowAdminContent();
+    rssAdminMigrateAndRender();
+  } else {
+    if (errEl) {
+      errEl.textContent    = '❌ Incorrect username or password.';
+      errEl.style.display  = 'block';
+    }
+    /* Shake the card for visual feedback */
+    var card = document.querySelector('.rss-login-card');
+    if (card) {
+      card.classList.add('rss-login-shake');
+      setTimeout(function() { card.classList.remove('rss-login-shake'); }, 500);
+    }
+  }
+}
+
+function rssAdminLogout() {
+  sessionStorage.removeItem(ADMIN_SESSION_KEY);
+  var p = document.getElementById('rss-login-pass');
+  if (p) p.value = '';
+  var e = document.getElementById('rss-login-err');
+  if (e) e.style.display = 'none';
+  rssAdminShowLoginGate();
+}
+
+function rssAdminChangePass() {
+  var newUser = (document.getElementById('rss-chpw-user').value    || '').trim();
+  var newPass = (document.getElementById('rss-chpw-pass').value    || '');
+  var confirm = (document.getElementById('rss-chpw-confirm').value || '');
+
+  if (!newUser || !newPass) {
+    rssChpwMsg('❌ Username and password cannot be empty.', 'error'); return;
+  }
+  if (newPass !== confirm) {
+    rssChpwMsg('❌ Passwords do not match.', 'error'); return;
+  }
+
+  localStorage.setItem(ADMIN_CREDS_KEY, JSON.stringify({ user: newUser, pass: newPass }));
+  document.getElementById('rss-chpw-user').value    = '';
+  document.getElementById('rss-chpw-pass').value    = '';
+  document.getElementById('rss-chpw-confirm').value = '';
+  rssChpwMsg('✅ Credentials saved! Use them next time you sign in.', 'ok');
+}
+
+function rssChpwMsg(text, type) {
+  var el = document.getElementById('rss-chpw-msg');
+  if (!el) return;
+  el.textContent   = text;
+  el.className     = 'rss-msg rss-msg--' + (type || 'ok');
+  el.style.display = 'block';
+  clearTimeout(el._t);
+  el._t = setTimeout(function() { el.style.display = 'none'; }, 5000);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   RSS SOURCES
+   ═══════════════════════════════════════════════════════════ */
 var RSS_SOURCES_KEY = 'cd_rss_sources_v1';
 
-/* Default sources — used if none saved yet */
+/* Default sources — used if none saved yet.
+   Keep IDs in sync with scripts/fetch-news.js SOURCES. */
 var RSS_DEFAULT_SOURCES = [
   { id: 'cbc',    label: 'CBC News',               url: 'https://rss.cbc.ca/lineup/topstories.xml' },
   { id: 'bd',     label: 'Better Dwelling',        url: 'https://betterdwelling.com/feed/' },
@@ -28,8 +134,8 @@ function rssAdminSaveSources(sources) {
 
 function rssAdminRender() {
   var sources = rssAdminGetSources();
-  var list = document.getElementById('rss-sources-list');
-  var badge = document.getElementById('rss-count-badge');
+  var list    = document.getElementById('rss-sources-list');
+  var badge   = document.getElementById('rss-count-badge');
   if (!list) return;
   badge && (badge.textContent = sources.length);
 
@@ -43,17 +149,16 @@ function rssAdminRender() {
       '<div class="rss-source-row" id="rss-row-' + i + '">',
         '<div class="rss-source-info">',
           '<div class="rss-source-name">' + escHtml(s.label) + '</div>',
-          '<div class="rss-source-url">' + escHtml(s.url) + '</div>',
+          '<div class="rss-source-url">'  + escHtml(s.url)   + '</div>',
         '</div>',
         '<div class="rss-source-actions">',
-          '<button class="rss-test-btn" onclick="rssAdminTest(' + i + ')">Test</button>',
+          '<button class="rss-test-btn"   onclick="rssAdminTest('   + i + ')">Test</button>',
           '<button class="rss-delete-btn" onclick="rssAdminDelete(' + i + ')">Remove</button>',
         '</div>',
       '</div>'
     ].join('');
   }).join('');
 
-  // Also sync to blog.js NEWS_SOURCES if it's loaded
   rssAdminSyncToBlog(sources);
 }
 
@@ -67,7 +172,6 @@ function rssAdminSyncToBlog(sources) {
 function rssAdminAdd() {
   var nameEl = document.getElementById('rss-new-name');
   var urlEl  = document.getElementById('rss-new-url');
-  var msgEl  = document.getElementById('rss-add-msg');
   var name   = (nameEl.value || '').trim();
   var url    = (urlEl.value  || '').trim();
 
@@ -81,7 +185,6 @@ function rssAdminAdd() {
   var sources = rssAdminGetSources();
   var id = name.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
 
-  // Check for duplicate URL
   if (sources.some(function(s) { return s.url === url; })) {
     rssAdminMsg('This URL is already in your sources.', 'error'); return;
   }
@@ -92,7 +195,7 @@ function rssAdminAdd() {
 
   nameEl.value = '';
   urlEl.value  = '';
-  rssAdminMsg('✅ "' + escHtml(name) + '" added! Refresh the Live News tab to see it.', 'ok');
+  rssAdminMsg('✅ "' + escHtml(name) + '" saved! Refresh the Live News tab to see it.', 'ok');
   rssAdminRender();
 }
 
@@ -107,18 +210,16 @@ function rssAdminDelete(index) {
 
 function rssAdminTest(index) {
   var sources = rssAdminGetSources();
-  var s = sources[index];
+  var s       = sources[index];
   if (!s) return;
 
-  var row = document.getElementById('rss-row-' + index);
+  var row     = document.getElementById('rss-row-' + index);
   var testBtn = row && row.querySelector('.rss-test-btn');
   if (testBtn) { testBtn.textContent = 'Testing…'; testBtn.disabled = true; }
 
-  var proxy = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(s.url);
-
-  // Timeout after 12 seconds
+  var proxy    = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(s.url);
   var timedOut = false;
-  var timer = setTimeout(function() {
+  var timer    = setTimeout(function() {
     timedOut = true;
     if (testBtn) { testBtn.textContent = '⏱ Timeout'; testBtn.disabled = false; }
     rssAdminMsg('⚠️ "' + escHtml(s.label) + '" timed out — the feed may be slow or incompatible.', 'error');
@@ -134,11 +235,11 @@ function rssAdminTest(index) {
         rssAdminMsg('✅ "' + escHtml(s.label) + '" works — ' + d.items.length + ' articles found.', 'ok');
       } else {
         var reason = d.message || d.status || 'unknown error';
-        if (testBtn) { testBtn.textContent = '⚠️ ' + reason.substring(0,20); testBtn.disabled = false; }
-        rssAdminMsg('⚠️ "' + escHtml(s.label) + '" returned: ' + reason + '. This feed may not be supported by the proxy.', 'error');
+        if (testBtn) { testBtn.textContent = '⚠️ ' + reason.substring(0, 20); testBtn.disabled = false; }
+        rssAdminMsg('⚠️ "' + escHtml(s.label) + '" returned: ' + reason + '. This feed may not work with the proxy.', 'error');
       }
     })
-    .catch(function(err) {
+    .catch(function() {
       if (timedOut) return;
       clearTimeout(timer);
       if (testBtn) { testBtn.textContent = '❌ Network error'; testBtn.disabled = false; }
@@ -154,45 +255,68 @@ function rssAdminClearCache() {
 function rssAdminMsg(text, type) {
   var el = document.getElementById('rss-add-msg');
   if (!el) return;
-  el.textContent = text;
-  el.className = 'rss-msg rss-msg--' + (type || 'ok');
+  el.textContent   = text;
+  el.className     = 'rss-msg rss-msg--' + (type || 'ok');
   el.style.display = 'block';
   clearTimeout(el._t);
   el._t = setTimeout(function() { el.style.display = 'none'; }, 4000);
 }
 
 function escHtml(s) {
-  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  return String(s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-/* Called by main.js showPage('rss-admin') */
-function rssAdminInit() {
-  // Replace old broken sources with working alternatives
+/* ═══════════════════════════════════════════════════════════
+   INIT — called by main.js showPage('rss-admin')
+   ═══════════════════════════════════════════════════════════ */
+function rssAdminMigrateAndRender() {
+  /* Replace old/broken source URLs with working alternatives */
   var oldUrls = {
-    'https://www.cbc.ca/cmlink/rss-canada-business': 'https://rss.cbc.ca/lineup/topstories.xml',
-    'https://rss.cbc.ca/lineup/business.xml': 'https://rss.cbc.ca/lineup/topstories.xml',
+    'https://www.cbc.ca/cmlink/rss-canada-business':        'https://rss.cbc.ca/lineup/topstories.xml',
+    'https://rss.cbc.ca/lineup/business.xml':               'https://rss.cbc.ca/lineup/topstories.xml',
     'https://financialpost.com/category/real-estate/feed/': null,
-    'https://feeds.feedburner.com/financialpost': null
+    'https://feeds.feedburner.com/financialpost':           null
   };
-  var saved = rssAdminGetSources();
+  var saved    = rssAdminGetSources();
   var migrated = false;
   var filtered = [];
+
   saved.forEach(function(s) {
     if (s.url in oldUrls) {
       if (oldUrls[s.url]) { s.url = oldUrls[s.url]; filtered.push(s); }
-      // null = remove the source
+      // null = remove this source
       migrated = true;
-    } else { filtered.push(s); }
+    } else {
+      filtered.push(s);
+    }
   });
-  // Add CBC Ottawa if not present
-  if (!filtered.some(function(s){ return s.id==='cbcott'; })) {
-    filtered.push({ id:'cbcott', label:'CBC Ottawa', url:'https://rss.cbc.ca/lineup/canada/ottawa.xml' });
+
+  /* Ensure CBC Ottawa is always present */
+  if (!filtered.some(function(s) { return s.id === 'cbcott'; })) {
+    filtered.push({ id: 'cbcott', label: 'CBC Ottawa', url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' });
     migrated = true;
   }
-  if (migrated) { rssAdminSaveSources(filtered); localStorage.removeItem('cd_news_v2'); }
-  // If no sources saved yet, seed with defaults
+
+  if (migrated) {
+    rssAdminSaveSources(filtered);
+    localStorage.removeItem('cd_news_v2');
+  }
+
+  /* Seed defaults if localStorage was completely empty */
   if (!localStorage.getItem(RSS_SOURCES_KEY)) {
     rssAdminSaveSources(RSS_DEFAULT_SOURCES);
   }
+
   rssAdminRender();
+}
+
+function rssAdminInit() {
+  if (!rssAdminIsAuth()) {
+    rssAdminShowLoginGate();
+    return;
+  }
+  rssAdminShowAdminContent();
+  rssAdminMigrateAndRender();
 }
