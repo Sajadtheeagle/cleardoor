@@ -504,18 +504,44 @@ function renderNewsError(){
   var g=document.getElementById('news-grid');if(!g)return;
   g.innerHTML='<div class="blog-empty"><div class="blog-empty-emoji">📡</div><div class="blog-empty-txt">Could not load live news. Check your connection and try refreshing.</div></div>';
 }
+var NEWS_SRC_COLORS={
+  cbc:'#d62c1a',bd:'#1a6b3a',cmt:'#1a4a8a',fp:'#0a2240'
+};
+function extractNewsImg(item){
+  // 1. rss2json thumbnail field
+  if(item.thumbnail&&item.thumbnail.indexOf('http')===0)return item.thumbnail;
+  // 2. enclosure (podcast/image enclosure)
+  if(item.enclosure&&item.enclosure.link&&item.enclosure.link.indexOf('http')===0){
+    var t=item.enclosure.type||'';
+    if(!t||t.indexOf('image')!==-1||/\.(jpg|jpeg|png|webp|gif)(\?|$)/i.test(item.enclosure.link))
+      return item.enclosure.link;
+  }
+  // 3. first <img> in content
+  var content=item.content||'';
+  var m=content.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if(m&&m[1]&&m[1].indexOf('http')===0)return m[1];
+  // 4. first <img> in description
+  var desc=item.description||'';
+  var m2=desc.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if(m2&&m2[1]&&m2[1].indexOf('http')===0)return m2[1];
+  return'';
+}
 function renderNewsGrid(items){
   var g=document.getElementById('news-grid');if(!g)return;
   if(!items||!items.length){
     g.innerHTML='<div class="blog-empty"><div class="blog-empty-emoji">📭</div><div class="blog-empty-txt">No news found for this source.</div></div>';return;
   }
   g.innerHTML=items.map(function(item){
-    var img=item.thumbnail||(item.enclosure&&item.enclosure.link?item.enclosure.link:'');
+    var img=extractNewsImg(item);
     var src=NEWS_SOURCES.find(function(s){return s.id===item._src;})||{label:item._src||''};
+    var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
     var ex=stripHtml(item.description||'').substring(0,160);
     if(ex.length===160)ex+='…';
+    var visual=img
+      ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.parentNode.innerHTML=\'<span class=\\\"news-no-img\\\"><span>\'+encodeURIComponent(src.label)+\'</span></span>\'">'
+      :'<span class="news-no-img" style="background:'+clr+'"><span>'+src.label+'</span></span>';
     return'<a class="news-card" href="'+item.link+'" target="_blank" rel="noopener noreferrer">'+
-      '<div class="news-card-visual">'+(img?'<img src="'+img+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">':'<span>📰</span>')+'</div>'+
+      '<div class="news-card-visual">'+visual+'</div>'+
       '<div class="news-card-body">'+
         '<div class="news-card-source-badge">'+src.label+'</div>'+
         '<div class="news-card-title">'+item.title+'</div>'+
