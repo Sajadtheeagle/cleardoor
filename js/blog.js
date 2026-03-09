@@ -611,6 +611,7 @@ function _fetchOneSource(sources,index,collected,onProgress,done){
     .finally(next);
 }
 function fetchNews(){
+  /* ① localStorage cache (15 min TTL) — fastest possible */
   try{
     var cached=JSON.parse(localStorage.getItem(NEWS_CACHE_KEY)||'null');
     if(cached&&cached.ts&&(Date.now()-cached.ts)<NEWS_TTL){
@@ -622,20 +623,52 @@ function fetchNews(){
       return;
     }
   }catch(e){}
+
   renderNewsSkeleton();
   var activeSources=_getNewsSources();
   NEWS_SOURCES.length=0;activeSources.forEach(function(s){NEWS_SOURCES.push(s);});
   renderSourcePills(activeSources);
-  _fetchOneSource(activeSources,0,[],
-    function(){_renderCurrentNews();},
-    function(all){
-      all.sort(function(a,b){return new Date(b.pubDate)-new Date(a.pubDate);});
-      newsState.items=all;
-      try{localStorage.setItem(NEWS_CACHE_KEY,JSON.stringify({ts:Date.now(),items:all}));}catch(e){}
-      if(!all.length){renderNewsError();return;}
-      _renderCurrentNews();
-    }
-  );
+
+  /* IDs pre-fetched by GitHub Actions (defaults only) */
+  var DEFAULT_IDS=['cbc','bd','cmt','cbcott'];
+  var customSources=activeSources.filter(function(s){return DEFAULT_IDS.indexOf(s.id)===-1;});
+
+  /* ② Try pre-built /data/news.json (GitHub Actions, near-instant) */
+  fetch('/data/news.json?v='+Date.now())
+    .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+    .then(function(data){
+      if(!data||!data.items||!data.items.length)throw new Error('empty');
+      newsState.items=data.items.slice();
+      _renderCurrentNews(); /* show archived news immediately */
+
+      /* ③ Fetch any user-added custom sources on top, progressively */
+      if(customSources.length){
+        _fetchOneSource(customSources,0,data.items.slice(),
+          function(){_renderCurrentNews();},
+          function(all){
+            all.sort(function(a,b){return new Date(b.pubDate)-new Date(a.pubDate);});
+            newsState.items=all;
+            try{localStorage.setItem(NEWS_CACHE_KEY,JSON.stringify({ts:Date.now(),items:all}));}catch(e){}
+            _renderCurrentNews();
+          }
+        );
+      }else{
+        try{localStorage.setItem(NEWS_CACHE_KEY,JSON.stringify({ts:Date.now(),items:data.items}));}catch(e){}
+      }
+    })
+    .catch(function(){
+      /* ④ Fallback: live-fetch all sources via rss2json */
+      _fetchOneSource(activeSources,0,[],
+        function(){_renderCurrentNews();},
+        function(all){
+          all.sort(function(a,b){return new Date(b.pubDate)-new Date(a.pubDate);});
+          newsState.items=all;
+          try{localStorage.setItem(NEWS_CACHE_KEY,JSON.stringify({ts:Date.now(),items:all}));}catch(e){}
+          if(!all.length){renderNewsError();return;}
+          _renderCurrentNews();
+        }
+      );
+    });
 }
 
 /* ── In-site news reader ── */
