@@ -462,12 +462,21 @@ function blogSubscribeSb(){
 /* ───────────────────────────────────────────────────────
    LIVE NEWS  (RSS via rss2json.com)
    ─────────────────────────────────────────────────────── */
-var NEWS_SOURCES=[
-  {id:'cbc', label:'CBC',                url:'https://www.cbc.ca/cmlink/rss-canada-business'},
-  {id:'bd',  label:'Better Dwelling',    url:'https://betterdwelling.com/feed/'},
-  {id:'cmt', label:'Mortgage Trends',    url:'https://www.canadianmortgagetrends.com/feed/'},
-  {id:'fp',  label:'Financial Post',     url:'https://financialpost.com/category/real-estate/feed/'},
-];
+/* NEWS_SOURCES is populated at runtime from localStorage (managed by rss-admin.js).
+   Falls back to built-in defaults if the admin module hasn't run yet. */
+var NEWS_SOURCES=[];
+function _getNewsSources(){
+  try{
+    var s=JSON.parse(localStorage.getItem('cd_rss_sources_v1'));
+    if(Array.isArray(s)&&s.length)return s;
+  }catch(e){}
+  return[
+    {id:'cbc', label:'CBC',                     url:'https://www.cbc.ca/cmlink/rss-canada-business'},
+    {id:'bd',  label:'Better Dwelling',         url:'https://betterdwelling.com/feed/'},
+    {id:'cmt', label:'Canadian Mortgage Trends',url:'https://www.canadianmortgagetrends.com/feed/'},
+    {id:'fp',  label:'Financial Post',          url:'https://financialpost.com/category/real-estate/feed/'},
+  ];
+}
 var RSS2JSON='https://api.rss2json.com/v1/api.json?rss_url=';
 var NEWS_CACHE_KEY='cd_news_v2';
 var NEWS_TTL=15*60*1000;
