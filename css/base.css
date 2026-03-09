@@ -178,3 +178,62 @@ input.chk{width:16px;height:16px;border-radius:4px;flex-shrink:0;margin-top:2px;
   .g2,.g3,.g4{grid-template-columns:1fr 1fr;}
 }
 @media(max-width:520px){.g2,.g3,.g4{grid-template-columns:1fr;}}
+/* ── Newsletter CTA Strip ───────────────────────────────────── */
+.nl-cta-strip{
+  background:linear-gradient(135deg,var(--navy) 0%,#1a3a6b 100%);
+  border-radius:20px;
+  padding:2rem 2.4rem;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:2rem;
+  flex-wrap:wrap;
+  margin:2rem 0;
+}
+.nl-cta-text{
+  font-size:1.05rem;
+  font-weight:800;
+  color:#fff;
+  margin-bottom:.25rem;
+}
+.nl-cta-sub{
+  font-size:.83rem;
+  color:rgba(255,255,255,.65);
+  line-height:1.5;
+}
+.nl-cta-form{
+  display:flex;
+  gap:.5rem;
+  flex-shrink:0;
+}
+.nl-cta-form input[type="email"]{
+  padding:.6rem 1.2rem;
+  border-radius:50px;
+  border:none;
+  font-size:.85rem;
+  min-width:210px;
+  color:var(--navy);
+  outline:none;
+  background:#fff;
+}
+.nl-cta-form button{
+  background:var(--sky);
+  color:#fff;
+  border:none;
+  padding:.6rem 1.4rem;
+  border-radius:50px;
+  font-weight:700;
+  font-size:.85rem;
+  cursor:pointer;
+  white-space:nowrap;
+  transition:background .15s,transform .15s;
+}
+.nl-cta-form button:hover{
+  background:#2585e8;
+  transform:translateY(-1px);
+}
+@media(max-width:680px){
+  .nl-cta-strip{flex-direction:column;align-items:flex-start;padding:1.5rem;}
+  .nl-cta-form{width:100%;}
+  .nl-cta-form input[type="email"]{flex:1;min-width:0;}
+}

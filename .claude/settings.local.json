@@ -6,7 +6,8 @@
       "mcp__Claude_Preview__preview_start",
       "Bash(git add index.html)",
       "Bash(git commit -m \"fix: close compare modal div so blog page is visible\")",
-      "Bash(git push origin main)"
+      "Bash(git push origin main)",
+      "Bash(/Users/sajad/Desktop/cleardoor-site/css/base.css:*)"
     ]
   }
 }
