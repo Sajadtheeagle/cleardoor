@@ -539,7 +539,7 @@ function renderNewsGrid(items){
     var ex=stripHtml(item.description||'').substring(0,160);
     if(ex.length===160)ex+='…';
     var visual=img
-      ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.parentNode.innerHTML=\'<span class=\\\"news-no-img\\\"><span>\'+encodeURIComponent(src.label)+\'</span></span>\'">'
+      ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
       :'<span class="news-no-img" style="background:'+clr+'"><span>'+src.label+'</span></span>';
     return'<a class="news-card" href="'+item.link+'" target="_blank" rel="noopener noreferrer">'+
       '<div class="news-card-visual">'+visual+'</div>'+
