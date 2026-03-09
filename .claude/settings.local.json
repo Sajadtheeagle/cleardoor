@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git push origin main --force)",
-      "Bash(chmod +x /Users/sajad/Desktop/sync-cleardoor.sh)"
+      "Bash(chmod +x /Users/sajad/Desktop/sync-cleardoor.sh)",
+      "mcp__Claude_Preview__preview_start"
     ]
   }
 }
