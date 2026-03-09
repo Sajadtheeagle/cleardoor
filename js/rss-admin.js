@@ -8,10 +8,10 @@ var RSS_SOURCES_KEY = 'cd_rss_sources_v1';
 
 /* Default sources — used if none saved yet */
 var RSS_DEFAULT_SOURCES = [
-  { id: 'cbc',  label: 'CBC',                    url: 'https://rss.cbc.ca/lineup/business.xml' },
-  { id: 'bd',   label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
-  { id: 'cmt',  label: 'Canadian Mortgage Trends',url: 'https://www.canadianmortgagetrends.com/feed/' },
-  { id: 'fp',   label: 'Financial Post',          url: 'https://feeds.feedburner.com/financialpost' }
+  { id: 'cbc',    label: 'CBC News',               url: 'https://rss.cbc.ca/lineup/topstories.xml' },
+  { id: 'bd',     label: 'Better Dwelling',        url: 'https://betterdwelling.com/feed/' },
+  { id: 'cmt',    label: 'Canadian Mortgage Trends',url: 'https://www.canadianmortgagetrends.com/feed/' },
+  { id: 'cbcott', label: 'CBC Ottawa',             url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' }
 ];
 
 function rssAdminGetSources() {
