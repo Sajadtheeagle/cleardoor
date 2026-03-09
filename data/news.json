@@ -1,0 +1,114 @@
+{
+  "ts": 1773088072787,
+  "fetched": "2026-03-09T20:27:52.787Z",
+  "sources": [
+    {
+      "id": "cbc",
+      "label": "CBC News"
+    },
+    {
+      "id": "bd",
+      "label": "Better Dwelling"
+    },
+    {
+      "id": "cmt",
+      "label": "Canadian Mortgage Trends"
+    },
+    {
+      "id": "cbcott",
+      "label": "CBC Ottawa"
+    }
+  ],
+  "items": [
+    {
+      "title": "Laurentian Bank slips to loss as mortgage book shrinks",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/laurentian-bank-slips-to-loss-as-mortgage-book-shrinks/",
+      "pubDate": "Sun, 08 Mar 2026 03:54:48 +0000",
+      "description": "Residential book declines amid softer housing activity while commercial lending expands as the bank pushes ahead with its transformation strategy",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "From rent hikes to damages: Understanding the basics of rental agreements",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/from-rent-hikes-to-damages-understanding-the-basics-of-rental-agreements/",
+      "pubDate": "Sun, 08 Mar 2026 03:40:52 +0000",
+      "description": "Every province and territory has already done the heavy lifting of what’s legal, and what’s not, in rental agreements. Your job is to learn about it.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "Ottawa office market experts left in the dark over feds&#8217; return-to-work needs",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/ottawa-office-market-experts-left-in-the-dark-over-feds-return-to-work-needs/",
+      "pubDate": "Fri, 06 Mar 2026 18:20:37 +0000",
+      "description": "Ottawa real estate watchers are calling on the federal government to be more clear about its workspace needs as public servants prepare to spend more time in the office.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "Sub-6% U.S. mortgage rates vanish as Iran war sparks inflation fears",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/sub-6-u-s-mortgage-rates-vanish-as-iran-war-sparks-inflation-fears/",
+      "pubDate": "Fri, 06 Mar 2026 18:05:00 +0000",
+      "description": "U.S. homebuyers had to act fast last week to nab the first sub-6% mortgage rates in more than three years. Now they’re up, and the new conflict in the Middle East threatens to nudge them higher.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "RBC almost doubled Dave McKay’s bonus on record earnings",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/rbc-almost-doubled-dave-mckays-bonus-on-record-earnings/",
+      "pubDate": "Thu, 05 Mar 2026 20:59:52 +0000",
+      "description": "Royal Bank of Canada Chief Executive Officer Dave McKay received $23.76 million in total compensation last year, a pay package that included a bonus that was 86% above his target as the firm achieved record earnings.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "Slower housing market mixed blessing for those looking to move up property ladder",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/slower-housing-market-mixed-blessing-for-those-looking-to-move-up-property-ladder/",
+      "pubDate": "Thu, 05 Mar 2026 15:19:43 +0000",
+      "description": "A cooling housing market has been good news for those looking to buy their first home, but for homeowners looking to move up the property ladder, the slowdown is more of a mixed blessing.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "Greater Toronto home sales fall in February as buyers, sellers both sidelined: board",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/greater-toronto-home-sales-fall-in-february-as-buyers-sellers-both-sidelined-board/",
+      "pubDate": "Thu, 05 Mar 2026 15:14:11 +0000",
+      "description": "Home sales in the Greater Toronto Area fell last month, along with new listings and selling prices, as the city's real estate board believes potential buyers are waiting for the market to bottom out before making a move.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "Stocks fall as oil surge boosts Treasury yields: Markets wrap",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/stocks-fall-as-oil-surge-boosts-treasury-yields-markets-wrap/",
+      "pubDate": "Thu, 05 Mar 2026 15:10:00 +0000",
+      "description": "A renewed spike in oil prices combined with data showing labour-market resilience lifted Treasury yields as stocks fell amid reduced odds of Federal Reserve rate cuts.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "U.S. Treasury yields reach weekly highs as inflation risk mounts",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/u-s-treasury-yields-reach-weekly-highs-as-inflation-risk-mounts/",
+      "pubDate": "Thu, 05 Mar 2026 15:09:49 +0000",
+      "description": "Treasuries fell for a fourth day as U.S. economic data failed to allay concern that rising crude oil prices will stoke inflation.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    },
+    {
+      "title": "New B.C. legislation cracks down on weapons, violence in supportive housing",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/new-b-c-legislation-cracks-down-on-weapons-violence-in-supportive-housing/",
+      "pubDate": "Thu, 05 Mar 2026 14:45:07 +0000",
+      "description": "The B.C. government has tabled legislation, which the housing minster says will make it easier to kick \"problematic\" tenants out of supportive housing.",
+      "content": "",
+      "thumbnail": "",
+      "_src": "cmt"
+    }
+  ]
+}
