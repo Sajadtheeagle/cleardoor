@@ -115,17 +115,34 @@ function rssAdminTest(index) {
   if (testBtn) { testBtn.textContent = 'Testing…'; testBtn.disabled = true; }
 
   var proxy = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(s.url);
+
+  // Timeout after 12 seconds
+  var timedOut = false;
+  var timer = setTimeout(function() {
+    timedOut = true;
+    if (testBtn) { testBtn.textContent = '⏱ Timeout'; testBtn.disabled = false; }
+    rssAdminMsg('⚠️ "' + escHtml(s.label) + '" timed out — the feed may be slow or incompatible.', 'error');
+  }, 12000);
+
   fetch(proxy)
     .then(function(r) { return r.json(); })
     .then(function(d) {
+      if (timedOut) return;
+      clearTimeout(timer);
       if (d.status === 'ok' && d.items && d.items.length) {
         if (testBtn) { testBtn.textContent = '✅ OK (' + d.items.length + ' items)'; testBtn.disabled = false; }
+        rssAdminMsg('✅ "' + escHtml(s.label) + '" works — ' + d.items.length + ' articles found.', 'ok');
       } else {
-        if (testBtn) { testBtn.textContent = '⚠️ No items'; testBtn.disabled = false; }
+        var reason = d.message || d.status || 'unknown error';
+        if (testBtn) { testBtn.textContent = '⚠️ ' + reason.substring(0,20); testBtn.disabled = false; }
+        rssAdminMsg('⚠️ "' + escHtml(s.label) + '" returned: ' + reason + '. This feed may not be supported by the proxy.', 'error');
       }
     })
-    .catch(function() {
-      if (testBtn) { testBtn.textContent = '❌ Failed'; testBtn.disabled = false; }
+    .catch(function(err) {
+      if (timedOut) return;
+      clearTimeout(timer);
+      if (testBtn) { testBtn.textContent = '❌ Network error'; testBtn.disabled = false; }
+      rssAdminMsg('❌ Could not reach "' + escHtml(s.label) + '". Check the URL and your connection.', 'error');
     });
 }
 
