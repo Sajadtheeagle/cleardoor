@@ -558,6 +558,22 @@ function filterNewsSource(src,el){
   var items=src==='all'?newsState.items:newsState.items.filter(function(i){return i._src===src;});
   renderNewsGrid(items);
 }
+/* Fetch sources one-at-a-time to avoid rss2json free-tier rate limits */
+function _fetchOneSource(sources, index, collected, done){
+  if(index>=sources.length){ done(collected); return; }
+  var s=sources[index];
+  fetch(RSS2JSON+encodeURIComponent(s.url))
+    .then(function(r){return r.json();})
+    .then(function(d){
+      if(d.status==='ok'&&d.items){
+        d.items.slice(0,8).forEach(function(i){i._src=s.id;collected.push(i);});
+      }
+    })
+    .catch(function(){})
+    .finally(function(){
+      setTimeout(function(){_fetchOneSource(sources,index+1,collected,done);},700);
+    });
+}
 function fetchNews(){
   try{
     var cached=JSON.parse(localStorage.getItem(NEWS_CACHE_KEY)||'null');
@@ -570,22 +586,13 @@ function fetchNews(){
   renderNewsSkeleton();
   var activeSources=_getNewsSources();
   NEWS_SOURCES.length=0;activeSources.forEach(function(s){NEWS_SOURCES.push(s);});
-  var promises=activeSources.map(function(s){
-    return fetch(RSS2JSON+encodeURIComponent(s.url))
-      .then(function(r){return r.json();})
-      .then(function(d){
-        if(d.status==='ok'&&d.items)return d.items.slice(0,8).map(function(i){i._src=s.id;return i;});
-        return[];
-      })
-      .catch(function(){return[];});
-  });
-  Promise.all(promises).then(function(results){
-    var all=[].concat.apply([],results);
+  _fetchOneSource(activeSources,0,[],function(all){
     all.sort(function(a,b){return new Date(b.pubDate)-new Date(a.pubDate);});
     newsState.items=all;
     try{localStorage.setItem(NEWS_CACHE_KEY,JSON.stringify({ts:Date.now(),items:all}));}catch(e){}
+    if(!all.length){renderNewsError();return;}
     renderNewsGrid(newsState.source==='all'?all:all.filter(function(i){return i._src===newsState.source;}));
-  }).catch(function(){renderNewsError();});
+  });
 }
 function blogSwitchMain(tab,btn){
   var np=document.getElementById('blog-news-panel');
