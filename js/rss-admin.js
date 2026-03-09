@@ -8,10 +8,10 @@ var RSS_SOURCES_KEY = 'cd_rss_sources_v1';
 
 /* Default sources — used if none saved yet */
 var RSS_DEFAULT_SOURCES = [
-  { id: 'cbc',  label: 'CBC',                    url: 'https://www.cbc.ca/cmlink/rss-canada-business' },
+  { id: 'cbc',  label: 'CBC',                    url: 'https://rss.cbc.ca/lineup/business.xml' },
   { id: 'bd',   label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
   { id: 'cmt',  label: 'Canadian Mortgage Trends',url: 'https://www.canadianmortgagetrends.com/feed/' },
-  { id: 'fp',   label: 'Financial Post',          url: 'https://financialpost.com/category/real-estate/feed/' }
+  { id: 'fp',   label: 'Financial Post',          url: 'https://feeds.feedburner.com/financialpost' }
 ];
 
 function rssAdminGetSources() {
