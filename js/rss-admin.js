@@ -150,18 +150,29 @@ function escHtml(s) {
 
 /* Called by main.js showPage('rss-admin') */
 function rssAdminInit() {
-  // Migrate old CBC URL to new direct feed URL
+  // Replace old broken sources with working alternatives
+  var oldUrls = {
+    'https://www.cbc.ca/cmlink/rss-canada-business': 'https://rss.cbc.ca/lineup/topstories.xml',
+    'https://rss.cbc.ca/lineup/business.xml': 'https://rss.cbc.ca/lineup/topstories.xml',
+    'https://financialpost.com/category/real-estate/feed/': null,
+    'https://feeds.feedburner.com/financialpost': null
+  };
   var saved = rssAdminGetSources();
   var migrated = false;
+  var filtered = [];
   saved.forEach(function(s) {
-    if (s.url === 'https://www.cbc.ca/cmlink/rss-canada-business') {
-      s.url = 'https://rss.cbc.ca/lineup/business.xml'; migrated = true;
-    }
-    if (s.url === 'https://financialpost.com/category/real-estate/feed/') {
-      s.url = 'https://feeds.feedburner.com/financialpost'; migrated = true;
-    }
+    if (s.url in oldUrls) {
+      if (oldUrls[s.url]) { s.url = oldUrls[s.url]; filtered.push(s); }
+      // null = remove the source
+      migrated = true;
+    } else { filtered.push(s); }
   });
-  if (migrated) { rssAdminSaveSources(saved); localStorage.removeItem('cd_news_v2'); }
+  // Add CBC Ottawa if not present
+  if (!filtered.some(function(s){ return s.id==='cbcott'; })) {
+    filtered.push({ id:'cbcott', label:'CBC Ottawa', url:'https://rss.cbc.ca/lineup/canada/ottawa.xml' });
+    migrated = true;
+  }
+  if (migrated) { rssAdminSaveSources(filtered); localStorage.removeItem('cd_news_v2'); }
   // If no sources saved yet, seed with defaults
   if (!localStorage.getItem(RSS_SOURCES_KEY)) {
     rssAdminSaveSources(RSS_DEFAULT_SOURCES);
