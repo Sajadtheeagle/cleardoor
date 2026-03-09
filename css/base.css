@@ -237,3 +237,97 @@ input.chk{width:16px;height:16px;border-radius:4px;flex-shrink:0;margin-top:2px;
   .nl-cta-form{width:100%;}
   .nl-cta-form input[type="email"]{flex:1;min-width:0;}
 }
+
+/* ── RSS Admin Dashboard ────────────────────────────────────── */
+.rss-add-card{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:16px;
+  padding:1.8rem 2rem;
+  margin-bottom:2rem;
+}
+.rss-form-title{
+  font-size:1rem;font-weight:800;color:var(--navy);margin-bottom:1.2rem;
+}
+.rss-form-row{
+  display:flex;gap:1rem;align-items:flex-end;flex-wrap:wrap;
+}
+.rss-form-group{display:flex;flex-direction:column;gap:.35rem;min-width:180px;}
+.rss-form-group--wide{flex:1;min-width:260px;}
+.rss-form-group label{font-size:.78rem;font-weight:700;color:var(--gray);}
+.rss-input{
+  padding:.6rem 1rem;border-radius:10px;border:1px solid var(--border);
+  font-size:.88rem;color:var(--navy);outline:none;transition:border .15s;
+  background:#fff;
+}
+.rss-input:focus{border-color:var(--sky);}
+.rss-add-btn{
+  background:var(--sky);color:#fff;border:none;
+  padding:.65rem 1.4rem;border-radius:50px;
+  font-weight:700;font-size:.88rem;cursor:pointer;
+  white-space:nowrap;transition:background .15s;align-self:flex-end;
+}
+.rss-add-btn:hover{background:#2585e8;}
+.rss-msg{
+  margin-top:.8rem;padding:.55rem 1rem;border-radius:8px;
+  font-size:.82rem;font-weight:600;
+}
+.rss-msg--ok{background:#d1fae5;color:#065f46;}
+.rss-msg--error{background:#fee2e2;color:#991b1b;}
+
+.rss-list-header{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:1rem;flex-wrap:wrap;gap:.5rem;
+}
+.rss-list-header h3{font-size:1rem;font-weight:800;color:var(--navy);}
+.rss-count-badge{
+  display:inline-flex;align-items:center;justify-content:center;
+  background:var(--sky);color:#fff;border-radius:50px;
+  font-size:.72rem;font-weight:800;min-width:22px;height:22px;
+  padding:0 6px;margin-left:.4rem;vertical-align:middle;
+}
+.rss-clear-cache-btn{
+  background:transparent;border:1px solid var(--border);
+  padding:.42rem 1rem;border-radius:50px;font-size:.78rem;
+  font-weight:600;color:var(--gray);cursor:pointer;transition:all .15s;
+}
+.rss-clear-cache-btn:hover{border-color:var(--sky);color:var(--sky);}
+
+.rss-sources-list{display:flex;flex-direction:column;gap:.6rem;margin-bottom:2rem;}
+.rss-source-row{
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;
+  background:#fff;border:1px solid var(--border);border-radius:12px;
+  padding:1rem 1.2rem;flex-wrap:wrap;
+}
+.rss-source-row:hover{border-color:var(--sky);}
+.rss-source-name{font-weight:700;font-size:.88rem;color:var(--navy);margin-bottom:.15rem;}
+.rss-source-url{font-size:.75rem;color:var(--gray);word-break:break-all;}
+.rss-source-actions{display:flex;gap:.5rem;flex-shrink:0;}
+.rss-test-btn{
+  background:transparent;border:1px solid var(--border);
+  padding:.35rem .85rem;border-radius:50px;font-size:.76rem;
+  font-weight:600;color:var(--gray);cursor:pointer;transition:all .15s;
+}
+.rss-test-btn:hover{border-color:var(--sky);color:var(--sky);}
+.rss-delete-btn{
+  background:transparent;border:1px solid #fca5a5;
+  padding:.35rem .85rem;border-radius:50px;font-size:.76rem;
+  font-weight:600;color:#dc2626;cursor:pointer;transition:all .15s;
+}
+.rss-delete-btn:hover{background:#fee2e2;}
+.rss-empty{
+  text-align:center;padding:2.5rem;color:var(--gray);
+  border:1.5px dashed var(--border);border-radius:12px;font-size:.88rem;
+}
+.rss-footer-note{
+  font-size:.78rem;color:var(--gray);line-height:1.7;
+  border-top:1px solid var(--border);padding-top:1.2rem;
+}
+.rss-footer-note code{
+  background:#f1f5f9;padding:.1rem .35rem;border-radius:4px;
+  font-family:monospace;font-size:.82rem;color:var(--navy);
+}
+@media(max-width:600px){
+  .rss-form-row{flex-direction:column;}
+  .rss-add-btn{width:100%;}
+}
