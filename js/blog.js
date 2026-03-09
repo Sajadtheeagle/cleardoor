@@ -542,7 +542,9 @@ function fetchNews(){
     }
   }catch(e){}
   renderNewsSkeleton();
-  var promises=NEWS_SOURCES.map(function(s){
+  var activeSources=_getNewsSources();
+  NEWS_SOURCES.length=0;activeSources.forEach(function(s){NEWS_SOURCES.push(s);});
+  var promises=activeSources.map(function(s){
     return fetch(RSS2JSON+encodeURIComponent(s.url))
       .then(function(r){return r.json();})
       .then(function(d){

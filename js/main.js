@@ -25,6 +25,7 @@ function showPage(id){
   if(id==='blog'){blogInit();}
   if(id==='newconstruction')renderNC();
   if(id==='ottawaplan'){setTimeout(()=>{initOPMap();},100);}
+  if(id==='rss-admin'){rssAdminInit();}
   closeDrawer();
 }
 // ══ DRAWER ══
