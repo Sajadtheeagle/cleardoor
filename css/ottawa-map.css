@@ -1,0 +1,31 @@
+/* CLEARDOOR — OTTAWA MAP STYLES
+================================================================ */
+
+/* ══ OTTAWA MAPS ══ */
+.map-container{position:relative;border-radius:16px;overflow:hidden;border:1.5px solid var(--border);box-shadow:0 4px 24px rgba(0,0,0,.08);}
+#op-map,#zoning-map{height:520px;width:100%;z-index:1;}
+.map-legend{position:absolute;bottom:16px;left:16px;background:rgba(255,255,255,.97);border-radius:12px;padding:14px 16px;box-shadow:0 4px 20px rgba(0,0,0,.15);z-index:500;min-width:190px;font-size:.78rem;}
+.map-legend h4{margin:0 0 10px;font-size:.8rem;font-weight:700;color:var(--navy);}
+.legend-item{display:flex;align-items:center;gap:8px;margin-bottom:6px;font-size:.75rem;color:#444;}
+.legend-dot{width:14px;height:14px;border-radius:50%;flex-shrink:0;}
+.legend-line{width:22px;height:5px;border-radius:3px;flex-shrink:0;}
+.map-layers{position:absolute;top:16px;right:16px;background:rgba(255,255,255,.97);border-radius:12px;padding:14px 16px;box-shadow:0 4px 20px rgba(0,0,0,.15);z-index:500;min-width:170px;font-size:.78rem;}
+.map-layers h4{margin:0 0 10px;font-size:.8rem;font-weight:700;color:var(--navy);}
+.layer-toggle{display:flex;align-items:center;gap:8px;margin-bottom:6px;font-size:.76rem;cursor:pointer;user-select:none;}
+.layer-toggle input{accent-color:var(--sky);}
+.zone-popup h3{margin:0 0 4px;font-size:.95rem;color:var(--navy);}
+.zone-popup .ztag{display:inline-block;padding:.15rem .55rem;border-radius:50px;font-size:.65rem;font-weight:700;text-transform:uppercase;color:#fff;margin-bottom:8px;}
+.zone-popup table{width:100%;font-size:.78rem;border-collapse:collapse;}
+.zone-popup td{padding:3px 0;vertical-align:top;}
+.zone-popup td:first-child{font-weight:600;color:#555;width:90px;}
+.ott-tabs{display:flex;gap:8px;margin-bottom:1.2rem;}
+.ott-tab{padding:.55rem 1.3rem;border-radius:50px;border:2px solid var(--border);background:#fff;font-size:.85rem;font-weight:600;cursor:pointer;color:var(--gray);transition:all .18s;}
+.ott-tab.active{background:var(--sky);border-color:var(--sky);color:#fff;}
+.ott-pane{display:none;}
+.ott-pane.active{display:block;}
+.zstat{background:#fff;border:1.5px solid var(--border);border-radius:14px;padding:1.1rem 1.4rem;text-align:center;}
+.zstat .zn{font-size:1.6rem;font-weight:800;color:var(--navy);}
+.zstat .zl{font-size:.72rem;color:var(--gray);text-transform:uppercase;letter-spacing:.4px;margin-top:.2rem;}
+.zguide-row{display:grid;grid-template-columns:80px 1fr;gap:.5rem 1rem;align-items:start;padding:.8rem 0;border-bottom:1px solid var(--border);}
+.zguide-row:last-child{border-bottom:none;}
+.zcode{font-weight:800;font-size:1rem;color:var(--navy);}

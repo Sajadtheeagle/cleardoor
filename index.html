@@ -1,0 +1,1015 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>ClearDoor – Canada's First-Time Home Buyer Platform</title>
+  <!-- ══ Stylesheets ══ -->
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/new-construction.css">
+  <link rel="stylesheet" href="css/modals.css">
+  <link rel="stylesheet" href="css/ottawa-map.css">
+  <link rel="stylesheet" href="css/blog.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+</head>
+<body>
+<!-- ══ TOP NAV ══ -->
+<nav class="topnav">
+  <div class="logo" onclick="showPage('home')">clear<span>door</span></div>
+  <div class="nav-links">
+    <!-- HOME -->
+    <div class="nav-item" data-pages="home">
+      <button class="nl active" onclick="showPage('home')">🏡 Home</button>
+    </div>
+    <!-- FIND A HOME -->
+    <div class="nav-item" data-pages="listings,newconstruction,ottawaplan">
+      <button class="nl">Find a Home <span class="arr">▾</span></button>
+      <div class="dropdown">
+        <div class="dd-section">Properties</div>
+        <button class="dd-item" onclick="showPage('listings')"><span class="di-icon">🔍</span><span class="di-label">Search Listings</span></button>
+        <button class="dd-item" onclick="showPage('newconstruction')"><span class="di-icon">🏗️</span><span class="di-label">Pre-Construction</span><span class="di-badge">New</span></button>
+        <div class="dd-sep"></div>
+        <div class="dd-section">Planning</div>
+        <button class="dd-item" onclick="showPage('ottawaplan')"><span class="di-icon">🗺️</span><span class="di-label">Ottawa City Plans</span></button>
+      </div>
+    </div>
+    <!-- FINANCIALS -->
+    <div class="nav-item" data-pages="financial,calculator,saving,compare">
+      <button class="nl">Financials <span class="arr">▾</span></button>
+      <div class="dropdown">
+        <div class="dd-section">Programs & Incentives</div>
+        <button class="dd-item" onclick="showPage('financial')"><span class="di-icon">🏛️</span><span class="di-label">Gov't Programs</span></button>
+        <div class="dd-sep"></div>
+        <div class="dd-section">Calculators</div>
+        <button class="dd-item" onclick="showPage('calculator')"><span class="di-icon">🧮</span><span class="di-label">Mortgage Calculator</span></button>
+        <button class="dd-item" onclick="showPage('saving')"><span class="di-icon">🪙</span><span class="di-label">Savings Planner</span></button>
+        <button class="dd-item" onclick="showPage('compare')"><span class="di-icon">⚖️</span><span class="di-label">Rent vs Buy</span></button>
+      </div>
+    </div>
+    <!-- MARKET -->
+    <div class="nav-item" data-pages="market">
+      <button class="nl">Market <span class="arr">▾</span></button>
+      <div class="dropdown">
+        <div class="dd-section">Research</div>
+        <button class="dd-item" onclick="showPage('market')"><span class="di-icon">📊</span><span class="di-label">Market Reports</span></button>
+        <button class="dd-item" onclick="showPage('ottawaplan')"><span class="di-icon">🗺️</span><span class="di-label">City Plans Map</span></button>
+      </div>
+    </div>
+    <!-- TOOLS -->
+    <div class="nav-item" data-pages="checklist,glossary">
+      <button class="nl">Tools <span class="arr">▾</span></button>
+      <div class="dropdown">
+        <div class="dd-section">Buyer Tools</div>
+        <button class="dd-item" onclick="showPage('checklist')"><span class="di-icon">✅</span><span class="di-label">Buyer Checklist</span></button>
+        <button class="dd-item" onclick="showPage('glossary')"><span class="di-icon">📖</span><span class="di-label">Glossary</span></button>
+        <button class="dd-item" onclick="showPage('calculator')"><span class="di-icon">🧮</span><span class="di-label">Calculators</span></button>
+        <button class="dd-item" onclick="showPage('compare')"><span class="di-icon">⚖️</span><span class="di-label">Rent vs Buy</span></button>
+      </div>
+    </div>
+    <!-- INSIGHTS -->
+    <div class="nav-item" data-pages="blog">
+      <button class="nl">Insights <span class="arr">▾</span></button>
+      <div class="dropdown">
+        <div class="dd-section">News & Content</div>
+        <button class="dd-item" onclick="showPage('blog')"><span class="di-icon">📰</span><span class="di-label">News & Blog</span></button>
+        <button class="dd-item" onclick="showPage('market')"><span class="di-icon">📈</span><span class="di-label">Market Reports</span></button>
+      </div>
+    </div>
+    <!-- ABOUT -->
+    <div class="nav-item" data-pages="about">
+      <button class="nl" onclick="showPage('about')">About</button>
+    </div>
+  </div>
+  <button class="nav-cta" onclick="showPage('listings')">Get Started Free</button>
+  <button class="burger" onclick="openDrawer()">☰</button>
+</nav>
+<!-- ══ MOBILE DRAWER ══ -->
+<div class="doverlay" id="doverlay" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-logo">clear<span>door</span><button class="drawer-close" onclick="closeDrawer()">✕</button></div>
+  <div class="dl">Home</div>
+  <button class="di active" onclick="showPage('home')">🏡 Home</button>
+  <div class="dl">Find a Home</div>
+  <button class="di" onclick="showPage('listings')">🔍 Search Listings</button>
+  <button class="di" onclick="showPage('newconstruction')">🏗️ Pre-Construction</button>
+  <button class="di" onclick="showPage('ottawaplan')">🗺️ Ottawa City Plans</button>
+  <div class="dl">Financials</div>
+  <button class="di" onclick="showPage('financial')">🏛️ Gov't Programs</button>
+  <button class="di" onclick="showPage('calculator')">🧮 Mortgage Calculator</button>
+  <button class="di" onclick="showPage('saving')">🪙 Savings Planner</button>
+  <button class="di" onclick="showPage('compare')">⚖️ Rent vs Buy</button>
+  <div class="dl">Market</div>
+  <button class="di" onclick="showPage('market')">📊 Market Reports</button>
+  <div class="dl">Tools</div>
+  <button class="di" onclick="showPage('checklist')">✅ Buyer Checklist</button>
+  <button class="di" onclick="showPage('glossary')">📖 Glossary</button>
+  <div class="dl">Insights</div>
+  <button class="di" onclick="showPage('blog')">📰 News & Blog</button>
+  <div class="dl">Company</div>
+  <button class="di" onclick="showPage('about')">ℹ️ About ClearDoor</button>
+</div>
+<div class="main">
+<!-- ════════════ HOME ════════════ -->
+<div id="page-home" class="page active">
+  <div class="hero">
+    <div class="hero-inner">
+      <div class="h-eyebrow">🇨🇦 Canada's First-Time Buyer Platform · 100% Free</div>
+      <h1>Everything You Need to Buy<br>Your First Home in <em>Canada</em></h1>
+      <p>From saving your first dollar to getting your keys — ClearDoor gives every Canadian first-time buyer the tools, programs, and guidance to buy with confidence.</p>
+      <div class="hctas">
+        <button class="btn btn-sky" onclick="showPage('newconstruction')">🏗️ Explore New Builds</button>
+        <button class="btn btn-ghost" onclick="showPage('financial')">View Programs →</button>
+      </div>
+      <div class="hero-stats">
+        <div class="hs"><div class="hs-n">$80K</div><div class="hs-l">FHSA per couple (tax-free)</div></div>
+        <div class="hs"><div class="hs-n">5%</div><div class="hs-l">Minimum down payment</div></div>
+        <div class="hs"><div class="hs-n">200+</div><div class="hs-l">New build projects tracked</div></div>
+        <div class="hs"><div class="hs-n">Free</div><div class="hs-l">All tools, always</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="section alt">
+    <div class="eyebrow">Where to Start</div>
+    <h2 class="stitle">Your Homebuying Roadmap</h2>
+    <p class="ssub">Most first-time buyers follow these six steps. Click any to jump in.</p>
+    <div style="display:grid;gap:.75rem;margin-top:1.3rem;">
+      <div class="step-card" onclick="showPage('financial')"><div class="snum">1</div><div class="scontent"><h3>Learn Government Programs (FHSA, HBP, Rebates)</h3><p>Canada offers thousands in tax savings. Most first-time buyers don't claim everything they're entitled to.</p><div class="stip">→ Financial Programs</div></div></div>
+      <div class="step-card" onclick="showPage('saving')"><div class="snum">2</div><div class="scontent"><h3>Build Your Down Payment</h3><p>Learn the minimum you need, the accounts to use, and how to save faster — even on a tight income.</p><div class="stip">→ Saving Tips</div></div></div>
+      <div class="step-card" onclick="showPage('calculator')"><div class="snum">3</div><div class="scontent"><h3>Calculate What You Can Afford</h3><p>Use our stress-test affordability calculator to find your real maximum — including CMHC and closing costs.</p><div class="stip">→ Calculators</div></div></div>
+      <div class="step-card" onclick="showPage('newconstruction')"><div class="snum">4</div><div class="scontent"><h3>Browse New Builds & Pre-Construction</h3><p>Explore hundreds of new construction projects across Canada — filter by city, price, type, and occupancy date.</p><div class="stip">→ New Builds Hub</div></div></div>
+      <div class="step-card" onclick="showPage('listings')"><div class="snum">5</div><div class="scontent"><h3>Search All Listings</h3><p>Search resale homes across Canada via Realtor.ca with all your filters pre-applied instantly.</p><div class="stip">→ Search Listings</div></div></div>
+      <div class="step-card" onclick="showPage('checklist')"><div class="snum">6</div><div class="scontent"><h3>Close With Confidence</h3><p>Follow our 40-item interactive checklist so nothing falls through the cracks on closing day.</p><div class="stip">→ My Checklist</div></div></div>
+    </div>
+    <!-- Newsletter CTA strip -->
+    <div class="nl-cta-strip">
+      <div><div class="nl-cta-text">📬 Ottawa Market Weekly</div><div class="nl-cta-sub">News, rate changes &amp; buyer tips every Friday — free</div></div>
+      <div class="nl-cta-form">
+        <input type="email" id="home-nl-email" placeholder="your@email.com" onkeydown="if(event.key==='Enter')insNewsletter('home')">
+        <button onclick="insNewsletter('home')">Subscribe →</button>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="eyebrow">All Tools</div>
+    <h2 class="stitle">Everything in One Place</h2>
+    <div class="g4">
+      <div class="card" style="cursor:pointer" onclick="showPage('newconstruction')"><div style="font-size:1.6rem;margin-bottom:.6rem">🏗️</div><h3>New Builds Hub</h3><p>Browse & compare new construction projects across Canada with maps and filters.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('financial')"><div style="font-size:1.6rem;margin-bottom:.6rem">💰</div><h3>Financial Programs</h3><p>FHSA, RRSP HBP, First-Time Buyer tax credits, and provincial rebates.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('market')"><div style="font-size:1.6rem;margin-bottom:.6rem">📊</div><h3>Market Guide</h3><p>Seasonality, price drivers, city tiers, and a complete closing cost breakdown.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('saving')"><div style="font-size:1.6rem;margin-bottom:.6rem">🪙</div><h3>Saving Tips</h3><p>Down payment strategy, savings hierarchy, and a timeline calculator.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('compare')"><div style="font-size:1.6rem;margin-bottom:.6rem">⚖️</div><h3>Rent vs Buy</h3><p>Interactive break-even calculator to find what makes sense for your situation.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('calculator')"><div style="font-size:1.6rem;margin-bottom:.6rem">🧮</div><h3>Calculators</h3><p>Mortgage, CMHC, land transfer tax, and affordability — all in one place.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('checklist')"><div style="font-size:1.6rem;margin-bottom:.6rem">✅</div><h3>Checklist</h3><p>40+ interactive checklist items across 4 phases from prep to closing.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('glossary')"><div style="font-size:1.6rem;margin-bottom:.6rem">📖</div><h3>Glossary</h3><p>Every real estate term explained in plain English — searchable and filterable.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('ottawaplan')"><div style="font-size:1.6rem;margin-bottom:.6rem">🗺️</div><h3>Ottawa City Plans</h3><p>Interactive Official Plan &amp; zoning maps — see future developments and land use designations.</p></div>
+    </div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · For educational purposes only · Not a licensed lender or brokerage</div>
+</div>
+<!-- ════════════ NEW CONSTRUCTION HUB ════════════ -->
+<div id="page-newconstruction" class="page">
+  <div class="nc-hero">
+    <div class="h-eyebrow" style="margin-bottom:.9rem">🏗️ New Builds Hub · Canada</div>
+    <h1><em>New Construction</em> Projects<br>Across Canada</h1>
+    <p>Browse pre-construction and move-in ready new homes from top builders. Filter by city, price, occupancy date, and type. Compare projects side by side.</p>
+    <div style="display:flex;gap:1rem;margin-top:1.5rem;flex-wrap:wrap">
+      <div style="background:rgba(255,255,255,.1);border-radius:10px;padding:.6rem 1.1rem;text-align:center"><div style="font-size:1.3rem;font-weight:800;color:#fff" id="nc-count-pre">0</div><div style="font-size:.72rem;color:rgba(255,255,255,.55)">Pre-Construction</div></div>
+      <div style="background:rgba(255,255,255,.1);border-radius:10px;padding:.6rem 1.1rem;text-align:center"><div style="font-size:1.3rem;font-weight:800;color:var(--sky)" id="nc-count-ready">0</div><div style="font-size:.72rem;color:rgba(255,255,255,.55)">Move-In Ready</div></div>
+      <div style="background:rgba(255,255,255,.1);border-radius:10px;padding:.6rem 1.1rem;text-align:center"><div style="font-size:1.3rem;font-weight:800;color:var(--teal)" id="nc-count-city">0</div><div style="font-size:.72rem;color:rgba(255,255,255,.55)">Cities Covered</div></div>
+    </div>
+  </div>
+  <!-- TOOLBAR -->
+  <div class="nc-toolbar">
+    <div class="nc-filter"><label>City</label>
+      <select id="nc-city" onchange="filterNC()"><option value="">All Cities</option><option>Toronto</option><option>Mississauga</option><option>Brampton</option><option>Ottawa</option><option>Hamilton</option><option>Kitchener</option><option>Calgary</option><option>Edmonton</option><option>Vancouver</option><option>Surrey</option><option>Halifax</option><option>Winnipeg</option></select></div>
+    <div class="nc-filter"><label>Type</label>
+      <select id="nc-type" onchange="filterNC()"><option value="">All Types</option><option>Condo</option><option>Townhouse</option><option>Detached</option><option>Semi-Detached</option></select></div>
+    <div class="nc-filter"><label>Max Price</label>
+      <select id="nc-price" onchange="filterNC()"><option value="">Any Price</option><option value="400000">Under $400K</option><option value="600000">Under $600K</option><option value="800000">Under $800K</option><option value="1000000">Under $1M</option></select></div>
+    <div class="nc-filter"><label>Occupancy</label>
+      <select id="nc-occ" onchange="filterNC()"><option value="">Any Date</option><option value="2025">2025</option><option value="2026">2026</option><option value="2027">2027</option><option value="2028">2028+</option></select></div>
+    <div class="nc-toggle">
+      <button class="active" id="toggle-all" onclick="setNCToggle('all',this)">All</button>
+      <button id="toggle-pre" onclick="setNCToggle('pre',this)">Pre-Con</button>
+      <button id="toggle-ready" onclick="setNCToggle('ready',this)">Move-In Ready</button>
+    </div>
+    <button class="nc-apply" onclick="filterNC()">Apply Filters</button>
+  </div>
+  <div class="nc-layout">
+    <!-- MAP PANEL -->
+    <div class="nc-map-panel">
+      <div class="nc-map-inner">
+        <div style="font-size:.75rem;font-weight:700;color:var(--navy);margin-bottom:.5rem;text-align:center">Click a city to filter</div>
+        <svg class="nc-map-svg" viewBox="0 0 300 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="300" height="380" rx="12" fill="#e8f2ff"/>
+          <!-- Canada simplified outline -->
+          <path d="M20,60 L60,30 L120,20 L180,25 L240,30 L280,50 L290,100 L270,150 L280,200 L260,250 L240,300 L200,340 L160,360 L120,350 L80,320 L50,280 L30,230 L15,180 L10,130 Z" fill="#c5dcf5" stroke="#a0c4e8" stroke-width="1.5"/>
+          <!-- City dots -->
+          <g class="map-city" onclick="selectMapCity('Toronto')">
+            <circle class="city-circle" cx="210" cy="230" r="10" fill="#3b9eff" opacity=".85"/>
+            <text x="210" y="250" text-anchor="middle" font-size="9" font-weight="700" fill="#0f2342">Toronto</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Ottawa')">
+            <circle class="city-circle" cx="230" cy="200" r="8" fill="#3b9eff" opacity=".75"/>
+            <text x="230" y="218" text-anchor="middle" font-size="8" fill="#0f2342">Ottawa</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Vancouver')">
+            <circle class="city-circle" cx="55" cy="245" r="9" fill="#0db4a8" opacity=".85"/>
+            <text x="55" y="263" text-anchor="middle" font-size="8" fill="#0f2342">Vancouver</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Calgary')">
+            <circle class="city-circle" cx="100" cy="255" r="8" fill="#0db4a8" opacity=".75"/>
+            <text x="100" y="272" text-anchor="middle" font-size="8" fill="#0f2342">Calgary</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Edmonton')">
+            <circle class="city-circle" cx="95" cy="225" r="7" fill="#f59e0b" opacity=".8"/>
+            <text x="95" y="241" text-anchor="middle" font-size="8" fill="#0f2342">Edmonton</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Winnipeg')">
+            <circle class="city-circle" cx="155" cy="250" r="7" fill="#f59e0b" opacity=".75"/>
+            <text x="155" y="265" text-anchor="middle" font-size="8" fill="#0f2342">Winnipeg</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Halifax')">
+            <circle class="city-circle" cx="265" cy="230" r="7" fill="#7c3aed" opacity=".8"/>
+            <text x="265" y="245" text-anchor="middle" font-size="8" fill="#0f2342">Halifax</text>
+          </g>
+          <g class="map-city" onclick="selectMapCity('Hamilton')">
+            <circle class="city-circle" cx="205" cy="242" r="6" fill="#10b981" opacity=".8"/>
+            <text x="205" y="256" text-anchor="middle" font-size="7" fill="#0f2342">Hamilton</text>
+          </g>
+        </svg>
+        <div style="font-size:.72rem;color:var(--gray);text-align:center;margin-top:.3rem">Showing <strong id="mapCityLabel">All Cities</strong></div>
+        <button onclick="selectMapCity('')" style="margin-top:.5rem;background:var(--light);border:1px solid var(--border);border-radius:8px;padding:.3rem .8rem;font-size:.72rem;font-weight:600;cursor:pointer;color:var(--gray)">Clear Filter</button>
+      </div>
+    </div>
+    <!-- LISTINGS PANEL -->
+    <div class="nc-listings-panel">
+      <div class="nc-results-bar">
+        <div class="nc-count">Showing <strong id="nc-showing">0</strong> projects</div>
+        <div style="display:flex;align-items:center;gap:.7rem">
+          <select class="nc-sort" onchange="sortNC(this.value)">
+            <option value="default">Featured First</option>
+            <option value="price-asc">Price: Low → High</option>
+            <option value="price-desc">Price: High → Low</option>
+            <option value="occ">Occupancy: Soonest</option>
+          </select>
+          <span id="compareCount" style="font-size:.75rem;color:var(--sky);font-weight:700;cursor:pointer" onclick="openCompare()"></span>
+        </div>
+      </div>
+      <div class="nc-grid" id="ncGrid"></div>
+    </div>
+  </div>
+  <!-- COMPARE BAR -->
+  <div class="compare-bar" id="compareBar">
+    <div style="font-size:.82rem;font-weight:700;color:#fff">Compare:</div>
+    <div class="cb-items" id="compareChips"></div>
+    <button class="cb-cta" onclick="openCompare()">Compare Side by Side →</button>
+    <button onclick="clearCompare()" style="background:none;border:none;color:rgba(255,255,255,.5);cursor:pointer;font-size:.8rem">Clear</button>
+  </div>
+  <!-- EDUCATION BELOW LISTINGS -->
+  <div class="section">
+    <div class="eyebrow">Before You Sign</div>
+    <h2 class="stitle">What Every Buyer Must Know About New Construction</h2>
+    <div class="g3">
+      <div class="card acc"><div style="font-size:1.4rem;margin-bottom:.6rem">📄</div><div class="tag tr">Critical</div><h3>10-Day Cooling Off (Ontario)</h3><p>After signing a new condo agreement in Ontario, you have 10 days to cancel for any reason. Always have a lawyer review before this window closes.</p></div>
+      <div class="card acco"><div style="font-size:1.4rem;margin-bottom:.6rem">⏰</div><div class="tag to">Risk</div><h3>Expect Delays of 1–3 Years</h3><p>Builder delays are extremely common. Your mortgage rate hold expires long before occupancy. Budget for bridge financing and rate uncertainty.</p></div>
+      <div class="card accg"><div style="font-size:1.4rem;margin-bottom:.6rem">🛡️</div><div class="tag tg">Protection</div><h3>Tarion Warranty (Ontario)</h3><p>1-year defects, 2-year systems (water/heat/electrical), 7-year major structural. Deposits up to $100K protected if builder becomes insolvent.</p></div>
+      <div class="card acct"><div style="font-size:1.4rem;margin-bottom:.6rem">💸</div><div class="tag tr">Tax</div><h3>HST on New Homes</h3><p>New Ontario homes include 13% HST. Builders usually include the rebate — verify this explicitly in your Agreement of Purchase and Sale.</p></div>
+      <div class="card"><div style="font-size:1.4rem;margin-bottom:.6rem">🚩</div><div class="tag tr">Watch Out</div><h3>Uncapped Development Charges</h3><p>Some contracts allow builders to pass on development charge increases — potentially adding $20K–$60K to your final closing price. Always negotiate a cap.</p></div>
+      <div class="card"><div style="font-size:1.4rem;margin-bottom:.6rem">🔧</div><div class="tag tb">Strategy</div><h3>Upgrades Are Overpriced</h3><p>Builder upgrades carry 30–50% margins. Price-compare with third-party quotes. Do upgrades yourself after closing to save significantly.</p></div>
+    </div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Project data is illustrative. Always verify details directly with builders.</div>
+</div>
+<!-- ════════════ FINANCIAL ════════════ -->
+<div id="page-financial" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">💰 Financial Programs</div><h1>Government Programs That Put<br><em>Money Back in Your Pocket</em></h1><p>Canada offers thousands in grants, tax credits, and tax-free savings for first-time buyers. Here's every program — fully explained.</p></div></div>
+  <div class="section alt">
+    <div class="eyebrow">Best Program Available</div><h2 class="stitle">First Home Savings Account (FHSA)</h2>
+    <div class="hl"><div class="hi">🏦</div><div><h3>The most powerful homebuying tool in Canada</h3><p>Contributions are <strong>tax-deductible</strong> (like an RRSP) AND withdrawals are <strong>completely tax-free</strong> (like a TFSA). Open one today even if you're years from buying — room builds from the year you open it.</p></div></div>
+    <div class="g2">
+      <div class="card acc"><div class="tag tb">Annual Limit</div><div class="amt">$8,000/yr</div><h3>Contribution Room</h3><p>Up to $8,000/year. Unused room carries forward by $8,000 — max $16,000 in one year if you missed last year.</p></div>
+      <div class="card acct"><div class="tag tt">Lifetime</div><div class="amt">$40,000</div><h3>Per Person, Tax-Free</h3><p>$40,000 per person. A couple can access $80,000 combined — all completely tax-free on withdrawal.</p></div>
+      <div class="card acco"><div class="tag to">Tax Refund</div><div class="amt">~$2,640/yr</div><h3>In Your Pocket</h3><p>At a 33% marginal rate, an $8,000 contribution returns ~$2,640 as a tax refund. Reinvest that to compound your savings cycle.</p></div>
+      <div class="card accg"><div class="tag tg">Pro Tip</div><div class="amt">Open Now</div><h3>The Clock Starts on Open</h3><p>Room accumulates from the year you open the account — not from contributions. Open with even $1 to start the clock immediately.</p></div>
+    </div>
+  </div>
+  <div class="section"><div class="eyebrow">RRSP Program</div><h2 class="stitle">Home Buyers' Plan (HBP)</h2>
+  <div class="g2">
+    <div class="card"><div class="tag tb">Per Person</div><div class="amt">$60,000</div><h3>RRSP Withdrawal Limit</h3><p>Up to $60,000 from your RRSP per person. Couples get $120,000 combined — a massive addition on top of FHSA savings.</p></div>
+    <div class="card"><div class="tag tt">Repayment</div><div class="amt">15 Years</div><h3>Repay Interest-Free</h3><p>Repay over 15 years starting 2 years after withdrawal. It's your own money — no interest. Missed repayments are added to that year's taxable income.</p></div>
+  </div>
+  <div class="infobox warn" style="margin-top:1rem"><h4>⚠️ RRSP 90-Day Rule</h4><p>Funds must be in your RRSP for at least 90 days before withdrawal. Start contributing now so the clock begins.</p></div></div>
+  <div class="section alt"><div class="eyebrow">Federal Credits</div><h2 class="stitle">Tax Credits & Grants</h2>
+  <div class="g3">
+    <div class="card"><div style="font-size:1.4rem;margin-bottom:.6rem">🏠</div><div class="tag tb">Federal</div><h3>Home Buyers' Amount</h3><p>Claim up to <strong>$10,000</strong> on your return the year you buy — worth up to <strong>$1,500</strong> back. Both partners can split it.</p></div>
+    <div class="card"><div style="font-size:1.4rem;margin-bottom:.6rem">🌱</div><div class="tag tg">Energy</div><h3>Greener Homes Grant</h3><p>Up to <strong>$5,600</strong> in grants for energy upgrades (heat pumps, insulation, windows) plus <strong>$600</strong> for evaluations.</p></div>
+    <div class="card"><div style="font-size:1.4rem;margin-bottom:.6rem">🔧</div><div class="tag tt">Accessibility</div><h3>Home Accessibility Credit</h3><p>Up to <strong>$20,000</strong> in eligible renovation costs — worth <strong>$3,000</strong> in tax savings.</p></div>
+  </div></div>
+  <div class="section"><div class="eyebrow">Provincial</div><h2 class="stitle">Land Transfer Tax Rebates</h2>
+  <table><tr><th>Province</th><th>FTB Rebate?</th><th>Max Rebate</th><th>Limit</th><th>Notes</th></tr>
+  <tr><td>🏙️ Ontario</td><td class="tck">✓ Yes</td><td>$4,000</td><td>No limit</td><td>On first $368K of purchase price</td></tr>
+  <tr><td>🏙️ Toronto (City)</td><td class="tck">✓ Yes</td><td>$4,475</td><td>No limit</td><td>Additional to Ontario rebate</td></tr>
+  <tr><td>🏔️ BC</td><td class="tck">✓ Yes</td><td>$8,000</td><td>≤$835K</td><td>Partial rebate up to $860K</td></tr>
+  <tr><td>🌊 PEI</td><td class="tck">✓ Full</td><td>Full amount</td><td>—</td><td>Complete LTT rebate</td></tr>
+  <tr><td>🌾 Alberta/SK</td><td>No LTT</td><td>N/A</td><td>N/A</td><td>No land transfer tax at all</td></tr>
+  <tr><td>🌿 Manitoba</td><td class="twn">⚠️ Partial</td><td>~$4,500</td><td>≤$200K</td><td>Check with province</td></tr></table>
+  <div class="infobox ok" style="margin-top:1rem"><h4>💡 Stack All Programs</h4><p>A couple buying a $650K Toronto home could access: <strong>$80K FHSA + $120K HBP + $3K Home Buyers' Amount + $8,475 LTT rebate</strong> = over $211K in combined tax-free savings and government support.</p></div></div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- ════════════ MARKET ════════════ -->
+<div id="page-market" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">📊 Housing Market</div><h1>Understanding the<br><em>Canadian Market</em></h1><p>Know when to buy, what drives prices, and what fees to expect — so you make an informed decision, not an emotional one.</p></div></div>
+  <div class="section alt"><div class="eyebrow">Seasonality</div><h2 class="stitle">Best Time to Buy in Canada</h2>
+  <div class="g2">
+    <div class="card"><div style="font-size:1.4rem;margin-bottom:.5rem">🌸</div><div class="tag tr">Most Competitive</div><h3>Spring (Mar–May)</h3><p>Peak inventory but peak competition. Bidding wars common in Toronto, Vancouver, Ottawa. Prices peak in April–May. Great selection, tough on budget.</p></div>
+    <div class="card"><div style="font-size:1.4rem;margin-bottom:.5rem">☀️</div><div class="tag to">Active</div><h3>Summer (Jun–Aug)</h3><p>Market slows in July–August as families vacation. Late August is often a hidden gem — motivated sellers, less competition.</p></div>
+    <div class="card"><div style="font-size:1.4rem;margin-bottom:.5rem">🍂</div><div class="tag tt">Balanced</div><h3>Fall (Sep–Nov)</h3><p>Second busiest season. Good balance of inventory vs. competition. Sellers want to close before winter — leverage is improving.</p></div>
+    <div class="card accg"><div style="font-size:1.4rem;margin-bottom:.5rem">❄️</div><div class="tag tg">Best Value</div><h3>Winter (Dec–Feb)</h3><p>Fewest listings, least competition. Prices 5–10% lower than spring peak. Motivated sellers. Best season for first-time buyers on a budget.</p></div>
+  </div></div>
+  <div class="section"><div class="eyebrow">Price Drivers</div><h2 class="stitle">What Moves Prices Up or Down?</h2>
+  <div class="g2">
+    <div class="card"><div class="tag tb">🏦 Economic</div><h3>Bank of Canada Rate</h3><p>Every 0.25% rate change shifts affordability by roughly 2–3%. BoC cuts → demand surges. BoC hikes → prices cool. Watch the rate announcement calendar.</p></div>
+    <div class="card"><div class="tag tt">🏗️ Supply</div><h3>Canada's Housing Shortage</h3><p>CMHC says Canada needs 3.5M more homes by 2030 to restore affordability. This chronic undersupply is the primary driver of long-term price appreciation.</p></div>
+    <div class="card"><div class="tag tp">👥 Demographics</div><h3>Immigration & Population</h3><p>Canada targets 400,000–500,000 new residents annually. This directly increases housing demand — especially in Toronto, Vancouver, and Calgary.</p></div>
+    <div class="card"><div class="tag to">📋 Policy</div><h3>Government Regulation</h3><p>Stress tests, foreign buyer bans, speculation taxes, and zoning changes all shift the market. Policy changes can move prices 5–15% within a year.</p></div>
+  </div></div>
+  <div class="section alt"><div class="eyebrow">City Price Tiers</div><h2 class="stitle">Where Can You Afford to Buy?</h2>
+  <div class="g3">
+    <div class="card"><div class="tag tr">Premium</div><h3>🏙️ Vancouver & Toronto</h3><p>Avg: <strong>$900K–$1.3M+</strong><br>Condos are the entry point. Suburbs offer better value. High competition.</p></div>
+    <div class="card"><div class="tag to">High</div><h3>🌆 Victoria, Ottawa, Hamilton</h3><p>Avg: <strong>$600K–$900K</strong><br>Strong demand, good livability. Detached homes still attainable in some areas.</p></div>
+    <div class="card"><div class="tag tb">Moderate</div><h3>🏘️ Calgary, Edmonton, Halifax</h3><p>Avg: <strong>$400K–$650K</strong><br>Growing cities. Good affordability ratio with strong long-term fundamentals.</p></div>
+    <div class="card"><div class="tag tg">Affordable</div><h3>🌾 Winnipeg, Regina, Moncton</h3><p>Avg: <strong>$250K–$400K</strong><br>Most affordable major cities. Detached homes accessible on modest incomes.</p></div>
+    <div class="card"><div class="tag tt">Emerging</div><h3>🌊 Kitchener, London, Barrie</h3><p>Avg: <strong>$500K–$750K</strong><br>Toronto overflow markets. Strong growth potential, good transit connectivity.</p></div>
+    <div class="card"><div class="tag tp">Remote</div><h3>🏡 Smaller Communities</h3><p>Avg: <strong>$150K–$350K</strong><br>Remote work has boosted demand. Excellent value with lifestyle tradeoffs.</p></div>
+  </div></div>
+  <div class="section"><div class="eyebrow">Closing Costs</div><h2 class="stitle">All the Fees — Complete Breakdown</h2>
+  <p class="ssub">Budget 3–5% of the purchase price on top of your down payment for closing costs.</p>
+  <table><tr><th>Cost</th><th>Typical Amount</th><th>Notes</th></tr>
+  <tr><td>Land Transfer Tax</td><td>0.5–2% of price</td><td>FTB rebates available in most provinces</td></tr>
+  <tr><td>Legal / Notary Fees</td><td>$1,500–$2,500</td><td>Required — shop around for competitive rates</td></tr>
+  <tr><td>Home Inspection</td><td>$400–$600</td><td>Never skip this — always include as a condition</td></tr>
+  <tr><td>CMHC Insurance</td><td>2.8–4.0% of mortgage</td><td>Added to mortgage balance if down payment &lt;20%</td></tr>
+  <tr><td>Title Insurance</td><td>$200–$400</td><td>One-time, strongly recommended</td></tr>
+  <tr><td>Home Insurance</td><td>$1,200–$3,000/yr</td><td>Required by lender before funds are released</td></tr>
+  <tr><td>Moving Costs</td><td>$800–$3,000</td><td>Get 3 quotes; book early in spring/summer</td></tr>
+  <tr><td>Property Tax Adjustment</td><td>Varies</td><td>Reimburse seller for pre-paid taxes at closing</td></tr></table></div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- ════════════ SAVING ════════════ -->
+<div id="page-saving" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">🪙 Saving Tips</div><h1>Build Your Down Payment<br><em>Smarter & Faster</em></h1><p>The right savings strategy can shave 1–2 years off your timeline. Here's the optimal hierarchy — and a calculator to prove it.</p></div></div>
+  <div class="section alt"><div class="eyebrow">Requirements</div><h2 class="stitle">How Much Do You Actually Need?</h2>
+  <table><tr><th>Home Price</th><th>Min Down Payment</th><th>CMHC Premium</th><th>Ideal Target</th></tr>
+  <tr><td>Under $500K</td><td>5%</td><td>4.0% of mortgage</td><td>10–20%</td></tr>
+  <tr><td>$500K–$999K</td><td>5% on first $500K + 10% on remainder</td><td>2.8–3.1%</td><td>20%</td></tr>
+  <tr><td>$1M+</td><td>20% — mandatory</td><td>None</td><td>20%</td></tr></table></div>
+  <div class="section"><div class="eyebrow">Savings Hierarchy</div><h2 class="stitle">Where to Put Your Money — In This Order</h2>
+  <div style="display:grid;gap:.7rem;margin-top:1.2rem">
+    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--sky),var(--teal))">1</div><div class="scontent"><h3>Max FHSA ($8,000/year first)</h3><p>Every dollar is tax-deductible going in and tax-free coming out for your home. No other account does both. This is your single highest-impact move.</p><div class="stip">Open immediately — room builds from the year you open, not from contributions.</div></div></div>
+    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--teal),var(--green))">2</div><div class="scontent"><h3>Contribute to RRSP (for HBP withdrawal)</h3><p>After maxing FHSA, contribute to RRSP. You can withdraw up to $60K per person tax-free under the Home Buyers' Plan. Funds need 90 days seasoning.</p></div></div>
+    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--gold),#f97316)">3</div><div class="scontent"><h3>TFSA for overflow savings</h3><p>After FHSA and RRSP, direct additional savings to your TFSA. Tax-free growth and withdrawals — ideal for your closing cost fund.</p></div></div>
+    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--purple),#9333ea)">4</div><div class="scontent"><h3>HISA for emergency fund</h3><p>Keep 3–6 months of expenses in a High-Interest Savings Account (EQ Bank, Wealthsimple, Simplii — currently 4–5%). Don't use this for your down payment.</p></div></div>
+  </div></div>
+  <div class="section alt"><div class="eyebrow">Calculator</div><h2 class="stitle">Savings Timeline Planner</h2>
+  <div class="calc-grid">
+    <div class="cbox">
+      <h3>🪙 Down Payment Planner</h3>
+      <div class="fr"><label>Home Price: <span class="rv" id="hpVal">$600,000</span></label><input type="range" id="hp" min="200000" max="1200000" step="10000" value="600000" oninput="calcSave()"></div>
+      <div class="fr"><label>Down Payment Goal: <span class="rv" id="dpPctVal">10%</span></label><input type="range" id="dpPct" min="5" max="20" step="1" value="10" oninput="calcSave()"></div>
+      <div class="fr"><label>Current Savings: <span class="rv" id="curSavVal">$15,000</span></label><input type="range" id="curSav" min="0" max="150000" step="1000" value="15000" oninput="calcSave()"></div>
+      <div class="fr"><label>Monthly Savings: <span class="rv" id="mSavVal">$1,800</span></label><input type="range" id="mSav" min="200" max="6000" step="100" value="1800" oninput="calcSave()"></div>
+      <div class="rbox"><div class="rl">Down Payment Needed</div><div class="rn" id="dpNeeded">—</div><div class="rl" style="margin-top:.4rem">Time to Reach Goal</div><div class="rn" id="timeNeeded">—</div></div>
+    </div>
+    <div>
+      <div class="card" style="margin-bottom:1rem"><h3 style="margin-bottom:1rem">📊 Milestones</h3>
+        <div class="pg-bar-row" style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>5% Down</span><span class="rv" id="dp5">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp5Bar" style="width:0%"></div></div></div>
+        <div style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>10% Down</span><span class="rv" id="dp10">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp10Bar" style="width:0%"></div></div></div>
+        <div style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>20% Down (no CMHC)</span><span class="rv" id="dp20">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp20Bar" style="width:0%"></div></div></div>
+        <div><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>Closing Costs (4%)</span><span class="rv" id="cc">—</span></div><div class="pg-bar"><div class="pg-fill" id="ccBar" style="width:0%"></div></div></div>
+      </div>
+      <div class="infobox ok"><h4>🚀 FHSA Accelerator Effect</h4><p>At a 33% tax bracket, an $8,000 FHSA contribution returns ~$2,640 in your tax refund. Reinvest that refund and you're effectively saving $10,640/year toward your home.</p></div>
+    </div>
+  </div></div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- ════════════ RENT VS BUY ════════════ -->
+<div id="page-compare" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">⚖️ Rent vs Buy</div><h1>Is Buying the Right Move<br><em>For You Right Now?</em></h1><p>No universal right answer. Use our comparison tools to understand what makes financial sense for your specific situation today.</p></div></div>
+  <div class="section alt">
+    <div class="g2">
+      <div class="card"><div style="display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem"><span style="font-size:1.8rem">🏠</span><div><h3>Buying</h3><div class="tag tb" style="margin:0">Build Equity</div></div></div><ul class="pro-con"><li class="pro">Equity grows with every payment</li><li class="pro">Stable costs with a fixed-rate mortgage</li><li class="pro">Freedom to renovate and personalize</li><li class="pro">Principal residence is capital-gains exempt</li><li class="pro">Forced savings mechanism</li><li class="con">Large upfront capital required</li><li class="con">Responsible for all maintenance costs</li><li class="con">Less geographic flexibility</li><li class="con">Market risk if prices decline short-term</li></ul></div>
+      <div class="card"><div style="display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem"><span style="font-size:1.8rem">🏢</span><div><h3>Renting</h3><div class="tag tt" style="margin:0">Flexibility</div></div></div><ul class="pro-con"><li class="pro">No large down payment required</li><li class="pro">Easy to move for jobs or lifestyle changes</li><li class="pro">No maintenance responsibility</li><li class="pro">Can invest down payment savings elsewhere</li><li class="pro">Lower financial risk in volatile markets</li><li class="con">No equity building — rent leaves you with nothing</li><li class="con">Landlord can raise rent or not renew lease</li><li class="con">No customization of your space</li><li class="con">Housing insecurity long-term</li></ul></div>
+    </div>
+  </div>
+  <div class="section"><div class="eyebrow">Break-Even</div><h2 class="stitle">When Does Buying Beat Renting?</h2>
+  <div class="calc-grid">
+    <div class="cbox">
+      <div class="fr"><label>Home Price: <span class="rv" id="bpVal">$600,000</span></label><input type="range" id="bp" min="200000" max="1200000" step="10000" value="600000" oninput="calcRvB()"></div>
+      <div class="fr"><label>Down Payment: <span class="rv" id="bdpVal">10%</span></label><input type="range" id="bdp" min="5" max="25" step="1" value="10" oninput="calcRvB()"></div>
+      <div class="fr"><label>Mortgage Rate: <span class="rv" id="brVal">5.5%</span></label><input type="range" id="br" min="2" max="10" step="0.1" value="5.5" oninput="calcRvB()"></div>
+      <div class="fr"><label>Equivalent Monthly Rent: <span class="rv" id="rentVal">$2,500/mo</span></label><input type="range" id="rent" min="800" max="6000" step="100" value="2500" oninput="calcRvB()"></div>
+      <div class="rbox"><div class="rl">Monthly Mortgage (P+I)</div><div class="rn" id="rvbMortgage">—</div><div class="rl" style="margin-top:.4rem">Break-Even Point</div><div class="rn" id="rvbBreak">—</div><div style="font-size:.68rem;opacity:.5;margin-top:.2rem">Years before buying beats renting financially</div></div>
+    </div>
+    <div>
+      <div class="card" style="margin-bottom:.9rem"><h3>✅ Buy if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">Stable income and employment</li><li class="pro">Planning to stay in same area 5+ years</li><li class="pro">Have 5–20% down + closing costs saved</li><li class="pro">Mortgage payment ≤ 32% of gross income</li><li class="pro">Good credit score (650+)</li></ul></div>
+      <div class="card"><h3>⏳ Keep Renting if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">May relocate within 2–3 years</li><li class="pro">Income is variable or newly self-employed</li><li class="pro">Actively building credit or savings</li><li class="pro">Still deciding which city or neighbourhood</li></ul></div>
+    </div>
+  </div></div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- ════════════ CALCULATORS ════════════ -->
+<div id="page-calculator" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">🧮 Calculators</div><h1>Every Number You Need<br><em>Before You Buy</em></h1><p>Mortgage payment, affordability stress test, CMHC insurance, and land transfer tax — all in one place.</p></div></div>
+  <div class="section alt">
+    <div class="tab-bar">
+      <button class="tabbtn active" onclick="showCalc('mortgage',this)">🏦 Mortgage</button>
+      <button class="tabbtn" onclick="showCalc('affordability',this)">💰 Affordability</button>
+      <button class="tabbtn" onclick="showCalc('cmhc',this)">🛡️ CMHC</button>
+      <button class="tabbtn" onclick="showCalc('ltt',this)">🏛️ Land Transfer Tax</button>
+    </div>
+    <div id="calc-mortgage" class="tabpane active"><div class="calc-grid">
+      <div class="cbox"><h3>🏦 Mortgage Calculator</h3>
+        <div class="fr"><label>Home Price: <span class="rv" id="mpPriceVal">$600,000</span></label><input type="range" id="mpPrice" min="100000" max="1500000" step="5000" value="600000" oninput="calcMortgageMain()"></div>
+        <div class="fr"><label>Down Payment: <span class="rv" id="mpDpVal">10%</span></label><input type="range" id="mpDp" min="5" max="40" step="1" value="10" oninput="calcMortgageMain()"></div>
+        <div class="fr"><label>Interest Rate: <span class="rv" id="mpRateVal">5.5%</span></label><input type="range" id="mpRate" min="1" max="12" step="0.1" value="5.5" oninput="calcMortgageMain()"></div>
+        <div class="fr"><label>Amortization: <span class="rv" id="mpTermVal">25 years</span></label><input type="range" id="mpTerm" min="5" max="30" step="5" value="25" oninput="calcMortgageMain()"></div>
+        <div class="rbox"><div class="rl">Monthly Payment (P+I)</div><div class="rn" id="mpResult">—</div><div class="rrow"><div class="ri"><div class="rl">Total Interest</div><div class="rv2" id="mpInterest">—</div></div><div class="ri"><div class="rl">Total Cost</div><div class="rv2" id="mpTotal">—</div></div></div></div>
+      </div>
+      <div class="card"><h3 style="margin-bottom:.8rem">📘 Canadian Mortgage Facts</h3><ul class="pro-con"><li class="pro">Max 25-yr amortization for insured mortgages (&lt;20% down)</li><li class="pro">30-yr allowed for uninsured mortgages (20%+ down)</li><li class="pro">Canadian mortgages compound semi-annually, not monthly</li><li class="pro">Most Canadians renew their mortgage term every 5 years</li><li class="pro">Variable rates move with Bank of Canada; fixed rates are locked</li></ul></div>
+    </div></div>
+    <div id="calc-affordability" class="tabpane"><div class="calc-grid">
+      <div class="cbox"><h3>💰 Affordability (Stress Test)</h3>
+        <div class="fr"><label>Annual Gross Income: <span class="rv" id="affIncVal">$90,000</span></label><input type="range" id="affInc" min="30000" max="300000" step="5000" value="90000" oninput="calcAffordability()"></div>
+        <div class="fr"><label>Monthly Debts: <span class="rv" id="affDebtVal">$400</span></label><input type="range" id="affDebt" min="0" max="3000" step="50" value="400" oninput="calcAffordability()"></div>
+        <div class="fr"><label>Down Payment: <span class="rv" id="affDownVal">$60,000</span></label><input type="range" id="affDown" min="10000" max="300000" step="5000" value="60000" oninput="calcAffordability()"></div>
+        <div class="fr"><label>Rate: <span class="rv" id="affRateVal">5.5%</span></label><input type="range" id="affRate" min="1" max="12" step="0.1" value="5.5" oninput="calcAffordability()"></div>
+        <div class="rbox"><div class="rl">Max Home Price</div><div class="rn" id="affResult">—</div><div class="rrow"><div class="ri"><div class="rl">GDS Ratio</div><div class="rv2" id="affGDS">—</div></div><div class="ri"><div class="rl">TDS Ratio</div><div class="rv2" id="affTDS">—</div></div></div><div style="font-size:.68rem;opacity:.5;margin-top:.3rem">Stress-tested at rate +2%. Max GDS 32%, TDS 44%</div></div>
+      </div>
+      <div><div class="infobox" style="margin-bottom:.8rem"><h4>Stress Test</h4><p>Must qualify at contract rate +2% or 5.25% — whichever is higher.</p></div><div class="infobox"><h4>GDS</h4><p>Housing costs ÷ gross income. Max 32%.</p></div><div class="infobox" style="margin-top:.6rem"><h4>TDS</h4><p>All debts ÷ gross income. Max 44%.</p></div></div>
+    </div></div>
+    <div id="calc-cmhc" class="tabpane"><div class="calc-grid">
+      <div class="cbox"><h3>🛡️ CMHC Insurance</h3>
+        <div class="fr"><label>Home Price: <span class="rv" id="cmhcPriceVal">$600,000</span></label><input type="range" id="cmhcPrice" min="100000" max="999999" step="5000" value="600000" oninput="calcCMHC()"></div>
+        <div class="fr"><label>Down Payment %: <span class="rv" id="cmhcDpVal">10%</span></label><input type="range" id="cmhcDp" min="5" max="19" step="1" value="10" oninput="calcCMHC()"></div>
+        <div class="rbox"><div class="rl">CMHC Premium</div><div class="rn" id="cmhcPremium">—</div><div class="rrow"><div class="ri"><div class="rl">Rate</div><div class="rv2" id="cmhcRate">—</div></div><div class="ri"><div class="rl">Insured Mortgage</div><div class="rv2" id="cmhcMortgage">—</div></div></div></div>
+      </div>
+      <div class="card"><h3 style="margin-bottom:.8rem">CMHC Rates</h3><table style="font-size:.82rem"><tr><th>Down Payment</th><th>Rate</th></tr><tr><td>5–9.99%</td><td>4.00%</td></tr><tr><td>10–14.99%</td><td>3.10%</td></tr><tr><td>15–19.99%</td><td>2.80%</td></tr><tr><td>20%+</td><td>None</td></tr></table></div>
+    </div></div>
+    <div id="calc-ltt" class="tabpane"><div class="calc-grid">
+      <div class="cbox"><h3>🏛️ Land Transfer Tax</h3>
+        <div class="fr"><label>Purchase Price: <span class="rv" id="lttPriceVal">$600,000</span></label><input type="range" id="lttPrice" min="100000" max="2000000" step="10000" value="600000" oninput="calcLTT()"></div>
+        <div class="fr"><label>Province:</label><select id="lttProv" onchange="calcLTT()"><option value="ON">Ontario</option><option value="ON-TO">Ontario + Toronto</option><option value="BC">BC</option><option value="QC">Quebec</option><option value="MB">Manitoba</option><option value="NS">Nova Scotia</option><option value="NONE">Alberta/SK (no LTT)</option></select></div>
+        <div class="fr"><label style="display:flex;align-items:center;gap:.5rem"><input type="checkbox" id="lttFTB" onchange="calcLTT()"> First-Time Buyer Rebate</label></div>
+        <div class="rbox"><div class="rl">Land Transfer Tax</div><div class="rn" id="lttResult">—</div><div class="rrow"><div class="ri"><div class="rl">Gross Tax</div><div class="rv2" id="lttGross">—</div></div><div class="ri"><div class="rl">FTB Rebate</div><div class="rv2" style="color:#34d399" id="lttRebate">—</div></div></div></div>
+      </div>
+      <div class="card"><ul class="pro-con" style="margin-top:.5rem"><li class="pro">Alberta & SK: no LTT at all</li><li class="pro">Ontario FTB: up to $4,000</li><li class="pro">Toronto FTB adds up to $4,475</li><li class="pro">BC FTB: up to $8,000 (homes ≤$835K)</li><li class="pro">Paid at closing through your lawyer</li></ul></div>
+    </div></div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- ════════════ CHECKLIST ════════════ -->
+<div id="page-checklist" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">✅ My Checklist</div><h1>Your Complete<br><em>Buying Checklist</em></h1><p>40+ interactive items across 4 phases. Check them off as you go — from financial prep to getting your keys.</p></div></div>
+  <div class="section alt">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.1rem">
+      <div class="card"><div style="font-weight:700;font-size:.9rem;color:var(--navy);margin-bottom:.8rem;display:flex;align-items:center;gap:.5rem"><span class="tag tb" style="margin:0">Phase 1</span> 💰 Financial Prep</div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Open a First Home Savings Account (FHSA)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Maximize FHSA contribution ($8,000/year)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Check your credit score (aim for 680+)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Pay down high-interest debts to improve TDS</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Start RRSP contributions for Home Buyers' Plan</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Save for down payment + closing costs (3–5%)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Build separate 3-month emergency fund</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Use ClearDoor affordability calculator</span></div>
+      </div>
+      <div class="card"><div style="font-weight:700;font-size:.9rem;color:var(--navy);margin-bottom:.8rem;display:flex;align-items:center;gap:.5rem"><span class="tag tt" style="margin:0">Phase 2</span> 🏦 Pre-Approval</div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Gather 2 years of T4s or Notice of Assessments</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Collect 3 months of recent pay stubs</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Get 3 months of bank & investment statements</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Compare at least 3 lenders or use a mortgage broker</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Understand fixed vs. variable rate tradeoffs</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Receive pre-approval letter (valid 90–120 days)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Understand your stress-tested maximum</span></div>
+      </div>
+      <div class="card"><div style="font-weight:700;font-size:.9rem;color:var(--navy);margin-bottom:.8rem;display:flex;align-items:center;gap:.5rem"><span class="tag tp" style="margin:0">Phase 3</span> 🏡 House Hunting</div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Define must-haves vs. nice-to-haves list</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Research target neighbourhoods (schools, transit)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Hire a buyer's real estate agent (free for buyers)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Browse new builds on ClearDoor New Builds Hub</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Tour at least 5–10 properties in person</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Review condo status certificate (if applicable)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Run comparable sales analysis before offering</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Submit offer with financing + inspection conditions</span></div>
+      </div>
+      <div class="card"><div style="font-weight:700;font-size:.9rem;color:var(--navy);margin-bottom:.8rem;display:flex;align-items:center;gap:.5rem"><span class="tag to" style="margin:0">Phase 4</span> 📋 Closing</div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Book a licensed home inspection ($400–$600)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Review inspection report with your agent</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Finalize and submit mortgage application</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Lock in your mortgage rate</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Hire a real estate lawyer</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Purchase title insurance ($200–$400)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Get home insurance (required before closing)</span></div>
+        <div class="chk-item"><input type="checkbox" class="chk"><span>Do final walkthrough + sign closing documents 🎉</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- Market newsletter CTA -->
+<div id="market-nl-strip" style="padding:0 5% 2rem;max-width:1100px;margin:0 auto;">
+  <div class="nl-cta-strip">
+    <div><div class="nl-cta-text">📊 Get Weekly Market Updates</div><div class="nl-cta-sub">Ottawa price trends, rate changes & buyer opportunities — every Friday</div></div>
+    <div class="nl-cta-form">
+      <input type="email" id="market-nl-email" placeholder="your@email.com" onkeydown="if(event.key==='Enter')insNewsletter('market')">
+      <button onclick="insNewsletter('market')">Subscribe →</button>
+    </div>
+  </div>
+</div>
+<!-- ════════════ GLOSSARY ════════════ -->
+<div id="page-glossary" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">📖 Glossary</div><h1>Every Real Estate Term<br><em>In Plain English</em></h1><p>From FHSA to Tarion — every term you'll encounter in Canadian homebuying, explained clearly.</p></div></div>
+  <div class="section alt">
+    <input type="text" id="glossSearch" placeholder="🔍 Search terms…" oninput="filterGlossary()" style="max-width:420px;margin-bottom:1.2rem">
+    <div class="glossary-grid" id="glossaryGrid"></div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+</div>
+<!-- ════════════ LISTINGS ════════════ -->
+<div id="page-listings" class="page">
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">🔍 Listings</div><h1>Search Canadian<br><em>Resale Listings</em></h1><p>Search homes across Canada. Your filters open instantly on Realtor.ca with everything pre-applied.</p></div></div>
+  <div class="section alt">
+    <div style="background:#fff;border-radius:14px;padding:1.3rem;border:1px solid var(--border);display:flex;flex-wrap:wrap;gap:.7rem;align-items:flex-end;margin-bottom:1.2rem">
+      <div style="flex:2;min-width:170px"><label>City or Neighbourhood</label><input type="text" id="s-city" placeholder="Toronto, Calgary, Vancouver…"></div>
+      <div style="flex:1;min-width:120px"><label>Type</label><select id="s-type"><option value="">Any</option><option>House</option><option>Condo/Apt</option><option>Townhouse</option><option>Semi-Detached</option></select></div>
+      <div style="flex:1;min-width:110px"><label>Min Price</label><select id="s-minp"><option value="">No Min</option><option value="200000">$200K</option><option value="300000">$300K</option><option value="400000">$400K</option><option value="500000">$500K</option><option value="600000">$600K</option></select></div>
+      <div style="flex:1;min-width:110px"><label>Max Price</label><select id="s-maxp"><option value="">No Max</option><option value="400000">$400K</option><option value="500000">$500K</option><option value="600000">$600K</option><option value="700000">$700K</option><option value="800000">$800K</option><option value="1000000">$1M</option></select></div>
+      <div style="flex:1;min-width:90px"><label>Beds</label><select id="s-beds"><option value="">Any</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option><option value="4">4+</option></select></div>
+      <button onclick="openRealtor()" style="background:var(--sky);color:#fff;border:none;padding:.5rem 1.3rem;border-radius:8px;font-weight:700;font-size:.84rem;cursor:pointer;height:36px;align-self:flex-end;white-space:nowrap">🔍 Search Realtor.ca</button>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.3rem">
+      <span style="font-size:.75rem;font-weight:700;color:var(--gray);align-self:center">Popular:</span>
+      <span class="tag tb" style="cursor:pointer" onclick="quickSearch('Toronto','Condo/Apt','','700000')">Condos Toronto</span>
+      <span class="tag tt" style="cursor:pointer" onclick="quickSearch('Calgary','House','400000','700000')">Houses Calgary</span>
+      <span class="tag to" style="cursor:pointer" onclick="quickSearch('Vancouver','Condo/Apt','','900000')">Condos Vancouver</span>
+      <span class="tag tg" style="cursor:pointer" onclick="quickSearch('Ottawa','Townhouse','','700000')">Townhouses Ottawa</span>
+      <span class="tag tp" style="cursor:pointer" onclick="quickSearch('Edmonton','House','300000','600000')">Houses Edmonton</span>
+      <span class="tag tb" style="cursor:pointer" onclick="quickSearch('Halifax','House','','500000')">Houses Halifax</span>
+    </div>
+    <div style="background:#fff8e8;border:1px solid var(--gold);border-radius:10px;padding:.8rem 1rem;font-size:.8rem;color:#92400e;margin-bottom:1.1rem">ℹ️ Sample listings below. Click <strong>Search Realtor.ca</strong> or any card's button for live MLS data.</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem" id="listingsGrid"></div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Listings powered by Realtor.ca</div>
+</div>
+</div><!-- end .main -->
+<!-- ════ PROJECT DETAIL MODAL ════ -->
+<div class="pmodal" id="pmodal" onclick="closePModal(event)">
+  <div class="pmodal-box">
+    <div class="pmodal-img" id="pmEmoji"></div>
+    <div class="pmodal-body">
+      <button class="pmodal-close" onclick="document.getElementById('pmodal').classList.remove('open')">✕</button>
+      <div class="pmodal-builder" id="pmBuilder"></div>
+      <div class="pmodal-name" id="pmName"></div>
+      <div style="font-size:.82rem;color:var(--gray);margin-bottom:.5rem" id="pmLoc"></div>
+      <div class="pmodal-price" id="pmPrice"></div>
+      <div class="pmodal-specs" id="pmSpecs"></div>
+      <div class="pmodal-desc" id="pmDesc"></div>
+      <div class="pmodal-features" id="pmFeatures"></div>
+      <div class="pmodal-btns">
+        <button class="pmbtn pmbtn-p" onclick="showPage('calculator');document.getElementById('pmodal').classList.remove('open')">🧮 Calculate Mortgage</button>
+        <a class="pmbtn pmbtn-s" id="pmWebsite" href="#" target="_blank" rel="noopener" style="text-decoration:none;display:flex;align-items:center;justify-content:center">🏗️ Builder Website ↗</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ════ COMPARE MODAL ════ -->
+<div class="cmodal" id="cmodal" onclick="closeCModal(event)">
+  <div class="cmodal-box">
+    <button class="cmodal-close" onclick="document.getElementById('cmodal').classList.remove('open')">✕</button>
+    <h2>Side-by-Side Comparison</h2>
+    <div id="compareTable"></div>
+  </div>
+
+<!-- ════════════ BLOG / INSIGHTS ════════════ -->
+<div id="blog-progress"></div>
+<div id="page-blog" class="page">
+
+  <!-- ── Hero ── -->
+  <div class="blog-hero">
+    <div class="blog-hero-inner">
+      <div class="blog-hero-eyebrow">📰 ClearDoor Insights</div>
+      <h1 class="blog-hero-h1">Canadian Real Estate <em>Explained Simply</em></h1>
+      <p class="blog-hero-sub">Market updates, mortgage news, buyer guides, and Ottawa housing intel — written in plain English for first-time buyers.</p>
+    </div>
+  </div>
+
+  <!-- ── Main tab switcher ── -->
+  <div class="blog-main-tabs">
+    <button class="blog-main-tab active" id="tab-news" onclick="blogSwitchMain('news',this)"><span class="blog-live-dot"></span> Live News</button>
+    <button class="blog-main-tab" id="tab-guides" onclick="blogSwitchMain('guides',this)">📖 ClearDoor Guides</button>
+  </div>
+
+  <!-- ── News panel (RSS feeds) ── -->
+  <div id="blog-news-panel">
+    <div class="blog-source-bar">
+      <div class="blog-spill" id="blog-source-pills">
+        <button class="blog-fpill active" onclick="filterNewsSource('all',this)">All Sources</button>
+        <button class="blog-fpill" onclick="filterNewsSource('cbc',this)">CBC</button>
+        <button class="blog-fpill" onclick="filterNewsSource('bd',this)">Better Dwelling</button>
+        <button class="blog-fpill" onclick="filterNewsSource('cmt',this)">Canadian Mortgage Trends</button>
+        <button class="blog-fpill" onclick="filterNewsSource('fp',this)">Financial Post</button>
+      </div>
+    </div>
+    <div class="news-grid" id="news-grid"></div>
+  </div>
+
+  <!-- ── Sticky filter bar ── -->
+  <div class="blog-filters-bar">
+    <div class="blog-filters-inner" id="blogFilters">
+      <button class="blog-fpill active" onclick="blogFilter('all',this)">All Topics</button>
+      <button class="blog-fpill" onclick="blogFilter('market',this)">📊 Market</button>
+      <button class="blog-fpill" onclick="blogFilter('mortgage',this)">🏦 Mortgage</button>
+      <button class="blog-fpill" onclick="blogFilter('policy',this)">🏛️ Policy</button>
+      <button class="blog-fpill" onclick="blogFilter('guide',this)">📖 Buyer Guide</button>
+      <button class="blog-fpill" onclick="blogFilter('ottawa',this)">🏙️ Ottawa</button>
+      <button class="blog-fpill" onclick="blogFilter('canada',this)">🍁 Canada</button>
+    </div>
+  </div>
+
+  <!-- ── List view ── -->
+  <div id="blog-list-view" style="display:none">
+    <div class="blog-list-view">
+
+      <!-- Featured article (rendered by JS) -->
+      <div id="blog-featured-wrap"></div>
+
+      <!-- Newsletter strip -->
+      <div class="blog-nl-strip">
+        <div>
+          <h3>🏡 Ottawa Market Weekly</h3>
+          <p>Rate changes, new listings intel, and buyer tips — delivered free every Friday.</p>
+        </div>
+        <div class="blog-nl-form">
+          <input class="blog-nl-input" type="email" id="blog-nl-input" placeholder="your@email.com" onkeydown="if(event.key==='Enter')blogSubscribe()">
+          <button class="blog-nl-btn" onclick="blogSubscribe()">Subscribe Free →</button>
+        </div>
+        <div class="blog-nl-thanks" id="blog-nl-thanks">✅ You're in! See you Friday.</div>
+      </div>
+
+      <!-- Article grid -->
+      <div class="blog-section-head">
+        <div class="blog-section-title">Latest Articles</div>
+        <div class="blog-section-count" id="blog-grid-count"></div>
+      </div>
+      <div class="blog-grid" id="blog-grid"></div>
+
+    </div>
+  </div>
+
+  <!-- ── Article detail view ── -->
+  <div id="blog-article-view" style="display:none">
+    <div class="blog-article-view">
+      <div class="blog-art-topbar">
+        <button class="blog-back-btn" onclick="blogShowList()">← Back to Insights</button>
+        <div class="blog-art-share">
+          <button class="blog-art-share-btn" onclick="blogCopyLink()">🔗 Copy Link</button>
+          <button class="blog-art-share-btn" onclick="blogShareEmail()">📧 Share</button>
+        </div>
+      </div>
+      <div class="blog-art-layout">
+        <!-- Main article -->
+        <div class="blog-art-main">
+          <div id="blog-art-content"></div>
+        </div>
+        <!-- Sidebar -->
+        <aside class="blog-sidebar">
+          <div class="blog-sb-box">
+            <div class="blog-sb-label">Related Articles</div>
+            <div id="blog-related"></div>
+          </div>
+          <div class="blog-sb-nl">
+            <div class="blog-sb-label">📬 Weekly Newsletter</div>
+            <p>Real estate news & buyer tips every Friday. Free.</p>
+            <input class="blog-sb-nl-input" type="email" id="blog-sb-nl-input" placeholder="your@email.com" onkeydown="if(event.key==='Enter')blogSubscribeSb()">
+            <button class="blog-sb-nl-btn" onclick="blogSubscribeSb()">Subscribe →</button>
+            <div class="blog-sb-nl-thanks" id="blog-sb-nl-thanks">✅ Subscribed!</div>
+          </div>
+          <div class="blog-sb-box" id="blog-sb-nav" style="display:none">
+            <div class="blog-sb-label">In This Article</div>
+            <div id="blog-sb-toc" style="font-size:.78rem;line-height:1.9;color:var(--gray);"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ════════════ ABOUT ════════════ -->
+<div id="page-about" class="page">
+  <div class="hero" style="padding:3.5rem 5% 3rem;">
+    <div class="hero-inner">
+      <div class="h-eyebrow">🇨🇦 Our Mission</div>
+      <h1>About <em>ClearDoor</em></h1>
+      <p style="max-width:600px;opacity:.85;font-size:1.05rem;">We believe every Canadian deserves a fair shot at homeownership. ClearDoor makes the process transparent, simple, and free.</p>
+    </div>
+  </div>
+  <div class="section alt">
+    <div class="eyebrow">Who We Are</div>
+    <h2 class="stitle">Canada's First-Time Buyer Platform</h2>
+    <p class="ssub">ClearDoor was built for Canadians who feel overwhelmed by the homebuying process — and want straight answers, not sales pitches.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-top:1.5rem;">
+      <div class="card">
+        <div style="font-size:1.6rem;margin-bottom:.6rem;">🎯</div>
+        <h3 style="font-size:1rem;font-weight:700;margin-bottom:.4rem;">Our Mission</h3>
+        <p style="font-size:.85rem;color:var(--gray);">Make homeownership accessible to every Canadian first-time buyer by providing the tools, information, and guidance they need — completely free.</p>
+      </div>
+      <div class="card">
+        <div style="font-size:1.6rem;margin-bottom:.6rem;">👁️</div>
+        <h3 style="font-size:1rem;font-weight:700;margin-bottom:.4rem;">Our Vision</h3>
+        <p style="font-size:.85rem;color:var(--gray);">A Canada where no one gives up on homeownership because the process felt too complicated or the information too hard to find.</p>
+      </div>
+      <div class="card">
+        <div style="font-size:1.6rem;margin-bottom:.6rem;">💡</div>
+        <h3 style="font-size:1rem;font-weight:700;margin-bottom:.4rem;">Why ClearDoor?</h3>
+        <p style="font-size:.85rem;color:var(--gray);">Most real estate platforms are built for agents and investors. ClearDoor is built exclusively for first-time buyers — with plain language and zero upsells.</p>
+      </div>
+      <div class="card">
+        <div style="font-size:1.6rem;margin-bottom:.6rem;">🛡️</div>
+        <h3 style="font-size:1rem;font-weight:700;margin-bottom:.4rem;">Always Free</h3>
+        <p style="font-size:.85rem;color:var(--gray);">Every tool, calculator, checklist, and guide on ClearDoor is free forever. We believe access to information shouldn't depend on your budget.</p>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="eyebrow">Our Tools</div>
+    <h2 class="stitle">Everything Built for First-Time Buyers</h2>
+    <div class="g4" style="margin-top:1rem;">
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('listings')"><div style="font-size:1.4rem;margin-bottom:.5rem">🔍</div><div style="font-weight:700;font-size:.9rem;">Search Listings</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('newconstruction')"><div style="font-size:1.4rem;margin-bottom:.5rem">🏗️</div><div style="font-weight:700;font-size:.9rem;">Pre-Construction</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('financial')"><div style="font-size:1.4rem;margin-bottom:.5rem">🏛️</div><div style="font-weight:700;font-size:.9rem;">Gov't Programs</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('calculator')"><div style="font-size:1.4rem;margin-bottom:.5rem">🧮</div><div style="font-weight:700;font-size:.9rem;">Calculators</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('saving')"><div style="font-size:1.4rem;margin-bottom:.5rem">🪙</div><div style="font-weight:700;font-size:.9rem;">Savings Planner</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('market')"><div style="font-size:1.4rem;margin-bottom:.5rem">📊</div><div style="font-weight:700;font-size:.9rem;">Market Reports</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('checklist')"><div style="font-size:1.4rem;margin-bottom:.5rem">✅</div><div style="font-weight:700;font-size:.9rem;">Buyer Checklist</div></div>
+      <div class="card" style="cursor:pointer;text-align:center;" onclick="showPage('ottawaplan')"><div style="font-size:1.4rem;margin-bottom:.5rem">🗺️</div><div style="font-weight:700;font-size:.9rem;">City Plans Map</div></div>
+    </div>
+  </div>
+  <div class="section alt">
+    <div style="background:var(--navy);border-radius:16px;padding:2.5rem;color:#fff;text-align:center;">
+      <h3 style="font-size:1.4rem;font-weight:800;margin-bottom:.5rem;">Ready to Start Your Journey?</h3>
+      <p style="opacity:.75;margin-bottom:1.5rem;">Join thousands of Canadians using ClearDoor to navigate their first home purchase.</p>
+      <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
+        <button class="btn btn-sky" onclick="showPage('listings')">🔍 Search Listings</button>
+        <button class="btn btn-ghost" onclick="showPage('financial')">View Programs →</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- ══ PAGE: OTTAWA CITY PLANS ══ -->
+<div id="page-ottawaplan" class="page">
+<div class="hero" style="padding:2.2rem 1.5rem 1.8rem;">
+  <div class="h-eyebrow">🗺️ Ottawa City Plans · 2025</div>
+  <h1 style="font-size:1.9rem;margin:.4rem 0 .6rem">Ottawa Official Plan, Zoning &amp; Investment Map</h1>
+  <p style="max-width:640px;margin:0 auto;opacity:.85;font-size:.94rem">Explore Ottawa's Official Plan designations, real height limits from Secondary Plans, new Zoning By-law, LRT network, and data-scored investment rankings — all sourced from official City of Ottawa planning documents.</p>
+</div>
+
+<div style="max-width:1180px;margin:0 auto;padding:1.2rem 1rem 2rem;">
+
+<!-- Stats bar -->
+<div class="g4" style="margin-bottom:1.5rem;">
+  <div class="zstat"><div class="zn">1.08M</div><div class="zl">Ottawa Population (2023)</div></div>
+  <div class="zstat"><div class="zn">60%</div><div class="zl">Intensification Target by 2046</div></div>
+  <div class="zstat"><div class="zn">194,800</div><div class="zl">New Households Needed by 2046</div></div>
+  <div class="zstat"><div class="zn">2025→2035</div><div class="zl">Current + Future View</div></div>
+</div>
+
+<!-- Tab switcher -->
+<div class="ott-tabs" style="margin-bottom:1.2rem;">
+  <button class="ott-tab active" onclick="switchOttTab('op',this)">📋 Official Plan</button>
+  <button class="ott-tab" onclick="switchOttTab('zoning',this)">🏘️ Zoning</button>
+  <button class="ott-tab" onclick="switchOttTab('invest',this)">🏆 Investment Rankings</button>
+</div>
+
+<!-- ═══ OFFICIAL PLAN TAB ═══ -->
+<div id="ott-op" class="ott-pane active">
+  <div style="display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-bottom:.9rem;">
+    <div style="flex:1;min-width:200px;">
+      <h2 style="margin:0 0 .2rem;font-size:1.2rem;">Ottawa Official Plan 2021</h2>
+      <p style="margin:0;color:var(--gray);font-size:.83rem">Click any area for homebuyer details. Toggle current ↔ future view.</p>
+    </div>
+    <div style="display:flex;align-items:center;gap:.8rem;flex-wrap:wrap;">
+      <div style="display:flex;background:#f1f5f9;border-radius:50px;padding:3px;border:1.5px solid var(--border);">
+        <button id="op-btn-current" onclick="setOPView('current')" style="padding:.35rem 1rem;border-radius:50px;border:none;cursor:pointer;font-size:.8rem;font-weight:700;background:var(--sky);color:#fff;">📍 Current 2025</button>
+        <button id="op-btn-future" onclick="setOPView('future')" style="padding:.35rem 1rem;border-radius:50px;border:none;cursor:pointer;font-size:.8rem;font-weight:700;background:transparent;color:var(--gray);">🔭 Future 2035</button>
+      </div>
+      <input id="op-search" type="text" placeholder="🔍 Search neighbourhood…" oninput="searchOP(this.value)"
+        style="padding:.4rem .9rem;border-radius:50px;border:1.5px solid var(--border);font-size:.82rem;outline:none;min-width:200px;">
+    </div>
+  </div>
+
+  <div class="map-container" style="margin-bottom:1.5rem;">
+    <div id="op-map" style="height:560px;"></div>
+
+    <!-- Legend -->
+    <div class="map-legend" style="max-width:175px;">
+      <h4>Designation</h4>
+      <div class="legend-item"><div class="legend-dot" style="background:#c0392b"></div>Central Area</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#e74c3c;opacity:.7"></div>Inner Urban</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#3498db"></div>General Urban</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#7c3aed"></div>Mixed-Use Centre</div>
+      <div class="legend-item"><div class="legend-line" style="background:#f39c12"></div>Traditional Mainstreet</div>
+      <div class="legend-item"><div class="legend-line" style="background:#d68910"></div>Arterial Mainstreet</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#e67e22"></div>Future Urban</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#27ae60"></div>Employment Area</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#1a5632"></div>NCC Greenbelt</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#7f8c8d"></div>Village / Rural</div>
+      <hr style="margin:6px 0;border-color:#eee;">
+      <div class="legend-item"><div style="width:22px;height:5px;background:#e50000;border-radius:3px;flex-shrink:0"></div>LRT Line 1</div>
+      <div class="legend-item"><div style="width:22px;height:5px;background:#008000;border-radius:3px;flex-shrink:0"></div>LRT Line 2</div>
+      <div class="legend-item"><div style="width:12px;height:12px;background:#fff;border:2.5px solid #333;border-radius:50%;flex-shrink:0"></div>LRT Station</div>
+    </div>
+
+    <!-- Layer Controls -->
+    <div class="map-layers" style="max-width:165px;">
+      <h4>🎛️ Layers</h4>
+      <label class="layer-toggle"><input type="checkbox" id="lyr-op-zones" checked onchange="toggleMapLayer('opZones',this.checked)">Planning Zones</label>
+      <label class="layer-toggle"><input type="checkbox" id="lyr-lrt" checked onchange="toggleMapLayer('lrt',this.checked)">LRT Network</label>
+      <label class="layer-toggle"><input type="checkbox" id="lyr-stations" checked onchange="toggleMapLayer('stations',this.checked)">LRT Stations</label>
+      <label class="layer-toggle"><input type="checkbox" id="lyr-invest" onchange="toggleMapLayer('heatmap',this.checked)">💹 Investment Heat</label>
+    </div>
+  </div>
+
+  <!-- Educational cards -->
+  <div id="op-current-cards">
+    <h3 style="margin-bottom:.8rem;">📚 What This Means for Buyers (2025)</h3>
+    <div class="g3">
+      <div class="card"><div style="font-size:1.3rem;margin-bottom:.5rem">🏙️</div><h4>Central Area / Inner Urban</h4><p style="font-size:.84rem">Ottawa's established dense core. Parliament Hill, ByWard Market, Centretown, Sandy Hill. Strong transit access. Entry $370K–$950K. Best for urban lifestyle and rental income.</p></div>
+      <div class="card"><div style="font-size:1.3rem;margin-bottom:.5rem">🚇</div><h4>Hubs (TOD Nodes)</h4><p style="font-size:.84rem">Official Plan Hubs near LRT stations allow the greatest heights. Lincoln Fields: up to 40 storeys (within 400m). South Keys Transit Plaza: up to 21 storeys. Barrhaven Downtown Station Area: up to 30 storeys. All have no or reduced minimum parking requirements.</p></div>
+      <div class="card"><div style="font-size:1.3rem;margin-bottom:.5rem">🌱</div><h4>Future Urban Areas</h4><p style="font-size:.84rem">Barrhaven South (Tewin — 35,000 homes with Algonquins of Ontario), Kanata South, Fernbank West. Ottawa's OP targets 60% intensification by 2046; the remaining 40% comes from greenfield growth like these areas.</p></div>
+      <div class="card"><div style="font-size:1.3rem;margin-bottom:.5rem">🏘️</div><h4>General Urban</h4><p style="font-size:.84rem">Ottawa's suburbs: Kanata, Barrhaven, Orléans, Nepean. Detached, semi, townhouses. $480K–$850K. The OP requires 194,800 new private households citywide by 2046 — suburban growth delivers 40% of this target.</p></div>
+      <div class="card"><div style="font-size:1.3rem;margin-bottom:.5rem">🛣️</div><h4>Mainstreets</h4><p style="font-size:.84rem">Each mainstreet has its own Secondary Plan. Bank St Glebe: 4-storey max. Wellington West: 6 storeys general, 9 with community benefits. Barrhaven Chapman Mills: 75 units/net ha minimum. Heights vary corridor-to-corridor based on official plan policy.</p></div>
+      <div class="card"><div style="font-size:1.3rem;margin-bottom:.5rem">💻</div><h4>Employment Areas</h4><p style="font-size:.84rem">Kanata North tech hub (500+ companies, 30,000+ jobs). No residential permitted. Ottawa's OP strongly protects employment land — residential conversion is very unlikely before 2035. Proximity still drives premium pricing for adjacent homes.</p></div>
+    </div>
+  </div>
+  <div id="op-future-cards" style="display:none;">
+    <h3 style="margin-bottom:.8rem;">🔭 What Changes by 2035</h3>
+    <div class="g3">
+      <div class="card" style="border-color:#f97316;"><div style="font-size:1.3rem;margin-bottom:.5rem">🌆</div><h4>Tewin / Barrhaven South</h4><p style="font-size:.84rem">Approved 35,000-home development (Algonquins of Ontario + Trinity). Infrastructure starting 2025–2026; first homes ~2027–2028. Trillium Line south extension planned. Largest new community in Ottawa history. Buy early in existing Barrhaven for spillover appreciation.</p></div>
+      <div class="card" style="border-color:#7c3aed;"><div style="font-size:1.3rem;margin-bottom:.5rem">🚇</div><h4>LRT Stage 2 Full Impact</h4><p style="font-size:.84rem">West extension (Bells Corners) + South extension (Riverside South) + East extension (Trim) already open or in commissioning. Stage 3 to Barrhaven, Kanata, Stittsville is planned in the Official Plan (no confirmed timeline). Properties within 800m of stations appreciate 18–22% faster historically.</p></div>
+      <div class="card" style="border-color:#0ea5e9;"><div style="font-size:1.3rem;margin-bottom:.5rem">🏗️</div><h4>Intensification Corridors</h4><p style="font-size:.84rem">Lincoln Fields Hub (40 storeys), South Keys Hub (21 storeys), Barrhaven Downtown (30 storeys), Tunney's Pasture Hub — all have confirmed Secondary Plans with height limits from the City of Ottawa. Hundreds of development applications already filed along these corridors.</p></div>
+      <div class="card" style="border-color:#10b981;"><div style="font-size:1.3rem;margin-bottom:.5rem">🏛️</div><h4>Federal Land Releases</h4><p style="font-size:.84rem">Tunney's Pasture Hub (Scott St Secondary Plan confirmed): 5,000–10,000 units potential on federal lands. LeBreton Flats Phase 2 (NCC). Rockcliffe Airfield. Federal surplus lands could unlock thousands of new inner-city units 2030–2035.</p></div>
+      <div class="card" style="border-color:#e11d48;"><div style="font-size:1.3rem;margin-bottom:.5rem">🌉</div><h4>Urban Boundary Expansion</h4><p style="font-size:.84rem">Ottawa's 2021 OP expanded the urban boundary for the first time in decades. 60% of 194,800 new households by 2046 must come from intensification within the built-up area; 40% from greenfield growth in areas like Fernbank West and Kanata South.</p></div>
+      <div class="card" style="border-color:#6b7280;"><div style="font-size:1.3rem;margin-bottom:.5rem">🏡</div><h4>"Missing Middle" + Gentle Intensification</h4><p style="font-size:.84rem">Ottawa's new Zoning By-law (2024) allows 3+ units on most residential lots. N1/N2 neighbourhoods near transit will see more infill townhouses, semis, and stacked dwellings. Old Ottawa East: 1,000 units on the Oblate Fathers site alone.</p></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ ZONING TAB ═══ -->
+<div id="ott-zoning" class="ott-pane">
+  <div style="display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-bottom:.9rem;">
+    <div style="flex:1;min-width:200px;">
+      <h2 style="margin:0 0 .2rem;font-size:1.2rem;">New Ottawa Zoning By-law (2024)</h2>
+      <p style="margin:0;color:var(--gray);font-size:.83rem">Replacement for By-law 2008-250. Click any zone to see permitted uses and homebuyer impact.</p>
+    </div>
+    <input id="zone-search" type="text" placeholder="🔍 Search zone or area…" oninput="searchZoning(this.value)"
+      style="padding:.4rem .9rem;border-radius:50px;border:1.5px solid var(--border);font-size:.82rem;outline:none;min-width:200px;">
+  </div>
+  <div class="map-container" style="margin-bottom:1.5rem;">
+    <div id="zoning-map" style="height:560px;"></div>
+    <div class="map-legend" style="max-width:175px;">
+      <h4>Zone Types</h4>
+      <div class="legend-item"><div class="legend-dot" style="background:#fbbf24"></div>N1 – Detached</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#f97316"></div>N2 – Semi/Duplex</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div>N3 – Townhouse/Triplex</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#dc2626"></div>N4 – Low-Rise Apt</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#991b1b"></div>N5 – High-Rise</div>
+      <div class="legend-item"><div class="legend-line" style="background:#f59e0b"></div>TM – Trad. Mainstreet</div>
+      <div class="legend-item"><div class="legend-line" style="background:#d97706"></div>AM – Art. Mainstreet</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#7c3aed"></div>MC – Mixed-Use</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#059669"></div>IG – Industrial</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#1a5632"></div>OS – Open Space</div>
+    </div>
+    <div class="map-layers" style="max-width:165px;">
+      <h4>🎛️ Layers</h4>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggleZLayer('residential',this.checked)"><span style="color:#f97316">●</span> Residential</label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggleZLayer('mainstreet',this.checked)"><span style="color:#f59e0b">●</span> Mainstreets</label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggleZLayer('mixed',this.checked)"><span style="color:#7c3aed">●</span> Mixed-Use</label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggleZLayer('employment',this.checked)"><span style="color:#059669">●</span> Employment</label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggleZLayer('openspace',this.checked)"><span style="color:#1a5632">●</span> Open Space</label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggleZLayer('lrtZ',this.checked)">LRT Network</label>
+    </div>
+  </div>
+  <!-- Zoning Guide -->
+  <h3 style="margin-bottom:.8rem">📖 New Zoning By-law Quick Guide</h3>
+  <div class="card" style="margin-bottom:1.5rem;">
+    <div class="zguide-row"><div><div class="zcode" style="color:#fbbf24">N1</div></div><div><strong>Neighbourhood 1 – Low Density</strong><br><span style="font-size:.82rem;color:#555">Single detached homes. Ottawa's most common residential zone. New bylaw adds "as-of-right" permissions for secondary suites (basement apartments, garden suites). Typical lot 500–900 m².</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#f97316">N2</div></div><div><strong>Neighbourhood 2 – Ground-Oriented</strong><br><span style="font-size:.82rem;color:#555">Semi-detached, duplexes, low-rise multiplexes. Key change in new bylaw: most N2 areas now allow fourplexes as-of-right — a major "missing middle" reform. Rental income potential.</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#ef4444">N3</div></div><div><strong>Neighbourhood 3 – Medium Density</strong><br><span style="font-size:.82rem;color:#555">Townhouses, triplexes, small apartment buildings (up to 4 storeys). Common near transit corridors and in inner-city neighbourhoods like Vanier and Hintonburg.</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#dc2626">N4</div></div><div><strong>Neighbourhood 4 – Mid-Rise Apartment</strong><br><span style="font-size:.82rem;color:#555">Apartments and condos 4–9 storeys. Found in Centretown, Sandy Hill, along mainstreets. Condo buyers and investors look here. Strong rental demand near U of O and Carleton.</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#991b1b">N5</div></div><div><strong>Neighbourhood 5 – High-Rise</strong><br><span style="font-size:.82rem;color:#555">High-rise apartments and condos (10+ storeys). Downtown core, Bayshore, Lincoln Fields TOD nodes. Highest density; luxury condos to affordable rentals.</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#f59e0b">TM</div></div><div><strong>Traditional Mainstreet</strong><br><span style="font-size:.82rem;color:#555">Retail/commercial at grade, residential above. 4–6 storeys typical, up to 9 near LRT. Bank St south, Wellington St W, Rideau St, Somerset West. Best walkability in Ottawa.</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#d97706">AM</div></div><div><strong>Arterial Mainstreet</strong><br><span style="font-size:.82rem;color:#555">Higher density mixed-use on major roads. Up to 12 storeys. Carling Ave, St-Laurent Blvd, Baseline Rd, Merivale Rd. Car-oriented but intensifying rapidly near LRT stops.</span></div></div>
+    <div class="zguide-row"><div><div class="zcode" style="color:#7c3aed">MC</div></div><div><strong>Mixed-Use Centre</strong><br><span style="font-size:.82rem;color:#555">Maximum density mixed-use at TOD nodes. No height limit in some areas. Bayshore, Lincoln Fields, Gloucester Centre, Barrhaven Town Centre. High-rise future here.</span></div></div>
+  </div>
+  <div class="card" style="background:var(--light);border-color:var(--sky);">
+    <h4 style="margin:0 0 .5rem">💡 New Bylaw Key Change: Fourplexes Now Permitted City-Wide</h4>
+    <p style="margin:0;font-size:.86rem">Ottawa's 2024 Zoning By-law allows <strong>fourplexes as-of-right</strong> on most residential lots across the city — a major reform aligned with provincial housing targets. This creates new investment opportunities in established neighbourhoods without rezoning. Lots near LRT stations are the best targets. Verify the specific property at <a href="https://app06.ottawa.ca/online_services/zoning/index_en.aspx" target="_blank" rel="noopener" style="color:var(--sky)">Ottawa's Official Zoning Map ↗</a></p>
+  </div>
+</div>
+
+<!-- ═══ INVESTMENT RANKINGS TAB ═══ -->
+<div id="ott-invest" class="ott-pane">
+  <div style="display:flex;gap:1rem;align-items:flex-start;margin-bottom:1rem;flex-wrap:wrap;">
+    <div style="flex:1;min-width:200px;">
+      <h2 style="margin:0 0 .2rem;font-size:1.2rem;">🏆 Best Neighbourhoods for Investment</h2>
+      <p style="margin:0;color:var(--gray);font-size:.83rem">Scored on 5 factors: Transit access, OP growth designation, price momentum, affordability, and development pipeline.</p>
+    </div>
+    <div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;">
+      <select id="inv-budget" onchange="filterInvestment()" style="padding:.4rem .8rem;border-radius:50px;border:1.5px solid var(--border);font-size:.82rem;outline:none;">
+        <option value="0">All Budgets</option>
+        <option value="400000">Under $400K</option>
+        <option value="550000">$400K–$550K</option>
+        <option value="750000">$550K–$750K</option>
+        <option value="999999">$750K+</option>
+      </select>
+      <select id="inv-type" onchange="filterInvestment()" style="padding:.4rem .8rem;border-radius:50px;border:1.5px solid var(--border);font-size:.82rem;outline:none;">
+        <option value="">All Property Types</option>
+        <option value="condo">Condo</option>
+        <option value="townhouse">Townhouse</option>
+        <option value="detached">Detached</option>
+      </select>
+      <select id="inv-horizon" onchange="filterInvestment()" style="padding:.4rem .8rem;border-radius:50px;border:1.5px solid var(--border);font-size:.82rem;outline:none;">
+        <option value="both">All Horizons</option>
+        <option value="short">5-Year Gain</option>
+        <option value="long">10-Year Growth</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Score Methodology -->
+  <div class="card" style="background:#f8fafc;margin-bottom:1.2rem;padding:1rem 1.2rem;">
+    <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center;">
+      <div style="font-weight:700;font-size:.85rem;color:var(--navy);flex-shrink:0;">📊 Score Methodology:</div>
+      <div style="display:flex;gap:.6rem;flex-wrap:wrap;">
+        <span style="background:#dbeafe;color:#1e40af;padding:.2rem .6rem;border-radius:50px;font-size:.75rem;font-weight:600;">🚇 Transit 25%</span>
+        <span style="background:#ede9fe;color:#5b21b6;padding:.2rem .6rem;border-radius:50px;font-size:.75rem;font-weight:600;">🗺️ OP Designation 25%</span>
+        <span style="background:#fef3c7;color:#92400e;padding:.2rem .6rem;border-radius:50px;font-size:.75rem;font-weight:600;">📈 Price Momentum 20%</span>
+        <span style="background:#dcfce7;color:#166534;padding:.2rem .6rem;border-radius:50px;font-size:.75rem;font-weight:600;">💰 Affordability 20%</span>
+        <span style="background:#fce7f3;color:#9d174d;padding:.2rem .6rem;border-radius:50px;font-size:.75rem;font-weight:600;">🏗️ Dev. Pipeline 10%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Rankings list -->
+  <div id="investment-list"></div>
+
+  <!-- Investment map -->
+  <div style="margin-top:1.5rem;">
+    <h3 style="margin-bottom:.7rem;">📍 Investment Heat Map</h3>
+    <p style="color:var(--gray);font-size:.84rem;margin-bottom:.8rem">Brighter = higher investment score. Click any dot for full details.</p>
+    <div class="map-container">
+      <div id="invest-map" style="height:480px;"></div>
+      <div class="map-layers" style="max-width:160px;">
+        <h4>Show on Map</h4>
+        <label class="layer-toggle"><input type="checkbox" checked onchange="toggleILayer('heat',this.checked)">💹 Heat Map</label>
+        <label class="layer-toggle"><input type="checkbox" checked onchange="toggleILayer('markers',this.checked)">📍 Markers</label>
+        <label class="layer-toggle"><input type="checkbox" checked onchange="toggleILayer('lrtI',this.checked)">🚇 LRT</label>
+      </div>
+    </div>
+  </div>
+
+  <!-- Disclaimer -->
+  <div class="card" style="background:var(--light);border-color:var(--sky);margin-top:1.2rem;">
+    <h4 style="margin:0 0 .4rem">⚠️ Investment Disclaimer</h4>
+    <p style="margin:0;font-size:.82rem;color:#555">Investment scores are educational estimates based on public planning data, LRT proximity, and general market trends. Real estate investment involves risk. Past appreciation does not guarantee future returns. Always consult a licensed realtor and financial advisor before purchasing property. Verify all zoning and planning information with the City of Ottawa.</p>
+  </div>
+</div><!-- end invest tab -->
+
+</div><!-- end main container -->
+<div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Planning data based on Ottawa's 2021 Official Plan · Always verify with <a href="https://ottawa.ca/en/planning-development-and-construction" target="_blank" rel="noopener" style="color:var(--sky)">City of Ottawa ↗</a></div>
+</div><!-- end page-ottawaplan -->
+<!-- ══ END OTTAWA CITY PLANS ══ -->
+
+
+  <!-- ══ Core Data ══ -->
+  <script src="js/new-construction.js"></script>
+  <script src="js/glossary.js"></script>
+  <script src="js/listings.js"></script>
+
+  <!-- ══ Feature Modules ══ -->
+  <script src="js/calculators.js"></script>
+  <script src="js/blog.js"></script>
+
+  <!-- ══ Leaflet (must be before ottawa-map.js) ══ -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+  <script src="js/ottawa-map.js"></script>
+
+  <!-- ══ Main (load last — runs init) ══ -->
+  <script src="js/main.js"></script>
+</body>
+</html> 
