@@ -11,7 +11,6 @@ const http  = require('http');
 const fs    = require('fs');
 const path  = require('path');
 
-/* Default sources — keep in sync with rss-admin.js RSS_DEFAULT_SOURCES */
 const SOURCES = [
   { id: 'cbc',    label: 'CBC News',                url: 'https://rss.cbc.ca/lineup/topstories.xml' },
   { id: 'bd',     label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
@@ -20,23 +19,32 @@ const SOURCES = [
 ];
 
 const MAX_PER_SOURCE = 10;
-const TIMEOUT_MS     = 20000;
+const TIMEOUT_MS     = 30000;   // 30 s — generous for slow CDNs
+const MAX_RETRIES    = 2;
 
-/* HTTP helper with redirect support */
-function get(url, hops) {
-  if (hops === undefined) hops = 5;
+/* ─── HTTP helper with redirect + retry support ───────────────── */
+function get(url, hops, attempt) {
+  if (hops === undefined)   hops    = 5;
+  if (attempt === undefined) attempt = 0;
   return new Promise(function(resolve, reject) {
     if (hops === 0) return reject(new Error('Too many redirects'));
     var lib = url.startsWith('https') ? https : http;
     var req = lib.get(url, {
-      headers: { 'User-Agent': 'ClearDoor-NewsBot/1.0 (+https://cleardoor.ca)' }
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; ClearDoor-Bot/1.0; +https://cleardoor.ca)',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+      }
     }, function(res) {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         var loc = res.headers.location.startsWith('http')
           ? res.headers.location
           : new URL(res.headers.location, url).toString();
         res.resume();
-        return resolve(get(loc, hops - 1));
+        return resolve(get(loc, hops - 1, attempt));
+      }
+      if (res.statusCode >= 400) {
+        res.resume();
+        return reject(new Error('HTTP ' + res.statusCode));
       }
       var data = '';
       res.setEncoding('utf8');
@@ -46,13 +54,24 @@ function get(url, hops) {
     });
     req.on('error', reject);
     req.setTimeout(TIMEOUT_MS, function() { req.destroy(new Error('Timeout')); });
+  }).catch(function(err) {
+    if (attempt < MAX_RETRIES) {
+      var wait = (attempt + 1) * 2000;
+      console.log('  retrying in ' + (wait/1000) + 's... (' + err.message + ')');
+      return new Promise(function(r) { setTimeout(r, wait); }).then(function() {
+        return get(url, hops, attempt + 1);
+      });
+    }
+    throw err;
   });
 }
 
-/* Minimal RSS/Atom XML parser (no dependencies) */
+/* ─── RSS/Atom parser ────────────────────────────────────────── */
 function extractTag(xml, tag) {
   var re = new RegExp(
-    '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
+    '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>' +
+    '(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?' +
+    '</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
     'i'
   );
   var m = xml.match(re);
@@ -60,17 +79,21 @@ function extractTag(xml, tag) {
 }
 
 function extractAttr(xml, tag, attr) {
-  var re = new RegExp('<' + tag + '[^>]+' + attr + '=["\'"]([^"\'"]+ )["\'"]', 'i');
+  var re = new RegExp('<' + tag + '[^>]+' + attr + '=["']([^"']+)["']', 'i');
   var m = xml.match(re);
   return m ? m[1] : '';
 }
 
 function parseRSS(xml, srcId) {
   var items  = [];
-  var blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/g) || [];
+  /* Match both <item> (RSS) and <entry> (Atom).
+     The character class [^<] after the tag name ensures we capture
+     the full opening tag including attributes. */
+  var blockRe = /<item(?:[^<]*?)>[sS]*?</item>|<entry(?:[^<]*?)>[sS]*?</entry>/gi;
+  var blocks  = xml.match(blockRe) || [];
 
   for (var i = 0; i < blocks.length; i++) {
-    var block       = blocks[i];
+    var block = blocks[i];
     var title       = extractTag(block, 'title');
     var link        = extractTag(block, 'link') || extractAttr(block, 'link', 'href') || extractTag(block, 'guid');
     var pubDate     = extractTag(block, 'pubDate') || extractTag(block, 'published') || extractTag(block, 'updated') || '';
@@ -85,7 +108,7 @@ function parseRSS(xml, srcId) {
   return items;
 }
 
-/* Main */
+/* ─── Main ──────────────────────────────────────────────────── */
 async function main() {
   var all = [];
 
@@ -98,12 +121,14 @@ async function main() {
       all = all.concat(items);
       console.log(items.length + ' items ok');
     } catch (e) {
-      console.log('ERROR: ' + e.message);
+      console.log('FAILED: ' + e.message);
     }
-    await new Promise(function(r) { setTimeout(r, 400); });
+    await new Promise(function(r) { setTimeout(r, 500); });
   }
 
-  all.sort(function(a, b) { return new Date(b.pubDate || 0) - new Date(a.pubDate || 0); });
+  all.sort(function(a, b) {
+    return new Date(b.pubDate || 0) - new Date(a.pubDate || 0);
+  });
 
   var outDir  = path.join(process.cwd(), 'data');
   var outFile = path.join(outDir, 'news.json');
@@ -116,7 +141,7 @@ async function main() {
     items:   all
   }, null, 2));
 
-  console.log('Saved ' + all.length + ' total items to data/news.json');
+  console.log('Saved ' + all.length + ' items to data/news.json');
 }
 
 main().catch(function(err) { console.error(err); process.exit(1); });
