@@ -208,6 +208,8 @@ a.news-card:hover{transform:translateY(-4px);box-shadow:0 16px 40px rgba(15,35,6
 .news-card-title{font-size:.88rem;font-weight:800;color:var(--navy);line-height:1.35;margin-bottom:.45rem;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
 .news-card-excerpt{font-size:.74rem;color:var(--gray);line-height:1.5;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
 .news-card-footer{display:flex;align-items:center;font-size:.68rem;color:var(--gray);border-top:1px solid var(--border);padding-top:.55rem;margin-top:auto;}
+.news-no-img{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a3a6b,#0f2342);}
+.news-no-img span{color:rgba(255,255,255,.75);font-size:.7rem;font-weight:800;text-transform:uppercase;letter-spacing:.12em;text-align:center;padding:.3rem .8rem;}
 
 /* ═══════════════════════════════════════
    SKELETON LOADER
