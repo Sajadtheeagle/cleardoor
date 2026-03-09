@@ -150,6 +150,18 @@ function escHtml(s) {
 
 /* Called by main.js showPage('rss-admin') */
 function rssAdminInit() {
+  // Migrate old CBC URL to new direct feed URL
+  var saved = rssAdminGetSources();
+  var migrated = false;
+  saved.forEach(function(s) {
+    if (s.url === 'https://www.cbc.ca/cmlink/rss-canada-business') {
+      s.url = 'https://rss.cbc.ca/lineup/business.xml'; migrated = true;
+    }
+    if (s.url === 'https://financialpost.com/category/real-estate/feed/') {
+      s.url = 'https://feeds.feedburner.com/financialpost'; migrated = true;
+    }
+  });
+  if (migrated) { rssAdminSaveSources(saved); localStorage.removeItem('cd_news_v2'); }
   // If no sources saved yet, seed with defaults
   if (!localStorage.getItem(RSS_SOURCES_KEY)) {
     rssAdminSaveSources(RSS_DEFAULT_SOURCES);
