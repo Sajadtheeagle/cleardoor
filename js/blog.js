@@ -471,10 +471,10 @@ function _getNewsSources(){
     if(Array.isArray(s)&&s.length)return s;
   }catch(e){}
   return[
-    {id:'cbc', label:'CBC',                     url:'https://rss.cbc.ca/lineup/business.xml'},
-    {id:'bd',  label:'Better Dwelling',         url:'https://betterdwelling.com/feed/'},
-    {id:'cmt', label:'Canadian Mortgage Trends',url:'https://www.canadianmortgagetrends.com/feed/'},
-    {id:'fp',  label:'Financial Post',          url:'https://feeds.feedburner.com/financialpost'},
+    {id:'cbc',    label:'CBC News',               url:'https://rss.cbc.ca/lineup/topstories.xml'},
+    {id:'bd',     label:'Better Dwelling',        url:'https://betterdwelling.com/feed/'},
+    {id:'cmt',    label:'Canadian Mortgage Trends',url:'https://www.canadianmortgagetrends.com/feed/'},
+    {id:'cbcott', label:'CBC Ottawa',             url:'https://rss.cbc.ca/lineup/canada/ottawa.xml'},
   ];
 }
 var RSS2JSON='https://api.rss2json.com/v1/api.json?rss_url=';
@@ -592,16 +592,16 @@ function filterNewsSource(src,el){
   var items=src==='all'?newsState.items:newsState.items.filter(function(i){return i._src===src;});
   renderNewsGrid(items);
 }
-/* Fetch sources one-at-a-time via allorigins CORS proxy + local XML parser */
+/* Fetch sources one-at-a-time to avoid rss2json free-tier rate limit */
 function _fetchOneSource(sources, index, collected, done){
   if(index>=sources.length){ done(collected); return; }
   var s=sources[index];
-  var next=function(){setTimeout(function(){_fetchOneSource(sources,index+1,collected,done);},500);};
-  fetch(ALLORIGINS+encodeURIComponent(s.url))
+  var next=function(){setTimeout(function(){_fetchOneSource(sources,index+1,collected,done);},800);};
+  fetch(RSS2JSON+encodeURIComponent(s.url))
     .then(function(r){return r.json();})
     .then(function(d){
-      if(d&&d.contents){
-        parseRSSItems(d.contents,s.id).forEach(function(i){collected.push(i);});
+      if(d.status==='ok'&&d.items){
+        d.items.slice(0,8).forEach(function(i){i._src=s.id;collected.push(i);});
       }
     })
     .catch(function(){})
