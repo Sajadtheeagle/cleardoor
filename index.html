@@ -994,6 +994,49 @@
 </div><!-- end page-ottawaplan -->
 <!-- ══ END OTTAWA CITY PLANS ══ -->
 
+<!-- ════════════ RSS DASHBOARD (admin) ════════════ -->
+<div id="page-rss-admin" class="page" style="display:none">
+  <div class="hero" style="padding:3rem 5% 2.5rem;background:linear-gradient(135deg,var(--navy) 0%,#1a3a6b 100%)">
+    <div class="hero-inner">
+      <div class="h-eyebrow">⚙️ Admin</div>
+      <h1 style="color:#fff">RSS News Sources</h1>
+      <p style="color:rgba(255,255,255,.7)">Add websites and RSS feeds — the Live News tab pulls from these automatically.</p>
+    </div>
+  </div>
+  <div class="section">
+
+    <!-- Add new source form -->
+    <div class="rss-add-card">
+      <h3 class="rss-form-title">Add a News Source</h3>
+      <div class="rss-form-row">
+        <div class="rss-form-group">
+          <label>Source Name</label>
+          <input type="text" id="rss-new-name" placeholder="e.g. Globe and Mail" class="rss-input">
+        </div>
+        <div class="rss-form-group rss-form-group--wide">
+          <label>RSS Feed URL</label>
+          <input type="url" id="rss-new-url" placeholder="https://example.com/feed/" class="rss-input">
+        </div>
+        <button class="rss-add-btn" onclick="rssAdminAdd()">+ Add Source</button>
+      </div>
+      <div id="rss-add-msg" class="rss-msg" style="display:none"></div>
+    </div>
+
+    <!-- Source list -->
+    <div class="rss-list-header">
+      <h3>Active Sources <span id="rss-count-badge" class="rss-count-badge">0</span></h3>
+      <button class="rss-clear-cache-btn" onclick="rssAdminClearCache()">🔄 Refresh News Cache</button>
+    </div>
+    <div id="rss-sources-list" class="rss-sources-list"></div>
+
+    <div class="rss-footer-note">
+      Sources are saved in your browser. Changes take effect immediately on the Live News tab.<br>
+      Not sure where to find an RSS URL? Try adding <code>/feed/</code> or <code>/rss</code> to the end of any news website URL.
+    </div>
+  </div>
+</div>
+<!-- ══ END RSS DASHBOARD ══ -->
+
 
   <!-- ══ Core Data ══ -->
   <script src="js/new-construction.js"></script>
@@ -1008,6 +1051,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
   <script src="js/ottawa-map.js"></script>
+
+  <!-- ══ RSS Admin ══ -->
+  <script src="js/rss-admin.js"></script>
 
   <!-- ══ Main (load last — runs init) ══ -->
   <script src="js/main.js"></script>
