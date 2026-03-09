@@ -477,7 +477,7 @@ function _getNewsSources(){
     {id:'fp',  label:'Financial Post',          url:'https://feeds.feedburner.com/financialpost'},
   ];
 }
-var ALLORIGINS='https://api.allorigins.win/get?url=';
+var RSS2JSON='https://api.rss2json.com/v1/api.json?rss_url=';
 var NEWS_CACHE_KEY='cd_news_v2';
 var NEWS_TTL=15*60*1000;
 var newsState={source:'all',items:[]};
