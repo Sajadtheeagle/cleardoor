@@ -6,3 +6,5 @@ node_modules/
 *.swp
 *.swo
 deploy-cleardoor.command.bak
+.claude/
+sync-cleardoor.sh
