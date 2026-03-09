@@ -507,23 +507,57 @@ function renderNewsError(){
 var NEWS_SRC_COLORS={
   cbc:'#d62c1a',bd:'#1a6b3a',cmt:'#1a4a8a',fp:'#0a2240'
 };
+
+/* Parse RSS XML text → array of item objects */
+function parseRSSItems(xml, srcId){
+  var items=[];
+  try{
+    var doc=new DOMParser().parseFromString(xml,'text/xml');
+    var nodes=Array.prototype.slice.call(doc.querySelectorAll('item'));
+    nodes.slice(0,10).forEach(function(node){
+      var txt=function(tag){
+        var el=node.querySelector(tag);
+        return el?(el.textContent||'').replace(/<!\[CDATA\[|\]\]>/g,'').trim():'';
+      };
+      var title=txt('title');
+      var link=txt('link');
+      if(!link){var g=node.querySelector('guid');if(g)link=g.textContent.trim();}
+      var description=txt('description');
+      var pubDate=txt('pubDate');
+      /* content:encoded — must use getElementsByTagName to handle namespace colon */
+      var contentEnc='';
+      var cenc=node.getElementsByTagName('content:encoded');
+      if(cenc.length)contentEnc=(cenc[0].textContent||'').replace(/<!\[CDATA\[|\]\]>/g,'');
+      /* Image extraction — in priority order */
+      var img='';
+      /* 1. media:content / media:thumbnail (Yahoo Media RSS namespace) */
+      var MRSS='http://search.yahoo.com/mrss/';
+      var mels=node.getElementsByTagNameNS(MRSS,'content');
+      if(!mels.length)mels=node.getElementsByTagNameNS(MRSS,'thumbnail');
+      for(var mi=0;mi<mels.length;mi++){
+        var mu=mels[mi].getAttribute('url')||'';
+        var mm=mels[mi].getAttribute('medium')||'';
+        if(mu&&(mm==='image'||!mm||/\.(jpg|jpeg|png|webp|gif)(\?|$)/i.test(mu))){img=mu;break;}
+      }
+      /* 2. enclosure */
+      if(!img){
+        var enc=node.querySelector('enclosure');
+        if(enc){var eu=enc.getAttribute('url')||'',et=enc.getAttribute('type')||'';
+          if(eu&&(et.indexOf('image')!==-1||/\.(jpg|jpeg|png|webp)(\?|$)/i.test(eu)))img=eu;}
+      }
+      /* 3. first <img> in content:encoded */
+      if(!img&&contentEnc){var cm=contentEnc.match(/<img[^>]+src=["']([^"']+)["']/i);if(cm&&cm[1].indexOf('http')===0)img=cm[1];}
+      /* 4. first <img> in description */
+      if(!img&&description){var dm=description.match(/<img[^>]+src=["']([^"']+)["']/i);if(dm&&dm[1].indexOf('http')===0)img=dm[1];}
+      if(!title||!link)return;
+      items.push({title:title,link:link,description:description,content:contentEnc||description,pubDate:pubDate,thumbnail:img,enclosure:{},_src:srcId});
+    });
+  }catch(e){}
+  return items;
+}
+
 function extractNewsImg(item){
-  // 1. rss2json thumbnail field
   if(item.thumbnail&&item.thumbnail.indexOf('http')===0)return item.thumbnail;
-  // 2. enclosure (podcast/image enclosure)
-  if(item.enclosure&&item.enclosure.link&&item.enclosure.link.indexOf('http')===0){
-    var t=item.enclosure.type||'';
-    if(!t||t.indexOf('image')!==-1||/\.(jpg|jpeg|png|webp|gif)(\?|$)/i.test(item.enclosure.link))
-      return item.enclosure.link;
-  }
-  // 3. first <img> in content
-  var content=item.content||'';
-  var m=content.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if(m&&m[1]&&m[1].indexOf('http')===0)return m[1];
-  // 4. first <img> in description
-  var desc=item.description||'';
-  var m2=desc.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if(m2&&m2[1]&&m2[1].indexOf('http')===0)return m2[1];
   return'';
 }
 function renderNewsGrid(items){
