@@ -3,7 +3,7 @@
  * scripts/fetch-news.js
  * Pre-fetches default RSS sources and writes to data/news.json
  * Runs via GitHub Actions every 4 hours.
- * Zero external dependencies — uses Node.js built-in modules only.
+ * Zero external dependencies â uses Node.js built-in modules only.
  */
 
 const https = require('https');
@@ -19,12 +19,11 @@ const SOURCES = [
 ];
 
 const MAX_PER_SOURCE = 10;
-const TIMEOUT_MS     = 30000;   // 30 s — generous for slow CDNs
+const TIMEOUT_MS     = 30000;
 const MAX_RETRIES    = 2;
 
-/* ─── HTTP helper with redirect + retry support ───────────────── */
 function get(url, hops, attempt) {
-  if (hops === undefined)   hops    = 5;
+  if (hops === undefined) hops = 5;
   if (attempt === undefined) attempt = 0;
   return new Promise(function(resolve, reject) {
     if (hops === 0) return reject(new Error('Too many redirects'));
@@ -66,41 +65,34 @@ function get(url, hops, attempt) {
   });
 }
 
-/* ─── RSS/Atom parser ────────────────────────────────────────── */
 function extractTag(xml, tag) {
   var re = new RegExp(
-    '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>' +
-    '(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?' +
-    '</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
+    '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>([\\s\\S]*?)</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
     'i'
   );
   var m = xml.match(re);
-  return m ? m[1].trim() : '';
+  if (!m) return '';
+  return m[1].replace(/^<!\[CDATA\[/, '').replace(/\]\]>$/, '').trim();
 }
 
 function extractAttr(xml, tag, attr) {
-  var re = new RegExp('<' + tag + '[^>]+' + attr + '=["']([^"']+)["']', 'i');
+  var re = new RegExp('<' + tag + '[^>]+' + attr + '=["\']([^"\']+)["\']', 'i');
   var m = xml.match(re);
   return m ? m[1] : '';
 }
 
 function parseRSS(xml, srcId) {
   var items  = [];
-  /* Match both <item> (RSS) and <entry> (Atom).
-     The character class [^<] after the tag name ensures we capture
-     the full opening tag including attributes. */
-  var blockRe = /<item(?:[^<]*?)>[sS]*?</item>|<entry(?:[^<]*?)>[sS]*?</entry>/gi;
-  var blocks  = xml.match(blockRe) || [];
+  var blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
 
   for (var i = 0; i < blocks.length; i++) {
-    var block = blocks[i];
+    var block       = blocks[i];
     var title       = extractTag(block, 'title');
     var link        = extractTag(block, 'link') || extractAttr(block, 'link', 'href') || extractTag(block, 'guid');
     var pubDate     = extractTag(block, 'pubDate') || extractTag(block, 'published') || extractTag(block, 'updated') || '';
     var description = extractTag(block, 'description') || extractTag(block, 'summary') || '';
     var content     = extractTag(block, 'encoded') || extractTag(block, 'content') || '';
     var thumbnail   = extractAttr(block, 'media:thumbnail', 'url') || extractAttr(block, 'media:content', 'url') || '';
-
     if (title) {
       items.push({ title: title, link: link, pubDate: pubDate, description: description, content: content, thumbnail: thumbnail, _src: srcId });
     }
@@ -108,10 +100,8 @@ function parseRSS(xml, srcId) {
   return items;
 }
 
-/* ─── Main ──────────────────────────────────────────────────── */
 async function main() {
   var all = [];
-
   for (var i = 0; i < SOURCES.length; i++) {
     var src = SOURCES[i];
     process.stdout.write('Fetching ' + src.label + '... ');
