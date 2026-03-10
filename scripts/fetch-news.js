@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 /**
  * scripts/fetch-news.js
- * Pre-fetches default RSS sources and writes to data/news.json
+ * Pre-fetches RSS sources and writes to data/news.json
  * Runs via GitHub Actions every 4 hours.
- * Zero external dependencies — uses Node.js built-in modules only.
+ * Zero external dependencies â uses Node.js built-in modules only.
  */
 
 const https = require('https');
@@ -11,114 +11,159 @@ const http  = require('http');
 const fs    = require('fs');
 const path  = require('path');
 
-/* Default sources — keep in sync with rss-admin.js RSS_DEFAULT_SOURCES */
+/* Sources â mixing direct feeds + Google News (reliable from any server).
+   Keep IDs in sync with rss-admin.js RSS_DEFAULT_SOURCES. */
 const SOURCES = [
-  { id: 'cbc',    label: 'CBC News',                url: 'https://rss.cbc.ca/lineup/topstories.xml' },
-  { id: 'bd',     label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
-  { id: 'cmt',    label: 'Canadian Mortgage Trends', url: 'https://www.canadianmortgagetrends.com/feed/' },
-  { id: 'cbcott', label: 'CBC Ottawa',              url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' }
+  {
+    id: 'cmt',
+    label: 'Canadian Mortgage Trends',
+    url: 'https://www.canadianmortgagetrends.com/feed/'
+  },
+  {
+    id: 'gnre',
+    label: 'Canada Real Estate News',
+    url: 'https://news.google.com/rss/search?q=canada+real+estate&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnmort',
+    label: 'Canadian Mortgage & Housing',
+    url: 'https://news.google.com/rss/search?q=canada+mortgage+housing&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnott',
+    label: 'Ottawa Real Estate',
+    url: 'https://news.google.com/rss/search?q=ottawa+real+estate&hl=en-CA&gl=CA&ceid=CA:en'
+  }
 ];
 
 const MAX_PER_SOURCE = 10;
-const TIMEOUT_MS     = 20000;
+const TIMEOUT_MS     = 15000;
 
-/* ─── HTTP helper with redirect support ─────────────────────────── */
-function get(url, hops = 5) {
-  return new Promise((resolve, reject) => {
+/* âââ HTTP helper with redirect support âââââââââââââââââââââââââââ */
+function get(url, hops) {
+  if (hops === undefined) hops = 5;
+  return new Promise(function(resolve, reject) {
     if (hops === 0) return reject(new Error('Too many redirects'));
-    const lib = url.startsWith('https') ? https : http;
-    const req = lib.get(url, {
-      headers: { 'User-Agent': 'ClearDoor-NewsBot/1.0 (+https://cleardoor.ca)' }
-    }, res => {
+    var lib = url.startsWith('https') ? https : http;
+    var req = lib.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; ClearDoor-Bot/2.0; +https://cleardoor.ca)',
+        'Accept':     'application/rss+xml, application/xml, text/xml, */*'
+      }
+    }, function(res) {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        const loc = res.headers.location.startsWith('http')
+        var loc = res.headers.location.startsWith('http')
           ? res.headers.location
           : new URL(res.headers.location, url).toString();
         res.resume();
         return resolve(get(loc, hops - 1));
       }
-      let data = '';
+      var data = '';
       res.setEncoding('utf8');
-      res.on('data', c => data += c);
-      res.on('end', () => resolve(data));
+      res.on('data', function(c) { data += c; });
+      res.on('end', function() { resolve(data); });
       res.on('error', reject);
     });
     req.on('error', reject);
-    req.setTimeout(TIMEOUT_MS, () => req.destroy(new Error('Timeout')));
+    req.setTimeout(TIMEOUT_MS, function() {
+      req.destroy(new Error('Timeout'));
+    });
   });
 }
 
-/* ─── Minimal RSS/Atom XML parser (no dependencies) ─────────────── */
+/* âââ Minimal RSS/Atom XML parser ââââââââââââââââââââââââââââââââââ */
 function extractTag(xml, tag) {
-  // Matches <tag>, <ns:tag>, with optional CDATA
-  const re = new RegExp(
-    `<(?:[a-zA-Z0-9_]+:)?${tag}[^>]*>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?</(?:[a-zA-Z0-9_]+:)?${tag}>`,
+  var re = new RegExp(
+    '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>([\\s\\S]*?)</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
     'i'
   );
-  const m = xml.match(re);
-  return m ? m[1].trim() : '';
+  var m = xml.match(re);
+  if (!m) return '';
+  return m[1]
+    .replace(/^<!\[CDATA\[/, '')
+    .replace(/\]\]>$/, '')
+    .trim();
 }
 
 function extractAttr(xml, tag, attr) {
-  const re = new RegExp(`<${tag}[^>]+${attr}=["']([^"']+)["']`, 'i');
-  const m = xml.match(re);
+  var re = new RegExp('<' + tag + '[^>]+' + attr + '=["\']([^"\']+)["\']', 'i');
+  var m = xml.match(re);
   return m ? m[1] : '';
 }
 
 function parseRSS(xml, srcId) {
-  const items   = [];
-  // Support both <item> (RSS) and <entry> (Atom)
-  const blocks  = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/g) || [];
+  var items  = [];
+  var blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
 
-  for (const block of blocks) {
-    const title       = extractTag(block, 'title');
-    const link        = extractTag(block, 'link') || extractAttr(block, 'link', 'href') || extractTag(block, 'guid');
-    const pubDate     = extractTag(block, 'pubDate') || extractTag(block, 'published') || extractTag(block, 'updated') || '';
-    const description = extractTag(block, 'description') || extractTag(block, 'summary') || '';
-    const content     = extractTag(block, 'encoded') || extractTag(block, 'content') || '';
-    const thumbnail   = extractAttr(block, 'media:thumbnail', 'url') ||
-                        extractAttr(block, 'media:content',   'url') || '';
+  for (var i = 0; i < blocks.length; i++) {
+    var block = blocks[i];
+    var title = extractTag(block, 'title');
+    var link  = extractTag(block, 'link') ||
+                extractAttr(block, 'link', 'href') ||
+                extractTag(block, 'guid');
+    var pubDate     = extractTag(block, 'pubDate') ||
+                      extractTag(block, 'published') ||
+                      extractTag(block, 'updated') || '';
+    var description = extractTag(block, 'description') ||
+                      extractTag(block, 'summary') || '';
+    var content     = extractTag(block, 'encoded') ||
+                      extractTag(block, 'content') || '';
+    var thumbnail   = extractAttr(block, 'media:thumbnail', 'url') ||
+                      extractAttr(block, 'media:content', 'url') || '';
 
     if (title) {
-      items.push({ title, link, pubDate, description, content, thumbnail, _src: srcId });
+      items.push({
+        title: title,
+        link: link,
+        pubDate: pubDate,
+        description: description,
+        content: content,
+        thumbnail: thumbnail,
+        _src: srcId
+      });
     }
   }
   return items;
 }
 
-/* ─── Main ───────────────────────────────────────────────────────── */
+/* âââ Main âââââââââââââââââââââââââââââââââââââââââââââââââââââââââ */
 async function main() {
-  const all = [];
+  var all = [];
 
-  for (const src of SOURCES) {
-    process.stdout.write(`Fetching ${src.label}... `);
+  for (var i = 0; i < SOURCES.length; i++) {
+    var src = SOURCES[i];
+    process.stdout.write('Fetching ' + src.label + '... ');
     try {
-      const xml   = await get(src.url);
-      const items = parseRSS(xml, src.id).slice(0, MAX_PER_SOURCE);
-      all.push(...items);
-      console.log(`${items.length} items ✓`);
+      var xml   = await get(src.url);
+      var items = parseRSS(xml, src.id).slice(0, MAX_PER_SOURCE);
+      all = all.concat(items);
+      console.log(items.length + ' items ok');
     } catch (e) {
-      console.log(`ERROR: ${e.message}`);
+      console.log('ERROR: ' + e.message);
     }
-    // Be polite — don't hammer servers
-    await new Promise(r => setTimeout(r, 400));
+    /* Be polite */
+    if (i < SOURCES.length - 1) {
+      await new Promise(function(r) { setTimeout(r, 300); });
+    }
   }
 
-  // Sort newest-first
-  all.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
+  /* Sort newest-first */
+  all.sort(function(a, b) {
+    return new Date(b.pubDate || 0) - new Date(a.pubDate || 0);
+  });
 
-  const outDir  = path.join(process.cwd(), 'data');
-  const outFile = path.join(outDir, 'news.json');
+  var outDir  = path.join(process.cwd(), 'data');
+  var outFile = path.join(outDir, 'news.json');
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
   fs.writeFileSync(outFile, JSON.stringify({
     ts:      Date.now(),
     fetched: new Date().toISOString(),
-    sources: SOURCES.map(({ id, label }) => ({ id, label })),
+    sources: SOURCES.map(function(s) { return { id: s.id, label: s.label }; }),
     items:   all
   }, null, 2));
 
-  console.log(`\n✅ Saved ${all.length} total items → data/news.json`);
+  console.log('\nSaved ' + all.length + ' total items -> data/news.json');
 }
 
-main().catch(err => { console.error(err); process.exit(1); });
+main().catch(function(err) { console.error(err); process.exit(1); });
