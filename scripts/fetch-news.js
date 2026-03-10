@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * scripts/fetch-news.js
- * Pre-fetches default RSS sources and writes to data/news.json
+ * Pre-fetches RSS sources and writes to data/news.json
  * Runs via GitHub Actions every 4 hours.
  * Zero external dependencies â uses Node.js built-in modules only.
  */
@@ -11,27 +11,44 @@ const http  = require('http');
 const fs    = require('fs');
 const path  = require('path');
 
+/* Sources â mixing direct feeds + Google News (reliable from any server).
+   Keep IDs in sync with rss-admin.js RSS_DEFAULT_SOURCES. */
 const SOURCES = [
-  { id: 'cbc',    label: 'CBC News',                url: 'https://rss.cbc.ca/lineup/topstories.xml' },
-  { id: 'bd',     label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
-  { id: 'cmt',    label: 'Canadian Mortgage Trends', url: 'https://www.canadianmortgagetrends.com/feed/' },
-  { id: 'cbcott', label: 'CBC Ottawa',              url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' }
+  {
+    id: 'cmt',
+    label: 'Canadian Mortgage Trends',
+    url: 'https://www.canadianmortgagetrends.com/feed/'
+  },
+  {
+    id: 'gnre',
+    label: 'Canada Real Estate News',
+    url: 'https://news.google.com/rss/search?q=canada+real+estate&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnmort',
+    label: 'Canadian Mortgage & Housing',
+    url: 'https://news.google.com/rss/search?q=canada+mortgage+housing&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnott',
+    label: 'Ottawa Real Estate',
+    url: 'https://news.google.com/rss/search?q=ottawa+real+estate&hl=en-CA&gl=CA&ceid=CA:en'
+  }
 ];
 
 const MAX_PER_SOURCE = 10;
-const TIMEOUT_MS     = 30000;
-const MAX_RETRIES    = 2;
+const TIMEOUT_MS     = 15000;
 
-function get(url, hops, attempt) {
+/* âââ HTTP helper with redirect support âââââââââââââââââââââââââââ */
+function get(url, hops) {
   if (hops === undefined) hops = 5;
-  if (attempt === undefined) attempt = 0;
   return new Promise(function(resolve, reject) {
     if (hops === 0) return reject(new Error('Too many redirects'));
     var lib = url.startsWith('https') ? https : http;
     var req = lib.get(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; ClearDoor-Bot/1.0; +https://cleardoor.ca)',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        'User-Agent': 'Mozilla/5.0 (compatible; ClearDoor-Bot/2.0; +https://cleardoor.ca)',
+        'Accept':     'application/rss+xml, application/xml, text/xml, */*'
       }
     }, function(res) {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -39,11 +56,7 @@ function get(url, hops, attempt) {
           ? res.headers.location
           : new URL(res.headers.location, url).toString();
         res.resume();
-        return resolve(get(loc, hops - 1, attempt));
-      }
-      if (res.statusCode >= 400) {
-        res.resume();
-        return reject(new Error('HTTP ' + res.statusCode));
+        return resolve(get(loc, hops - 1));
       }
       var data = '';
       res.setEncoding('utf8');
@@ -52,19 +65,13 @@ function get(url, hops, attempt) {
       res.on('error', reject);
     });
     req.on('error', reject);
-    req.setTimeout(TIMEOUT_MS, function() { req.destroy(new Error('Timeout')); });
-  }).catch(function(err) {
-    if (attempt < MAX_RETRIES) {
-      var wait = (attempt + 1) * 2000;
-      console.log('  retrying in ' + (wait/1000) + 's... (' + err.message + ')');
-      return new Promise(function(r) { setTimeout(r, wait); }).then(function() {
-        return get(url, hops, attempt + 1);
-      });
-    }
-    throw err;
+    req.setTimeout(TIMEOUT_MS, function() {
+      req.destroy(new Error('Timeout'));
+    });
   });
 }
 
+/* âââ Minimal RSS/Atom XML parser ââââââââââââââââââââââââââââââââââ */
 function extractTag(xml, tag) {
   var re = new RegExp(
     '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>([\\s\\S]*?)</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
@@ -72,7 +79,10 @@ function extractTag(xml, tag) {
   );
   var m = xml.match(re);
   if (!m) return '';
-  return m[1].replace(/^<!\[CDATA\[/, '').replace(/\]\]>$/, '').trim();
+  return m[1]
+    .replace(/^<!\[CDATA\[/, '')
+    .replace(/\]\]>$/, '')
+    .trim();
 }
 
 function extractAttr(xml, tag, attr) {
@@ -86,22 +96,40 @@ function parseRSS(xml, srcId) {
   var blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
 
   for (var i = 0; i < blocks.length; i++) {
-    var block       = blocks[i];
-    var title       = extractTag(block, 'title');
-    var link        = extractTag(block, 'link') || extractAttr(block, 'link', 'href') || extractTag(block, 'guid');
-    var pubDate     = extractTag(block, 'pubDate') || extractTag(block, 'published') || extractTag(block, 'updated') || '';
-    var description = extractTag(block, 'description') || extractTag(block, 'summary') || '';
-    var content     = extractTag(block, 'encoded') || extractTag(block, 'content') || '';
-    var thumbnail   = extractAttr(block, 'media:thumbnail', 'url') || extractAttr(block, 'media:content', 'url') || '';
+    var block = blocks[i];
+    var title = extractTag(block, 'title');
+    var link  = extractTag(block, 'link') ||
+                extractAttr(block, 'link', 'href') ||
+                extractTag(block, 'guid');
+    var pubDate     = extractTag(block, 'pubDate') ||
+                      extractTag(block, 'published') ||
+                      extractTag(block, 'updated') || '';
+    var description = extractTag(block, 'description') ||
+                      extractTag(block, 'summary') || '';
+    var content     = extractTag(block, 'encoded') ||
+                      extractTag(block, 'content') || '';
+    var thumbnail   = extractAttr(block, 'media:thumbnail', 'url') ||
+                      extractAttr(block, 'media:content', 'url') || '';
+
     if (title) {
-      items.push({ title: title, link: link, pubDate: pubDate, description: description, content: content, thumbnail: thumbnail, _src: srcId });
+      items.push({
+        title: title,
+        link: link,
+        pubDate: pubDate,
+        description: description,
+        content: content,
+        thumbnail: thumbnail,
+        _src: srcId
+      });
     }
   }
   return items;
 }
 
+/* âââ Main âââââââââââââââââââââââââââââââââââââââââââââââââââââââââ */
 async function main() {
   var all = [];
+
   for (var i = 0; i < SOURCES.length; i++) {
     var src = SOURCES[i];
     process.stdout.write('Fetching ' + src.label + '... ');
@@ -111,11 +139,15 @@ async function main() {
       all = all.concat(items);
       console.log(items.length + ' items ok');
     } catch (e) {
-      console.log('FAILED: ' + e.message);
+      console.log('ERROR: ' + e.message);
     }
-    await new Promise(function(r) { setTimeout(r, 500); });
+    /* Be polite */
+    if (i < SOURCES.length - 1) {
+      await new Promise(function(r) { setTimeout(r, 300); });
+    }
   }
 
+  /* Sort newest-first */
   all.sort(function(a, b) {
     return new Date(b.pubDate || 0) - new Date(a.pubDate || 0);
   });
@@ -131,7 +163,7 @@ async function main() {
     items:   all
   }, null, 2));
 
-  console.log('Saved ' + all.length + ' items to data/news.json');
+  console.log('\nSaved ' + all.length + ' total items -> data/news.json');
 }
 
 main().catch(function(err) { console.error(err); process.exit(1); });
