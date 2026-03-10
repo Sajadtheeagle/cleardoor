@@ -630,7 +630,7 @@ function fetchNews(){
   renderSourcePills(activeSources);
 
   /* IDs pre-fetched by GitHub Actions (defaults only) */
-  var DEFAULT_IDS=['cbc','bd','cmt','cbcott'];
+  var DEFAULT_IDS=['cbc','bd','cmt','cbcott','gnre','gnmort','gnott'];
   var customSources=activeSources.filter(function(s){return DEFAULT_IDS.indexOf(s.id)===-1;});
 
   /* ② Try pre-built /data/news.json (GitHub Actions, near-instant) */
@@ -639,6 +639,12 @@ function fetchNews(){
     .then(function(data){
       if(!data||!data.items||!data.items.length)throw new Error('empty');
       newsState.items=data.items.slice();
+      /* Use source list from the pre-built file for accurate filter pills */
+      if(data.sources&&data.sources.length){
+        NEWS_SOURCES.length=0;
+        data.sources.forEach(function(s){NEWS_SOURCES.push(s);});
+        renderSourcePills(data.sources);
+      }
       _renderCurrentNews(); /* show archived news immediately */
 
       /* ③ Fetch any user-added custom sources on top, progressively */
