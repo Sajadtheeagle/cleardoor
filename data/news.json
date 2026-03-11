@@ -1,6 +1,6 @@
 {
-  "ts": 1773155517730,
-  "fetched": "2026-03-10T15:11:57.730Z",
+  "ts": 1773239817558,
+  "fetched": "2026-03-11T14:36:57.558Z",
   "sources": [
     {
       "id": "cmt",
@@ -21,28 +21,109 @@
   ],
   "items": [
     {
-      "title": "What to know about investing in real estate - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1FtTWJWWTNEenhKdk5PR0E4WjgxWE9ZVEhrTlFTQzF1dkpxZkdLMGxVR2NrNHBOSm1JLWlVbVU4YzVrc0laa2R4ZXBydm10UWozLXo0bnVSV2FvVF9XQTlXOHc3RDc2bkFMSWl1T280YUtES1pnMFFzYkF0eUFRNXU2RjVEMmR5Ymt3SXZ6NEl0cnpJYXc?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 13:56:29 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1FtTWJWWTNEenhKdk5PR0E4WjgxWE9ZVEhrTlFTQzF1dkpxZkdLMGxVR2NrNHBOSm1JLWlVbVU4YzVrc0laa2R4ZXBydm10UWozLXo0bnVSV2FvVF9XQTlXOHc3RDc2bkFMSWl1T280YUtES1pnMFFzYkF0eUFRNXU2RjVEMmR5Ymt3SXZ6NEl0cnpJYXc?oc=5\" target=\"_blank\"&gt;What to know about investing in real estate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CTV News&lt;/font&gt;",
+      "title": "In-House Podcast: Spring 2026 Housing Supply Report - Canada Mortgage and Housing Corporation | CMHC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2lwZUE0by1GblFDbzZTYnVvcVp5bWhfa1BpTVVFSGxFaXM0REZJYkdWenNseGVHTG5FT0dXZDk4U2pQcmN0Qm1aT2xkakg3MTF2d0ZUNnF2dmdad3YtM0tsLW05MU9XWnZNeXUtd042MkkyMkY4VE9aYmc0V2RXUHdBODU?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 14:01:16 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2lwZUE0by1GblFDbzZTYnVvcVp5bWhfa1BpTVVFSGxFaXM0REZJYkdWenNseGVHTG5FT0dXZDk4U2pQcmN0Qm1aT2xkakg3MTF2d0ZUNnF2dmdad3YtM0tsLW05MU9XWnZNeXUtd042MkkyMkY4VE9aYmc0V2RXUHdBODU?oc=5\" target=\"_blank\"&gt;In-House Podcast: Spring 2026 Housing Supply Report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Canada Mortgage and Housing Corporation | CMHC&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
-      "_src": "gnott"
+      "_src": "gnmort"
     },
     {
-      "title": "What Is Construction Mediation In Alberta? - Construction &amp; Planning - Canada - Mondaq",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnpJWUQwem1uU2g3N0RGTmhMU0VacHJNVXBlNEtwaWR2WkEtQllrUkpwVmpVTkxoYThfaTZ2Nl9ta2VTSGZqZjY2ZS05VUZjS3JUX0R3THI0UTg3Qm5ja3BIMDIySDZXdkRrYUpEdTEyZi1Rckt3U2EwU1ljMldWN2xPZ01iYXA0MWZ3NWh2T2hrbE1PQko5SFJIYnZQTWN1ZDFv?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 09:11:37 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnpJWUQwem1uU2g3N0RGTmhMU0VacHJNVXBlNEtwaWR2WkEtQllrUkpwVmpVTkxoYThfaTZ2Nl9ta2VTSGZqZjY2ZS05VUZjS3JUX0R3THI0UTg3Qm5ja3BIMDIySDZXdkRrYUpEdTEyZi1Rckt3U2EwU1ljMldWN2xPZ01iYXA0MWZ3NWh2T2hrbE1PQko5SFJIYnZQTWN1ZDFv?oc=5\" target=\"_blank\"&gt;What Is Construction Mediation In Alberta? - Construction &amp; Planning - Canada&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Mondaq&lt;/font&gt;",
+      "title": "Ownership supply under pressure as rentals dominate new construction - Newswire Canada",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQnJleThTOFQ3c1V6cHdaWVltM2RnVjltX3FISlJmOUd3SFhySDhOaURxOWZOTTctbFQtbEZHQ01oa19wTE5nNkkxVFdpRUhsN01LcXFqLTlrNnJyTTRmckxWeWdSbGtRU3hwSG94UW5yc0t6a3lneGVtOFV3ODBQbHRuTkREZEk0Y1dzcDgzRVBPZFl5TlhPbzBrOGp2MkRwd2N1UU50Zm53UTJRQ1l5SEE5ZWxUWVc2d05fQVd3?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 14:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQnJleThTOFQ3c1V6cHdaWVltM2RnVjltX3FISlJmOUd3SFhySDhOaURxOWZOTTctbFQtbEZHQ01oa19wTE5nNkkxVFdpRUhsN01LcXFqLTlrNnJyTTRmckxWeWdSbGtRU3hwSG94UW5yc0t6a3lneGVtOFV3ODBQbHRuTkREZEk0Y1dzcDgzRVBPZFl5TlhPbzBrOGp2MkRwd2N1UU50Zm53UTJRQ1l5SEE5ZWxUWVc2d05fQVd3?oc=5\" target=\"_blank\"&gt;Ownership supply under pressure as rentals dominate new construction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newswire Canada&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
+    },
+    {
+      "title": "Financial regulator calls time on risky condo appraisals as housing slide deepens - Wealth Professional",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOajFjSE0zT2tzQWNESUtLTXFuUVExS1Q0R2VfbGUtOUNvdnFBMHB6Q0VtZ003eUg2YWk0YVNramptMi1BOWlSa1Eyb09vdXBLT09XbDU1V2VOU0JfR0xIMHYyTGw0UFdfQlQ1aTlzUXEwWC1wM1BVSW44VHdQRUZTdnFTTkN2Sl9FT2FHT0J5Z1FZUU1ZeWdnZkJwcWFZMTBpbURGZ3M3S0lYOWp5MTc3VVczZmdOZGZrRjhUclYzeDdMSDVYSjE2TS1BekI5d1pqVm9acHV3Vnk?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 12:33:05 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOajFjSE0zT2tzQWNESUtLTXFuUVExS1Q0R2VfbGUtOUNvdnFBMHB6Q0VtZ003eUg2YWk0YVNramptMi1BOWlSa1Eyb09vdXBLT09XbDU1V2VOU0JfR0xIMHYyTGw0UFdfQlQ1aTlzUXEwWC1wM1BVSW44VHdQRUZTdnFTTkN2Sl9FT2FHT0J5Z1FZUU1ZeWdnZkJwcWFZMTBpbURGZ3M3S0lYOWp5MTc3VVczZmdOZGZrRjhUclYzeDdMSDVYSjE2TS1BekI5d1pqVm9acHV3Vnk?oc=5\" target=\"_blank\"&gt;Financial regulator calls time on risky condo appraisals as housing slide deepens&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Wealth Professional&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
+    },
+    {
+      "title": "Narrowing of the Wealth Gap – Outcomes of Canadian Households Post Pandemic - TD Economics - Canada",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZXB1OVRKQ084MURLYTVpakV0YWxPQnoyQ3lQMFVtcmk0em1EYkNwUGUxQVh4dmdkN1BmRk9Td3JwV0c3OVNNZWxBemxxa3ZmRDE3TGZkamxwU1RKUmxRaTU1ZWdQcnV0U2VmNnh3?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 12:32:06 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZXB1OVRKQ084MURLYTVpakV0YWxPQnoyQ3lQMFVtcmk0em1EYkNwUGUxQVh4dmdkN1BmRk9Td3JwV0c3OVNNZWxBemxxa3ZmRDE3TGZkamxwU1RKUmxRaTU1ZWdQcnV0U2VmNnh3?oc=5\" target=\"_blank\"&gt;Narrowing of the Wealth Gap – Outcomes of Canadian Households Post Pandemic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TD Economics - Canada&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
       "_src": "gnre"
     },
     {
-      "title": "Canada turns a corner on rent affordability: report - Real Estate Magazine Canada",
+      "title": "Toronto home sales ‘hit and miss’ in March - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDQtZVlORGZRWkVfWFc0SEdZLWhXdGxzMy1JeGM2WmVndEx0ZDB6cEZwZ2xnTGhUSTJQcWQ5bFoxU2VsSERWWEtBOGRFVkRncXpDOW4wNWNYYlZfRi1WZWRZMWh0TDdyclJkNmpOOEdaR1pIYUMyQXRmLS1sdlFaWHRQSEhWclBCWld6TnlMMUQydmZiZkt2X21rRXQzV2Z5anZz?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 12:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDQtZVlORGZRWkVfWFc0SEdZLWhXdGxzMy1JeGM2WmVndEx0ZDB6cEZwZ2xnTGhUSTJQcWQ5bFoxU2VsSERWWEtBOGRFVkRncXpDOW4wNWNYYlZfRi1WZWRZMWh0TDdyclJkNmpOOEdaR1pIYUMyQXRmLS1sdlFaWHRQSEhWclBCWld6TnlMMUQydmZiZkt2X21rRXQzV2Z5anZz?oc=5\" target=\"_blank\"&gt;Toronto home sales ‘hit and miss’ in March&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Globe and Mail&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnre"
+    },
+    {
+      "title": "Canada’s Mortgage Delinquency Surge Now Resembles US Housing Crash - Better Dwelling",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXhXb1A0R2hHVzYwNXYwRDhwU0lCRlNxLVdXRDVBWnRKcmpFNFE1ZktCZ1puSk1paVBEdkVzTkhBZU9DVldubzN6aUQ3OHRnbkd2VUxEQUhVTllxTVBQY1pXaGo0N3N5dEQxSnA3b3dJZHNfeGtuQnBnc21ZeVhDd25rYndjUm9QQUE5SmFlamt3cktwY1hKVQ?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 21:13:42 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXhXb1A0R2hHVzYwNXYwRDhwU0lCRlNxLVdXRDVBWnRKcmpFNFE1ZktCZ1puSk1paVBEdkVzTkhBZU9DVldubzN6aUQ3OHRnbkd2VUxEQUhVTllxTVBQY1pXaGo0N3N5dEQxSnA3b3dJZHNfeGtuQnBnc21ZeVhDd25rYndjUm9QQUE5SmFlamt3cktwY1hKVQ?oc=5\" target=\"_blank\"&gt;Canada’s Mortgage Delinquency Surge Now Resembles US Housing Crash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Better Dwelling&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
+    },
+    {
+      "title": "The Revalie's amenity-packed accommodation is raising the bar for Ottawa student housing - Narcity",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3Z1FXS051MUh4cVVFZUZGdk9FREI3WDlwMzVKRTF2WnM3WkNHejU3NkFleHI0MV9MU1EycnRueVRjYnFZaEJTOFBtUklqblJZWXN2Y3RjalNfcUhYMUxRVkwyVGpiR2tRNXl0Ym0zTDI0aGlZa3o1dXdzcw?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 20:09:11 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB3Z1FXS051MUh4cVVFZUZGdk9FREI3WDlwMzVKRTF2WnM3WkNHejU3NkFleHI0MV9MU1EycnRueVRjYnFZaEJTOFBtUklqblJZWXN2Y3RjalNfcUhYMUxRVkwyVGpiR2tRNXl0Ym0zTDI0aGlZa3o1dXdzcw?oc=5\" target=\"_blank\"&gt;The Revalie's amenity-packed accommodation is raising the bar for Ottawa student housing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Narcity&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnott"
+    },
+    {
+      "title": "Canadians’ housing‑cost anxiety climbs - mpamag.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTk3b3RheWF0RDlPcmt6YlE0ajVjX01oeGdOMVo0TzR0SHFXWl9ZLTJWeDNBeU5nTDZ0YUlNcllrU2tIVzZrX3Fpd2xoZWlxRUE0OC1DQ3VXVU5rWFNiZTQzVU9udUhCaGpYWW1BcHVOWmN4VzEyQjZEa3QtSEp2VW9XYW5mek5NUWF3TmRtT25JTDZGM195TlRqSmN6NVZLYmdhek9B?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 18:25:53 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTk3b3RheWF0RDlPcmt6YlE0ajVjX01oeGdOMVo0TzR0SHFXWl9ZLTJWeDNBeU5nTDZ0YUlNcllrU2tIVzZrX3Fpd2xoZWlxRUE0OC1DQ3VXVU5rWFNiZTQzVU9udUhCaGpYWW1BcHVOWmN4VzEyQjZEa3QtSEp2VW9XYW5mek5NUWF3TmRtT25JTDZGM195TlRqSmN6NVZLYmdhek9B?oc=5\" target=\"_blank\"&gt;Canadians’ housing‑cost anxiety climbs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;mpamag.com&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
+    },
+    {
+      "title": "This couple had a $600,000 budget for a townhouse in the Ottawa suburbs. What did they find? - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWdXaF90V1cwMnlhaTRyVWh5dmpMZVBqYUx6dk1uY2tYd2YyTXFwNDVlUUcta0ZHOEdFYnhIdVc4WkpKTlRGc0Nfc2M5T1ZSNFRWU0dKQXRIVE5rYnJKbGJnZXVxay12YVVQaUtlOVAzTHF3WG1RSGJNRXpkVUtqOW5qTUhPVGZOWHNDRGIxcDRibm5mQUk5czY3TXFTZ1ZPSnJvM1JCTTJDT0E?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 17:58:03 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWdXaF90V1cwMnlhaTRyVWh5dmpMZVBqYUx6dk1uY2tYd2YyTXFwNDVlUUcta0ZHOEdFYnhIdVc4WkpKTlRGc0Nfc2M5T1ZSNFRWU0dKQXRIVE5rYnJKbGJnZXVxay12YVVQaUtlOVAzTHF3WG1RSGJNRXpkVUtqOW5qTUhPVGZOWHNDRGIxcDRibm5mQUk5czY3TXFTZ1ZPSnJvM1JCTTJDT0E?oc=5\" target=\"_blank\"&gt;This couple had a $600,000 budget for a townhouse in the Ottawa suburbs. What did they find?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Globe and Mail&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnott"
+    },
+    {
+      "title": "Why the Iran war is making mortgage renewal feel like a ‘roller-coaster’ - Global News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04S2txelluR1NLczRfLU1qemV4TFowMGhEcG5lMWdSdmptcG1oVTg1SjhiOWtYWXlBWEF6Zk5zTmFOY1hJaFhURnZqTExRSlFsVktKM0EyRHhyam16dU5vRWxxLUpmdUhDd2tPVUtRUQ?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 17:52:26 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE04S2txelluR1NLczRfLU1qemV4TFowMGhEcG5lMWdSdmptcG1oVTg1SjhiOWtYWXlBWEF6Zk5zTmFOY1hJaFhURnZqTExRSlFsVktKM0EyRHhyam16dU5vRWxxLUpmdUhDd2tPVUtRUQ?oc=5\" target=\"_blank\"&gt;Why the Iran war is making mortgage renewal feel like a ‘roller-coaster’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Global News&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
+    },
+    {
+      "title": "The wave of missed mortgage payments that never came - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZS1wRnVVOUVoMFRSN1BPOWI4X2VZc3RMZ0dqNExGX19UMTJuaTBlcTkwdGw1QWpGY2xuR2FtUEdiVnlwVTVIQW8xbnJQWmpKd3BZWkJBeG9oV3JQVW1aOW4zWUgweGhHaC1mWUxmQTBJOUVIaVZCaDBDNzRaRGlaTXFiQmtXcDA0ZDltaVd5aV9SUVVRZ0xweXY4ZGVZNDZG?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 17:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZS1wRnVVOUVoMFRSN1BPOWI4X2VZc3RMZ0dqNExGX19UMTJuaTBlcTkwdGw1QWpGY2xuR2FtUEdiVnlwVTVIQW8xbnJQWmpKd3BZWkJBeG9oV3JQVW1aOW4zWUgweGhHaC1mWUxmQTBJOUVIaVZCaDBDNzRaRGlaTXFiQmtXcDA0ZDltaVd5aV9SUVVRZ0xweXY4ZGVZNDZG?oc=5\" target=\"_blank\"&gt;The wave of missed mortgage payments that never came&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Globe and Mail&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
+    },
+    {
+      "title": "Canada turns a corner on rent affordability: report - Real Estate Magazine",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHpIWUFMWG1ZM05CQnVfUnJhUGNBTzRfSFdodDl4TGRkWkYzdFFpdXppcHo2QTNpVjdZa2I5YnJkRXowcWkwUWdtZjFjZUlJWUs5VEo0b0lTcXI3bUM5WXo0bXQ4RlFSVnFOb2FwTlhLVHk0Sk8wX3BJQ3BuU2ttVjVpVm9mQzFN?oc=5",
       "pubDate": "Tue, 10 Mar 2026 09:07:51 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHpIWUFMWG1ZM05CQnVfUnJhUGNBTzRfSFdodDl4TGRkWkYzdFFpdXppcHo2QTNpVjdZa2I5YnJkRXowcWkwUWdtZjFjZUlJWUs5VEo0b0lTcXI3bUM5WXo0bXQ4RlFSVnFOb2FwTlhLVHk0Sk8wX3BJQ3BuU2ttVjVpVm9mQzFN?oc=5\" target=\"_blank\"&gt;Canada turns a corner on rent affordability: report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Real Estate Magazine Canada&lt;/font&gt;",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHpIWUFMWG1ZM05CQnVfUnJhUGNBTzRfSFdodDl4TGRkWkYzdFFpdXppcHo2QTNpVjdZa2I5YnJkRXowcWkwUWdtZjFjZUlJWUs5VEo0b0lTcXI3bUM5WXo0bXQ4RlFSVnFOb2FwTlhLVHk0Sk8wX3BJQ3BuU2ttVjVpVm9mQzFN?oc=5\" target=\"_blank\"&gt;Canada turns a corner on rent affordability: report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Real Estate Magazine&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
       "_src": "gnre"
@@ -75,15 +156,6 @@
       "_src": "cmt"
     },
     {
-      "title": "As Canada’s population growth slows, an economic shift emerges - Canadian Mortgage Trends",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEI4UXZobFlqZlBJZnVRT0NQcWNaMkxFMFZpUXd2c2wxUFhNRXhGNFJzZFpYMUdILWFQOHZLSWZCTWVsWWp3U0sxY21fR1ZrTUtmUV9pVHBScXVoUWZDTzhFY3Y5T3NOX1d5bGJGQmdUVUVwZHZoOVRDWkRiejJUYUhSNVVCWUl4cUFBU3RHbDFPUzZzeXdBaDJFd0VkdEZvdTkzOTl0TlI3Vjcz?oc=5",
-      "pubDate": "Mon, 09 Mar 2026 23:30:22 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEI4UXZobFlqZlBJZnVRT0NQcWNaMkxFMFZpUXd2c2wxUFhNRXhGNFJzZFpYMUdILWFQOHZLSWZCTWVsWWp3U0sxY21fR1ZrTUtmUV9pVHBScXVoUWZDTzhFY3Y5T3NOX1d5bGJGQmdUVUVwZHZoOVRDWkRiejJUYUhSNVVCWUl4cUFBU3RHbDFPUzZzeXdBaDJFd0VkdEZvdTkzOTl0TlI3Vjcz?oc=5\" target=\"_blank\"&gt;As Canada’s population growth slows, an economic shift emerges&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Canadian Mortgage Trends&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
-    },
-    {
       "title": "‘Where do we draw the line?’ Montreal real estate agent surprised over OQLF letter - Global News",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVlrc1FDVVFORzItRTVjUDlFVTFibmpraEdDdE9WR1MwMUplQmlsOVZmRXdsX1dVdDYzT1Q5MTc1OWlGUjYtTDZuQzduQUUzbXhBQ2pENkJOWHZuRUF6Q05rMDhCcnY2WGZ4eWpuNmhhN0ZKbW1iRG5sZmgtakxKTGVjYkluVGNQd09qLTV3?oc=5",
       "pubDate": "Mon, 09 Mar 2026 21:35:55 GMT",
@@ -91,15 +163,6 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnre"
-    },
-    {
-      "title": "Canadians confront complex affordability picture in a turbulent market - mpamag.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkYxR2toNlRtSUtGZkxWXzFzZ25DWGdBWXZIUXFxVUhMbXdTZV9uV1pGTllEdnR4YjlHQmtQNDBsanJ4MmtDVkJiZTFiZXA5MlZSVkN2ZUNvNjVMam15UVBYell6RUZDNXFid0QtamVqUnlrOE5faTMtZVNLakpnTnBvakNDMkl2a1ZaYkh1dXNxWnZhZC1zdnJDZ3NNWkxJTW95V0ZoVnBtS2FFUGQ2UlFsT0tjZTQ?oc=5",
-      "pubDate": "Mon, 09 Mar 2026 19:30:02 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkYxR2toNlRtSUtGZkxWXzFzZ25DWGdBWXZIUXFxVUhMbXdTZV9uV1pGTllEdnR4YjlHQmtQNDBsanJ4MmtDVkJiZTFiZXA5MlZSVkN2ZUNvNjVMam15UVBYell6RUZDNXFid0QtamVqUnlrOE5faTMtZVNLakpnTnBvakNDMkl2a1ZaYkh1dXNxWnZhZC1zdnJDZ3NNWkxJTW95V0ZoVnBtS2FFUGQ2UlFsT0tjZTQ?oc=5\" target=\"_blank\"&gt;Canadians confront complex affordability picture in a turbulent market&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;mpamag.com&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
     },
     {
       "title": "New Research Signals Mortgage Relief As Pandemic Renewal Wave Wanes - Storeys",
@@ -174,15 +237,6 @@
       "_src": "cmt"
     },
     {
-      "title": "From mortgages to credit cards, Sask. falling behind on payments more than anywhere else in Canada - CBC",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXRyUUNHYWpJR2szZWRORmlkR0ZjNTVzTUdTZ3pob0hFbGwyNmk0MVZZZElJckVBdjhLaHZ6Qk5aNko3YmJnX0Z4d1liemVHMFRvd1hfRlNDQnAxaGliLV9RTk9OZkI0enZreElsS3g1NE1wY0ROWFNQSDd6bDd2ZTlQSkh6SndSUU92S3hIQ2lhWnV2SUhwRTdyMVB4RDljMTNjQUotRkJRMzB5YXhteVJvT3FBRl9Hb1Vmc2xvZw?oc=5",
-      "pubDate": "Sat, 07 Mar 2026 11:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXRyUUNHYWpJR2szZWRORmlkR0ZjNTVzTUdTZ3pob0hFbGwyNmk0MVZZZElJckVBdjhLaHZ6Qk5aNko3YmJnX0Z4d1liemVHMFRvd1hfRlNDQnAxaGliLV9RTk9OZkI0enZreElsS3g1NE1wY0ROWFNQSDd6bDd2ZTlQSkh6SndSUU92S3hIQ2lhWnV2SUhwRTdyMVB4RDljMTNjQUotRkJRMzB5YXhteVJvT3FBRl9Hb1Vmc2xvZw?oc=5\" target=\"_blank\"&gt;From mortgages to credit cards, Sask. falling behind on payments more than anywhere else in Canada&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBC&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
-    },
-    {
       "title": "Ottawa office market experts left in the dark over feds&#8217; return-to-work needs",
       "link": "https://www.canadianmortgagetrends.com/2026/03/ottawa-office-market-experts-left-in-the-dark-over-feds-return-to-work-needs/",
       "pubDate": "Fri, 06 Mar 2026 18:20:37 +0000",
@@ -199,6 +253,15 @@
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/03/US-mortgage-rates-rise_sm-500x333.jpg",
       "_src": "cmt"
+    },
+    {
+      "title": "Colonnade BridgePort, Fiera building 2-tower Ottawa apt. project - RENX",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQ2ZIWDd4MEEzUEprN2xkTVBBdE5Pd2VGS2Rfc1JWV1dZUVhKMi1aamp2SHUyVG9JVEIxWG45aUIwdEhqbkZET0lldFpPY0xnc1A0Ui1mT1BlbFY4SVhQT05nM2RPZ3BPOUNmT0JTWFBDcUpUZjR0NVRSdG1xUQ?oc=5",
+      "pubDate": "Fri, 06 Mar 2026 16:14:21 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQ2ZIWDd4MEEzUEprN2xkTVBBdE5Pd2VGS2Rfc1JWV1dZUVhKMi1aamp2SHUyVG9JVEIxWG45aUIwdEhqbkZET0lldFpPY0xnc1A0Ui1mT1BlbFY4SVhQT05nM2RPZ3BPOUNmT0JTWFBDcUpUZjR0NVRSdG1xUQ?oc=5\" target=\"_blank\"&gt;Colonnade BridgePort, Fiera building 2-tower Ottawa apt. project&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;RENX&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnott"
     },
     {
       "title": "Ottawa office market experts left in the dark over feds’ return-to-work needs - Global News",
@@ -237,15 +300,6 @@
       "_src": "cmt"
     },
     {
-      "title": "CMHC Announces Housing Research Award Winners - Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjNiMndjTXVUYV85ZzZFdVdJTWNVSFJHQWVqc3gxUWRQSVNpUGZFOGlzdFdvSG1qSXhnUGM1X3Q5b0xaVTgzc0hHUEJJVk91RjdtVElULVU1dmJnRVIwcXZjSFBzWEhSekI1SVVZbllyME5CcUNsbFUyd1BXUUNXZkNhTGlUSTFwZmpLMGhsS3Z0MEZlcTdqa2xPOVc2R2c?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 16:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjNiMndjTXVUYV85ZzZFdVdJTWNVSFJHQWVqc3gxUWRQSVNpUGZFOGlzdFdvSG1qSXhnUGM1X3Q5b0xaVTgzc0hHUEJJVk91RjdtVElULVU1dmJnRVIwcXZjSFBzWEhSekI1SVVZbllyME5CcUNsbFUyd1BXUUNXZkNhTGlUSTFwZmpLMGhsS3Z0MEZlcTdqa2xPOVc2R2c?oc=5\" target=\"_blank\"&gt;CMHC Announces Housing Research Award Winners&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Newswire Canada&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
-    },
-    {
       "title": "Ottawa Real Estate Agents Supporting CHEO 2026 - weknowottawa.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmpvYUstdlJScW42aHNES0tRNEdYWGI1ZFU0SFNuQnpIM3hjMjRvenR3UlpDMXJqQUdhczdzb0dtckdEcnN0bXQyaHhIR1lieGQ5eEY3OWZUTU5Gb2JabVlzcU9aaC15SUhFRS1YbVZFTGx4dzRxQ3RvM24yR3lYNG5fc2VIRXZz?oc=5",
       "pubDate": "Mon, 02 Mar 2026 18:33:38 GMT",
@@ -264,31 +318,13 @@
       "_src": "gnott"
     },
     {
-      "title": "Canada's housing market suffers largest price decline among major economies, says BIS - Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkZpZXBUOE9JY3pPdi03d1RoTFh2SHQ5WV9xV0hZNjlPRUdual90cjhvQ3lCT3JnbXlxSjhGeUpIUmN3b2VaWjJOazRQaFhBZFE0cENMVkV0Wk1ZR1RreVBIb052enNXRFdSTWRnNmdRcHBxb3o5eGk4NTROUDN4Vl9mbTlDWDlJYkk4WmtHRDhyNWVUazJ4U3Q4V2gyZw?oc=5",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdkZpZXBUOE9JY3pPdi03d1RoTFh2SHQ5WV9xV0hZNjlPRUdual90cjhvQ3lCT3JnbXlxSjhGeUpIUmN3b2VaWjJOazRQaFhBZFE0cENMVkV0Wk1ZR1RreVBIb052enNXRFdSTWRnNmdRcHBxb3o5eGk4NTROUDN4Vl9mbTlDWDlJYkk4WmtHRDhyNWVUazJ4U3Q4V2gyZw?oc=5\" target=\"_blank\"&gt;Canada's housing market suffers largest price decline among major economies, says BIS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Financial Post&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnre"
-    },
-    {
-      "title": "Mortgage debt soars while starter homes get out of reach for many Canadians - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tdnJrR1h4ZWlkM1BaQjF4bENrLXpLOUZLTzBfNWRYNWwySkUyVVd1TEt0aTlGSTZlSTFFZkxRdC16eWJ3S0dEek1FeG1ZbS1EX1gwaXhvTzBVYmdqWW1oX2pJd0lHUXhPMU1KOWFzTTFkamIyOFRjSzdR?oc=5",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8tdnJrR1h4ZWlkM1BaQjF4bENrLXpLOUZLTzBfNWRYNWwySkUyVVd1TEt0aTlGSTZlSTFFZkxRdC16eWJ3S0dEek1FeG1ZbS1EX1gwaXhvTzBVYmdqWW1oX2pJd0lHUXhPMU1KOWFzTTFkamIyOFRjSzdR?oc=5\" target=\"_blank\"&gt;Mortgage debt soars while starter homes get out of reach for many Canadians&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Global News&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
-    },
-    {
-      "title": "Most Canadian Provinces See Home Prices Rise, Two Hit Record Highs - Better Dwelling",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXpkVEtWUFhZaFY3SE5GcWRod2xmd3lLS3BRZjcwNjN1MXVyYWpKVHQtalhWdWpSZW1MTE80QW5mU0s5OXZEQmpENVNxejBGcTlGZ3Q3WEt6dXYySUt6N0VsOWcyeTcxcDNiVGxSaVNhWkd6Y25pbzFqTUVKQ2tJa3JRc1VYUVZqMzMybTRRMnVEc0thallSRQ?oc=5",
+      "title": "Income required to buy a home in Ottawa drops $2,000 - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmtBZTZEckZTc3VOb21fZFlubU11eVRLZWdOYnlLLWNvY0pMYnZwaGpKZVBPRHpObmtObXIxdC15WWZTSF9UYVl2WjNJMXJBaGtBQ0Z3VzlTRFM2S3dRMDZyYmpIMHpZUU5kd1l5WGs1TGE0ZWdmcHYyRFp3YnBQaTA5dlNTaUcyTjBXWWZSX2ZRQWs?oc=5",
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXpkVEtWUFhZaFY3SE5GcWRod2xmd3lLS3BRZjcwNjN1MXVyYWpKVHQtalhWdWpSZW1MTE80QW5mU0s5OXZEQmpENVNxejBGcTlGZ3Q3WEt6dXYySUt6N0VsOWcyeTcxcDNiVGxSaVNhWkd6Y25pbzFqTUVKQ2tJa3JRc1VYUVZqMzMybTRRMnVEc0thallSRQ?oc=5\" target=\"_blank\"&gt;Most Canadian Provinces See Home Prices Rise, Two Hit Record Highs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Better Dwelling&lt;/font&gt;",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmtBZTZEckZTc3VOb21fZFlubU11eVRLZWdOYnlLLWNvY0pMYnZwaGpKZVBPRHpObmtObXIxdC15WWZTSF9UYVl2WjNJMXJBaGtBQ0Z3VzlTRFM2S3dRMDZyYmpIMHpZUU5kd1l5WGs1TGE0ZWdmcHYyRFp3YnBQaTA5dlNTaUcyTjBXWWZSX2ZRQWs?oc=5\" target=\"_blank\"&gt;Income required to buy a home in Ottawa drops $2,000&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CTV News&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
-      "_src": "gnre"
+      "_src": "gnott"
     },
     {
       "title": "Home prices expected to increase in these 3 Canadian cities this year - INsauga",
@@ -309,15 +345,6 @@
       "_src": "gnre"
     },
     {
-      "title": "National real estate association blames Ontario snowstorm for cooling housing sales in January - CBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zR1VBdm1WWU5kdVdYX0tGVHp6cTBMRmZqdmtlcFdGcUhpWkFBbEl6YzRlRnM5eldKZUtxNmdMWEZ6MXVfTzdYZEluX0toMWVuaWlzeUZxcFRQR1JicXR4bkMxTjY3cU1ITHI4TmxFOHpqXzRoSWZreDJNLVpLckU?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0zR1VBdm1WWU5kdVdYX0tGVHp6cTBMRmZqdmtlcFdGcUhpWkFBbEl6YzRlRnM5eldKZUtxNmdMWEZ6MXVfTzdYZEluX0toMWVuaWlzeUZxcFRQR1JicXR4bkMxTjY3cU1ITHI4TmxFOHpqXzRoSWZreDJNLVpLckU?oc=5\" target=\"_blank\"&gt;National real estate association blames Ontario snowstorm for cooling housing sales in January&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBC&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnre"
-    },
-    {
       "title": "Ottawa Housing Market Outlook 2026 - nesto.ca",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FMnZlcWxKYlp6NmV2c3dqbDk5YVVVX2lFUkJEaDBDdVdBZ2FMbTdCLU9XUUZqMFpVM19BUV9sUDRmX3c1TUZrdlJ6UkpRZW5HMUlBclk1T3JYSklIUFVUYXRlN0M3YlU1dXkwNG5JVU4?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
@@ -327,22 +354,22 @@
       "_src": "gnott"
     },
     {
-      "title": "Housing starts up 5.6% in 2025 from 2024 - Canada Mortgage and Housing Corporation | CMHC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPby1NRS1lR3V6SE53QUNwOGN5X0NPcDVyY0ZmemZNaE9Bd2hMb0tNV09HMDlGTVBKajZHNHR2QTZkZWc5ZHB4ZUJ3S0g1TFJHdF9CS1RjMDc5dzk0dGpJUFBrZGJPbklFS2tOMzVPNkpaTTZvU2RBYTRPZWxkYXJ2aGZpQmp5MEt4QlZ5c2pIaUxHZGVW?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPby1NRS1lR3V6SE53QUNwOGN5X0NPcDVyY0ZmemZNaE9Bd2hMb0tNV09HMDlGTVBKajZHNHR2QTZkZWc5ZHB4ZUJ3S0g1TFJHdF9CS1RjMDc5dzk0dGpJUFBrZGJPbklFS2tOMzVPNkpaTTZvU2RBYTRPZWxkYXJ2aGZpQmp5MEt4QlZ5c2pIaUxHZGVW?oc=5\" target=\"_blank\"&gt;Housing starts up 5.6% in 2025 from 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Canada Mortgage and Housing Corporation | CMHC&lt;/font&gt;",
+      "title": "What's in store for Canada's housing market in 2026? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUE1JajVUc0ttdkZwNHA2Q2diandabzlCbDFwZF9xeGotTmhNNnMxaVVLdTJBZXFEdzRDTGxlUWZ3TDc5NlpBbjA0VXI4U2x0MVVlclNXV0ZXQ2cyX3lIb0VsTUZNdkdWOFNEQ0p4VGZscUJiMms3SmJmN3RGUWtUSGFYYw?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUE1JajVUc0ttdkZwNHA2Q2diandabzlCbDFwZF9xeGotTmhNNnMxaVVLdTJBZXFEdzRDTGxlUWZ3TDc5NlpBbjA0VXI4U2x0MVVlclNXV0ZXQ2cyX3lIb0VsTUZNdkdWOFNEQ0p4VGZscUJiMms3SmJmN3RGUWtUSGFYYw?oc=5\" target=\"_blank\"&gt;What's in store for Canada's housing market in 2026?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBC&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
-      "_src": "gnmort"
+      "_src": "gnre"
     },
     {
-      "title": "Homes market will need time to recover - Ottawa Citizen",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5\" target=\"_blank\"&gt;Homes market will need time to recover&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Ottawa Citizen&lt;/font&gt;",
+      "title": "Canadian real estate’s great divide: One market booming while the other crashes - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk81c0puWW5qRU9jaWJTZnFRc2RsT1h4T1RYMm80akFJNlZqU1N2MTZxNngzazY5Q2IydzdGNWk1WUlJRV9ISkJQT2VrLTlrbDFPNXlnNFZjbFdJdmZHUHpTV3dvUk9rc05WMnRKQ2R3bUljR0M4QmM5R2F1OUFlVllhejlMcktBaUVSVkpmWTJlMDdaakk0M2hkaERXcDA?oc=5",
+      "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk81c0puWW5qRU9jaWJTZnFRc2RsT1h4T1RYMm80akFJNlZqU1N2MTZxNngzazY5Q2IydzdGNWk1WUlJRV9ISkJQT2VrLTlrbDFPNXlnNFZjbFdJdmZHUHpTV3dvUk9rc05WMnRKQ2R3bUljR0M4QmM5R2F1OUFlVllhejlMcktBaUVSVkpmWTJlMDdaakk0M2hkaERXcDA?oc=5\" target=\"_blank\"&gt;Canadian real estate’s great divide: One market booming while the other crashes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BNN Bloomberg&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
-      "_src": "gnott"
+      "_src": "gnre"
     },
     {
       "title": "Ottawa Housing Market Outlook (2026) - Remax",
@@ -352,33 +379,6 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnott"
-    },
-    {
-      "title": "Ottawa Real Estate Market Rebounds After Brief Slowdown - Remax",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvbGtJc3BKV2tXdWJRSlRJX3dYcXFYTXNGMEVCUXlqYkNGMUhrbUMwcXoyZ2hxRXNfc0pJMEZ4MEpxTy0ycDBKV2lEQ25UeU5DVllvRWlzeWRUNEpL?oc=5",
-      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvbGtJc3BKV2tXdWJRSlRJX3dYcXFYTXNGMEVCUXlqYkNGMUhrbUMwcXoyZ2hxRXNfc0pJMEZ4MEpxTy0ycDBKV2lEQ25UeU5DVllvRWlzeWRUNEpL?oc=5\" target=\"_blank\"&gt;Ottawa Real Estate Market Rebounds After Brief Slowdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Remax&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnott"
-    },
-    {
-      "title": "Ottawa real estate gains pace — average prices up, but uneven recovery ahead - Ottawa Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15SFh4Smxub0ZkNGVBbEhoWWluY0U0Wnd2cnIxZWdmWEF5S3VtVFBrdWROemNKamxSUWd5ejhqbG5ldmFrSU9BS3dYU1NJNGVSbjltUi1YdHJtNFRJWll0SXJRM2p0OVJrZkdXa3NVSEw?oc=5",
-      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE15SFh4Smxub0ZkNGVBbEhoWWluY0U0Wnd2cnIxZWdmWEF5S3VtVFBrdWROemNKamxSUWd5ejhqbG5ldmFrSU9BS3dYU1NJNGVSbjltUi1YdHJtNFRJWll0SXJRM2p0OVJrZkdXa3NVSEw?oc=5\" target=\"_blank\"&gt;Ottawa real estate gains pace — average prices up, but uneven recovery ahead&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Ottawa Business Journal&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnott"
-    },
-    {
-      "title": "Housing starts for July 2025 - Canada Mortgage and Housing Corporation | CMHC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDdfV2Y1N3Q5YzltMTZQQ3VtdGJJRk85YUxkSGxkWG9qSmp6dV9LLXlYNDZhTTBPbGF3NVN1bE9IWjZkMDAtMWwtQ0VWOTduV1Y1bkxGMGQ0MXdjRzFXZTdzYjhqSlJvXzU1V2p1U3BWWmJUSlRDWlN5ZmUtWWFrRVhzWUM2MVdCN2xfSFZ5Yw?oc=5",
-      "pubDate": "Mon, 18 Aug 2025 07:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDdfV2Y1N3Q5YzltMTZQQ3VtdGJJRk85YUxkSGxkWG9qSmp6dV9LLXlYNDZhTTBPbGF3NVN1bE9IWjZkMDAtMWwtQ0VWOTduV1Y1bkxGMGQ0MXdjRzFXZTdzYjhqSlJvXzU1V2p1U3BWWmJUSlRDWlN5ZmUtWWFrRVhzWUM2MVdCN2xfSFZ5Yw?oc=5\" target=\"_blank\"&gt;Housing starts for July 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Canada Mortgage and Housing Corporation | CMHC&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
     }
   ]
 }
