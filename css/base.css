@@ -319,6 +319,12 @@ input.chk{width:16px;height:16px;border-radius:4px;flex-shrink:0;margin-top:2px;
   text-align:center;padding:2.5rem;color:var(--gray);
   border:1.5px dashed var(--border);border-radius:12px;font-size:.88rem;
 }
+.rss-archive-stats{font-size:.9rem;color:#374151;line-height:1.6;}
+.rss-archive-total{font-size:1.6rem;font-weight:700;color:var(--navy,#0a1628);}
+.rss-archive-meta{font-size:.8rem;color:#9ca3af;margin-bottom:.5rem;}
+.rss-archive-breakdown{font-size:.85rem;margin-top:.4rem;line-height:1.8;}
+.rss-archive-src-chip{display:inline-block;background:#f1f5f9;padding:2px 8px;border-radius:4px;margin:2px 4px 2px 0;font-size:.8rem;}
+.rss-archive-hint{font-size:.78rem;color:#9ca3af;margin-top:.6rem;}
 .rss-footer-note{
   font-size:.78rem;color:var(--gray);line-height:1.7;
   border-top:1px solid var(--border);padding-top:1.2rem;

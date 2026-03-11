@@ -731,17 +731,26 @@ function closeNewsReader(){
 }
 function blogSwitchMain(tab,btn){
   var np=document.getElementById('blog-news-panel');
+  var ap=document.getElementById('blog-archive-panel');
   var fb=document.querySelector('.blog-filters-bar');
   var lv=document.getElementById('blog-list-view');
   document.querySelectorAll('.blog-main-tab').forEach(function(b){b.classList.remove('active');});
   if(btn)btn.classList.add('active');
   if(tab==='news'){
     if(np)np.style.display='';
+    if(ap)ap.style.display='none';
     if(fb)fb.style.display='none';
     if(lv)lv.style.display='none';
     fetchNews();
+  }else if(tab==='archive'){
+    if(np)np.style.display='none';
+    if(ap)ap.style.display='';
+    if(fb)fb.style.display='none';
+    if(lv)lv.style.display='none';
+    archiveInit();
   }else{
     if(np)np.style.display='none';
+    if(ap)ap.style.display='none';
     if(fb)fb.style.display='';
     if(lv)lv.style.display='';
     blogRenderList();
@@ -771,4 +780,147 @@ function blogInit(){
   // Default to news tab
   var newsBtn = document.getElementById('tab-news');
   blogSwitchMain('news', newsBtn);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   NEWS ARCHIVE VIEWER
+   ═══════════════════════════════════════════════════════════ */
+var archiveState={items:[],filtered:[],page:0,perPage:30,loaded:false};
+
+function archiveInit(){
+  if(archiveState.loaded){archiveRender();return;}
+  var grid=document.getElementById('archive-grid');
+  if(grid)grid.innerHTML='<div class="archive-loading">Loading archive...</div>';
+  fetch('/data/news-archive.json?v='+Date.now())
+    .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+    .then(function(data){
+      archiveState.items=data.items||[];
+      archiveState.loaded=true;
+      archiveBuildFilters();
+      archiveApplyFilters();
+    })
+    .catch(function(){
+      archiveState.items=[];
+      archiveState.loaded=true;
+      archiveRender();
+    });
+}
+
+function archiveBuildFilters(){
+  var sources={},years={},months={};
+  archiveState.items.forEach(function(item){
+    if(item._src)sources[item._src]=1;
+    var d=new Date(item.pubDate);
+    if(!isNaN(d)){
+      years[d.getFullYear()]=1;
+      months[d.getMonth()+1]=1;
+    }
+    if(item._month){
+      var parts=item._month.split('-');
+      if(parts[0])years[parts[0]]=1;
+    }
+  });
+  var srcSel=document.getElementById('archive-source-filter');
+  if(srcSel){
+    var srcLabels={};
+    (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
+    var srcKeys=Object.keys(sources).sort();
+    srcSel.innerHTML='<option value="all">All Sources ('+srcKeys.length+')</option>'+
+      srcKeys.map(function(k){return'<option value="'+k+'">'+(srcLabels[k]||k)+'</option>';}).join('');
+  }
+  var yrSel=document.getElementById('archive-year-filter');
+  if(yrSel){
+    var yrs=Object.keys(years).sort().reverse();
+    yrSel.innerHTML='<option value="all">All Years</option>'+
+      yrs.map(function(y){return'<option value="'+y+'">'+y+'</option>';}).join('');
+  }
+  var moSel=document.getElementById('archive-month-filter');
+  if(moSel){
+    var moNames=['','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var mos=Object.keys(months).map(Number).sort(function(a,b){return a-b;});
+    moSel.innerHTML='<option value="all">All Months</option>'+
+      mos.map(function(m){return'<option value="'+m+'">'+(moNames[m]||m)+'</option>';}).join('');
+  }
+}
+
+function archiveApplyFilters(){
+  var q=(document.getElementById('archive-search')||{}).value||'';
+  var src=(document.getElementById('archive-source-filter')||{}).value||'all';
+  var yr=(document.getElementById('archive-year-filter')||{}).value||'all';
+  var mo=(document.getElementById('archive-month-filter')||{}).value||'all';
+  q=q.toLowerCase().trim();
+
+  archiveState.filtered=archiveState.items.filter(function(item){
+    if(src!=='all'&&item._src!==src)return false;
+    if(yr!=='all'||mo!=='all'){
+      var d=new Date(item.pubDate);
+      if(isNaN(d))return false;
+      if(yr!=='all'&&String(d.getFullYear())!==yr)return false;
+      if(mo!=='all'&&String(d.getMonth()+1)!==mo)return false;
+    }
+    if(q){
+      var txt=(item.title+' '+(item.description||'')).toLowerCase();
+      if(txt.indexOf(q)===-1)return false;
+    }
+    return true;
+  });
+  archiveState.page=0;
+  archiveRender();
+}
+
+function archiveRender(){
+  var items=archiveState.filtered;
+  var grid=document.getElementById('archive-grid');
+  var stats=document.getElementById('archive-stats');
+  var empty=document.getElementById('archive-empty');
+  var moreWrap=document.getElementById('archive-load-more');
+  if(!grid)return;
+
+  var end=(archiveState.page+1)*archiveState.perPage;
+  var visible=items.slice(0,end);
+
+  if(stats)stats.textContent=items.length.toLocaleString()+' articles found'+
+    (archiveState.items.length?' ('+archiveState.items.length.toLocaleString()+' total in archive)':'');
+
+  if(!items.length){
+    grid.innerHTML='';
+    if(empty)empty.style.display='';
+    if(moreWrap)moreWrap.style.display='none';
+    return;
+  }
+  if(empty)empty.style.display='none';
+
+  var srcLabels={};
+  (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
+
+  grid.innerHTML=visible.map(function(item){
+    var d=new Date(item.pubDate);
+    var dateStr=isNaN(d)?'':d.toLocaleDateString('en-CA',{year:'numeric',month:'short',day:'numeric'});
+    var srcLabel=srcLabels[item._src]||item._src||'';
+    var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
+    var ex=stripHtml(item.description||'').substring(0,140);
+    if(ex.length===140)ex+='...';
+    var img=extractNewsImg(item);
+    var visual=img
+      ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
+      :'<span class="news-no-img" style="background:'+clr+'"><span>'+srcLabel+'</span></span>';
+    return'<div class="archive-card" onclick="window.open(\''+item.link+'\',\'_blank\')" role="button" tabindex="0">'+
+      '<div class="archive-card-visual">'+visual+'</div>'+
+      '<div class="archive-card-body">'+
+        '<div class="archive-card-meta">'+
+          '<span class="archive-card-src" style="background:'+clr+'">'+srcLabel+'</span>'+
+          '<span class="archive-card-date">'+dateStr+'</span>'+
+        '</div>'+
+        '<div class="archive-card-title">'+item.title+'</div>'+
+        (ex?'<div class="archive-card-excerpt">'+ex+'</div>':'')+
+      '</div>'+
+    '</div>';
+  }).join('');
+
+  if(moreWrap)moreWrap.style.display=end<items.length?'':'none';
+}
+
+function archiveLoadMore(){
+  archiveState.page++;
+  archiveRender();
 }

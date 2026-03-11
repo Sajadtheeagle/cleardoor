@@ -114,10 +114,11 @@ var RSS_SOURCES_KEY = 'cd_rss_sources_v1';
 /* Default sources — used if none saved yet.
    Keep IDs in sync with scripts/fetch-news.js SOURCES. */
 var RSS_DEFAULT_SOURCES = [
-  { id: 'cbc',    label: 'CBC News',               url: 'https://rss.cbc.ca/lineup/topstories.xml' },
-  { id: 'bd',     label: 'Better Dwelling',        url: 'https://betterdwelling.com/feed/' },
-  { id: 'cmt',    label: 'Canadian Mortgage Trends',url: 'https://www.canadianmortgagetrends.com/feed/' },
-  { id: 'cbcott', label: 'CBC Ottawa',             url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' }
+  { id: 'cmt',          label: 'Canadian Mortgage Trends', url: 'https://www.canadianmortgagetrends.com/feed/' },
+  { id: 'betterdwelling',label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
+  { id: 'storeys',      label: 'Storeys',                  url: 'https://storeys.com/feed/' },
+  { id: 'cbc',          label: 'CBC News',                 url: 'https://rss.cbc.ca/lineup/topstories.xml' },
+  { id: 'cbcott',       label: 'CBC Ottawa',               url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' }
 ];
 
 function rssAdminGetSources() {
@@ -312,6 +313,59 @@ function rssAdminMigrateAndRender() {
   rssAdminRender();
 }
 
+/* ═══════════════════════════════════════════════════════════
+   ARCHIVE STATS
+   ═══════════════════════════════════════════════════════════ */
+function rssArchiveRefreshStats() {
+  var el = document.getElementById('rss-archive-stats');
+  if (!el) return;
+  el.textContent = 'Loading...';
+  fetch('/data/news-archive.json?v=' + Date.now())
+    .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(data) {
+      var items = data.items || [];
+      if (!items.length) {
+        el.innerHTML = '<span style="color:#9ca3af">Archive is empty. Run the backfill from GitHub Actions to populate it.</span>';
+        return;
+      }
+      /* Count by source */
+      var bySrc = {};
+      var byYear = {};
+      items.forEach(function(item) {
+        bySrc[item._src] = (bySrc[item._src] || 0) + 1;
+        var d = new Date(item.pubDate);
+        if (!isNaN(d)) byYear[d.getFullYear()] = (byYear[d.getFullYear()] || 0) + 1;
+      });
+      var srcLabels = {};
+      (data.sources || []).forEach(function(s) { srcLabels[s.id] = s.label; });
+
+      var html = '<div class="rss-archive-total">' + items.length.toLocaleString() + ' articles</div>';
+      html += '<div class="rss-archive-meta">Last updated: ' + (data.fetched ? new Date(data.fetched).toLocaleString() : 'unknown') + '</div>';
+
+      /* Year breakdown */
+      var years = Object.keys(byYear).sort();
+      html += '<div class="rss-archive-breakdown"><strong>By Year:</strong> ';
+      html += years.map(function(y) { return y + ': ' + byYear[y].toLocaleString(); }).join(' | ');
+      html += '</div>';
+
+      /* Source breakdown */
+      var srcKeys = Object.keys(bySrc).sort(function(a, b) { return bySrc[b] - bySrc[a]; });
+      html += '<div class="rss-archive-breakdown"><strong>By Source:</strong><br>';
+      html += srcKeys.map(function(k) {
+        return '<span class="rss-archive-src-chip">' + (srcLabels[k] || k) + ': ' + bySrc[k].toLocaleString() + '</span>';
+      }).join(' ');
+      html += '</div>';
+
+      el.innerHTML = html;
+    })
+    .catch(function() {
+      el.innerHTML = '<span style="color:#9ca3af">No archive found. Run the backfill from GitHub Actions first.</span>';
+    });
+}
+
+/* ═══════════════════════════════════════════════════════════
+   INIT
+   ═══════════════════════════════════════════════════════════ */
 function rssAdminInit() {
   if (!rssAdminIsAuth()) {
     rssAdminShowLoginGate();
@@ -319,4 +373,5 @@ function rssAdminInit() {
   }
   rssAdminShowAdminContent();
   rssAdminMigrateAndRender();
+  rssArchiveRefreshStats();
 }

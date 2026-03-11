@@ -608,6 +608,7 @@
   <!-- ── Main tab switcher ── -->
   <div class="blog-main-tabs">
     <button class="blog-main-tab active" id="tab-news" onclick="blogSwitchMain('news',this)"><span class="blog-live-dot"></span> Live News</button>
+    <button class="blog-main-tab" id="tab-archive" onclick="blogSwitchMain('archive',this)">📁 News Archive</button>
     <button class="blog-main-tab" id="tab-guides" onclick="blogSwitchMain('guides',this)">📖 ClearDoor Guides</button>
   </div>
 
@@ -619,6 +620,34 @@
       </div>
     </div>
     <div class="news-grid" id="news-grid"></div>
+  </div>
+
+  <!-- ── Archive panel ── -->
+  <div id="blog-archive-panel" style="display:none">
+    <div class="archive-toolbar">
+      <div class="archive-search-row">
+        <input type="text" id="archive-search" class="archive-search-input" placeholder="Search archive..." oninput="archiveApplyFilters()">
+        <select id="archive-source-filter" class="archive-select" onchange="archiveApplyFilters()">
+          <option value="all">All Sources</option>
+        </select>
+        <select id="archive-year-filter" class="archive-select" onchange="archiveApplyFilters()">
+          <option value="all">All Years</option>
+        </select>
+        <select id="archive-month-filter" class="archive-select" onchange="archiveApplyFilters()">
+          <option value="all">All Months</option>
+        </select>
+      </div>
+      <div class="archive-stats" id="archive-stats"></div>
+    </div>
+    <div class="archive-grid" id="archive-grid"></div>
+    <div class="archive-load-more" id="archive-load-more" style="display:none">
+      <button class="archive-more-btn" onclick="archiveLoadMore()">Load More</button>
+    </div>
+    <div class="archive-empty" id="archive-empty" style="display:none">
+      <div class="blog-empty-emoji">📭</div>
+      <div class="blog-empty-txt">No archived articles match your filters.</div>
+      <div class="blog-empty-sub">Run the backfill from GitHub Actions to populate the archive.</div>
+    </div>
   </div>
 
   <!-- ── Sticky filter bar ── -->
@@ -1068,6 +1097,17 @@
           <button class="rss-add-btn" onclick="rssAdminChangePass()">Update</button>
         </div>
         <div id="rss-chpw-msg" class="rss-msg" style="display:none"></div>
+      </div>
+
+      <!-- Archive stats -->
+      <div class="rss-add-card" id="rss-archive-card">
+        <h3 class="rss-form-title">📁 News Archive</h3>
+        <div id="rss-archive-stats" class="rss-archive-stats">Loading archive stats...</div>
+        <div class="rss-form-row" style="margin-top:.8rem">
+          <button class="rss-add-btn" onclick="window.open('https://github.com/Sajadtheeagle/cleardoor/actions/workflows/backfill-archive.yml','_blank')">Run Backfill on GitHub</button>
+          <button class="rss-clear-cache-btn" onclick="rssArchiveRefreshStats()">Refresh Stats</button>
+        </div>
+        <p class="rss-archive-hint">The backfill script fetches historical news from 2020 to present. Run it from GitHub Actions to populate the archive.</p>
       </div>
 
       <div class="rss-footer-note">
