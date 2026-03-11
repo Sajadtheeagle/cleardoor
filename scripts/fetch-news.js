@@ -3,7 +3,18 @@
  * scripts/fetch-news.js
  * Pre-fetches RSS sources and writes to data/news.json
  * Runs via GitHub Actions every 4 hours.
- * Zero external dependencies â uses Node.js built-in modules only.
+ * Zero external dependencies -- uses Node.js built-in modules only.
+ *
+ * Sources cover:
+ *   - Canadian real estate market news
+ *   - Mortgage & housing (CMHC, rates)
+ *   - Ottawa local real estate & development
+ *   - Ottawa transit & infrastructure
+ *   - Bank of Canada interest rate decisions
+ *   - Housing policy & regulation
+ *   - Immigration impact on housing
+ *   - Ontario-wide real estate
+ *   - New construction & development
  */
 
 const https = require('https');
@@ -11,35 +22,103 @@ const http  = require('http');
 const fs    = require('fs');
 const path  = require('path');
 
-/* Sources â mixing direct feeds + Google News (reliable from any server).
+/* Sources -- direct feeds + Google News RSS (reliable from GitHub Actions).
    Keep IDs in sync with rss-admin.js RSS_DEFAULT_SOURCES. */
 const SOURCES = [
+  /* -- Direct feeds ------------------------------------------------- */
   {
     id: 'cmt',
     label: 'Canadian Mortgage Trends',
     url: 'https://www.canadianmortgagetrends.com/feed/'
   },
   {
+    id: 'betterdwelling',
+    label: 'Better Dwelling',
+    url: 'https://betterdwelling.com/feed/'
+  },
+  {
+    id: 'storeys',
+    label: 'Storeys',
+    url: 'https://storeys.com/feed/'
+  },
+  /* -- Google News: Real Estate & Housing --------------------------- */
+  {
     id: 'gnre',
-    label: 'Canada Real Estate News',
-    url: 'https://news.google.com/rss/search?q=canada+real+estate&hl=en-CA&gl=CA&ceid=CA:en'
+    label: 'Canada Real Estate',
+    url: 'https://news.google.com/rss/search?q=canada+real+estate+market&hl=en-CA&gl=CA&ceid=CA:en'
   },
   {
     id: 'gnmort',
-    label: 'Canadian Mortgage & Housing',
-    url: 'https://news.google.com/rss/search?q=canada+mortgage+housing&hl=en-CA&gl=CA&ceid=CA:en'
+    label: 'Mortgage & Housing',
+    url: 'https://news.google.com/rss/search?q=canada+mortgage+housing+CMHC&hl=en-CA&gl=CA&ceid=CA:en'
   },
+  {
+    id: 'gnhprice',
+    label: 'Home Prices',
+    url: 'https://news.google.com/rss/search?q=canada+home+prices+condo+detached&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  /* -- Google News: Ottawa Local ------------------------------------ */
   {
     id: 'gnott',
     label: 'Ottawa Real Estate',
-    url: 'https://news.google.com/rss/search?q=ottawa+real+estate&hl=en-CA&gl=CA&ceid=CA:en'
+    url: 'https://news.google.com/rss/search?q=ottawa+real+estate+housing&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnottdev',
+    label: 'Ottawa Development',
+    url: 'https://news.google.com/rss/search?q=ottawa+development+construction+zoning&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnottlrt',
+    label: 'Ottawa Transit & Infra',
+    url: 'https://news.google.com/rss/search?q=ottawa+LRT+transit+infrastructure&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  /* -- Google News: Policy & Rates (impact on RE) ------------------- */
+  {
+    id: 'gnboc',
+    label: 'Bank of Canada Rates',
+    url: 'https://news.google.com/rss/search?q=%22bank+of+canada%22+interest+rate&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnpolicy',
+    label: 'Housing Policy',
+    url: 'https://news.google.com/rss/search?q=canada+housing+policy+regulation+affordable&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  {
+    id: 'gnimmig',
+    label: 'Immigration & Housing',
+    url: 'https://news.google.com/rss/search?q=canada+immigration+housing+demand&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  /* -- Google News: Ontario-wide ------------------------------------ */
+  {
+    id: 'gnontre',
+    label: 'Ontario Real Estate',
+    url: 'https://news.google.com/rss/search?q=ontario+real+estate+housing+market&hl=en-CA&gl=CA&ceid=CA:en'
+  },
+  /* -- Google News: New Construction & Development ------------------ */
+  {
+    id: 'gnnewcon',
+    label: 'New Construction',
+    url: 'https://news.google.com/rss/search?q=canada+new+construction+housing+starts+condo+launch&hl=en-CA&gl=CA&ceid=CA:en'
   }
 ];
 
 const MAX_PER_SOURCE = 10;
 const TIMEOUT_MS     = 15000;
 
-/* âââ HTTP helper with redirect support âââââââââââââââââââââââââââ */
+/* --- Dedup helper: removes articles with identical titles ---------- */
+function dedup(items) {
+  var seen = {};
+  return items.filter(function(item) {
+    /* Normalize: lowercase, strip non-alphanumeric */
+    var key = item.title.toLowerCase().replace(/[^a-z0-9]/g, '');
+    if (seen[key]) return false;
+    seen[key] = true;
+    return true;
+  });
+}
+
+/* --- HTTP helper with redirect support ----------------------------- */
 function get(url, hops) {
   if (hops === undefined) hops = 5;
   return new Promise(function(resolve, reject) {
@@ -71,7 +150,7 @@ function get(url, hops) {
   });
 }
 
-/* âââ Minimal RSS/Atom XML parser ââââââââââââââââââââââââââââââââââ */
+/* --- Minimal RSS/Atom XML parser ----------------------------------- */
 function extractTag(xml, tag) {
   var re = new RegExp(
     '<(?:[a-zA-Z0-9_]+:)?' + tag + '[^>]*>([\\s\\S]*?)</(?:[a-zA-Z0-9_]+:)?' + tag + '>',
@@ -126,7 +205,7 @@ function parseRSS(xml, srcId) {
   return items;
 }
 
-/* âââ Main âââââââââââââââââââââââââââââââââââââââââââââââââââââââââ */
+/* --- Main ---------------------------------------------------------- */
 async function main() {
   var all = [];
 
@@ -147,10 +226,11 @@ async function main() {
     }
   }
 
-  /* Sort newest-first */
+  /* Sort newest-first then dedup (same headline from multiple sources) */
   all.sort(function(a, b) {
     return new Date(b.pubDate || 0) - new Date(a.pubDate || 0);
   });
+  all = dedup(all);
 
   var outDir  = path.join(process.cwd(), 'data');
   var outFile = path.join(outDir, 'news.json');

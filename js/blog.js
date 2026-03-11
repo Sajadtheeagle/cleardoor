@@ -524,7 +524,12 @@ function renderNewsError(){
   g.innerHTML='<div class="blog-empty"><div class="blog-empty-emoji">📡</div><div class="blog-empty-txt">Could not load live news. Check your connection and try refreshing.</div></div>';
 }
 var NEWS_SRC_COLORS={
-  cbc:'#d62c1a',bd:'#1a6b3a',cmt:'#1a4a8a',fp:'#0a2240',cbcott:'#c0392b'
+  cbc:'#d62c1a',bd:'#1a6b3a',cmt:'#1a4a8a',fp:'#0a2240',cbcott:'#c0392b',
+  betterdwelling:'#e74c3c',storeys:'#2c3e50',
+  gnre:'#1a3a6b',gnmort:'#2e7d32',gnhprice:'#c2185b',
+  gnott:'#1565c0',gnottdev:'#6a1b9a',gnottlrt:'#00838f',
+  gnboc:'#bf360c',gnpolicy:'#4527a0',gnimmig:'#00695c',
+  gnontre:'#ad1457',gnnewcon:'#e65100'
 };
 
 function extractNewsImg(item){
@@ -630,7 +635,9 @@ function fetchNews(){
   renderSourcePills(activeSources);
 
   /* IDs pre-fetched by GitHub Actions (defaults only) */
-  var DEFAULT_IDS=['cbc','bd','cmt','cbcott','gnre','gnmort','gnott'];
+  var DEFAULT_IDS=['cbc','bd','cmt','cbcott','gnre','gnmort','gnott',
+    'betterdwelling','storeys','gnhprice','gnottdev','gnottlrt',
+    'gnboc','gnpolicy','gnimmig','gnontre','gnnewcon'];
   var customSources=activeSources.filter(function(s){return DEFAULT_IDS.indexOf(s.id)===-1;});
 
   /* ② Try pre-built /data/news.json (GitHub Actions, near-instant) */
