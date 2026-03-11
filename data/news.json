@@ -1,6 +1,6 @@
 {
-  "ts": 1773246704661,
-  "fetched": "2026-03-11T16:31:44.661Z",
+  "ts": 1773246789495,
+  "fetched": "2026-03-11T16:33:09.495Z",
   "sources": [
     {
       "id": "cmt",
@@ -421,15 +421,6 @@
       "_src": "gnhprice"
     },
     {
-      "title": "Posthaste: Canada's housing affordability 'crisis' spreads, but this city is still a bright spot, says CMHC - Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4OWJlVTljdkRyRklsY1NLZFVNR0RPR1gxSkhGQnNlZXg1bjRfeGNSOElydk1wWXJzRGtaWkJwT3RCYkh5SEVQWGh6M2JqYk9nZ0c3bDZTV0YzdElTcHA5V3JHdHJYNC0ydDhMT0tlZEZ2R0tyb1E?oc=5",
-      "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA4OWJlVTljdkRyRklsY1NLZFVNR0RPR1gxSkhGQnNlZXg1bjRfeGNSOElydk1wWXJzRGtaWkJwT3RCYkh5SEVQWGh6M2JqYk9nZ0c3bDZTV0YzdElTcHA5V3JHdHJYNC0ydDhMT0tlZEZ2R0tyb1E?oc=5\" target=\"_blank\"&gt;Posthaste: Canada's housing affordability 'crisis' spreads, but this city is still a bright spot, says CMHC&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Financial Post&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort"
-    },
-    {
       "title": "The federal downsizing effect: Risk, resilience and Ottawa real estate - Ottawa Business Journal",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNThXYnVMd2VpcDJoNE1CTXdKejNRT21VOFd2UGJoLTl3Tm9VQ3F3N2NKYy0wZW92VlpnZmJuMVh5TVJIRHFiSGR3aTVrWlY3V1NTV3Z6RVZXN1NNZlRZWVhQVmJ2Tml1cjVrbHZoQ1I5QWdHM2I1MFphVnhNa1JlTjQzNHRqM0JBTXdKLQ?oc=5",
       "pubDate": "Thu, 26 Feb 2026 16:08:06 GMT",
@@ -781,15 +772,6 @@
       "_src": "gnimmig"
     },
     {
-      "title": "Non-permanent residents in the homeownership market - Statistique Canada",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ29jcGlNWDVzd3pmUEQxRXUxZnNJWXlNWElEcjlIeVlNZE54clpkTFEyeGlyTkxRdGFaZmxzMXViRUotQzhWOWFoclpSaGFFWnc3OFZnaVJmSU5qV24wdWg0VFd2NGxOdEtJTjJZMWtGRTZ4NjNaSTlidG1zSTA4Vnl3?oc=5",
-      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ29jcGlNWDVzd3pmUEQxRXUxZnNJWXlNWElEcjlIeVlNZE54clpkTFEyeGlyTkxRdGFaZmxzMXViRUotQzhWOWFoclpSaGFFWnc3OFZnaVJmSU5qV24wdWg0VFd2NGxOdEtJTjJZMWtGRTZ4NjNaSTlidG1zSTA4Vnl3?oc=5\" target=\"_blank\"&gt;Non-permanent residents in the homeownership market&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Statistique Canada&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnimmig"
-    },
-    {
       "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says - CBC",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
       "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
@@ -851,6 +833,15 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnott"
+    },
+    {
+      "title": "CMHC Second Home: Flexible Financing for Canadian Homeowners - Canada Mortgage and Housing Corporation | CMHC",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONF9PMWxrcF9tcGdocmhualVnTjQ3elQ1Y0hmcHlPRHhLeHB0QjZWOEZubFpsMXNnZ1dDNDhEVzdnRk15aDhrY0VkT1VxYXZxS0xvZU9fdEF0Umd0SURNSUU3Z01PaV9kUnlQMndVQ2FLMmhTYUJyNGp6STJLV0lDelBvcEx0Mk1VSFJsOWlpQUxzWUwzdGVUZEc4NFpIZ2ZxOWxFeW0yc0dyYkZpWEhpT1pkWW1WVjNqVEY5alloMDBPamtuekxjRXBuOWxuZ1BEM0VfejE3NUJ6ZHFNUmtjSTlTUGxBa1Z1Z2RpRG14akg3TE9PNmc?oc=5",
+      "pubDate": "Thu, 16 Oct 2025 13:24:25 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxONF9PMWxrcF9tcGdocmhualVnTjQ3elQ1Y0hmcHlPRHhLeHB0QjZWOEZubFpsMXNnZ1dDNDhEVzdnRk15aDhrY0VkT1VxYXZxS0xvZU9fdEF0Umd0SURNSUU3Z01PaV9kUnlQMndVQ2FLMmhTYUJyNGp6STJLV0lDelBvcEx0Mk1VSFJsOWlpQUxzWUwzdGVUZEc4NFpIZ2ZxOWxFeW0yc0dyYkZpWEhpT1pkWW1WVjNqVEY5alloMDBPamtuekxjRXBuOWxuZ1BEM0VfejE3NUJ6ZHFNUmtjSTlTUGxBa1Z1Z2RpRG14akg3TE9PNmc?oc=5\" target=\"_blank\"&gt;CMHC Second Home: Flexible Financing for Canadian Homeowners&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Canada Mortgage and Housing Corporation | CMHC&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort"
     },
     {
       "title": "GTA housing prices have fallen this year with slower than expected housing market: report - CP24",
@@ -1015,6 +1006,15 @@
       "_src": "gnottdev"
     },
     {
+      "title": "Housing use of immigrants and non-permanent residents in ownership and rental markets - Statistique Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUROR040Wng3R3B2RU51UTlUb3Vzb0tVdkJSbl84V01kQ2tGaUJvNGR2dng0YkJIb0xNRTcyWDJrMGRObWFiTVFBVThmalpJU2ZtcHhsY0NMYlVwRlk4Y1Y3RnhYNlJxU1J2akZLVFlrV2xhLU85S0gzQkJZTkRJTFpn?oc=5",
+      "pubDate": "Wed, 28 May 2025 07:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUROR040Wng3R3B2RU51UTlUb3Vzb0tVdkJSbl84V01kQ2tGaUJvNGR2dng0YkJIb0xNRTcyWDJrMGRObWFiTVFBVThmalpJU2ZtcHhsY0NMYlVwRlk4Y1Y3RnhYNlJxU1J2akZLVFlrV2xhLU85S0gzQkJZTkRJTFpn?oc=5\" target=\"_blank\"&gt;Housing use of immigrants and non-permanent residents in ownership and rental markets&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Statistique Canada&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnimmig"
+    },
+    {
       "title": "Has B.C.'s short-term rental crackdown made housing cheaper? - CBC",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUtWMWVCaGdlU29EV1hmcTZ2VEcxRGVIVTRLTlVXNURwb1JnM2RDMTlnM191MVlTQklnS1ZGNmhhWlY0dHRPYlp5QXk2Q1A1RUpHZ1BXLW56Z3Qyc3RwbDR3cFUxX05UWXFKS0FNR3RzSzNsR01FVldkejBLN1Y1NFBsYUlRTGtDVmtiZDhWQk5XaUxUOVo4aFZLRFU?oc=5",
       "pubDate": "Fri, 25 Apr 2025 07:00:00 GMT",
@@ -1087,15 +1087,6 @@
       "_src": "gnpolicy"
     },
     {
-      "title": "Ottawa Light Rail Transit - AECOM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
-      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5\" target=\"_blank\"&gt;Ottawa Light Rail Transit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AECOM&lt;/font&gt;",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottlrt"
-    },
-    {
       "title": "2024Unpacking the Affordable Housing Crisis - Mount Royal University",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGw0U0RiOGlvUGE3LURJTXllNTVFRTdLQmxtM2JPLW1RRGZObGotSzllR0JPVjU5M3JNVkdhdzVwMVk4ZDF5S19UbWJNLTdZZExhNHl5ajMtWW0yZGhYUFJNMmtPVGNVT054VndvU1RGbG9TTG9QNkE4dHlBUEttYlhseGVmQ2EySkJLUWRTZngtZ1Qzdkl0R2UzNnFyWXBKQ0tkTVlENVpaT3E5YVV0bmZwb2lLa2gzRGhNb1ExZDM?oc=5",
       "pubDate": "Wed, 14 Feb 2024 08:00:00 GMT",
@@ -1112,6 +1103,15 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnpolicy"
+    },
+    {
+      "title": "City outlines action plan in response to Ottawa Light Rail Transit Public Inquiry - Glen Gower",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2R3RVM2RGN1cHhhOXF5VFRxeEdoTy12dFc0MU8tWlprMkI5MUpFTE9Gb2V6WHdXNFFQSFd1MTNFZnBzUDRGR3hEUS1BVmJzN2U5WXZ2R3RCX0g1cFVQM1AzVVhpTnZ0SkJaaUxBT3pIYUl3Y1FUQ0xrdjY4c3hVUlNpdnZ2TUlVRlhGdEdNakhNSlp3VzgyS2JCU3dLSHpTdllPOWdpNTA0RHZPaEpqWkRBS1VzUQ?oc=5",
+      "pubDate": "Thu, 20 Apr 2023 07:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2R3RVM2RGN1cHhhOXF5VFRxeEdoTy12dFc0MU8tWlprMkI5MUpFTE9Gb2V6WHdXNFFQSFd1MTNFZnBzUDRGR3hEUS1BVmJzN2U5WXZ2R3RCX0g1cFVQM1AzVVhpTnZ0SkJaaUxBT3pIYUl3Y1FUQ0xrdjY4c3hVUlNpdnZ2TUlVRlhGdEdNakhNSlp3VzgyS2JCU3dLSHpTdllPOWdpNTA0RHZPaEpqWkRBS1VzUQ?oc=5\" target=\"_blank\"&gt;City outlines action plan in response to Ottawa Light Rail Transit Public Inquiry&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Glen Gower&lt;/font&gt;",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottlrt"
     },
     {
       "title": "Ottawa LRT and the Future of P3s: Public (interest), Private (collaboration) &amp; (meaningful) Partnerships - McMillan LLP",
@@ -1132,19 +1132,19 @@
       "_src": "gnottlrt"
     },
     {
-      "title": "Ottawa’s colossal LRT debacle: A brief-ish history - TVO.org",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5",
-      "pubDate": "Fri, 14 Jan 2022 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5\" target=\"_blank\"&gt;Ottawa’s colossal LRT debacle: A brief-ish history&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TVO.org&lt;/font&gt;",
+      "title": "Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects - canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU3YydHVDZWRxMi1Tc1ZjZUZORS01Nl9xd1VLNVl0LVE3dVJtZDNLRTF0RElhSG9xSEF5RU1rS3BMOXdZX1dzbHVZZmI1WHdNUG9yRDJ0X1lad29sb2QzVTR6ak9aMnVBZXZPYl9KZ3Q3LWVyV0E3V3czZXJhYXBDeDRsMG1YRURJdXRCT2Jrdkx4azB2RFZObzB1UlpSMWIyeWlUcFU5cFk2ZjIya0lVZDhfWXdLQW43RUs1M1ZvenRoblZrYUZsZGJ2S1BLa3FyQVhhTHFXeDhCNkVCYjU3R2ZJZ0tLSFNha3dveWtZeVhfS19OV2ZfX00wbmVodGpKaXc?oc=5",
+      "pubDate": "Mon, 28 Nov 2022 08:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQU3YydHVDZWRxMi1Tc1ZjZUZORS01Nl9xd1VLNVl0LVE3dVJtZDNLRTF0RElhSG9xSEF5RU1rS3BMOXdZX1dzbHVZZmI1WHdNUG9yRDJ0X1lad29sb2QzVTR6ak9aMnVBZXZPYl9KZ3Q3LWVyV0E3V3czZXJhYXBDeDRsMG1YRURJdXRCT2Jrdkx4azB2RFZObzB1UlpSMWIyeWlUcFU5cFk2ZjIya0lVZDhfWXdLQW43RUs1M1ZvenRoblZrYUZsZGJ2S1BLa3FyQVhhTHFXeDhCNkVCYjU3R2ZJZ0tLSFNha3dveWtZeVhfS19OV2ZfX00wbmVodGpKaXc?oc=5\" target=\"_blank\"&gt;Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;canada.ca&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
       "_src": "gnottlrt"
     },
     {
-      "title": "Ottawa Light Rail Transit System - Torys LLP",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
-      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5\" target=\"_blank\"&gt;Ottawa Light Rail Transit System&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Torys LLP&lt;/font&gt;",
+      "title": "Ottawa’s colossal LRT debacle: A brief-ish history - TVO.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5",
+      "pubDate": "Fri, 14 Jan 2022 08:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5\" target=\"_blank\"&gt;Ottawa’s colossal LRT debacle: A brief-ish history&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;TVO.org&lt;/font&gt;",
       "content": "",
       "thumbnail": "",
       "_src": "gnottlrt"
