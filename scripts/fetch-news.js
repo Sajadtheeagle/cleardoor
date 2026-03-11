@@ -172,6 +172,7 @@ function extractAttr(xml, tag, attr) {
 
 function parseRSS(xml, srcId) {
   var items  = [];
+  var isGoogleNews = srcId.indexOf('gn') === 0;
   var blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
 
   for (var i = 0; i < blocks.length; i++) {
@@ -190,8 +191,30 @@ function parseRSS(xml, srcId) {
     var thumbnail   = extractAttr(block, 'media:thumbnail', 'url') ||
                       extractAttr(block, 'media:content', 'url') || '';
 
+    /* Google News: extract <source> tag for real publisher info,
+       fix redirect URL, and clean description */
+    var sourceName = '';
+    var sourceUrl  = '';
+    if (isGoogleNews) {
+      sourceName = extractTag(block, 'source');
+      sourceUrl  = extractAttr(block, 'source', 'url');
+      /* Fix link: /rss/articles/ returns XML in browser;
+         /articles/ renders properly via Google News JS redirect */
+      link = link.replace('/rss/articles/', '/articles/');
+      /* Clean description: strip the useless <a> wrapper, keep plain text */
+      description = title;
+      /* Clean title: Google News appends " - Source Name" */
+      if (sourceName && title.indexOf(' - ' + sourceName) > 0) {
+        title = title.substring(0, title.lastIndexOf(' - ' + sourceName)).trim();
+      } else {
+        /* Try generic " - Source" at end */
+        var dashIdx = title.lastIndexOf(' - ');
+        if (dashIdx > title.length * 0.4) title = title.substring(0, dashIdx).trim();
+      }
+    }
+
     if (title) {
-      items.push({
+      var item = {
         title: title,
         link: link,
         pubDate: pubDate,
@@ -199,10 +222,60 @@ function parseRSS(xml, srcId) {
         content: content,
         thumbnail: thumbnail,
         _src: srcId
-      });
+      };
+      if (sourceName) item._publisher = sourceName;
+      if (sourceUrl)  item._pubUrl = sourceUrl;
+      items.push(item);
     }
   }
   return items;
+}
+
+/* --- Fetch og:image and og:description from a page URL ------------- */
+function fetchPageMeta(url) {
+  return new Promise(function(resolve) {
+    get(url).then(function(html) {
+      var ogImg = '';
+      var ogDesc = '';
+      /* og:image */
+      var imgM = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+                 html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+      if (imgM) ogImg = imgM[1];
+      /* og:description or meta description */
+      var descM = html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i) ||
+                  html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:description["']/i) ||
+                  html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i) ||
+                  html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']description["']/i);
+      if (descM) ogDesc = descM[1].replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"');
+      resolve({ image: ogImg, description: ogDesc });
+    }).catch(function() { resolve({ image: '', description: '' }); });
+  });
+}
+
+/* --- Enrich Google News items with real article metadata ------------ */
+async function enrichGoogleNewsItems(items) {
+  var gnItems = items.filter(function(it) { return it._pubUrl; });
+  if (gnItems.length === 0) return;
+  console.log('Enriching ' + gnItems.length + ' Google News items with article metadata...');
+  var BATCH = 5;
+  for (var i = 0; i < gnItems.length; i += BATCH) {
+    var batch = gnItems.slice(i, i + BATCH);
+    var results = await Promise.all(batch.map(function(it) {
+      /* Fetch the publisher homepage to at least get a favicon/logo,
+         or try the Google News /articles/ URL for the og:image */
+      return fetchPageMeta(it.link);
+    }));
+    for (var j = 0; j < batch.length; j++) {
+      if (results[j].image && !batch[j].thumbnail) batch[j].thumbnail = results[j].image;
+      if (results[j].description && batch[j].description === batch[j].title) {
+        batch[j].description = results[j].description;
+      }
+    }
+    if (i + BATCH < gnItems.length) {
+      await new Promise(function(r) { setTimeout(r, 200); });
+    }
+  }
+  console.log('Enrichment done.');
 }
 
 /* --- Main ---------------------------------------------------------- */
@@ -225,6 +298,9 @@ async function main() {
       await new Promise(function(r) { setTimeout(r, 300); });
     }
   }
+
+  /* Try to enrich Google News items with og:image from their Google News page */
+  await enrichGoogleNewsItems(all);
 
   /* Sort newest-first then dedup (same headline from multiple sources) */
   all.sort(function(a, b) {
