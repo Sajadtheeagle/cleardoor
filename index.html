@@ -730,6 +730,41 @@
     </div>
   </div>
 
+  <!-- ── News article detail view (full-page, like blog articles) ── -->
+  <div id="news-article-view" style="display:none">
+    <div class="blog-article-view">
+      <div class="blog-art-topbar">
+        <button class="blog-back-btn" onclick="newsShowList()">← Back to News</button>
+        <div class="blog-art-share">
+          <button class="blog-art-share-btn" onclick="newsCopyLink()">🔗 Copy Link</button>
+          <button class="blog-art-share-btn" onclick="newsShareEmail()">📧 Share</button>
+        </div>
+      </div>
+      <div class="blog-art-layout">
+        <div class="blog-art-main">
+          <div id="news-art-content"></div>
+        </div>
+        <aside class="blog-sidebar">
+          <div class="blog-sb-box">
+            <div class="blog-sb-label">Related News</div>
+            <div id="news-related"></div>
+          </div>
+          <div class="blog-sb-nl">
+            <div class="blog-sb-label">📬 Weekly Newsletter</div>
+            <p>Real estate news & buyer tips every Friday. Free.</p>
+            <input class="blog-sb-nl-input" type="email" id="news-sb-nl-input" placeholder="your@email.com" onkeydown="if(event.key==='Enter')newsSubscribeSb()">
+            <button class="blog-sb-nl-btn" onclick="newsSubscribeSb()">Subscribe →</button>
+            <div class="blog-sb-nl-thanks" id="news-sb-nl-thanks">✅ Subscribed!</div>
+          </div>
+          <div class="blog-sb-box" id="news-sb-source-info">
+            <div class="blog-sb-label">Source Info</div>
+            <div id="news-sb-source-detail" style="font-size:.78rem;line-height:1.9;color:var(--gray);"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 
