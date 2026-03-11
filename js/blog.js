@@ -786,6 +786,14 @@ function blogInit(){
    NEWS ARCHIVE VIEWER
    ═══════════════════════════════════════════════════════════ */
 var archiveState={items:[],filtered:[],page:0,perPage:30,loaded:false};
+var ARCHIVE_SRC_LABELS={
+  gnre:'Canada Real Estate',gnmort:'Mortgage & Housing',gnhprice:'Home Prices',
+  gnott:'Ottawa Real Estate',gnottdev:'Ottawa Development',gnottlrt:'Ottawa Transit & Infra',
+  gnboc:'Bank of Canada Rates',gnpolicy:'Housing Policy',gnimmig:'Immigration & Housing',
+  gnontre:'Ontario Real Estate',gnnewcon:'New Construction',
+  cmt:'Canadian Mortgage Trends',betterdwelling:'Better Dwelling',storeys:'Storeys',
+  cbc:'CBC News',bd:'Better Dwelling',fp:'Financial Post',cbcott:'CBC Ottawa'
+};
 
 function archiveInit(){
   if(archiveState.loaded){archiveRender();return;}
@@ -822,11 +830,9 @@ function archiveBuildFilters(){
   });
   var srcSel=document.getElementById('archive-source-filter');
   if(srcSel){
-    var srcLabels={};
-    (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
     var srcKeys=Object.keys(sources).sort();
     srcSel.innerHTML='<option value="all">All Sources ('+srcKeys.length+')</option>'+
-      srcKeys.map(function(k){return'<option value="'+k+'">'+(srcLabels[k]||k)+'</option>';}).join('');
+      srcKeys.map(function(k){return'<option value="'+k+'">'+(ARCHIVE_SRC_LABELS[k]||k)+'</option>';}).join('');
   }
   var yrSel=document.getElementById('archive-year-filter');
   if(yrSel){
@@ -890,13 +896,10 @@ function archiveRender(){
   }
   if(empty)empty.style.display='none';
 
-  var srcLabels={};
-  (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
-
   grid.innerHTML=visible.map(function(item,idx){
     var d=new Date(item.pubDate);
     var dateStr=isNaN(d)?'':d.toLocaleDateString('en-CA',{year:'numeric',month:'short',day:'numeric'});
-    var srcLabel=srcLabels[item._src]||item._src||'';
+    var srcLabel=ARCHIVE_SRC_LABELS[item._src]||item._src||'';
     var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
     var ex=stripHtml(item.description||'').substring(0,140);
     if(ex.length===140)ex+='...';
@@ -930,9 +933,7 @@ function archiveLoadMore(){
 function openArchiveArticle(idx){
   var item=archiveState.filtered[idx];
   if(!item)return;
-  var srcLabels={};
-  (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
-  var srcLabel=srcLabels[item._src]||item._src||'';
+  var srcLabel=ARCHIVE_SRC_LABELS[item._src]||item._src||'';
   var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
   var img=extractNewsImg(item);
   var content=item.description||item.contentSnippet||'';
