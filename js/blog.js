@@ -893,7 +893,7 @@ function archiveRender(){
   var srcLabels={};
   (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
 
-  grid.innerHTML=visible.map(function(item){
+  grid.innerHTML=visible.map(function(item,idx){
     var d=new Date(item.pubDate);
     var dateStr=isNaN(d)?'':d.toLocaleDateString('en-CA',{year:'numeric',month:'short',day:'numeric'});
     var srcLabel=srcLabels[item._src]||item._src||'';
@@ -901,10 +901,11 @@ function archiveRender(){
     var ex=stripHtml(item.description||'').substring(0,140);
     if(ex.length===140)ex+='...';
     var img=extractNewsImg(item);
+    var srcIcons={gnre:'🏠',gnmort:'🏦',gnhprice:'💰',gnott:'🏛️',gnottdev:'🏗️',gnottlrt:'🚇',gnboc:'📈',gnpolicy:'📋',gnimmig:'✈️',gnontre:'🍁',gnnewcon:'🔨',cmt:'📊',betterdwelling:'📰',storeys:'🏢'};
     var visual=img
-      ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
-      :'<span class="news-no-img" style="background:'+clr+'"><span>'+srcLabel+'</span></span>';
-    return'<div class="archive-card" onclick="window.open(\''+item.link+'\',\'_blank\')" role="button" tabindex="0">'+
+      ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.parentElement.innerHTML=\'<div class=archive-card-no-img style=background:'+clr+'><span class=arc-icon>'+(srcIcons[item._src]||'📰')+'</span><span class=arc-label>'+srcLabel+'</span></div>\'">'
+      :'<div class="archive-card-no-img" style="background:'+clr+'"><span class="arc-icon">'+(srcIcons[item._src]||'📰')+'</span><span class="arc-label">'+srcLabel+'</span></div>';
+    return'<div class="archive-card" onclick="openArchiveArticle('+idx+')" role="button" tabindex="0">'+
       '<div class="archive-card-visual">'+visual+'</div>'+
       '<div class="archive-card-body">'+
         '<div class="archive-card-meta">'+
@@ -913,6 +914,7 @@ function archiveRender(){
         '</div>'+
         '<div class="archive-card-title">'+item.title+'</div>'+
         (ex?'<div class="archive-card-excerpt">'+ex+'</div>':'')+
+        '<div class="archive-card-footer"><span>'+dateStr+'</span><span class="archive-card-read">Read →</span></div>'+
       '</div>'+
     '</div>';
   }).join('');
@@ -923,4 +925,44 @@ function archiveRender(){
 function archiveLoadMore(){
   archiveState.page++;
   archiveRender();
+}
+
+function openArchiveArticle(idx){
+  var item=archiveState.filtered[idx];
+  if(!item)return;
+  var srcLabels={};
+  (NEWS_SOURCES||[]).forEach(function(s){srcLabels[s.id]=s.label;});
+  var srcLabel=srcLabels[item._src]||item._src||'';
+  var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
+  var img=extractNewsImg(item);
+  var content=item.description||item.contentSnippet||'';
+  if(!/<[a-z][\s\S]*>/i.test(content))content='<p>'+content.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
+  var d=new Date(item.pubDate);
+  var dateStr=isNaN(d)?'':d.toLocaleDateString('en-CA',{year:'numeric',month:'long',day:'numeric'});
+  var old=document.getElementById('news-reader-modal');
+  if(old)old.remove();
+  var modal=document.createElement('div');
+  modal.id='news-reader-modal';
+  modal.innerHTML=[
+    '<div class="nrm-overlay" onclick="closeNewsReader()"></div>',
+    '<div class="nrm-panel">',
+      '<button class="nrm-close" onclick="closeNewsReader()">✕</button>',
+      img?('<div class="nrm-img-wrap"><img src="'+img+'" alt="" onerror="this.parentElement.style.display=\'none\'"></div>'):'',
+      '<div class="nrm-content">',
+        '<div class="nrm-meta">',
+          '<span class="nrm-source-badge" style="background:'+clr+'">'+srcLabel+'</span>',
+          '<span class="nrm-date">'+dateStr+'</span>',
+        '</div>',
+        '<h1 class="nrm-title">'+item.title+'</h1>',
+        '<div class="nrm-body">'+content+'</div>',
+        '<a class="nrm-full-link" href="'+item.link+'" target="_blank" rel="noopener noreferrer">Read Full Article on '+srcLabel+' →</a>',
+      '</div>',
+    '</div>'
+  ].join('');
+  document.body.appendChild(modal);
+  document.body.style.overflow='hidden';
+  requestAnimationFrame(function(){
+    var panel=modal.querySelector('.nrm-panel');
+    if(panel)requestAnimationFrame(function(){panel.classList.add('open');});
+  });
 }
