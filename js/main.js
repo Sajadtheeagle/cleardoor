@@ -26,6 +26,7 @@ function showPage(id){
   if(id==='newconstruction')renderNC();
   if(id==='ottawaplan'){setTimeout(()=>{initOPMap();},100);}
   if(id==='rss-admin'){rssAdminInit();}
+  if(id==='dashboard'){if(typeof dashCheckAuth==='function')dashCheckAuth();}
   closeDrawer();
 }
 // ══ DRAWER ══
@@ -55,6 +56,7 @@ function closeDrawer(){ document.getElementById('drawer').classList.remove('open
 function insNewsletter(page){
   var inp=document.getElementById(page+'-nl-email');
   if(!inp||!inp.value.includes('@')){if(inp)inp.style.borderColor='#ef4444';return;}
+  if(typeof dashSaveSubscriber==='function')dashSaveSubscriber(inp.value.trim(),'home-'+page);
   var strip=inp.closest('.nl-cta-strip');
   if(strip)strip.innerHTML='<div style="color:var(--green);font-weight:700;padding:.8rem 0">✓ You\'re subscribed! Watch your inbox 📬</div>';
 }

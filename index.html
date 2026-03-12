@@ -1156,6 +1156,98 @@
 </div>
 <!-- ══ END RSS DASHBOARD ══ -->
 
+<!-- ════════════ ADMIN DASHBOARD ════════════ -->
+<div id="page-dashboard" class="page">
+  <div class="dash-login" id="dash-login">
+    <div class="rss-login-card">
+      <div class="rss-login-icon">📊</div>
+      <h2 class="rss-login-h">ClearDoor Dashboard</h2>
+      <p class="rss-login-sub">Newsletter subscribers &amp; news KPIs</p>
+      <div class="rss-login-fields">
+        <input type="password" id="dash-pass" placeholder="Admin password" class="rss-input" onkeydown="if(event.key==='Enter')dashLogin()">
+        <div id="dash-login-err" class="rss-msg rss-msg--error" style="display:none"></div>
+        <button class="rss-add-btn rss-login-btn" onclick="dashLogin()">Sign In →</button>
+      </div>
+    </div>
+  </div>
+  <div id="dash-content" style="display:none">
+    <div class="hero" style="padding:2.5rem 5% 2rem;background:linear-gradient(135deg,#0a1628 0%,var(--navy) 100%)">
+      <div class="hero-inner" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem">
+        <div>
+          <div class="h-eyebrow">📊 Admin Dashboard</div>
+          <h1 style="color:#fff">ClearDoor Analytics</h1>
+          <p style="color:rgba(255,255,255,.7)">Newsletter subscribers, news performance &amp; content KPIs</p>
+        </div>
+        <button class="rss-logout-btn" onclick="dashLogout()">Sign Out</button>
+      </div>
+    </div>
+    <div class="section" style="max-width:1200px">
+      <!-- KPI Cards -->
+      <div id="dash-kpi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-bottom:2rem"></div>
+      <!-- Tabs -->
+      <div style="display:flex;gap:.5rem;margin-bottom:1.5rem;flex-wrap:wrap">
+        <button class="dash-tab active" onclick="dashSwitchTab('subscribers',this)">📬 Subscribers</button>
+        <button class="dash-tab" onclick="dashSwitchTab('sources',this)">📡 News Sources</button>
+        <button class="dash-tab" onclick="dashSwitchTab('articles',this)">📰 Recent Articles</button>
+        <button class="dash-tab" onclick="dashSwitchTab('settings',this)">⚙️ Settings</button>
+      </div>
+      <!-- Tab Panels -->
+      <div id="dash-panel-subscribers" class="dash-panel">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;margin-bottom:1rem">
+          <h3 style="margin:0;color:var(--navy)">Newsletter Subscribers</h3>
+          <button class="rss-add-btn" onclick="dashExportCSV()" style="font-size:.8rem;padding:.4rem 1rem">⬇ Export CSV</button>
+        </div>
+        <div id="dash-sub-list"></div>
+      </div>
+      <div id="dash-panel-sources" class="dash-panel" style="display:none">
+        <h3 style="margin:0 0 1rem;color:var(--navy)">Articles by Source</h3>
+        <div id="dash-source-chart"></div>
+      </div>
+      <div id="dash-panel-articles" class="dash-panel" style="display:none">
+        <h3 style="margin:0 0 1rem;color:var(--navy)">Latest Articles</h3>
+        <div id="dash-article-list"></div>
+      </div>
+      <div id="dash-panel-settings" class="dash-panel" style="display:none">
+        <h3 style="margin:0 0 1rem;color:var(--navy)">Newsletter Settings</h3>
+        <div style="background:#fff;border:1.5px solid var(--border);border-radius:14px;padding:1.5rem;margin-bottom:1rem">
+          <label style="font-weight:700;color:var(--navy);display:block;margin-bottom:.5rem">Google Sheets Webhook URL</label>
+          <p style="font-size:.82rem;color:var(--gray);margin-bottom:.8rem">Paste your Google Apps Script URL here to save newsletter subscribers to a Google Sheet automatically.</p>
+          <input type="url" id="dash-webhook-url" class="rss-input" placeholder="https://script.google.com/macros/s/..." style="margin-bottom:.8rem">
+          <button class="rss-add-btn" onclick="dashSaveWebhook()" style="font-size:.82rem;padding:.45rem 1.2rem">Save Webhook URL</button>
+          <div id="dash-webhook-status" style="margin-top:.5rem;font-size:.82rem"></div>
+        </div>
+        <div style="background:#f0f6ff;border:1.5px solid #d0e2f7;border-radius:14px;padding:1.5rem">
+          <h4 style="margin:0 0 .8rem;color:var(--navy)">Setup Instructions</h4>
+          <ol style="font-size:.85rem;color:var(--gray);line-height:1.8;padding-left:1.2rem">
+            <li>Create a new Google Sheet</li>
+            <li>Go to Extensions → Apps Script</li>
+            <li>Replace the code with the script below, then Deploy → New deployment → Web app</li>
+            <li>Set "Who has access" to "Anyone" and copy the URL</li>
+            <li>Paste the URL above</li>
+          </ol>
+          <pre style="background:#1a2332;color:#e0e7ef;padding:1rem;border-radius:10px;overflow-x:auto;font-size:.75rem;margin-top:.8rem;line-height:1.6">function doPost(e) {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var data = JSON.parse(e.postData.contents);
+  sheet.appendRow([new Date(), data.email, data.page || 'unknown']);
+  return ContentService.createTextOutput(
+    JSON.stringify({status:'ok'})
+  ).setMimeType(ContentService.MimeType.JSON);
+}
+function doGet() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var data = sheet.getDataRange().getValues();
+  var rows = data.slice(1).map(function(r){
+    return {date:r[0],email:r[1],page:r[2]};
+  });
+  return ContentService.createTextOutput(
+    JSON.stringify({subscribers:rows})
+  ).setMimeType(ContentService.MimeType.JSON);
+}</pre>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
   <!-- ══ Core Data ══ -->
   <script src="js/new-construction.js"></script>
@@ -1173,6 +1265,9 @@
 
   <!-- ══ RSS Admin ══ -->
   <script src="js/rss-admin.js"></script>
+
+  <!-- ══ Dashboard ══ -->
+  <script src="js/dashboard.js"></script>
 
   <!-- ══ Main (load last — runs init) ══ -->
   <script src="js/main.js"></script>

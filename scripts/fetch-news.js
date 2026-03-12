@@ -41,6 +41,16 @@ const SOURCES = [
     label: 'Storeys',
     url: 'https://storeys.com/feed/'
   },
+  {
+    id: 'cbcott',
+    label: 'CBC Ottawa',
+    url: 'https://www.cbc.ca/webfeed/rss/rss-canada-ottawa'
+  },
+  {
+    id: 'cbcnews',
+    label: 'CBC News',
+    url: 'https://rss.cbc.ca/lineup/topstories.xml'
+  },
   /* -- Google News: Real Estate & Housing --------------------------- */
   {
     id: 'gnre',
@@ -252,23 +262,31 @@ function fetchPageMeta(url) {
   });
 }
 
-/* --- Enrich Google News items with real article metadata ------------ */
+/* --- Enrich items with real article metadata ----------------------- */
 async function enrichGoogleNewsItems(items) {
-  var gnItems = items.filter(function(it) { return it._pubUrl; });
+  /* Enrich both Google News items AND direct feed items with short descriptions */
+  var gnItems = items.filter(function(it) {
+    if (it._pubUrl) return true;  /* Google News: always enrich */
+    var plain = (it.description || '').replace(/<[^>]+>/g, '').trim();
+    return plain.length < 200 && it.link;  /* Direct feeds with short desc */
+  });
   if (gnItems.length === 0) return;
-  console.log('Enriching ' + gnItems.length + ' Google News items with article metadata...');
+  console.log('Enriching ' + gnItems.length + ' items with article metadata...');
   var BATCH = 5;
   for (var i = 0; i < gnItems.length; i += BATCH) {
     var batch = gnItems.slice(i, i + BATCH);
     var results = await Promise.all(batch.map(function(it) {
-      /* Fetch the publisher homepage to at least get a favicon/logo,
-         or try the Google News /articles/ URL for the og:image */
+      /* Fetch article page for og:image + og:description */
       return fetchPageMeta(it.link);
     }));
     for (var j = 0; j < batch.length; j++) {
       if (results[j].image && !batch[j].thumbnail) batch[j].thumbnail = results[j].image;
-      if (results[j].description && batch[j].description === batch[j].title) {
-        batch[j].description = results[j].description;
+      if (results[j].description) {
+        /* Store enriched description for article preview */
+        batch[j]._ogDesc = results[j].description;
+        if (batch[j].description === batch[j].title) {
+          batch[j].description = results[j].description;
+        }
       }
     }
     if (i + BATCH < gnItems.length) {
