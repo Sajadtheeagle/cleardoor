@@ -114,7 +114,7 @@ const SOURCES = [
 ];
 
 const MAX_PER_SOURCE = 10;
-const TIMEOUT_MS     = 15000;
+const TIMEOUT_MS     = 30000;
 
 /* --- Dedup helper: removes articles with identical titles ---------- */
 function dedup(items) {

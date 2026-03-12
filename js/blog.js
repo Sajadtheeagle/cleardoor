@@ -483,16 +483,17 @@ function _getNewsSources(){
     if(Array.isArray(s)&&s.length)return s;
   }catch(e){}
   return[
-    {id:'cbc',    label:'CBC News',               url:'https://rss.cbc.ca/lineup/topstories.xml'},
-    {id:'bd',     label:'Better Dwelling',        url:'https://betterdwelling.com/feed/'},
+    {id:'cbcnews',label:'CBC News',               url:'https://rss.cbc.ca/lineup/topstories.xml'},
+    {id:'cbcott', label:'CBC Ottawa',             url:'https://www.cbc.ca/webfeed/rss/rss-canada-ottawa'},
+    {id:'betterdwelling',label:'Better Dwelling',  url:'https://betterdwelling.com/feed/'},
     {id:'cmt',    label:'Canadian Mortgage Trends',url:'https://www.canadianmortgagetrends.com/feed/'},
-    {id:'cbcott', label:'CBC Ottawa',             url:'https://rss.cbc.ca/lineup/canada/ottawa.xml'},
+    {id:'storeys',label:'Storeys',                url:'https://storeys.com/feed/'},
   ];
 }
 var RSS2JSON='https://api.rss2json.com/v1/api.json?rss_url=';
 var NEWS_CACHE_KEY='cd_news_v2';
 var NEWS_TTL=15*60*1000;
-var newsState={source:'all',items:[],reFilter:true};
+var newsState={source:'all',items:[],reFilter:false};
 
 function _itemMatchesReFilter(item){
   var text=((item.title||'')+' '+(item.description||'')+' '+(item.content||'')).toLowerCase();
@@ -661,8 +662,8 @@ function fetchNews(){
   renderSourcePills(activeSources);
 
   /* IDs pre-fetched by GitHub Actions (defaults only) */
-  var DEFAULT_IDS=['cbc','bd','cmt','cbcott','gnre','gnmort','gnott',
-    'betterdwelling','storeys','gnhprice','gnottdev','gnottlrt',
+  var DEFAULT_IDS=['cbcnews','cbcott','betterdwelling','cmt','storeys',
+    'gnre','gnmort','gnott','gnhprice','gnottdev','gnottlrt',
     'gnboc','gnpolicy','gnimmig','gnontre','gnnewcon'];
   var customSources=activeSources.filter(function(s){return DEFAULT_IDS.indexOf(s.id)===-1;});
 
@@ -968,7 +969,7 @@ var ARCHIVE_SRC_LABELS={
   gnboc:'Bank of Canada Rates',gnpolicy:'Housing Policy',gnimmig:'Immigration & Housing',
   gnontre:'Ontario Real Estate',gnnewcon:'New Construction',
   cmt:'Canadian Mortgage Trends',betterdwelling:'Better Dwelling',storeys:'Storeys',
-  cbc:'CBC News',bd:'Better Dwelling',fp:'Financial Post',cbcott:'CBC Ottawa'
+  cbc:'CBC News',cbcnews:'CBC News',bd:'Better Dwelling',fp:'Financial Post',cbcott:'CBC Ottawa'
 };
 
 function archiveInit(){
