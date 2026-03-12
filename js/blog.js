@@ -575,9 +575,18 @@ function renderNewsGrid(items){
     var srcLabel=getNewsLabel(item);
     var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
     var rawDesc=stripHtml(item.description||'');
-    /* If description equals the title (Google News default), show publisher instead */
-    var ex=(rawDesc===item.title||rawDesc.length<20)?srcLabel:rawDesc.substring(0,160);
-    if(ex.length===160)ex+='…';
+    /* Build best excerpt: prefer og:description > description > publisher name.
+       Google News descs are often just "title - source", detect and skip those. */
+    var ogD=item._ogDesc||'';
+    var descIsTitle=rawDesc===item.title||rawDesc.length<20||
+      (rawDesc.indexOf(item.title)===0&&rawDesc.length<item.title.length+40);
+    var ex;
+    if(descIsTitle){
+      ex=ogD?stripHtml(ogD).substring(0,160):srcLabel;
+    }else{
+      ex=rawDesc.substring(0,160);
+    }
+    if(ex.length>=160)ex+='…';
     var visual=img
       ?'<img src="'+img+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
       :'<span class="news-no-img" style="background:'+clr+'"><span>'+srcLabel+'</span></span>';
@@ -729,19 +738,43 @@ function _newsOpenArticle(item,items,source){
   /* Strip leading <img> tags from description (already shown in hero) */
   rawContent=rawContent.replace(/^(\s*<img[^>]*>\s*(<br\s*\/?>)*\s*)+/i,'');
   var plainText=stripHtml(rawContent).trim();
-  /* If content is just a link/title repeat or too short, show a friendly message */
   var isGoogleNews=(item._src||'').indexOf('gn')===0;
+  var ogDesc=item._ogDesc||'';
   var content;
-  if(!plainText||plainText.length<30||isGoogleNews||plainText===item.title){
-    var enrichedDesc=item._ogDesc||'';
-    content='<div style="padding:1.5rem;background:var(--light);border-radius:14px;border:1px solid var(--border);margin-bottom:1.5rem">'+
-      '<p style="margin:0 0 .6rem;font-weight:700;color:var(--navy);font-size:1.05rem">📰 Article from '+srcLabel+'</p>'+
-      (enrichedDesc?'<p style="margin:0;color:var(--gray);font-size:.92rem;line-height:1.7">'+enrichedDesc+'</p>':
-      '<p style="margin:0;color:var(--gray);font-size:.92rem;line-height:1.7">Click the button below to read the full story on the original source.</p>')+
-    '</div>';
-  }else{
+
+  /* ── Tier 1: Rich content (500+ chars, e.g. Storeys, Better Dwelling) ── */
+  if(!isGoogleNews && plainText.length>=500 && plainText!==item.title){
     content=rawContent;
     if(!/<[a-z][\s\S]*>/i.test(content))content='<p>'+content.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
+
+  /* ── Tier 2: Medium content (50-499 chars, e.g. CBC, CMT short descs) ── */
+  }else if(!isGoogleNews && plainText.length>=50 && plainText!==item.title){
+    /* Build a clean article-style preview from available text */
+    var bodyHtml=rawContent;
+    if(!/<[a-z][\s\S]*>/i.test(bodyHtml))bodyHtml='<p>'+bodyHtml.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
+    /* If we have a richer og:description, append it as additional context */
+    if(ogDesc && ogDesc.length>plainText.length){
+      bodyHtml+='<p style="margin-top:1rem;color:var(--dark);line-height:1.8">'+ogDesc+'</p>';
+    }
+    content=bodyHtml+
+      '<div style="margin-top:1.2rem;padding:1rem 1.2rem;background:var(--light);border-radius:10px;border:1px solid var(--border)">'+
+        '<p style="margin:0;font-size:.88rem;color:var(--gray)">📖 This is a summary from '+srcLabel+'. Read the full article for complete details.</p>'+
+      '</div>';
+
+  /* ── Tier 3: Minimal / Google News (short desc or no real content) ── */
+  }else{
+    var previewText=ogDesc||plainText||'';
+    if(previewText && previewText!==item.title){
+      content='<div style="padding:1.5rem;background:var(--light);border-radius:14px;border:1px solid var(--border);margin-bottom:1.5rem">'+
+        '<p style="margin:0 0 .8rem;font-weight:700;color:var(--navy);font-size:1.05rem">📰 Article from '+srcLabel+'</p>'+
+        '<p style="margin:0;color:var(--dark);font-size:.95rem;line-height:1.8">'+previewText+'</p>'+
+      '</div>';
+    }else{
+      content='<div style="padding:1.5rem;background:var(--light);border-radius:14px;border:1px solid var(--border);margin-bottom:1.5rem">'+
+        '<p style="margin:0 0 .6rem;font-weight:700;color:var(--navy);font-size:1.05rem">📰 Article from '+srcLabel+'</p>'+
+        '<p style="margin:0;color:var(--gray);font-size:.92rem;line-height:1.7">Click the button below to read the full story on the original source.</p>'+
+      '</div>';
+    }
   }
   var d=new Date(item.pubDate);
   var dateStr=isNaN(d)?'':d.toLocaleDateString('en-CA',{year:'numeric',month:'long',day:'numeric'});

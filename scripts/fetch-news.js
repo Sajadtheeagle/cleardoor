@@ -262,34 +262,52 @@ function fetchPageMeta(url) {
   });
 }
 
+/* --- Extract embedded <img> from HTML description (e.g. CBC) ------- */
+function extractDescImg(desc) {
+  var m = desc.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return (m && m[1] && m[1].indexOf('http') === 0) ? m[1] : '';
+}
+
 /* --- Enrich items with real article metadata ----------------------- */
-async function enrichGoogleNewsItems(items) {
-  /* Enrich both Google News items AND direct feed items with short descriptions */
-  var gnItems = items.filter(function(it) {
-    if (it._pubUrl) return true;  /* Google News: always enrich */
-    var plain = (it.description || '').replace(/<[^>]+>/g, '').trim();
-    return plain.length < 200 && it.link;  /* Direct feeds with short desc */
+async function enrichItems(items) {
+  /* Phase 1: extract embedded images from HTML descriptions (CBC style) */
+  items.forEach(function(it) {
+    if (!it.thumbnail) {
+      var embedded = extractDescImg(it.description || '');
+      if (embedded) it.thumbnail = embedded;
+    }
   });
-  if (gnItems.length === 0) return;
-  console.log('Enriching ' + gnItems.length + ' items with article metadata...');
+
+  /* Phase 2: fetch og:meta for direct feed items missing thumb or with short desc.
+     Skip Google News — their links are JS redirects that don't resolve server-side. */
+  var toEnrich = items.filter(function(it) {
+    if (it._src.indexOf('gn') === 0) return false; /* skip Google News */
+    var plain = (it.description || '').replace(/<[^>]+>/g, '').trim();
+    var needsThumb = !it.thumbnail;
+    var needsDesc  = plain.length < 300;
+    return (needsThumb || needsDesc) && it.link;
+  });
+
+  if (toEnrich.length === 0) { console.log('No items need enrichment.'); return; }
+  console.log('Enriching ' + toEnrich.length + ' direct-feed items with og:meta...');
   var BATCH = 5;
-  for (var i = 0; i < gnItems.length; i += BATCH) {
-    var batch = gnItems.slice(i, i + BATCH);
+  for (var i = 0; i < toEnrich.length; i += BATCH) {
+    var batch = toEnrich.slice(i, i + BATCH);
     var results = await Promise.all(batch.map(function(it) {
-      /* Fetch article page for og:image + og:description */
       return fetchPageMeta(it.link);
     }));
     for (var j = 0; j < batch.length; j++) {
       if (results[j].image && !batch[j].thumbnail) batch[j].thumbnail = results[j].image;
       if (results[j].description) {
-        /* Store enriched description for article preview */
         batch[j]._ogDesc = results[j].description;
-        if (batch[j].description === batch[j].title) {
+        /* Replace description only if current one is very short or just the title */
+        var plain = (batch[j].description || '').replace(/<[^>]+>/g, '').trim();
+        if (plain === batch[j].title || plain.length < 100) {
           batch[j].description = results[j].description;
         }
       }
     }
-    if (i + BATCH < gnItems.length) {
+    if (i + BATCH < toEnrich.length) {
       await new Promise(function(r) { setTimeout(r, 200); });
     }
   }
@@ -318,7 +336,7 @@ async function main() {
   }
 
   /* Try to enrich Google News items with og:image from their Google News page */
-  await enrichGoogleNewsItems(all);
+  await enrichItems(all);
 
   /* Sort newest-first then dedup (same headline from multiple sources) */
   all.sort(function(a, b) {
