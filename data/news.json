@@ -1,6 +1,6 @@
 {
-  "ts": 1773639413670,
-  "fetched": "2026-03-16T05:36:53.670Z",
+  "ts": 1773640824167,
+  "fetched": "2026-03-16T06:00:24.167Z",
   "sources": [
     {
       "id": "cmt",
@@ -240,17 +240,6 @@
       "_pubUrl": "https://financialpost.com"
     },
     {
-      "title": "National housing supply made strides in 2025 amid weak demand, condo struggles: CMHC",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxQb0xHVV9sNHZ1UzF3eUczd0hlMFFaYVRwMmdvRFJzOWFzM0ZUNVZTQXhOU05Md0dGcGtMMmRSWnlxWUFPVzdyMy1ZRUlvc0tyVHMzRk82WFhmdTBfTTkwWU0tSkxVeFNvQmpQSkNqOTBWeVNYTnU2R2duMU45UzlXN2xPZVEtYW1qckdaMUpLRmttY1M4Sl9palpfVm1OSExjLTlab1J4Ny1jaUhETjJ0VG9RTEhvU3hzeWQ5VFppeDdLTlJYUEdvem5kaXV0M0J3YnpGZXFISjZzbUtu?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 10:37:26 GMT",
-      "description": "National housing supply made strides in 2025 amid weak demand, condo struggles: CMHC - constructconnect.com",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort",
-      "_publisher": "constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com"
-    },
-    {
       "title": "It’s been four years since Ottawa’s LRT public inquiry. Where does the train stand now?",
       "link": "https://news.google.com/articles/CBMiwgFBVV95cUxNbnVwWWZwVDgwMU1mbEhfbjdHQ2VSZzZuc3JRNnVqTFRDMGc5dGYyWHFOY0JDVXJ3c2hwMHZVNXViYVFvVm56M19QZXo1cnBoZGpyVUJrZXJ3SkpDMnJrNl9pblRUZUVyWjRIMzFuX1dwZlRFVXBXcHBYMEFvMFJCTnEwbmpoNXc5VVZNeFNlLW81bldfLWhGRDRsNUtmcXdEYnRTeXB6d3JoTjZaVy1XQzB0d29HTDBCTzN4SkxpV1hPZw?oc=5",
       "pubDate": "Fri, 13 Mar 2026 09:18:56 GMT",
@@ -355,6 +344,16 @@
       "_ogDesc": "Royal Bank of Canada says it has acquired financial technology firm Pinch Financial Inc."
     },
     {
+      "title": "National housing supply made strides in 2025 amid weak demand, condo struggles: CMHC",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/national-housing-supply-made-strides-in-2025-amid-weak-demand-condo-struggles-cmhc/",
+      "pubDate": "Thu, 12 Mar 2026 00:41:28 +0000",
+      "description": "Canada's housing agency says the country made \"meaningful\" supply gains last year thanks to record rental construction and more “missing middle” type housing, however short-term imbalances remain for several markets.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/11/Housing-starts-OCtober-2025-500x331.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Canada&#039;s housing agency says the country made \"meaningful\" supply gains last year thanks to record rental construction and more “missing middle” type housing, however short-term imbalances remain for several markets."
+    },
+    {
       "title": "Record number of rental housing units to be built in Montreal by 2025",
       "link": "https://news.google.com/articles/CBMimwFBVV95cUxQQ1BPVG5mRjdqdmh1SHQ3OE5YWEFkal9OdEd1WnhrXy03THpIb0R4V3NkdkpQckl0dUtNY2t6N3Z4aXFwNWRCWDBrR05NdnJETGZxeTZEaXFDeDNIOUIxazU0a1ZvbmhxaVZDQlR0Z2t6ZjItc2RLc1M1TkVLTHNSRFd3OTV1UWZ0U2NlVi1acUZVUHZtVEl3OFNQdw?oc=5",
       "pubDate": "Wed, 11 Mar 2026 18:23:13 GMT",
@@ -364,6 +363,17 @@
       "_src": "gnmort",
       "_publisher": "CityNews Montreal",
       "_pubUrl": "https://montreal.citynews.ca"
+    },
+    {
+      "title": "Canada made ‘meaningful’ housing supply gains in 2025, CMHC says",
+      "link": "https://news.google.com/articles/CBMikgFBVV95cUxORXQ2MktlTHZ0Rjk4ZENVMFdSYkRxdXdpLWJqWmRyODI2OVJ2VXpvaWpyb0tXWEh4U05GQjdZdHJfWDlYbEJjeTUwNVViQkh3d1dOZ1NHMkVtWUU2RHoyRXNzSUFuTm92RmVYcl9Kc0pKaEVxN1RmckVORmNPMWpDdVUyVUlhMkFLMURQektsc1dfUQ?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 17:36:07 GMT",
+      "description": "Canada made ‘meaningful’ housing supply gains in 2025, CMHC says - The Globe and Mail",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com"
     },
     {
       "title": "Canada Housing Starts Rise In 2025, But Condo Pipeline Weakens: CMHC",
@@ -836,17 +846,6 @@
       "_pubUrl": "https://macleans.ca"
     },
     {
-      "title": "Construction starts on Metro Vancouver condo tower defying market headwinds",
-      "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQOGFzRVZQNHZYdVBEM2dJSEU4UjBPUUZMQV9Ka3hybENadnNGdHg0Q3BYaGN1RWRTclpwLXNwR0ZQQnNQS2UxOEhVU0dXSng1dWUzWXI5b3NLZ0k1MDJJc0laZ0Z4QjVNRkRwQVllZkV1OGg0RXFEeHBJZ29IT3VDUEdLVURkYWZsNnBpS19hZl9jSDhEeXJySThFb0VCQzlBRjdvOXlPcmsxZw?oc=5",
-      "pubDate": "Sat, 27 Dec 2025 08:00:00 GMT",
-      "description": "Construction starts on Metro Vancouver condo tower defying market headwinds - Daily Hive Vancouver",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnnewcon",
-      "_publisher": "Daily Hive Vancouver",
-      "_pubUrl": "https://dailyhive.com"
-    },
-    {
       "title": "Ottawa committees greenlight landmark zoning by-law to boost housing supply and cut red tape",
       "link": "https://news.google.com/articles/CBMixwFBVV95cUxQa0pwejU1SWQ3eERabDdGaVRIaGZRM3k2T0VVX1ZENzdDZzVBUlM1Y3FXRWtXTk1HY0ZWYWVzQzF0dldwVjdQOUVsRmhoTm0xeWFBQUZrTkJDTkJJMlpkNWlVak1Ka2pBNU1xZTV0TUo4azhLNTB2V2U4SGVSaGJNVUZKVGJDbDVmUklpTWwwTlN5U2plUlZpRmZJWUdoUzZHSE85TXBfejBkV3B2UEZaMFpVblAzTHhNQVh6MEVaSjVvU0M5cUFV?oc=5",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
@@ -1012,17 +1011,6 @@
       "_pubUrl": "https://www.ctvnews.ca"
     },
     {
-      "title": "Home prices increase in Waterloo Region, new data shows",
-      "link": "https://news.google.com/articles/CBMimwFBVV95cUxPT1loeTN6RlBfNEhZZEZFZzdzRFZpNS14LXU0ZmNnb0lpZ1BiNEtXamQ4NGZTMHV0Y3BITFk0cHVka1NsMFlEVmZhVmp5aXR6S29fMXBSS3hPT2dOZlBzNmtxR1NhVDVHakFseklodVkzS3Zrb0ItV2M1dG9FY0pSOGN1N3RWeG1xajZ0dmxOTi1HclpLdHA3cUFaMA?oc=5",
-      "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "description": "Home prices increase in Waterloo Region, new data shows - CityNews Kitchener",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnhprice",
-      "_publisher": "CityNews Kitchener",
-      "_pubUrl": "https://kitchener.citynews.ca"
-    },
-    {
       "title": "Ottawa real estate gains pace — average prices up, but uneven recovery ahead",
       "link": "https://news.google.com/articles/CBMicEFVX3lxTE15SFh4Smxub0ZkNGVBbEhoWWluY0U0Wnd2cnIxZWdmWEF5S3VtVFBrdWROemNKamxSUWd5ejhqbG5ldmFrSU9BS3dYU1NJNGVSbjltUi1YdHJtNFRJWll0SXJRM2p0OVJrZkdXa3NVSEw?oc=5",
       "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT",
@@ -1153,6 +1141,17 @@
       "_src": "gnimmig",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com"
+    },
+    {
+      "title": "Lasting Tariffs Will Shape Canada’s Economy and Housing Market in 2025",
+      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxNUzhmU3FmUXBxNUZsaE9XaWd0akpVUnpEYlZFQVVQazB4T0g0SHlBODlSaGFDUk81N3VEdTdRZlhUUGFSM0VUQWd0elJTUEhBa2t1RExCdEFtWGdJTzBnOTJTcEZsc1VFbE1UX01IRzA5cTVRamxDQ053RV9famRQVFNfem96NXJ5Q1hZ?oc=5",
+      "pubDate": "Thu, 24 Jul 2025 07:00:00 GMT",
+      "description": "Lasting Tariffs Will Shape Canada’s Economy and Housing Market in 2025 - Canada Mortgage and Housing Corporation | CMHC",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnhprice",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca"
     },
     {
       "title": "Opinion: Canada’s outdated elevator rules are adding to the housing crisis",
@@ -1320,6 +1319,17 @@
       "_pubUrl": "https://ontariopc.ca"
     },
     {
+      "title": "Ottawa Light Rail Transit",
+      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
+      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
+      "description": "Ottawa Light Rail Transit - AECOM",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottlrt",
+      "_publisher": "AECOM",
+      "_pubUrl": "https://aecom.com"
+    },
+    {
       "title": "Rideau Transit Group, P3 council issue statements following scathing Ottawa LRT inquiry",
       "link": "https://news.google.com/articles/CBMi6gFBVV95cUxPcGN6QmFBeXhHem5hMTZQcnFPMmlhT2FJX2FrVVNlejk4Z2E1alA4UG1ONlFaWDF3eEgyak8zLU91VWxoN19UMWdGMlMtYXl5SzhfM3VGVjNKdDVCM2prNmVGYTMzWUxONHY2dUNwcG4zT0tielhTdjFRZjZKSlRCZjFQcXNDNHl1MmF3dDB3Z2QycUt0UTJCWkxwSll5U1ZpNkEwUVl5eGxlSWdtaTZHYnpnSllpNWRfYWNreGNTeEZwRXFqbWUtRnh2VVg3SVhzNEZpMi1Xa3JuNUdGYjNVV1JKdDN4Y20zcFE?oc=5",
       "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
@@ -1351,17 +1361,6 @@
       "_src": "gnottlrt",
       "_publisher": "TVO.org",
       "_pubUrl": "https://www.tvo.org"
-    },
-    {
-      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
-      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
-      "description": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history - Ottawa Citizen",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottlrt",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com"
     },
     {
       "title": "Prime Minister announces significant funding to extend Ottawa’s Light Rail Transit system",
