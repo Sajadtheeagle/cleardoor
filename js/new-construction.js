@@ -1,7 +1,86 @@
 /* CLEARDOOR — NEW CONSTRUCTION
    Projects data · render · compare · modal
 ================================================================ */
+// ══ TRIDEL LIVE FEED FROM N8N ══
+// Add this at the TOP of your existing new-construction.js file
+// It fetches live listings and merges them into your existing ncData array
 
+const TRIDEL_WEBHOOK = 'https://sajadbahramian.app.n8n.cloud/webhook/tridel-listings';
+
+async function loadTridelFromN8N() {
+  try {
+    const res = await fetch(TRIDEL_WEBHOOK);
+    if (!res.ok) throw new Error('Network response was not ok');
+    const listings = await res.json();
+
+    // Convert n8n data to match your existing ncData object format
+    const tridelProjects = listings.map((l, i) => ({
+      id: 'tridel-' + i,
+      name: l.name || 'Unnamed',
+      builder: 'Tridel',
+      city: mapTridelCity(l.location),        // maps neighbourhood → city
+      neighbourhood: l.location || '',
+      type: 'Condo',
+      status: mapTridelStatus(l.status),      // maps to your 'pre' / 'ready'
+      statusLabel: l.status || '',
+      price: parseTridelPrice(l.price),       // converts "$1,099,000" → 1099000
+      priceLabel: l.price || 'Price TBD',
+      occupancy: l.occupancy || '',
+      img: l.imgSrc || '',
+      imgAlt: l.imgAlt || l.name,
+      url: l.url || '#',
+      desc: `${l.name} by Tridel — ${l.location}. ${l.status}.`,
+      features: [],
+      beds: null,
+      baths: null,
+    }));
+
+    // Merge into your existing ncData array (avoids duplicates by id)
+    const existingIds = new Set((window.ncData || []).map(p => p.id));
+    const newItems = tridelProjects.filter(p => !existingIds.has(p.id));
+    window.ncData = [...newItems, ...(window.ncData || [])];
+
+    // Re-render the grid if the page is already showing
+    if (typeof renderNC === 'function') renderNC();
+
+  } catch (err) {
+    console.warn('Tridel feed unavailable, using static data only.', err);
+  }
+}
+
+// ── Helpers ──────────────────────────────────────────
+
+function mapTridelCity(location) {
+  if (!location) return 'Toronto';
+  const l = location.toLowerCase();
+  if (l.includes('north york') || l.includes('finch') || l.includes('yonge'))
+    return 'North York';
+  if (l.includes('etobicoke') || l.includes('islington') || l.includes('kingsway') ||
+      l.includes('royal york') || l.includes('dundas'))
+    return 'Etobicoke';
+  if (l.includes('mississauga') || l.includes('lakeshore') || l.includes('lakeview'))
+    return 'Mississauga';
+  if (l.includes('thornhill') || l.includes('bayview') || l.includes('royal orchard'))
+    return 'Thornhill';
+  return 'Toronto';
+}
+
+function mapTridelStatus(status) {
+  if (!status) return 'pre';
+  const s = status.toLowerCase();
+  if (s.includes('move in') || s.includes('final suites') || s.includes('tour model'))
+    return 'ready';
+  return 'pre';
+}
+
+function parseTridelPrice(priceStr) {
+  if (!priceStr) return 0;
+  const num = priceStr.replace(/[^0-9]/g, '');
+  return parseInt(num, 10) || 0;
+}
+
+// ── Auto-run when DOM is ready ────────────────────────
+document.addEventListener('DOMContentLoaded', loadTridelFromN8N);
 // ══ DATA ══
 const ncProjects = [
   {id:1,name:"King West Condos",builder:"Tridel",city:"Toronto",type:"Condo",status:"pre",price:649000,priceLabel:"From $649K",beds:"1–3",sqft:"520–1,100",occ:"2027",features:["Rooftop Terrace","Concierge","Gym","Underground Parking"],desc:"Luxury pre-construction condos in the heart of King West. Steps from the Entertainment District, world-class restaurants, and TTC.",emoji:"🏢",website:"https://tridel.com"},
