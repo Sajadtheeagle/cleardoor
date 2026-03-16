@@ -2,7 +2,6 @@
    Projects data · render · compare · modal
 ================================================================ */
 // ══ TRIDEL LIVE FEED FROM N8N ══
-// Add this at the TOP of your existing new-construction.js file
 // It fetches live listings and merges them into your existing ncData array
 
 const TRIDEL_WEBHOOK = 'https://sajadbahramian.app.n8n.cloud/webhook/tridel-listings';
@@ -81,6 +80,7 @@ function parseTridelPrice(priceStr) {
 
 // ── Auto-run when DOM is ready ────────────────────────
 document.addEventListener('DOMContentLoaded', loadTridelFromN8N);
+
 // ══ DATA ══
 const ncProjects = [
   {id:1,name:"King West Condos",builder:"Tridel",city:"Toronto",type:"Condo",status:"pre",price:649000,priceLabel:"From $649K",beds:"1–3",sqft:"520–1,100",occ:"2027",features:["Rooftop Terrace","Concierge","Gym","Underground Parking"],desc:"Luxury pre-construction condos in the heart of King West. Steps from the Entertainment District, world-class restaurants, and TTC.",emoji:"🏢",website:"https://tridel.com"},
