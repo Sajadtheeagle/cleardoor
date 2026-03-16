@@ -1,6 +1,6 @@
 {
-  "ts": 1773608346383,
-  "fetched": "2026-03-15T20:59:06.383Z",
+  "ts": 1773632846014,
+  "fetched": "2026-03-16T03:47:26.014Z",
   "sources": [
     {
       "id": "cmt",
@@ -69,15 +69,36 @@
   ],
   "items": [
     {
-      "title": "Building for Tomorrow: How Canadian Real Estate Must Adapt to a Changing Climate",
-      "link": "https://news.google.com/articles/CBMi5gFBVV95cUxQOXBuT3c1NFJfcnA0RlVoYWRDTklHLVNJRDJDLVFsOTV5ZVJvWk1HVDJONndRWno3bTFiRmRnLUJCVVhNX1ZGSjNHRVVZVV9pZmdkNkoyamdjWF9JbDJkZTBOMTctX0ZMRHM1SEVyZllRUlRPSVFZaDdTLWtVV2ZRYnIwMVFscWg5SU0xSi1oZEZBQWEtRk9iMnI2eTlvbnNjdnFNU1ROdmZKT3NYUXJINVhHWHFGUUhCWjFEZWZhcjhuRkc0VkRCcG1SUHdoZEMxS2s0ZmQ1OFRqQ2NERVU3N1h4OWsxUQ?oc=5",
-      "pubDate": "Sun, 15 Mar 2026 17:40:00 GMT",
-      "description": "Building for Tomorrow: How Canadian Real Estate Must Adapt to a Changing Climate - FinancialContent",
+      "title": "Inflation data and Bank of Canada decision lead busy week for mortgage watchers",
+      "link": "https://news.google.com/articles/CBMixgFBVV95cUxNcGxQQUF1WFNiWnN5RktCM216dmFRaDdsYTdrN1A2WGNKMVd5VnJhMFRaeWJlUDJ5X0d3Y0w4Umk1QjRLS001NTB1X3gtNU45SVhYODhzbXdLcU5zWDZSV0RHemJSOHBKeFBfN0hFN2FzYkRuU3hZOTF5Y25fY18wSTJZcEZ3TGZfaGJuREUweFhOQmgtUE1pYmprWHNDN0NLelJVREdNYnNiYXAwOVA4NUxNX2xqckg2STIwTEJnZExrQzFfTWc?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 03:27:17 GMT",
+      "description": "Inflation data and Bank of Canada decision lead busy week for mortgage watchers - Canadian Mortgage Trends",
       "content": "",
       "thumbnail": "",
       "_src": "gnre",
-      "_publisher": "FinancialContent",
-      "_pubUrl": "https://markets.financialcontent.com"
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com"
+    },
+    {
+      "title": "Greater Toronto condo owners shifting to renovations as market downturn continues",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/greater-toronto-condo-owners-shifting-to-renovations-as-market-downturn-continues/",
+      "pubDate": "Mon, 16 Mar 2026 00:55:23 +0000",
+      "description": "It's a problem some condo buyers didn't foresee when they locked in their home purchase during the pandemic, hoping that 600-square-foot space in central Toronto would be a bridge to eventually buying a house.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/04/CN-Tower-can-be-seen-behind-condos-in-Torontos-Liberty-Village-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "It&#039;s a problem some condo buyers didn&#039;t foresee when they locked in their home purchase during the pandemic, hoping that 600-square-foot space in central Toronto would be a bridge to eventually buying a house."
+    },
+    {
+      "title": "Bank of Canada expected to hold rates amid oil-driven inflation risk",
+      "link": "https://news.google.com/articles/CBMiugFBVV95cUxQNnY2blpHRUJvQS1mc3lnNDNtOWpDVlpnOTJjVkNVa0g3aDJRZkpZbHlManJ2TUwxeS1ZaEtkRjJnZW9DcmpYUFRTX3pIZmhUc0kyNmxPdnM4Nk5ZeVhMRnFiZzk2NlBIQ2ZPM2Z6TGgxUWhPd3hIVXZDbzlSYkt5WE54LXJGTmEtc1VncmtoZVpXOWVUcHVhcXhMVWUxMGhSRG5XSXNkRjJJLTZkbVpaejdXNTVodXl6ZlE?oc=5",
+      "pubDate": "Sun, 15 Mar 2026 20:17:35 GMT",
+      "description": "Bank of Canada expected to hold rates amid oil-driven inflation risk - The Globe and Mail",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnboc",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com"
     },
     {
       "title": "Bank of Canada's upcoming interest rate decision clouded by war in Middle East",
@@ -89,6 +110,17 @@
       "_src": "gnboc",
       "_publisher": "MSN",
       "_pubUrl": "https://www.msn.com"
+    },
+    {
+      "title": "Bank of Canada expected to hold firm on rates. Here’s where experts see interest rates going this year",
+      "link": "https://news.google.com/articles/CBMi9AFBVV95cUxOZDJrRnZINUMxS0VrSDdoZG9UWmc2YjVhLU9mQzJfT0VtcF9SNWdfYV9QM29BbnhaRDFPOEVrYlNMYlhLQWNmczhGZWRjVUoyXzdCSDZ4Xy1DVUcyaktyZk5NQjJVTFlSZzhSSHNpQ3JCRVNCN3RNYW55TG1Ddmtzc2dLV3pPcVoyWXRhUTRjaXRvcW5IWkFYdVNuT01mWXRRQ2s3bzVLZG9pclpNTy1nckMxZ3h1WHJmc2lSZWxHMVVUTlVLcTJtY3JTMFpRTmNlVC1JSk5LUEhJTnZVT0c3M3VZZXJ6djVlTC1Kb2d0cWtscGlK?oc=5",
+      "pubDate": "Sat, 14 Mar 2026 18:25:39 GMT",
+      "description": "Bank of Canada expected to hold firm on rates. Here’s where experts see interest rates going this year - Toronto Star",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnboc",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com"
     },
     {
       "title": "Will Bank of Canada decide to cut interest rates after dismal February jobs report?",
@@ -122,17 +154,6 @@
       "_src": "gnontre",
       "_publisher": "Inside Halton",
       "_pubUrl": "https://www.insidehalton.com"
-    },
-    {
-      "title": "Bank of Canada expected to hold firm on rates. Here’s where experts see interest rates going this year",
-      "link": "https://news.google.com/articles/CBMi9AFBVV95cUxOZDJrRnZINUMxS0VrSDdoZG9UWmc2YjVhLU9mQzJfT0VtcF9SNWdfYV9QM29BbnhaRDFPOEVrYlNMYlhLQWNmczhGZWRjVUoyXzdCSDZ4Xy1DVUcyaktyZk5NQjJVTFlSZzhSSHNpQ3JCRVNCN3RNYW55TG1Ddmtzc2dLV3pPcVoyWXRhUTRjaXRvcW5IWkFYdVNuT01mWXRRQ2s3bzVLZG9pclpNTy1nckMxZ3h1WHJmc2lSZWxHMVVUTlVLcTJtY3JTMFpRTmNlVC1JSk5LUEhJTnZVT0c3M3VZZXJ6djVlTC1Kb2d0cWtscGlK?oc=5",
-      "pubDate": "Sat, 14 Mar 2026 09:00:00 GMT",
-      "description": "Bank of Canada expected to hold firm on rates. Here’s where experts see interest rates going this year - Toronto Star",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnboc",
-      "_publisher": "Toronto Star",
-      "_pubUrl": "https://www.thestar.com"
     },
     {
       "title": "Canada’s housing crisis won't be solved by doing the same things. Here's what must happen",
@@ -189,24 +210,15 @@
       "_pubUrl": "https://financialpost.com"
     },
     {
-      "title": "Multi-Generational Living Is Reshaping Canada's Housing Market - And Developers Who Ignore It Will Be Left Behind",
-      "link": "https://news.google.com/articles/CBMi5AFBVV95cUxOdVBOcXdTQzJGUFgycnk0dU54eU5TVXo0MjhzajR2Vnh2SWN2RG9XSGxEQV9zRGxvWmZPTHhNVkpQQ1o0cGEyMW5UT0ZPTVlQclMtd1ctSFRTV0k2dVE3YjYyMTRDUWs2RjZEQUNSY2pKSEdhVVRzR095ZDlJLUpfVG9JZUN0UmNOU2w3QmllUjAyZ0Jjd3VvX0U2Yy16cXpDMjRtVnhSeW9GRlNqTnZvN09kVmYyb05fWmNFckttV2dGdmRIb0tEcDhBVXg2OG5nVUhDUWpyaE9zazdweXVOQnluZ1g?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 15:28:29 GMT",
-      "description": "Multi-Generational Living Is Reshaping Canada's Housing Market - And Developers Who Ignore It Will Be Left Behind - ACCESS Newswire",
+      "title": "New $1.3B Fund Launched To Buy Unsold GTA Condos, Convert To Rental",
+      "link": "https://news.google.com/articles/CBMibkFVX3lxTE1PV2VYeG1PRVlNN2dTYXhJeWRyaE5vRUNabjNCeXZOd25FTGJ6Q3JhV093Tll1YTVFQ0lHSjB0MDQ3SnBHMzMycTVoVWFIenRnTXNsTFN3aS10dTRCR0liSDNmekJ5T2l2dXlRLWhn?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 13:54:01 GMT",
+      "description": "New $1.3B Fund Launched To Buy Unsold GTA Condos, Convert To Rental - Storeys",
       "content": "",
       "thumbnail": "",
-      "_src": "gnre",
-      "_publisher": "ACCESS Newswire",
-      "_pubUrl": "https://www.accessnewswire.com"
-    },
-    {
-      "title": "New $1.3B Fund Launched To Buy Unsold GTA Condos, Convert To Rental",
-      "link": "https://storeys.com/gta-rental-affordable-housing-initiative/",
-      "pubDate": "Fri, 13 Mar 2026 13:51:12 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=51246017&width=1245&height=700&coordinates=0%2C0%2C0%2C0\"/><br/><br/><p>This week, <a href=\"https://highartcap.com/\" rel=\"noopener noreferrer\" target=\"_blank\">High Art Capital</a> and the <a href=\"https://buildingonfund.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Building Ontario Fund</a> announced that they had partnered to launch the GTA Rental and Affordable Housing Initiative, a fund that will “acquire blocks of newly completed, unsold condominium units across the Greater Toronto Area and convert them into long-term rental housing.”</p><p>The partners said the fund is expected to be capitalized with a minimum of $1.3 billion, anchored by up to $300 million in mezzanine debt financing and a nominal equity investment from Building Ontario Fund (BOF) — the arms-length board-governed Crown agency established by the Government of Ontario in 2024.</p><p>High Art Capital, a Toronto-based private investment that says it likes to “deploy disciplined capital where structural opportunities meet operational expertise” and “where objective fundamentals meet subjective insight,” said the commitment from BOF closed on February 13.</p><p>The GTA Rental and Affordable Housing Initiative has a target of 2,200 units, in the near-term, that it hopes to convert into rental units, including around 550 affordable rental units that will be provided at the lower of 25% below-market rent or 30% of median gross household income across the GTA. The tenure would be secured in perpetuity through agreements and titled-based protections.</p><p>The partners say that the affordable units “are intended for the GTA’s workforce, who may be priced out of market rents, yet do not qualify for rent-geared-to-income or other subsidized programs.”</p><p>The initiative will be led by High Art Capital, which has now launched a <a href=\"https://highartcap.com/vendor-intake\" rel=\"noopener noreferrer\" target=\"_blank\">submission portal</a> for developers / vendors. Eligible submissions must meet the following criteria:</p><ol><li>Residential condominium units (including stacked towns) in registered residential or mixed-use condominium buildings;</li><li>Blocks of at least 10 vacant units in the same building;</li><li>New builds only (completed on or after January 1, 2023); and</li><li>Located within: City of Toronto, Durham, Halton, Peel, or York (Ontario, Canada).</li></ol><p>High Art Capital says it has reached an agreement with prominent Toronto-based developers <a href=\"https://www.tridel.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tridel</a> and <a href=\"https://www.menkes.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Menkes</a> to manage the leasing and tenancies. A not-for-profit organization will then be engaged to allocate the affordable units to eligible applicants, with support from Tridel and Menkes.</p><p>“Timing matters in this market,” said High Art Capital Managing Partner Ryan Roebuck in a <a href=\"https://www.newsfilecorp.com/release/288033/High-Art-Capital-Announces-GTA-Rental-and-Affordable-Housing-Initiative-in-Partnership-with-Building-Ontario-Fund\" rel=\"noopener noreferrer\" target=\"_blank\">press release</a>. “There is a rare opportunity right now to convert newly completed but unsold housing into long-term rental supply at scale. This initiative is designed to create real housing availability in the near term, preserve a meaningful affordable component and help stabilize a critical segment of the GTA housing market, all of which has become possible through our partners at BOF.”</p><p>“This partnership demonstrates the power of collaboration between the public and private sectors to address housing challenges,” added Building Ontario Fund CEO Michael Fedchyshyn. “By working together with High Art Capital and our service providers, we're creating rental housing options in the near-term, and securing affordable homes for generations to come. This project was made possible by BOF's participation, requiring no development charge, tax waivers, or direct subsidies to realize its affordability objectives. This type of innovative approach, a first of its kind at this scale, is exactly why BOF was created.”</p><p>According to a <a href=\"https://storeys.com/condo-completions-sales-urbanation-gtha/\" rel=\"\" target=\"_self\">report</a> published by real estate consultation firm Urbanation Inc. earlier this year, the Greater Toronto and Hamilton Area was sitting on 3,897 completed and unsold condo units at the end of 2025 — a 131% year-over-year increase and five times higher than levels seen in 2023.</p><p>Urbanation also noted that approximately 10% of pre-sold condos that were registered in 2025 were taken back by developers after purchasers failed to close on the purchase, representing approximately 3,000 units.</p>",
-      "content": "",
-      "thumbnail": "https://storeys.com/media-library/image.jpg?id=51246017&amp;width=980",
-      "_src": "storeys"
+      "_src": "gnnewcon",
+      "_publisher": "Storeys",
+      "_pubUrl": "https://storeys.com"
     },
     {
       "title": "Canadian bonds surge after economy loses most jobs since 2022",
@@ -227,17 +239,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/03/Industrial-lands-500x346.jpg",
       "_src": "cmt",
       "_ogDesc": "An organization representing about 1,200 appraisers in British Columbia says some of its members are adding clauses to their reports noting that current, past, and potential future land claims have not been considered in their valuations."
-    },
-    {
-      "title": "Posthaste: Oil supply shock could force the Bank of Canada's hand yet",
-      "link": "https://news.google.com/articles/CBMihgFBVV95cUxOSTBmSUhGal9Ib1JVRXFSaGNjdFQ5OFBuRUo3RndCVjZKLWJwdzIxMFZ6TXV2NlMyRlVrTURSMEduZGhqQk1XenpDS0hnM252ZV8tWTFDUl80T3V3RWZvM0dZR2pLWENseC0wWTU4cC1yQWIzck9mVkE0Y1NTZGE3OEI1OWJyQQ?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 12:00:22 GMT",
-      "description": "Posthaste: Oil supply shock could force the Bank of Canada's hand yet - Yahoo! Finance Canada",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnboc",
-      "_publisher": "Yahoo! Finance Canada",
-      "_pubUrl": "https://ca.finance.yahoo.com"
     },
     {
       "title": "National housing supply made strides in 2025 amid weak demand, condo struggles: CMHC",
@@ -262,6 +263,17 @@
       "_pubUrl": "https://www.ipolitics.ca"
     },
     {
+      "title": "Canadian inflation print unlikely to sway BoC from keeping rates on hold",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "description": "Canadian inflation print unlikely to sway BoC from keeping rates on hold - rbc.com",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnboc",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com"
+    },
+    {
       "title": "Economist says new home construction could fall in B.C. as home sales sluggish in February",
       "link": "https://news.google.com/articles/CBMinwFBVV95cUxPN3pKc0gteEJoNEFlUnd4OFYzZ2tvVUM1ZTd6azVhTHh3Uk10c2llN0pQb3hibE13bjNSMjRiTDhxMGJ3aW1ucXZnNGZyd1ZNZVRwWlF0QjNqS1BKblJWZnFONm44ZXRUcWVhdHRHZjNmaTJRLWVBOEJNdTdiVmhSanAtdVRWbXJPbnRWZGI5c2x5UGNpeGdESFFORzJ4ZjQ?oc=5",
       "pubDate": "Fri, 13 Mar 2026 03:09:00 GMT",
@@ -271,17 +283,6 @@
       "_src": "gnre",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca"
-    },
-    {
-      "title": "B.C. home sales drop in every region with struggles expected to continue into 2026",
-      "link": "https://news.google.com/articles/CBMihgFBVV95cUxQX21fOGJ4Nmg1RGJ4aWJGeHF6bXN4WjV0dTlOYktNaHN5TXQ2NGF2bHp1SFdvcy1WVDdoVWx1N2w3UzRDbFVRYnBEektTUkxFb2RCZkFqOW5pRkpabkVMcjczTi1SUHhzUFdaOHgwMklXYUtkLUZzaFlRQ2lSVXV2d1dKcXFqdw?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 21:44:00 GMT",
-      "description": "B.C. home sales drop in every region with struggles expected to continue into 2026 - Daily Hive Vancouver",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnre",
-      "_publisher": "Daily Hive Vancouver",
-      "_pubUrl": "https://dailyhive.com"
     },
     {
       "title": "Inside RBC’s acquisition of mortgage fintech Pinch Financial",
@@ -343,17 +344,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/03/Vehicles-at-the-Annacis-Auto-Terminal-on-Annacis-Island_sm-500x333.jpg",
       "_src": "cmt",
       "_ogDesc": "Canada’s trade deficit widened in January as exports of motor vehicles and parts fell to the lowest level in more than four years. "
-    },
-    {
-      "title": "War in the Middle East could result in mortgage rate hikes. Here’s how to prepare for it",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxQbk0yNjBYbHhhVHVYRDBrSENlYXEwY2drdmh6TzVmMFJ6eURqSGh3MnZoaVB4aE5nR3hvajZDcWJ4ZjhuUWY0UVBPNXpMSzN1cDhuamJ1aTJFLVRpVzlnakE5eUxZbEptVGJTZF9UWTNlc2VFZC0yQUtXMnhnbHpDVHFzNmxrVjZBdlpYc1FJVmtwclg5Nm5SVlc4U0VYQURORVh1LUJ3?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 11:00:00 GMT",
-      "description": "War in the Middle East could result in mortgage rate hikes. Here’s how to prepare for it - The Globe and Mail",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnboc",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com"
     },
     {
       "title": "RBC acquires fintech company Pinch Financial, terms not immediately available",
@@ -425,16 +415,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/rendering-of-the-first-tower-in-the-fairview-mall-master-plan-project.png?id=65173869&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "What happens when a private mortgage renews above 100% LTV?",
-      "link": "https://www.canadianmortgagetrends.com/2026/03/what-happens-when-a-private-mortgage-renews-above-100-ltv/",
-      "pubDate": "Tue, 10 Mar 2026 02:49:41 +0000",
-      "description": "Why some borrowers are turning to complex restructuring — including subordination agreements — and the risks that come with them.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/03/Mortgage-questions_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Why some borrowers are turning to complex restructuring — including subordination agreements — and the risks that come with them."
     },
     {
       "title": "New Research Signals Mortgage Relief As Pandemic Renewal Wave Wanes",
@@ -515,17 +495,6 @@
       "_src": "storeys"
     },
     {
-      "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
-      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 10:19:26 GMT",
-      "description": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules - Ontario Construction News",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com"
-    },
-    {
       "title": "Immigration could soon account for all of Canada’s population growth: expert",
       "link": "https://news.google.com/articles/CBMitAFBVV95cUxQYVhIZnBkdk5nTUx4NEZMTUJFcEc5ZVVYOHVHUGk0cDVJWHJDWHpaNmZJWUh2MjNzcVBGd3NFYllrNTFBdDVQa2ltdHdwWDRnQ2hWUTRUQllxWk1xMHViX1VacGtPcWh6ZnNEMVh4NDVHdjlDelEzbk5sRUs4UThuQVN4MjNUT180QUpfMlIxOEg4Vk9lSDhGN0t6MnVvTmJTZVNhdmdra1NpdTV1MVBBdEhPOGE?oc=5",
       "pubDate": "Wed, 04 Mar 2026 09:03:55 GMT",
@@ -546,17 +515,6 @@
       "_src": "gnimmig",
       "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com"
-    },
-    {
-      "title": "CMHC Announces Housing Research Award Winners",
-      "link": "https://news.google.com/articles/CBMinwFBVV95cUxQbjNiMndjTXVUYV85ZzZFdVdJTWNVSFJHQWVqc3gxUWRQSVNpUGZFOGlzdFdvSG1qSXhnUGM1X3Q5b0xaVTgzc0hHUEJJVk91RjdtVElULVU1dmJnRVIwcXZjSFBzWEhSekI1SVVZbllyME5CcUNsbFUyd1BXUUNXZkNhTGlUSTFwZmpLMGhsS3Z0MEZlcTdqa2xPOVc2R2c?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 16:00:00 GMT",
-      "description": "CMHC Announces Housing Research Award Winners - Newswire Canada",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort",
-      "_publisher": "Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca"
     },
     {
       "title": "Calgary home sales down 11 per cent in February as condo activity slips: board",
@@ -592,6 +550,17 @@
       "_pubUrl": "https://financialpost.com"
     },
     {
+      "title": "CMHC Forecast Warns GTA Home Constructi­on Will Slow Through 2028",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxPVDRGU01DdU1BdmZqX0tJaFdINnZfNXBWYXJWb3FWdnpsVnBrTjRPeFNfbkFJZjFyMENHYm81aXNYWWh6NU0ydjBxR2ZpSjFyTmtxWnFWa19na1c1WXJWNzVqN2pKOENMV05NTTM0NGoyRFAwTmhVZC1jVnF6SHZuVWY3RFUyamxB?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "description": "CMHC Forecast Warns GTA Home Constructi­on Will Slow Through 2028 - PressReader",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnnewcon",
+      "_publisher": "PressReader",
+      "_pubUrl": "https://www.pressreader.com"
+    },
+    {
       "title": "Home Prices Are Finally Dropping",
       "link": "https://news.google.com/articles/CBMihgFBVV95cUxOQ0stSlFrSG5oeS1IVl9QMDhsSjk2TUh5QlN2WkdSU2NMTllfQWtwbnI5VXE2dXJBS2xSWFZoaDh3UEZJbFQxdDM4MUdEazNHVU85U205QjlZNFJac2lPSTk4SFVab1V0aWJxSnZKYmZCeTRfbFVGdGhhWS14TUNkaERNMVNYQQ?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
@@ -601,17 +570,6 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca"
-    },
-    {
-      "title": "Winnipeg Housing Market Outlook 2026",
-      "link": "https://news.google.com/articles/CBMic0FVX3lxTFB1c1RUalpMRDEtY3RtaE5vY21sWGJXUUVPamNmTFFaYWRic29LT29sWkRxTUdTajdEczlVMjRxQ2tzYnhNbVh2OGtCZThjTjQ0N3VhcjNrdV9QblMtZTJmMUlUdUthSkJhdEpwVnlQTG1kMGs?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "description": "Winnipeg Housing Market Outlook 2026 - nesto.ca",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnhprice",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca"
     },
     {
       "title": "Ottawa Housing Market Outlook 2026",
@@ -636,6 +594,17 @@
       "_pubUrl": "https://www.crea.ca"
     },
     {
+      "title": "National real estate association blames Ontario snowstorm for cooling housing sales in January",
+      "link": "https://news.google.com/articles/CBMif0FVX3lxTE0zR1VBdm1WWU5kdVdYX0tGVHp6cTBMRmZqdmtlcFdGcUhpWkFBbEl6YzRlRnM5eldKZUtxNmdMWEZ6MXVfTzdYZEluX0toMWVuaWlzeUZxcFRQR1JicXR4bkMxTjY3cU1ITHI4TmxFOHpqXzRoSWZreDJNLVpLckU?oc=5",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "description": "National real estate association blames Ontario snowstorm for cooling housing sales in January - CBC",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnontre",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca"
+    },
+    {
       "title": "Ontario Housing Market Outlook 2026",
       "link": "https://news.google.com/articles/CBMickFVX3lxTE5UYlBzNkpnYW0wc0FlS3NyTkV5MFFQeDJ4cUdUc3lZYmhRRmZHeFlwc2xBcjlLZlo1OXFhemRmZEstdFFnR3QwVDVSZm1XMV9STFU5VDQway10QWR5R19YTk5DTHV0VFhwSno4VHlOM2VOdw?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
@@ -647,15 +616,37 @@
       "_pubUrl": "https://www.nesto.ca"
     },
     {
-      "title": "National real estate association blames Ontario snowstorm for cooling housing sales in January",
-      "link": "https://news.google.com/articles/CBMif0FVX3lxTE0zR1VBdm1WWU5kdVdYX0tGVHp6cTBMRmZqdmtlcFdGcUhpWkFBbEl6YzRlRnM5eldKZUtxNmdMWEZ6MXVfTzdYZEluX0toMWVuaWlzeUZxcFRQR1JicXR4bkMxTjY3cU1ITHI4TmxFOHpqXzRoSWZreDJNLVpLckU?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "description": "National real estate association blames Ontario snowstorm for cooling housing sales in January - CBC",
+      "title": "Housing market faces possible recession in 2026 amid ‘subdued’ demand: CMHC - National",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE5pNXhVNUh0VUc1YWh4RnJ1T1RYWXJWSVJ1TjYxN2pDc0xURzJTNGdnTmlxdlJGQ0Fkc29QbzZmdkkxa1BYQ3Vjd3FxTVRaV3hBWnJiSGVfdlB5VVJKVHJHYUVrWGstdHN6VTBLOGNVejN5QQ?oc=5",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "description": "Housing market faces possible recession in 2026 amid ‘subdued’ demand: CMHC - National - Global News",
       "content": "",
       "thumbnail": "",
-      "_src": "gnontre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca"
+      "_src": "gnre",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca"
+    },
+    {
+      "title": "Ottawa home prices drop 4.5% in January",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxNdU5PWVBJVTlkTUtOQ21ybUhHeEhQTExkTi1EcEJVZnh1RVZ6UlRWR3pjenlDNWtROWV4LTNhR1VCWlRUS1ZpYUU5MFFjQ3dpR2hjTmQ1MDNyYnBsaVhoMGZ3RjFrMmI4QUVMTEFsZGJQWXdkY3ZrUTl3UzlzaEJKd05B?oc=5",
+      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "description": "Ottawa home prices drop 4.5% in January - CTV News",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnott",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca"
+    },
+    {
+      "title": "Mortgage renewal wave strains some regions and borrowers",
+      "link": "https://news.google.com/articles/CBMimgFBVV95cUxQZS1nTDZVQVpnVFBWanhqT25qR3RTbFhrc1NtYXpCVlJsb2hQS0RHTkNMb0NZWTAtMnY0ZmlBVWUxSFdRTF84WE1tOWtzMFdmNGczNnp1SmNZaDl5R0poUmU1WVctWnRleTdUcmtNa0dmdU5VSmRCaEYzU2t5bllLOEhReHFzNllLM2VUb0tyaEh0MXR2bHdfb1B3?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "description": "Mortgage renewal wave strains some regions and borrowers - Canada Mortgage and Housing Corporation | CMHC",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca"
     },
     {
       "title": "Power-of-sale listings spike across Ontario, piling pressure on housing market",
@@ -678,6 +669,17 @@
       "_src": "gnpolicy",
       "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com"
+    },
+    {
+      "title": "Ottawa approves landmark zoning by-law to boost housing density; city buys $95 million landfill site",
+      "link": "https://news.google.com/articles/CBMizwFBVV95cUxPQl9md2puZlRHQWZNa0xwanFSZWRnb1JiTHgxblVKUEpmRUVoWHd4aFIxTFNTMkJTd1ViWFVEWGhSWjE0Y3kyS3FDTDZZNUxTOGJLbl9COGxJRENENmVNckd0bkxyckxhWmpLZEtUNUFyUWtlTXN3M1FzaUJUTklFMjhxcTRZUm5ZbXMxOXk1T0huY1ZfR25oV3hZUlFKNFhZTV9nazZpSVM1cVhMY2p6SXBxMVdqOFl5VzB6RERlVFNDVDQ5NGhja3lyc2txcGM?oc=5",
+      "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "description": "Ottawa approves landmark zoning by-law to boost housing density; city buys $95 million landfill site - Ontario Construction News",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com"
     },
     {
       "title": "Lifetime, DiamondCorp Launch New Condo Project Amid Downturn",
@@ -735,6 +737,17 @@
       "_pubUrl": "https://www.cbc.ca"
     },
     {
+      "title": "Why Are Canadian Real Estate Prices So High?",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE02MTRxdnY3bnM1aXBIODU4dlo5TDJ3b3FtdGpWdXBtTmFFS01EUWxDbFJLcVU4cDNRLW0yWUZoM3hPM2VyalRxVmVEYTRhLUNSMFI2dXdOXzY5cEpGSGlXOHFPbFdraXlyTWlUMkpaYWMwVzQ?oc=5",
+      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "description": "Why Are Canadian Real Estate Prices So High? - Remax",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnontre",
+      "_publisher": "Remax",
+      "_pubUrl": "https://blog.remax.ca"
+    },
+    {
       "title": "Bank of Canada to hold rates steady in 2026; trade seen as main risk to outlook: Reuters poll",
       "link": "https://news.google.com/articles/CBMitAFBVV95cUxPUWtMdWRGaGJBU0EwWWNNODRyZURRN1NBckk0VWlsb2RETUZIS0M2bmpULUJ0N3B2TThQVGlyd3BYMFhNY0xseU5JSTQ2R1ZERFhaaDJDR01xcnBxQ19LNXVsajMtN3FxaklrY3lGLXdLdW9ZQ0ZFN1AyS3ZJLVE3ekppWHUzQ2Jfa2dnX0pwVlUzN3lmdGNBeTU0YnJWRElFWE5JWjdxTGkzcDkwem9vRDNISWI?oc=5",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT",
@@ -755,6 +768,17 @@
       "_src": "gnhprice",
       "_publisher": "INsauga",
       "_pubUrl": "https://www.insauga.com"
+    },
+    {
+      "title": "Provincial Housing Market Outlook: Activity to Remain Subdued This Year",
+      "link": "https://news.google.com/articles/CBMiZEFVX3lxTE13RTFlSWJnZ2l3S0Vob3o3TjctTUo4WnlFb3dNbFhBYS1VaHgwOFZlLV9aal9zY2hzX3d5OU1tQVlvUG5mRFBtZUM4N0YyOEdNaXY2M21zSmMyNGxHd1ZRLXIzajk?oc=5",
+      "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "description": "Provincial Housing Market Outlook: Activity to Remain Subdued This Year - TD Economics",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnre",
+      "_publisher": "TD Economics",
+      "_pubUrl": "https://economics.td.com"
     },
     {
       "title": "Housing starts up 5.6% in 2025 from 2024",
@@ -790,17 +814,6 @@
       "_pubUrl": "https://www.bnnbloomberg.ca"
     },
     {
-      "title": "Ford government pausing its own affordable housing policy, calling it ‘red tape’",
-      "link": "https://news.google.com/articles/CBMiigFBVV95cUxNUlcxUExRS2hwc011Qzh6RUozNmtwbVNuVnlielotckRURm9zWXpKMzFkWlFvaXVIVXhfdml5cHQzUDlDeFJMRzU3UGQwdFA1ZURkamZqT0hvS3RRZmEzRFJrMXdlbTBtM1FmeEF3b2haV2VmMEprMldPU1A0cjNlcWtWMktwQjdxNEE?oc=5",
-      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "description": "Ford government pausing its own affordable housing policy, calling it ‘red tape’ - Global News",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnpolicy",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca"
-    },
-    {
       "title": "Homes market will need time to recover",
       "link": "https://news.google.com/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5",
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -808,17 +821,6 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com"
-    },
-    {
-      "title": "How the new zoning bylaw will reshape Ottawa's neighbourhoods",
-      "link": "https://news.google.com/articles/CBMiakFVX3lxTFBhQWgyNXkyQmVxQzZIRjV3bFVjd0JQeVJGNW16MWk2OUlmaEE0WlVOR1IxTFAwSFVBSVctVUhrbmlMMXRFVU5ZdDJFbHozMEQyZzZFdm1felNwS3B5eEdiZGkxdnVWd0dNSGc?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "description": "How the new zoning bylaw will reshape Ottawa's neighbourhoods - Ottawa Citizen",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottdev",
       "_publisher": "Ottawa Citizen",
       "_pubUrl": "https://ottawacitizen.com"
     },
@@ -854,6 +856,17 @@
       "_src": "gnott",
       "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca"
+    },
+    {
+      "title": "Canada Housing Outlook 2026 Signals Stability Amid Immigration Shifts and Market Reset",
+      "link": "https://news.google.com/articles/CBMiYkFVX3lxTE9HWEgzQklWUnlGZU9aRmpSbW5xTWV3NEFfYnNCdjVTSnpLNFRhTFB4SXR5ZHRGQWlsVEp1OG50NkJoUnh0aDZGRFZUN2UzbFRqMGRpeHljMDFaeU1TS3hrSUN3?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "description": "Canada Housing Outlook 2026 Signals Stability Amid Immigration Shifts and Market Reset - ImmigCanada Immigration Consulting Services",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnimmig",
+      "_publisher": "ImmigCanada Immigration Consulting Services",
+      "_pubUrl": "https://immigcanada.com"
     },
     {
       "title": "The Year Ahead: Housing",
@@ -988,6 +1001,17 @@
       "_pubUrl": "https://www.blogto.com"
     },
     {
+      "title": "Ottawa airport appeals city approval of homes under flight path",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTFBCWTM5ZzI5c2g2aWJlWDdOX3NWV1lsQWUteGY5WHhtM3JLc0VWV24xdThBOXdIU3A2dkttN0RhZDlhUTFZNjZfSVdHblVYWVh1aFFjR05BdUhJdFgzMnpNY2F2aHB0aHRGN1MySFVvZVZvYW8?oc=5",
+      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "description": "Ottawa airport appeals city approval of homes under flight path - CBC",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottdev",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca"
+    },
+    {
       "title": "Canada’s immigration overhaul to cool housing demand: RBC",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxNNTAtMWNtdzhvYWxHbnRnZ2FlbFd0R1NfSUpYSFp5M3Q5V3JUb191OGx1MzRRbXdTakhoUENHVGhDVmR6MWswX1ZPbXpCQVdMYWdQbm9aaWZLQXdDckZ3RzFMUUtMVXpRVXV2MFlJN3FkY01PYWtfeXFGR3lsMGJHYUpScWp1MlFNTmhmQ1loNS1Xd1R6eWw0ZnNEUXhSWTJQbUVla3pjaDVZMm5IU1V2ZmZNdzl0UDRwYWJSZlJudw?oc=5",
       "pubDate": "Mon, 10 Nov 2025 08:00:00 GMT",
@@ -1010,14 +1034,25 @@
       "_pubUrl": "https://www.cbc.ca"
     },
     {
+      "title": "Ontario’s proposed Fighting Delays, Building Faster Act, 2025 (Bill 60) and what it means for the development process",
+      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPMllSNXQ3QW1GMzNJNHNfUkxSdFJtV0ViV2VDRkpSN3lrV29iTzh5Nkc5Y0FmNWQyUVUwMnJKRW1UZmozbVNqYjJBaURHalBXVGY3MDlINTBKWExnMnhYNTFnejQ2akhmcGRJdWRJMUJfR21YTTlmMTVpMDh3eGNqVGtJbVBXWUpNdzhWaFlzV29fZ015VlpiNV9zU3BMb3hrZE9HZHBVXzlPd0JtbjFIMnFlRW02YmNB?oc=5",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "description": "Ontario’s proposed Fighting Delays, Building Faster Act, 2025 (Bill 60) and what it means for the development process - Dentons",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottdev",
+      "_publisher": "Dentons",
+      "_pubUrl": "https://www.dentons.com"
+    },
+    {
       "title": "Is the Dial-Back of Immigration Having the Intended Impact in Canada?",
       "link": "https://news.google.com/articles/CBMieEFVX3lxTE45cHIxM2hsbUtOaEtjVGQ2aEROT2NHY0lmdVdRTUpLbnF6d0ZNdkZuR053VnpsR2J6a1lWSDdERFlqNl9MMHI0Nk5uWVJrbHBkNTdSRVFCdEc3ZlA4ZnpXTUdzY0pQRk5HVjQyZEVaN08wQm5rOGRvMA?oc=5",
       "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
-      "description": "Is the Dial-Back of Immigration Having the Intended Impact in Canada? - TD Economics - Canada",
+      "description": "Is the Dial-Back of Immigration Having the Intended Impact in Canada? - TD Economics",
       "content": "",
       "thumbnail": "",
       "_src": "gnimmig",
-      "_publisher": "TD Economics - Canada",
+      "_publisher": "TD Economics",
       "_pubUrl": "https://economics.td.com"
     },
     {
@@ -1032,6 +1067,17 @@
       "_pubUrl": "https://blog.remax.ca"
     },
     {
+      "title": "Canadian home prices flatten in Q3 as market tilts toward buyers",
+      "link": "https://news.google.com/articles/CBMi2AFBVV95cUxOY2RKTW1TeDdLVnhUYkxWcVgwcVN1Vm5LZFE5ckVnbzRNT1FOOS04Wm9JaTh6U1hnbU1KNjV3Wkd6NXpwQXFjc3JLc0lGS05MRTQ0ZjJZalNyb3R2NW1GSWQ2WlJvcjJsWGpER0Q4ZG5OdW1NaUdoRGN0dGtETkJGb0FfT3ZyaWZaeERIQnljN2prVEhQRmNfYVQxT1hwSjZpUWJSZVZlLXJJbEp2UUp1YnFUUXlFczFaV00ySUg5TUlZNmJTU3FtQVhTbnNxZkVRejlmSWZqeEQ?oc=5",
+      "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "description": "Canadian home prices flatten in Q3 as market tilts toward buyers - Wealth Professional",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnhprice",
+      "_publisher": "Wealth Professional",
+      "_pubUrl": "https://www.wealthprofessional.ca"
+    },
+    {
       "title": "GTA housing prices have fallen this year with slower than expected housing market: report",
       "link": "https://news.google.com/articles/CBMixwFBVV95cUxNMGQ2eXlUMFMwa2d3SmNMbjR1UE9pS2lJZXVMWElvU042aHB1WnNjZHlUQWpleGk0ZndHOGEwR0FoTUJzbU5CQS1VbjdSVjlfSVVYaS15M3laU19jYVBVUl82aGowTjFKRTZuSHlnVWZqZXdKYWVxM3FEQ1d2SnpWY0lkYUtmbWxTX3JBYkdQR2hpc1VPUmlIa3BpY0JIa19EZDZyY2dKSnB3V0ZaS2RpSUx2OHZoV21na3dQQWd5WXU5ZVg0dUcw?oc=5",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
@@ -1039,17 +1085,6 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnhprice",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca"
-    },
-    {
-      "title": "Ottawa home prices expected to increase 2% by end of the year",
-      "link": "https://news.google.com/articles/CBMioAFBVV95cUxPR3hQbGVJckxvbmIwLWxFLVZTZjJOREJWV2I3clAxTno5NnNzcndYX2k4YXNpY001bTVoanpCUm1OMWhEVXhMNGhfMFVUN3FHN1VfQ3RiRDNTenlnTnJGVlN6Qm9DRmJGV0JMYThBWFRMVWVvc3dScEpHQlJNZWZRYmxsUm91VVpOeWIya01zR3lndTgzTVMwLTFzV29xRUNN?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "description": "Ottawa home prices expected to increase 2% by end of the year - CTV News",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnott",
       "_publisher": "CTV News",
       "_pubUrl": "https://www.ctvnews.ca"
     },
@@ -1065,26 +1100,15 @@
       "_pubUrl": "https://kitchener.citynews.ca"
     },
     {
-      "title": "‘Micro-bursts’ of intense demand popping up in Ottawa’s luxury market",
-      "link": "https://news.google.com/articles/CBMingFBVV95cUxNMzhYTk5raXVwSDdVZXo2MGtKT1B1YW44YUx0dGp6aG0zdWU5U1hOMjFDZmJsRXh5SDcyVXNOTFZtYmY0amRMTEF4UzFIQzhpdEhmVDZ6U1RpenhnMzdFS0lRZVZlRDU5MGhDRDRVQnZiMm5tU1J2UVluS2s3eGIxcFpSSnFWSThONUkza3J6Vmc0MDhUWGpwdjlDY1BQUQ?oc=5",
-      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "description": "‘Micro-bursts’ of intense demand popping up in Ottawa’s luxury market - Real Estate Magazine Canada",
+      "title": "Opinion: After years of mismanaging real estate Ottawa now wants to build homes",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxQaFZRTkRxdldUSkFwbzhELVA2NXlVYVVJeDRZb090dWo0TFkxTTZ5alJRZ2NTQ3JVbVVkcDJ1dzBzOGM4cHNqQmpzcmV0RF9nTW81X0s5ZWRQTDUxTmhkUlZBOGc5WEdaZlB5SjdXWW4ycDk5UzdGdUhxS3RoV0dJTWlvZUw5LTRJOVhJTU5TVQ?oc=5",
+      "pubDate": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "description": "Opinion: After years of mismanaging real estate Ottawa now wants to build homes - Yahoo! Finance Canada",
       "content": "",
       "thumbnail": "",
       "_src": "gnott",
-      "_publisher": "Real Estate Magazine Canada",
-      "_pubUrl": "https://realestatemagazine.ca"
-    },
-    {
-      "title": "Navigating Toronto’s frozen pre-construction condo market",
-      "link": "https://news.google.com/articles/CBMi4wFBVV95cUxPQ3podVBSOFBRaW5BOUdLcmNMNVpoQ3FDbXltekdIZ1FuME5PQ3hkYXg5RmRiWDNteXZUTXJzODZIbTlYWVQtQlFCaUpNSHRVVDhyQzJvVEctOVNpV3RJSGdUUkRhVllsMGVNaWMwM2dVQjRuTlM2TXhQUWZndFNRVnZzUl9aaHM4RG5KUUdpUzBlVEM0NzFFUFFkN2tmbzlDMEh6TDRqTDNPVE1KUzhrOGEtM2djWnQtZVlPOThCNlEyR0ZjNjljR0dHbW93dnM5bHRBa0dpeFIyUXNURUZpcGp6VQ?oc=5",
-      "pubDate": "Tue, 23 Sep 2025 07:00:00 GMT",
-      "description": "Navigating Toronto’s frozen pre-construction condo market - rbc.com",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnnewcon",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com"
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com"
     },
     {
       "title": "‘Housing is too heavily taxed and too heavily regulated’: How Carney’s Build Canada Homes plan misdiagnoses the housing crisis",
@@ -1096,17 +1120,6 @@
       "_src": "gnpolicy",
       "_publisher": "The Hub | More Signal. Less Noise.",
       "_pubUrl": "https://thehub.ca"
-    },
-    {
-      "title": "Build Canada Homes Launches With $13B In Funding And First Round Of Projects",
-      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9weEtsMVNDXzJNakM5RFNnMktnSGlBQkpmSWVVVXc3c19QVGRmQ2drbDlQT0IyelpvTFI3ZUd5TGdKT1d3MlFvSnZMMndlampZNXdUNlpQQnNHN3pFcmpuZXNJY284UWI2WjNUVXNkQVRWc2o3LWswT3BGYw?oc=5",
-      "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
-      "description": "Build Canada Homes Launches With $13B In Funding And First Round Of Projects - Storeys",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnnewcon",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com"
     },
     {
       "title": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country",
@@ -1140,6 +1153,17 @@
       "_src": "gnnewcon",
       "_publisher": "nesto.ca",
       "_pubUrl": "https://www.nesto.ca"
+    },
+    {
+      "title": "Toronto-area home prices continue to slide — with detached homes plummeting 10%",
+      "link": "https://news.google.com/articles/CBMi9AFBVV95cUxNSHBnUTZYYUFyRzkySk9OU2dIOHpCM0ttRURuT0t2RlNqRWg2b1ZycmtDek1zUk53VHNIcnBPaDdPUzM3UGk2UEU1Q2l5ZmdUQ0hHUTNNMnlZR1Z2UENmaXAxc2pDNm5HRGFUT0hrd203RjZHZ1NBcTVyQU52eDNkRE1HTll1V2RxSndVa05zRXNGbUdPT21vZnNEd3haY0tZbWV5c0tFQUlzck9ka0taX3d0b0tLdUVuUnl5TElEcjVCTTRsb0ZpcURaekpDOGE4ZXRuQXhoS2Z2OXp4ZzFpTENfRTN0REE5X3RsOXRpUUU5RUd2?oc=5",
+      "pubDate": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "description": "Toronto-area home prices continue to slide — with detached homes plummeting 10% - Toronto Star",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnhprice",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com"
     },
     {
       "title": "4829 Abbott Street East: Zoning By-law Amendment and Site Plan Control application",
@@ -1197,28 +1221,6 @@
       "_pubUrl": "https://www.rbc.com"
     },
     {
-      "title": "Lasting Tariffs Will Shape Canada’s Economy and Housing Market in 2025",
-      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxNUzhmU3FmUXBxNUZsaE9XaWd0akpVUnpEYlZFQVVQazB4T0g0SHlBODlSaGFDUk81N3VEdTdRZlhUUGFSM0VUQWd0elJTUEhBa2t1RExCdEFtWGdJTzBnOTJTcEZsc1VFbE1UX01IRzA5cTVRamxDQ053RV9famRQVFNfem96NXJ5Q1hZ?oc=5",
-      "pubDate": "Thu, 24 Jul 2025 07:00:00 GMT",
-      "description": "Lasting Tariffs Will Shape Canada’s Economy and Housing Market in 2025 - Canada Mortgage and Housing Corporation | CMHC",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnhprice",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca"
-    },
-    {
-      "title": "Opinion: Canada’s outdated elevator rules are adding to the housing crisis",
-      "link": "https://news.google.com/articles/CBMiswFBVV95cUxPejF6OTcwaTBlVzVGLUNkTVdYNUloQ2Z3bnFfTm1Fb0lBMnBVUEpYMFdHSFlxemRCOFE4Y3ZOVmRyN283UjdycFpnd1ZrNWlSSkVCWVhCVHc4MldIQlIzbVN1cUlyZDhjNkNTbWtpM001ZW52Wkdjc3p0NU5nWXhHY0NOa0R1YS1QUUdJTHBtbHlZbzNQMWg5anNkd0dIdTZGNDJfUUpXSmY2TnA4U2JXWUk5RQ?oc=5",
-      "pubDate": "Wed, 23 Jul 2025 07:00:00 GMT",
-      "description": "Opinion: Canada’s outdated elevator rules are adding to the housing crisis - The Globe and Mail",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnpolicy",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com"
-    },
-    {
       "title": "Immigration and the housing crisis: Debunking myths to advance an inclusive economy",
       "link": "https://news.google.com/articles/CBMilAFBVV95cUxQVFYtSVZIMGFSZWlWZHBmYUhHdmFKd1pRNkdDNTY4WERmZF9NTmNYNWVfdUNGazlUT25GbFVSZTBMSW1lclNIUVFKYklhWlU1eXVvNldhVlFkYW9ybFRzZWI3VXR0LVlGZDNyYlJPaVM5TkY2VC10YktYZW5YVldPTk5XNGtSX1ZuTUlSQTJ3dGlMaDJN?oc=5",
       "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
@@ -1228,6 +1230,17 @@
       "_src": "gnimmig",
       "_publisher": "Toronto Metropolitan University (TMU)",
       "_pubUrl": "https://www.torontomu.ca"
+    },
+    {
+      "title": "Ottawa Canada’s O-Train Western Expansion Nears Completion: New Key Stations and Major Progress Ahead of 2027",
+      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxOY2dManJRak9CUm5JWUExTkc3WjByLVprNThVQnREWVEyNnBjSFN2UVlEMFV0dTVwNEx6Y1QyVkN2c1g4UnllWFo4WHB2MFVMMFF2dW9lbUNZNW5oMlNtTlgyV3ljM1JiNXczYmZzbm11dmVKNWo4WGNtOGFLdWR0Wlk3WmRhUF9PWU8zeThHSEZCWV9WRVNIYVBTYUM4Ymt1eko1d2VRYWpibGF2S0xKUUxiUlNzdnhvRVNRTWtBMkZDMVA3X01IVTdneGp3ZFg3allRMjdRV2plUGprTXk3MmhEQmYzbnN0S0NwNA?oc=5",
+      "pubDate": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "description": "Ottawa Canada’s O-Train Western Expansion Nears Completion: New Key Stations and Major Progress Ahead of 2027 - Travel And Tour World",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottlrt",
+      "_publisher": "Travel And Tour World",
+      "_pubUrl": "https://www.travelandtourworld.com"
     },
     {
       "title": "New Housing Market Report, 2024: Experimental estimates",
@@ -1241,17 +1254,6 @@
       "_pubUrl": "https://www150.statcan.gc.ca"
     },
     {
-      "title": "Does Immigration Really Drive Up Canadian Housing Prices? A Look at the Evidence",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxOWmYxQnA4eXJnaVE5eFJQZ241RHpQUE5qdXZYYzZXU0pyY0dLRnpUd3JxczBKS19xZ2M1eGI3WGhtNG9NS1docVN6VGd2ZjVwdmdfNVl3Tlp0WEhmeEQ2R242THRqcEF5Q1VLZ2dZcFI2ZVRGdm41eWlUbE93UzRMb2RrUmZwMTVLMmVwa1dRa05vd2V6Z3ZDMVJpRWRvb25WT2hBcHZ3?oc=5",
-      "pubDate": "Tue, 24 Jun 2025 07:00:00 GMT",
-      "description": "Does Immigration Really Drive Up Canadian Housing Prices? A Look at the Evidence - immigration.ca",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnimmig",
-      "_publisher": "immigration.ca",
-      "_pubUrl": "https://immigration.ca"
-    },
-    {
       "title": "Canada’s Housing Supply Shortages: Moving to a New Framework",
       "link": "https://news.google.com/articles/CBMihwJBVV95cUxPbm1fZ3V3Um1Sdm5xVUdJbk1xQTloSGpzUlVncUFJTTIyRm1XTlAtd0lhd0lZd0xVS3dqUW9VdDliSlJuY1FZQ01NM2hEbEZ3dGVkRDZVSTJHcEJCVm9EWWJ6WHBVbHlhLXV3eG9DUnpialE5NmZ2NE5FNkJLWGU0TVBQc3NEdS1YdUkwd0owYjRYa2Ywc0E4dGNwVWpoMERLZ3ZCYU1pTFlIYmdVNW5KQmRpZ2hEOUlkQUY4Wk5sTC1GOUFEZ1hSUTNONTEtUC1ibWEteGxUVGxVVXowZ3A0eEcxWE1wS0xSOFY2YUE1cXJXNGZkRlAzMDRlUWNYRFAwTVVWVU5ZQQ?oc=5",
       "pubDate": "Thu, 19 Jun 2025 07:00:00 GMT",
@@ -1261,17 +1263,6 @@
       "_src": "gnpolicy",
       "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
       "_pubUrl": "https://www.cmhc-schl.gc.ca"
-    },
-    {
-      "title": "Ottawa Airport Authority opposed to proposed housing development on Riverside Drive",
-      "link": "https://news.google.com/articles/CBMivwFBVV95cUxNOWNhandEU1dDUXZJQl8ycVQ4cFRsTmt3NnJyandOaVVLbHNqMkpobmp1czItN285Y0NaVmNWdnJ3WmY2SGVyUlVLb0JBTU1jNFZoM2R2Tllhb1ZfV2VoOFBxbjF5MVBvN1h5WkFIRFZ1b01UMnBRVlljcWtFZkg1OTFDOFdUaGdRbEdGRkh6czNUX3ZGYWJMdjU1RzhmRnc3cVFjY285QWhzV2ZSdi1MNmhPenBPYko3b3VVX2UzWQ?oc=5",
-      "pubDate": "Wed, 18 Jun 2025 07:00:00 GMT",
-      "description": "Ottawa Airport Authority opposed to proposed housing development on Riverside Drive - CTV News",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottdev",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca"
     },
     {
       "title": "Committee approves zoning for residential developments in Orléans, Barrhaven",
@@ -1285,15 +1276,15 @@
       "_pubUrl": "https://ottawa.citynews.ca"
     },
     {
-      "title": "The City of Ottawa Needs More Family-Friendly Housing. Instead They're Contemplating Downzoning.",
-      "link": "https://news.google.com/articles/CBMigwFBVV95cUxOVUpUVEttc3IxSFZ6cHY2YTd0V0ktcFR6NG9Eek5PQ2FPcElZQ1JNVnlEWXBURHpJYTdpemJ4aWhEby1XdEltbnRLOHlqN0Z2TWJWYV9zLVRGYTYxZF93Zl9LSGU4LVAwNndGbXlYalpaUXRBdTg4NnlULXlqTlVab2F4MA?oc=5",
-      "pubDate": "Tue, 06 May 2025 07:00:00 GMT",
-      "description": "The City of Ottawa Needs More Family-Friendly Housing. Instead They're Contemplating Downzoning. - missingmiddleinitiative.ca",
+      "title": "Council briefs: Votes against Corkery quarry expansion, Zoning Bylaw draft, Economic development strategy update",
+      "link": "https://news.google.com/articles/CBMipwFBVV95cUxPNnd5NUpwcHNqaFdUdzREWjdnZ3BId0Zsanhha2ZIbnFmaURKRHg1YnVmS3F1V3ctNHgyTVJPR1ROUUpYSHlaeW9iSjFpTkpIOG9SeWhPLUwyOE1Tc1RIVDhXX2M3cENHak1jNWY2MmUtWjVYQ0JNTmNreWpfSW5LZXBadm55R0JmX1IwSFdVdlJhZ0NJaU9ERUthWXU1RHh3Rlp4N25Odw?oc=5",
+      "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
+      "description": "Council briefs: Votes against Corkery quarry expansion, Zoning Bylaw draft, Economic development strategy update - West Carleton Online",
       "content": "",
       "thumbnail": "",
       "_src": "gnottdev",
-      "_publisher": "missingmiddleinitiative.ca",
-      "_pubUrl": "https://www.missingmiddleinitiative.ca"
+      "_publisher": "West Carleton Online",
+      "_pubUrl": "https://westcarletononline.com"
     },
     {
       "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
@@ -1340,6 +1331,17 @@
       "_pubUrl": "https://www.insauga.com"
     },
     {
+      "title": "How To Fix Canada’s Housing Crisis",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE00N3JJZWpyMnRxcXNmdmdtRmFxSVF2RHd5NmtlczBZS0plbGRNOTlVcFhhaE42anJaalFSWnVHUkpqVWhSZ0JuU2pVVC01ZWJzLTc3VFJvNE1zelMwODJwYmZ1OTZua213cW1JV2VtTmtfdw?oc=5",
+      "pubDate": "Mon, 17 Mar 2025 07:00:00 GMT",
+      "description": "How To Fix Canada’s Housing Crisis - Macleans.ca",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnpolicy",
+      "_publisher": "Macleans.ca",
+      "_pubUrl": "https://macleans.ca"
+    },
+    {
       "title": "Only Doug Ford and the Ontario PCs Will Protect Ottawa’s Economy",
       "link": "https://news.google.com/articles/CBMinAFBVV95cUxPNDhDemdzY2tzVkFCb0VnVDlybzJMNzBfbmxkUWhSbU9mQXlQUXplRG5lMHc1eURpdjc3OW5RNGxZUHk5bl8wbVJrdjJqWTF6MlZPd1JqdkJKbXAtUmJkSWluYXpwd1BwVEVWWmNSTmM4aXQyYWlSdzUxeGV1Y1JqeWRXU1NCQWpaZFk1cTlVdXYta3YtdHdMZEctTjQ?oc=5",
       "pubDate": "Tue, 04 Feb 2025 08:00:00 GMT",
@@ -1351,15 +1353,15 @@
       "_pubUrl": "https://ontariopc.ca"
     },
     {
-      "title": "Ottawa Light Rail Transit",
-      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
-      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
-      "description": "Ottawa Light Rail Transit - AECOM",
+      "title": "2024Unpacking the Affordable Housing Crisis",
+      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQaGw0U0RiOGlvUGE3LURJTXllNTVFRTdLQmxtM2JPLW1RRGZObGotSzllR0JPVjU5M3JNVkdhdzVwMVk4ZDF5S19UbWJNLTdZZExhNHl5ajMtWW0yZGhYUFJNMmtPVGNVT054VndvU1RGbG9TTG9QNkE4dHlBUEttYlhseGVmQ2EySkJLUWRTZngtZ1Qzdkl0R2UzNnFyWXBKQ0tkTVlENVpaT3E5YVV0bmZwb2lLa2gzRGhNb1ExZDM?oc=5",
+      "pubDate": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "description": "2024Unpacking the Affordable Housing Crisis - Mount Royal University",
       "content": "",
       "thumbnail": "",
-      "_src": "gnottlrt",
-      "_publisher": "AECOM",
-      "_pubUrl": "https://aecom.com"
+      "_src": "gnpolicy",
+      "_publisher": "Mount Royal University",
+      "_pubUrl": "https://www.mtroyal.ca"
     },
     {
       "title": "Rideau Transit Group, P3 council issue statements following scathing Ottawa LRT inquiry",
@@ -1387,23 +1389,23 @@
       "title": "Ottawa’s colossal LRT debacle: A brief-ish history",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5",
       "pubDate": "Fri, 14 Jan 2022 08:00:00 GMT",
-      "description": "Ottawa’s colossal LRT debacle: A brief-ish history - TVO",
+      "description": "Ottawa’s colossal LRT debacle: A brief-ish history - TVO.org",
       "content": "",
       "thumbnail": "",
       "_src": "gnottlrt",
-      "_publisher": "TVO",
+      "_publisher": "TVO.org",
       "_pubUrl": "https://www.tvo.org"
     },
     {
-      "title": "Ottawa Light Rail Transit System",
-      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
-      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
-      "description": "Ottawa Light Rail Transit System - Torys LLP",
+      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
+      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
+      "description": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history - Ottawa Citizen",
       "content": "",
       "thumbnail": "",
       "_src": "gnottlrt",
-      "_publisher": "Torys LLP",
-      "_pubUrl": "https://www.torys.com"
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com"
     },
     {
       "title": "Prime Minister announces significant funding to extend Ottawa’s Light Rail Transit system",
