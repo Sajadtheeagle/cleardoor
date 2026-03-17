@@ -1,6 +1,6 @@
 {
-  "ts": 1773762287853,
-  "fetched": "2026-03-17T15:44:47.853Z",
+  "ts": 1773776371242,
+  "fetched": "2026-03-17T19:39:31.242Z",
   "sources": [
     {
       "id": "cmt",
@@ -69,8 +69,72 @@
   ],
   "items": [
     {
+      "title": "Calgary detached home prices raced ahead of condos in the past decade",
+      "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9YUUttWkRpUUZXanZCVUpDVWdYeWRKQmhJOWhES0wwSXMtZnY3dUNtaWkzT2EyXzFGRVJHdzdTSF9zR0o0MnBQVlIxOEpGNnRnN1BRV096YjNKaFVHUGNCbV9MYmo3SVE?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 19:30:56 GMT",
+      "description": "Calgary detached home prices raced ahead of condos in the past decade - Daily Hive Vancouver",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnhprice",
+      "_publisher": "Daily Hive Vancouver",
+      "_pubUrl": "https://dailyhive.com"
+    },
+    {
+      "title": "Bank of Canada Rates March 17: CPI, Housing and Oil Tilt Odds to Hold",
+      "link": "https://news.google.com/articles/CBMinAFBVV95cUxQRkxyUGxPWloyRTg2cFJnUVdVSTdObEZSM1JhTXNRTEhVeXJkSURPZE1uZ2RQcEsxYUx2Sm5jYnp6bE5KdkZ2ajhhYjhXYXQyVWZUZ1BlMVpYYk12RzFabXVjYkwxUzFyUmx4UFJUY3M2UTcwSEZRSkdtTjNwRDVKRVg1bnl6Qk9OMnB3LUdyMnZYa0J4Y3gwaUFIMEY?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 18:54:54 GMT",
+      "description": "Bank of Canada Rates March 17: CPI, Housing and Oil Tilt Odds to Hold - Meyka",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnboc",
+      "_publisher": "Meyka",
+      "_pubUrl": "https://meyka.com"
+    },
+    {
+      "title": "Canada’s benchmark home price fell 4.8% in February compared to last year, says CREA",
+      "link": "https://news.google.com/articles/CBMiyAFBVV95cUxOUmh0ajJVZkp0MGlIOVZFX1JBZFRkd3JybGtaSkg1NUtxNV9FWHpvNGpzeEduWEZvRmFFdjhyUGhyQ1ZiWFFqRzd3aDQ5WUJDVWVLUVZuQnUwOFozMGlnRlFFVWZHaG9zbzRhSE90QVpuekFkNmZMZzl4RFp5bWZPSkZ4MUZjRFZxdmNfVWlLRUdXWWpQVVJnNjVlRnd0cHBUZ0NSV0tDa0ZGOE5OdkxfR3NuWU1Zc3BhQ3ZmYlRCQ1JKYnFTSEVlaA?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 18:46:43 GMT",
+      "description": "Canada’s benchmark home price fell 4.8% in February compared to last year, says CREA - Radio-Canada",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnre",
+      "_publisher": "Radio-Canada",
+      "_pubUrl": "https://ici.radio-canada.ca"
+    },
+    {
+      "title": "Canada’s $50K new home rebate could meaningfully lower costs of homes, experts say",
+      "link": "https://news.google.com/articles/CBMi1wFBVV95cUxOLTlvem5vT0FuNUU5T2xwYmFVU0FJV1lCaHZ6b2ZYUS1IcDhqNmRmcHRaN21uYWhjc211R0Ixc2JxWkYtelZtbTFkLXpCV1hHUm5ieEtCQlpjRkhnUkVsS1p0dHRkUkdvT08yTDA1X1BDZnNjY3JfQ1k2NFg1cFpnbGw4c3pCRXVyajg0aE84blNfSmctb3k4MDZkS3VXeEJQdDh3SUFZQ01vNjNQUWpYTzRoZ1Iyc29rVzVNRVdULWdPYzYwZk9zWnp0MFFlT1FxUzQtRVZlWQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 18:07:35 GMT",
+      "description": "Canada’s $50K new home rebate could meaningfully lower costs of homes, experts say - BNN Bloomberg",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnre",
+      "_publisher": "BNN Bloomberg",
+      "_pubUrl": "https://www.bnnbloomberg.ca"
+    },
+    {
+      "title": "Where Every Big Bank Stands On Tomorrow’s Interest Rate Announcement",
+      "link": "https://news.google.com/articles/CBMiZEFVX3lxTE9XTkN3UVRrU01aUXZQOTRYRnhPWWpDNzhoa3BYTElReFZlT09SUWhkdGpVZ2w0OGxjZmQ4bUQyQ3ByR0djb2NRSmM2RjdrR1Nmd3FyQWZGV0xuRjFHR01hYlY5TkE?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 17:40:31 GMT",
+      "description": "Where Every Big Bank Stands On Tomorrow’s Interest Rate Announcement - Storeys",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnboc",
+      "_publisher": "Storeys",
+      "_pubUrl": "https://storeys.com"
+    },
+    {
+      "title": "Chartwell To Sell Waterloo Asset To Resolve Competition Bureau Concerns",
+      "link": "https://storeys.com/chartwell-waterloo-competition-bureau-concerns/",
+      "pubDate": "Tue, 17 Mar 2026 17:31:28 +0000",
+      "description": "<img src=\"https://storeys.com/media-library/chartwell-clair-hills-at-530-columbia-street-west-in-waterloo-chartwell.jpg?id=65302697&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>Last summer, <a href=\"https://chartwell.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Chartwell Retirement Residences</a> (TSX: CSH.UN) announced that it had reached an agreement to acquire a portfolio of six seniors housing communities located in southwest Ontario for $432 million, continuing to expand its footprint in the region.</p><p>The portfolio of six properties represented the entire seniors housing portfolio of Ontario-based <a href=\"https://sifton.com/retirement-living/\" rel=\"noopener noreferrer\" target=\"_blank\">Sifton Properties</a> and totalled to 1,024 suites (plus 29 additional units under construction), split between the following six properties:</p><ul><li>Riverstone at 1951 Shore Road in London: 259 units</li><li>Richmond Woods at 200 N Centre Road in London: 242 units</li><li>Longworth at 600 Longworth Road in London: 126 units</li><li>Dorchester Terrace at 143 Byron Road in Dorchester: 123 units + 29 units to be completed by Q4 2026</li><li>The Westhill at 25 Westhill Drive in Waterloo: 217 units</li><li>Erinview at 2630 Fifth Line West in Mississauga: 57 units</li></ul><p>In a <a href=\"https://s23.q4cdn.com/371771841/files/doc_news/2025/07/2025-07-22_Chartwell-grows-in-ON.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">press release</a>, Chartwell said they were buying the 1,024 units for $416.2 million, plus $15.8 million upon completion of the 29 additional units at Dorchester Terrace, for a total purchase price of $432 million.</p><p>“The purchase price at closing will be settled by assuming in-place debt of $232.7M, majority CMHC-insured, and in part from proceeds of already planned 2025 CMHC financings of approximately $240M,” said Chartwell. “The assumed in-place debt has a weighted average interest rate of 4.50% and weighted average maturity date of March 2045. Closing is expected in Q4 2025. TD Securities is acting as the exclusive financial advisor to the vendor of this portfolio.”</p><p>When a proposed transaction reaches certain thresholds, however, such as the size of the transaction or size of a party involved, the Competition Bureau is required to be notified and then review the proposed transaction.</p><p>Already one of the largest owner and operators of seniors housing in Canada and already owning a number of assets across Ontario, the Competition Bureau became concerned that the proposed acquisition by Mississauga-based Chartwell was anti-competitive.</p><p>“A Bureau review concluded that the proposed transaction would likely result in a substantial lessening of competition in health care services and accommodations provided by licensed retirement homes in the Kitchener-Waterloo, Ontario area,” said the Competition Bureau in a <a href=\"https://www.canada.ca/en/competition-bureau/news/2026/03/competition-bureau-reaches-agreement-with-chartwell-to-preserve-competition-in-retirement-home-industry.html\" rel=\"noopener noreferrer\" target=\"_blank\">notice</a> published last week.</p><p>“As the Canadian population ages, the retirement home industry becomes even more important, with demand expected to accelerate rapidly over the next decade,” it added. “Competition in the retirement home sector plays a crucial role in keeping prices in check and pushing providers to maintain high standards of care and modern, well-maintained facilities.”</p><p>To address its concerns, the Competition Bureau said it had reached a consent agreement — which has the force of a court order — with Chartwell that will see the company sell its <a href=\"https://chartwell.com/on/waterloo/clair-hills\" rel=\"noopener noreferrer\" target=\"_blank\">Clair Hills property</a> at 530 Columbia Street West in Waterloo. The sale has not been completed yet, but will be made to an independent purchaser to be approved by the Commissioner of Competition, according to the notice.</p><p>It’s unclear how the Competition Bureau chose the Clair Hills property — Chartwell’s website currently lists two properties in Waterloo, two in Kitchener, two in Mississauga, and one in London — but the Bureau said the sale would resolve the competition concerns that could result from the proposed transaction.</p><h3>Chartwell Retirement Residences</h3><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1f38fc34db1d893ed019ec7382aec32b\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"84cae\" loading=\"lazy\" src=\"https://storeys.com/media-library/chartwell-u2019s-portfolio-as-of-december-31-2025-chartwell-retirement-residences.png?id=65303825&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Chartwell’s portfolio as of December 31, 2025. (Chartwell Retirement Residences)</small></p><p>The acquisition of Sifton’s portfolio was just one in an extensive string of acquisitions for Chartwell last year, which made 13 other acquisitions in 2025 — some for partial ownership stakes — including four in December: the 334-unit Chartwell Azalis in Quebec for $111 million, the 155-unit Chartwell Edgewater in British Columbia for $102.7 million, the 90-unit The Edward in Alberta for $53 million, and the remaining 15% ownership interest in the 368-unit Résidence Légende in Quebec for $17.9 million.</p><p>“2025 was a record year of acquisitions for Chartwell with over $1.7 billion in completed and announced investments during the year,” said Chartwell in its 2026 outlook. “We acquired interests in properties in core markets across British Columbia, Ontario, Quebec, and Alberta. These transactions included the acquisition of several newer, high-quality properties, as well as the consolidation of our ownership interests in a number of existing residences.”</p><p>“We expect the strong pace of acquisitions to continue in 2026 as we pursue opportunities to high grade our portfolio by acquiring newer, high-quality properties in core markets,” it added. “We remain focused on leveraging our operating platform, maintaining financial flexibility, and advancing acquisitions that support long-term portfolio optimization.”</p><p>“We have identified properties within our portfolio that no longer fit our core strategic focus due to their location, size, age and/or service offering,” the company also said. “These non-core properties represent approximately 5,500 suites. We intend to pursue dispositions of these properties in the next three years, as market conditions allow, with proceeds expected to be used to support future development and acquisition activity that is in line with Chartwell’s current strategy.”</p><p>One such sale has already been lined up, as Chartwell disclosed elsewhere in its annual report that it had entered into an agreement in February to sell a non-core property leased to Ottawa Hospital for $49 million. Closing is expected in Q1 2026.</p><br/>",
+      "content": "",
+      "thumbnail": "https://storeys.com/media-library/chartwell-clair-hills-at-530-columbia-street-west-in-waterloo-chartwell.jpg?id=65302697&amp;width=980",
+      "_src": "storeys"
+    },
+    {
       "title": "Bank of Canada Likely to Stay on Hold as Oil Scrambles the Outlook",
-      "link": "https://news.google.com/articles/CBMi4gFBVV95cUxPRlJsQ3VWS1lEa2o5enVvNWstWTQwakJzNnhJNU9HVzl2bjhfOXlNelF2N3BjX3FNYkVSNTJtZnBGajBsd2lhSDJnVnZqWEJkeTJoTUxVU3dnV0xwbmhqa0kxdC1PRG5DZDlLVkFveFZfNWk3U1hCcVNrQkc4cW1aZ0lQSGZEanBWMHRFUDI3SjhrRkh2dDRmc1ZFRHRkMnVwSWozMkVZRDBXNW1FOVVKNU5mVUg2QllyNnJjZGlldVRGN0xiYnNMSnd0ZlFPSkhjcnd0UGVuVVhsRlE4Z0p6ZmF3?oc=5",
+      "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQYUdVN01XZWZjbUl0MkRZTncxUk91M2U4aWoxcTFVUEcyWVctMnJELVRlQ0VuSlpqUHF6Sks2dUp6VUNmX3YwMnd6aW5ta3dZcFR1NEJXdFI4NE9ZM2xwYjhVaE5BaE1FT2dsX0RXX1NDRzl6Yzd6dG9QVXdSOVBuQ0pCcXhtUUxQNUNzRFFucC1BNVJNYkE1d28ydlB5Mzd4TzBmMm9qU3NpbG9zN1B2M3A3VGdNV2tGLTA4dmR5LTcyOWs?oc=5",
       "pubDate": "Tue, 17 Mar 2026 15:36:25 GMT",
       "description": "Bank of Canada Likely to Stay on Hold as Oil Scrambles the Outlook - Bloomberg.com",
       "content": "",
@@ -78,17 +142,6 @@
       "_src": "gnboc",
       "_publisher": "Bloomberg.com",
       "_pubUrl": "https://www.bloomberg.com"
-    },
-    {
-      "title": "Bank of Canada interest rate: How the Iran War could prolong a Canadian housing market 'stalemate'",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOTndYdV8zenkxSmFPczVPeUhTTGx4ZHVzdGRuWEdWdUd3a2R0WnlYT3ZWMDdMUHB2TVM4LW5xZHNWNDNLblppUWk2WEVUbktaeWpVR21KcjVIUTJYSjhfNUZjLVE2elk1Wm9LYXlkYzYyemN4WkdfOUZFYXZvVC16WDNPc2UwSVFVR05qbGlFSzhOd1JCS21mYWg5am51MzZWd3lFbDV3cVl4TzNYUzUyY3lxLUhYQ3pYNFpRTmlJRTBDbWZsTUpIRUhWRVYwbS13eHRNWUViMlRQWkR5?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 14:41:33 GMT",
-      "description": "Bank of Canada interest rate: How the Iran War could prolong a Canadian housing market 'stalemate' - Yahoo Finance UK",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnboc",
-      "_publisher": "Yahoo Finance UK",
-      "_pubUrl": "https://uk.finance.yahoo.com"
     },
     {
       "title": "Canadians keen on owning a home despite market uncertainties: RBC survey",
@@ -132,26 +185,15 @@
       "_ogDesc": "The Canadian Real Estate Association says home sales continued moving at a slow pace in February but activity started to pick up near the end of the month."
     },
     {
-      "title": "Canadian home sales slip again",
-      "link": "https://news.google.com/articles/CBMinAFBVV95cUxPbVhLODlUTjFLckRENWowT3p1YXdhYmRyWlRYcURTbFVtcGxnV2ZSSjVicmh3OWVVR2J2V1EwUTl3c0VjcVAtYW9zVEZteUNUQThpLV9KVGlmR0JrN0FBakU1eDJGRko0ZU0yX3Fqa0NrTHRuM0Z5RlR4OGY0a1pxN2lQWG4tRkk0Wm9BeUhCTHNROFJxdkk2Rno1ang?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 13:55:16 GMT",
-      "description": "Canadian home sales slip again - mpamag.com",
+      "title": "Canadian home sales slide yet again",
+      "link": "https://news.google.com/articles/CBMiowFBVV95cUxQVVAycmtPZllLeVBHLTFyNVNkRFlEbG9ldHQwbWhpYm92MFpGMlB2OGR5VGxTdVhWeURYeUVCbjNNWDZEZnJZdkQ1MWRDT3B2RVVoZTYtY0xodHZCYlM5Vm1BSzNGSk10M19ORDJSVUxvMXl4VGpuZ0dIZnZJWWpSdG5QamQ1OElYM18ta2RnWGJIWjdlZEV4UGVZRE1wVUp5a3Zv?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 13:57:23 GMT",
+      "description": "Canadian home sales slide yet again - mpamag.com",
       "content": "",
       "thumbnail": "",
       "_src": "gnre",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com"
-    },
-    {
-      "title": "Calgary detached home prices raced ahead of condos in the past decade",
-      "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9YUUttWkRpUUZXanZCVUpDVWdYeWRKQmhJOWhES0wwSXMtZnY3dUNtaWkzT2EyXzFGRVJHdzdTSF9zR0o0MnBQVlIxOEpGNnRnN1BRV096YjNKaFVHUGNCbV9MYmo3SVE?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 13:00:00 GMT",
-      "description": "Calgary detached home prices raced ahead of condos in the past decade - Daily Hive Vancouver",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnhprice",
-      "_publisher": "Daily Hive Vancouver",
-      "_pubUrl": "https://dailyhive.com"
     },
     {
       "title": "Canadian home sales dip again in February as market waits for spring momentum",
@@ -187,15 +229,15 @@
       "_pubUrl": "https://ca.finance.yahoo.com"
     },
     {
-      "title": "Canada's benchmark home price fell 4.8% in February compared to last year, says CREA",
-      "link": "https://news.google.com/articles/CBMieEFVX3lxTE1wSy1PeVRhUXFCM2JVVWV6Nm5BZHZGMG1OMEllWWVla2w3M200SFNkRGxUXzk1WUdsSW12X09vZkZsX0daMFlSNHh3Vzk4dTZIMUxWZmY4VkVybTQ1WFNTZzlmVFRGQzY5akRoZ3RLZ0M4blJiajVKVA?oc=5",
+      "title": "Canadian Housing Activity Stays Quiet in February 2026",
+      "link": "https://news.google.com/articles/CBMilAFBVV95cUxNNHpKcURMRmNSZUdOVHBGOVctWW1sXzRKaDA2YV9JbnFkLWVuNFVDOVBKUHRIMmlfanZkUVlINElPaVl3Y0FYWGNQWGVLRTYzdWxWbXpnNFd1SE9UUDVDWWJwRmlwNUNmS3o2ZnhHbGFPN2xLdHl4QU5na0ExOS1YRERYVVpWSGVkZjNMRE1GUVYxM2tr?oc=5",
       "pubDate": "Tue, 17 Mar 2026 09:00:00 GMT",
-      "description": "Canada's benchmark home price fell 4.8% in February compared to last year, says CREA - CBC",
+      "description": "Canadian Housing Activity Stays Quiet in February 2026 - crea.ca",
       "content": "",
       "thumbnail": "",
       "_src": "gnre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca"
+      "_publisher": "crea.ca",
+      "_pubUrl": "https://www.crea.ca"
     },
     {
       "title": "Home sales fall further in February as mortgage rates and ‘relentless’ weather weigh on market",
@@ -211,13 +253,24 @@
     {
       "title": "Home prices are plummeting in these Ontario cities",
       "link": "https://news.google.com/articles/CBMikwFBVV95cUxOdS1vTjR2WkxTLTNyQmplU1hPRjhJWHdSaE8yYlpPS0tERERTRGZmMVR4TDZIa0xCYmNrOHcwSGd1bk5NZFRoYmROVjFWaHhZMkVxM0FqUTVmaW5vRTIzUjR6eHZ3YmRkZk40dlB2N0VHcVBXOS1TNWlLSjFIUG5ESVM3UU00dXBVRF9MTUJXUFNtbVU?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 04:34:54 GMT",
+      "pubDate": "Tue, 17 Mar 2026 04:13:48 GMT",
       "description": "Home prices are plummeting in these Ontario cities - blogTO",
       "content": "",
       "thumbnail": "",
       "_src": "gnontre",
       "_publisher": "blogTO",
       "_pubUrl": "https://www.blogto.com"
+    },
+    {
+      "title": "Vancouver condo prices see huge jump over detached homes in past decade",
+      "link": "https://news.google.com/articles/CBMiekFVX3lxTE4wQUJ1ZjByU3ljVDdvUGV1WjRUUXZneTFjSUxQOHA3bTZMd2tFMkRLWGt1eVVBUktRc21iaTZfdnNuZk50bzFtUGsxVnJLeFZpamRKYUtka205NEFOSHA1czFPNFNfTWc3M0pfcHZNeGV2dUNJVmFXcWxB?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 03:28:00 GMT",
+      "description": "Vancouver condo prices see huge jump over detached homes in past decade - Daily Hive Vancouver",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnhprice",
+      "_publisher": "Daily Hive Vancouver",
+      "_pubUrl": "https://dailyhive.com"
     },
     {
       "title": "Mortgage stress starting to surface as Canada enters peak renewal cycle",
@@ -252,17 +305,6 @@
       "_pubUrl": "https://storeys.com"
     },
     {
-      "title": "Vancouver condo prices see huge jump over detached homes in past decade",
-      "link": "https://news.google.com/articles/CBMiekFVX3lxTE4wQUJ1ZjByU3ljVDdvUGV1WjRUUXZneTFjSUxQOHA3bTZMd2tFMkRLWGt1eVVBUktRc21iaTZfdnNuZk50bzFtUGsxVnJLeFZpamRKYUtka205NEFOSHA1czFPNFNfTWc3M0pfcHZNeGV2dUNJVmFXcWxB?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 20:28:00 GMT",
-      "description": "Vancouver condo prices see huge jump over detached homes in past decade - Daily Hive Vancouver",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnhprice",
-      "_publisher": "Daily Hive Vancouver",
-      "_pubUrl": "https://dailyhive.com"
-    },
-    {
       "title": "Housing starts expected to decline through 2028, CMHC says",
       "link": "https://news.google.com/articles/CBMigwFBVV95cUxOTkdaSks1eVdEVXlybHJaTWI2aXY5eXBBcWJkVm9vWjdJVUNQTF8tX1J2OWo2Z1M3MHRmY0NRLWJQNVBGQVhJMnRYM08xa0wzUjI2SmtINjhyNE1ydF9fbllic3BBdUpxbTY2TVRCaFYzY2FoT3U2eWctZExpWGNlR0hmVQ?oc=5",
       "pubDate": "Mon, 16 Mar 2026 20:23:23 GMT",
@@ -285,17 +327,6 @@
       "_pubUrl": "https://www.connectcre.ca"
     },
     {
-      "title": "Opinion | Homes were expensive. Now prices have fallen. Here’s why that’s bad news",
-      "link": "https://news.google.com/articles/CBMi9gFBVV95cUxPVE45d2dCSFBKazZnYUxUd0luWkFKcENwM252bDdqTEpjOWZIeVlIOVVkSjRnYnpUV3RBZk9rM0liMVYyWUZnQWF5dE4zdXlraDlkLVU4TGdsVjRZdXpCWXlWQkExbW1HZDdfWHJIdE5pTklJcTdiR3pfendZa0VXLWw4MzBXdVVaS0RHZ18teVNmemEyS29wTmg2NGlKRHhleV9JanUtZENQQ3dPOVJmdXpBR1NWTThhN3RFMVE0OU95al9pNDl1UGcwcFNDbTR1WGtzZEY3cm1raDdReWRfX0paZGRBOE1JVy1kSlBGejExcENKTlE?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 18:40:54 GMT",
-      "description": "Opinion | Homes were expensive. Now prices have fallen. Here’s why that’s bad news - Toronto Star",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnontre",
-      "_publisher": "Toronto Star",
-      "_pubUrl": "https://www.thestar.com"
-    },
-    {
       "title": "CMHC reports February housing starts up 4.5% from January",
       "link": "https://www.canadianmortgagetrends.com/2026/03/cmhc-reports-february-housing-starts-up-4-5-from-january/",
       "pubDate": "Mon, 16 Mar 2026 15:32:32 +0000",
@@ -309,7 +340,7 @@
       "title": "Gupta Group Tweaks ‘Yonge City Square’ In Favour Of Larger Family-Sized Units",
       "link": "https://storeys.com/yonge-city-square-family-units/",
       "pubDate": "Mon, 16 Mar 2026 15:11:49 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/rendering-of-the-young-city-square-under-construction-in-north-york-the-gupta-group-arcadis.jpg?id=65285182&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>We're in the midst of a push to build more family-sized units in Toronto, and a proposed change to <a href=\"https://www.guptagroup.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">The Gupta Group</a>’s <a href=\"https://www.guptagroup.ca/portfolio/yonge-city-square-\" rel=\"noopener noreferrer\" target=\"_blank\">Young City Square project</a> is sympathetic to that. </p><p>The 32- and 14-storey development at <a href=\"https://maps.app.goo.gl/CJ57o4TNdiskMdQa9\" rel=\"noopener noreferrer\" target=\"_blank\">4050 Yonge Street</a> in North York was first proposed in February 2020, launched presales in March 2023, and has been under construction since December 2024.</p><p>At the end of February 2026, The Gupta Group filed a Site Plan Amendment application to “consolidate many of the previously proposed bachelor and one-bedroom units to create more functional two- and three-bedroom layouts.” This change would bring the unit-count down from just over 700 to 500, with an almost 63% share being larger, family-sized suites.</p><p>More specifically, the amendment calls for 63 three-bedrooms, 250 two-bedrooms, 169 one-bedrooms, and just 18 bachelor units. Planning materials that were approved by the North York Committee of Adjustment in November 2023 showed only a 35% share of two- and three-bedrooms — 178 and 74, respectively — in addition to 349 one-beds and 115 studios. </p><div class=\"horizontal-rule\"><em></em></div><h4><em>Yonge City Square Site Statistics, As Of February 2026:</em></h4><ul><li><em>Building heights: 32 storeys/399 ft, 14 storeys/197 ft</em></li><li><em>Total gross floor area (GFA): 600,949 sq. ft</em></li><li><em>Residential GFA: 538,561 sq. ft</em></li><li><em>Retail GFA: 32,636 sq. ft</em></li><li><em>Restaurant GFA: 5,490 sq. ft</em></li><li><em>Office GFA: 21,420 sq. ft</em></li><li><em>TTC GFA (direct access to York Mills station): 2,842 sq. ft</em></li><li><em>Residential units (all condo): 500</em></li><li><em>Unit breakdown: 18 bachelors, 169 one-beds, 250 two-beds, and 63 three-beds</em></li><li><em>Indoor amenity: 10,764 sq. ft</em></li><li><em>Outdoor amenity: 10,764 sq. ft</em></li><li><em>Vehicle parking: 458</em></li><li><em>Bicycle parking: 532</em></li></ul><div class=\"horizontal-rule\"></div><p>“To accommodate these larger unit configurations, localized increases in height have been introduced, driven by architectural design considerations, structural and mechanical coordination requirements, and mandatory code compliance measures necessary to support the revised layouts,” Gupta Group explained in a letter that went to the City last month.</p><p>In addition to increasing the 32-storey building height by 15 feet, and the 14-storey building height by nine feet, the amendment bumps up the number of proposed parking spaces from 387 to 458.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"a92a14c10d7552dd0865cd136c6b2349\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"61d2a\" loading=\"lazy\" src=\"https://storeys.com/media-library/context-plan-scale-arcadis.png?id=65285228&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Context plan scale/Arcadis</small></p> <p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1d845bbeffbffa32d016da3fb64bfacc\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"329bf\" loading=\"lazy\" src=\"https://storeys.com/media-library/rendering-of-u00a04050-yonge-street-arcadis.png?id=65285230&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Rendering of 4050 Yonge Street/Arcadis</small></p> <p>The need for larger family-sized units in Toronto has been magnified by investor behaviour during the condo boom, which intensified most recently around 2015 to 2022 and resulted in a glut of studio and one-bedroom units added to the market (think: ‘shoebox’ condos). Initiatives like <a href=\"https://www.toronto.ca/legdocs/mmis/2025/ph/bgrd/backgroundfile-255868.pdf\" target=\"_blank\">EHON</a> and <a href=\"https://www.toronto.ca/legdocs/mmis/2025/ph/bgrd/backgroundfile-255126.pdf\" target=\"_blank\">Toronto Builds</a> have emphasized the importance of injecting more two- and three-beds into the city’s housing stock, as these are the kind of units that will attract families and encourage young people to stay in the city as they grow their households.</p><p>Meanwhile, North York is widely regarded as a promising pocket of the city for families, offering more of a suburban feel than the downtown core, without being too removed from it, and access to top-rated schools and plenty of green space. </p><p>Notably, Young City Square is coming up on the edge of Hoggs Hollow — one of Toronto's most sought-after neighbourhoods, and home to both the Don Valley Golf Course and Rosedale Golf Club — and will be the first condominium project to come up in the neighbourhood in 20 years.</p>",
+      "description": "<img src=\"https://storeys.com/media-library/rendering-of-the-young-city-square-under-construction-in-north-york-the-gupta-group-arcadis.jpg?id=65285182&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>We're in the midst of a push to build more family-sized units in Toronto, and a proposed change to <a href=\"https://www.guptagroup.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">The Gupta Group</a>’s <a href=\"https://www.guptagroup.ca/portfolio/yonge-city-square-\" rel=\"noopener noreferrer\" target=\"_blank\">Young City Square project</a> is sympathetic to that. </p><p>The 32- and 14-storey development at <a href=\"https://maps.app.goo.gl/CJ57o4TNdiskMdQa9\" rel=\"noopener noreferrer\" target=\"_blank\">4050 Yonge Street</a> in North York was first proposed in February 2020, launched presales in March 2023, and has been under construction since December 2024.</p><p>At the end of February 2026, The Gupta Group filed a Site Plan Amendment application to “consolidate many of the previously proposed bachelor and one-bedroom units to create more functional two- and three-bedroom layouts.” This change would bring the unit-count down from just over 700 to 500, with an almost 63% share being larger, family-sized suites.</p><p>More specifically, the amendment calls for 63 three-bedrooms, 250 two-bedrooms, 169 one-bedrooms, and just 18 bachelor units. Planning materials that were approved by the North York Committee of Adjustment in November 2023 showed only a 35% share of two- and three-bedrooms — 178 and 74, respectively — in addition to 349 one-beds and 115 studios. </p><div class=\"horizontal-rule\"><em></em></div><h4><em>Yonge City Square Site Statistics, As Of February 2026:</em></h4><ul><li><em>Building heights: 32 storeys/399 ft, 14 storeys/197 ft</em></li><li><em>Total gross floor area (GFA): 600,949 sq. ft</em></li><li><em>Residential GFA: 538,561 sq. ft</em></li><li><em>Retail GFA: 32,636 sq. ft</em></li><li><em>Restaurant GFA: 5,490 sq. ft</em></li><li><em>Office GFA: 21,420 sq. ft</em></li><li><em>TTC GFA (direct access to York Mills station): 2,842 sq. ft</em></li><li><em>Residential units (all condo): 500</em></li><li><em>Unit breakdown: 18 bachelors, 169 one-beds, 250 two-beds, and 63 three-beds</em></li><li><em>Indoor amenity: 10,764 sq. ft</em></li><li><em>Outdoor amenity: 10,764 sq. ft</em></li><li><em>Vehicle parking: 458</em></li><li><em>Bicycle parking: 532</em></li></ul><div class=\"horizontal-rule\"></div><p>“To accommodate these larger unit configurations, localized increases in height have been introduced, driven by architectural design considerations, structural and mechanical coordination requirements, and mandatory code compliance measures necessary to support the revised layouts,” Gupta Group explained in a letter that went to the City last month.</p><p>In addition to increasing the 32-storey building height by 15 feet, and the 14-storey building height by nine feet, the amendment bumps up the number of proposed parking spaces from 387 to 458.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"a92a14c10d7552dd0865cd136c6b2349\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"61d2a\" loading=\"lazy\" src=\"https://storeys.com/media-library/context-plan-scale-arcadis.png?id=65285228&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Context plan scale/Arcadis</small></p> <p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1d845bbeffbffa32d016da3fb64bfacc\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"329bf\" loading=\"lazy\" src=\"https://storeys.com/media-library/rendering-of-u00a04050-yonge-street-arcadis.png?id=65285230&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Rendering of 4050 Yonge Street/Arcadis</small></p> <p>The need for larger family-sized units in Toronto has been magnified by investor behaviour during the condo boom, which intensified most recently around 2015 to 2022 and resulted in a glut of studio and one-bedroom units added to the market (think: ‘shoebox’ condos). Initiatives like <a href=\"https://www.toronto.ca/legdocs/mmis/2025/ph/bgrd/backgroundfile-255868.pdf\" target=\"_blank\">EHON</a> and <a href=\"https://www.toronto.ca/legdocs/mmis/2025/ph/bgrd/backgroundfile-255126.pdf\" target=\"_blank\">Toronto Builds</a> have emphasized the importance of injecting more two- and three-beds into the city’s housing stock, as these are the kind of units that will attract families and encourage young people to stay in the city as they grow their households.</p><p>Meanwhile, North York is widely regarded as a promising pocket of the city for families, offering more of a suburban feel than the downtown core, without being too removed from it, and access to top-rated schools and plenty of green space. </p><p>Notably, Young City Square is coming up on the edge of Hoggs Hollow — one of Toronto's most sought-after neighbourhoods, and home to both the Don Valley Golf Course and Rosedale Golf Club — and will be the first condominium project to come up in the neighbourhood in 20 years.</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/rendering-of-the-young-city-square-under-construction-in-north-york-the-gupta-group-arcadis.jpg?id=65285182&amp;width=980",
       "_src": "storeys"
@@ -335,6 +366,17 @@
       "_src": "gnmort",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com"
+    },
+    {
+      "title": "USD/CAD drifts lower after softer Canada CPI data",
+      "link": "https://news.google.com/articles/CBMiyAFBVV95cUxPRDh6c21zREttX0lKajBjcFZIS0FuRDNha2NZeFJsc0dqWUc5SGFqSGpCVDRKR1ZzbXd0Nm5hTkRMQzdqT1BzaU53QUlfVkl0TWZPS3hLUzVMeGNUMUdrMEV3a1JnNElSbUY3NmFQYlZKLTl4bTJIS0toTGJmTWRwRlNaZW9qdmZoZW94bTV5YV9za2NMUnVMWHgyYkR1am1LV1cwS292U3lReWR5MGJWdDBiQkY2eFMwZm0tbHFISWFmNWpfMHlJcw?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 13:54:45 GMT",
+      "description": "USD/CAD drifts lower after softer Canada CPI data - FXStreet",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnboc",
+      "_publisher": "FXStreet",
+      "_pubUrl": "https://www.fxstreet.com"
     },
     {
       "title": "Canadian inflation decelerates to 1.8% on base effect",
@@ -369,6 +411,17 @@
       "_pubUrl": "https://www.cmhc-schl.gc.ca"
     },
     {
+      "title": "Opinion | Homes were expensive. Now prices have fallen. Here’s why that’s bad news",
+      "link": "https://news.google.com/articles/CBMi9gFBVV95cUxPVE45d2dCSFBKazZnYUxUd0luWkFKcENwM252bDdqTEpjOWZIeVlIOVVkSjRnYnpUV3RBZk9rM0liMVYyWUZnQWF5dE4zdXlraDlkLVU4TGdsVjRZdXpCWXlWQkExbW1HZDdfWHJIdE5pTklJcTdiR3pfendZa0VXLWw4MzBXdVVaS0RHZ18teVNmemEyS29wTmg2NGlKRHhleV9JanUtZENQQ3dPOVJmdXpBR1NWTThhN3RFMVE0OU95al9pNDl1UGcwcFNDbTR1WGtzZEY3cm1raDdReWRfX0paZGRBOE1JVy1kSlBGejExcENKTlE?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 09:00:59 GMT",
+      "description": "Opinion | Homes were expensive. Now prices have fallen. Here’s why that’s bad news - Toronto Star",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnontre",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com"
+    },
+    {
       "title": "Inflation data and Bank of Canada decision lead busy week for mortgage watchers",
       "link": "https://www.canadianmortgagetrends.com/2026/03/inflation-data-and-bank-of-canada-decision-lead-busy-week-for-mortgage-watchers/",
       "pubDate": "Mon, 16 Mar 2026 03:27:17 +0000",
@@ -387,17 +440,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/04/CN-Tower-can-be-seen-behind-condos-in-Torontos-Liberty-Village-500x333.jpg",
       "_src": "cmt",
       "_ogDesc": "It&#039;s a problem some condo buyers didn&#039;t foresee when they locked in their home purchase during the pandemic, hoping that 600-square-foot space in central Toronto would be a bridge to eventually buying a house."
-    },
-    {
-      "title": "Will Bank of Canada decide to cut interest rates after dismal February jobs report?",
-      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxPNnpEdXdNT3R3bThVQWd5NVowUWYyYWlmRjh6alVRMWJydndaMTFPeW5wWEVkMjF1dTBfVXlTZGVFdXI3dXZaZl9CRURscEhiXzlEMWFfeWxEc3JWcDN6YUY2QldjSFVrLTNuTTIyYWtxdW4tTlBIQURUeHhydlMzSmV6R1NnVGtDQzRwc1J4eEU0NmdzelJoaTZja1UwWnlBWHFqdFFJWFlMY1ZrM1BaY2REZmZDUFJ2eFRN?oc=5",
-      "pubDate": "Sat, 14 Mar 2026 15:15:49 GMT",
-      "description": "Will Bank of Canada decide to cut interest rates after dismal February jobs report? - Global News",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnboc",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca"
     },
     {
       "title": "Iran war adds new uncertainty to the Bank of Canada's already clouded lens",
@@ -420,17 +462,6 @@
       "_src": "gnontre",
       "_publisher": "Inside Halton",
       "_pubUrl": "https://www.insidehalton.com"
-    },
-    {
-      "title": "Bank of Canada expected to hold firm on rates. Here’s where experts see interest rates going this year",
-      "link": "https://news.google.com/articles/CBMi9AFBVV95cUxOZDJrRnZINUMxS0VrSDdoZG9UWmc2YjVhLU9mQzJfT0VtcF9SNWdfYV9QM29BbnhaRDFPOEVrYlNMYlhLQWNmczhGZWRjVUoyXzdCSDZ4Xy1DVUcyaktyZk5NQjJVTFlSZzhSSHNpQ3JCRVNCN3RNYW55TG1Ddmtzc2dLV3pPcVoyWXRhUTRjaXRvcW5IWkFYdVNuT01mWXRRQ2s3bzVLZG9pclpNTy1nckMxZ3h1WHJmc2lSZWxHMVVUTlVLcTJtY3JTMFpRTmNlVC1JSk5LUEhJTnZVT0c3M3VZZXJ6djVlTC1Kb2d0cWtscGlK?oc=5",
-      "pubDate": "Sat, 14 Mar 2026 09:00:00 GMT",
-      "description": "Bank of Canada expected to hold firm on rates. Here’s where experts see interest rates going this year - Toronto Star",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnboc",
-      "_publisher": "Toronto Star",
-      "_pubUrl": "https://www.thestar.com"
     },
     {
       "title": "Federal government supports an innovative shelter for people experiencing homelessness in Gatineau",
@@ -479,7 +510,7 @@
       "title": "New $1.3B Fund Launched To Buy Unsold GTA Condos, Convert To Rental",
       "link": "https://storeys.com/gta-rental-affordable-housing-initiative/",
       "pubDate": "Fri, 13 Mar 2026 13:51:12 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=51246017&width=1200&height=800&coordinates=97%2C0%2C98%2C0\"/><br/><br/><p>This week, <a href=\"https://highartcap.com/\" rel=\"noopener noreferrer\" target=\"_blank\">High Art Capital</a> and the <a href=\"https://buildingonfund.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Building Ontario Fund</a> announced that they had partnered to launch the GTA Rental and Affordable Housing Initiative, a fund that will “acquire blocks of newly completed, unsold condominium units across the Greater Toronto Area and convert them into long-term rental housing.”</p><p>The partners said the fund is expected to be capitalized with a minimum of $1.3 billion, anchored by up to $300 million in mezzanine debt financing and a nominal equity investment from Building Ontario Fund (BOF) — the arms-length board-governed Crown agency established by the Government of Ontario in 2024.</p><p>High Art Capital, a Toronto-based private investment that says it likes to “deploy disciplined capital where structural opportunities meet operational expertise” and “where objective fundamentals meet subjective insight,” said the commitment from BOF closed on February 13.</p><p>The GTA Rental and Affordable Housing Initiative has a target of 2,200 units, in the near-term, that it hopes to convert into rental units, including around 550 affordable rental units that will be provided at the lower of 25% below-market rent or 30% of median gross household income across the GTA. The tenure would be secured in perpetuity through agreements and titled-based protections.</p><p>The partners say that the affordable units “are intended for the GTA’s workforce, who may be priced out of market rents, yet do not qualify for rent-geared-to-income or other subsidized programs.”</p><p>The initiative will be led by High Art Capital, which has now launched a <a href=\"https://highartcap.com/vendor-intake\" rel=\"noopener noreferrer\" target=\"_blank\">submission portal</a> for developers / vendors. Eligible submissions must meet the following criteria:</p><ol><li>Residential condominium units (including stacked towns) in registered residential or mixed-use condominium buildings;</li><li>Blocks of at least 10 vacant units in the same building;</li><li>New builds only (completed on or after January 1, 2023); and</li><li>Located within: City of Toronto, Durham, Halton, Peel, or York (Ontario, Canada).</li></ol><p>High Art Capital says it has reached an agreement with prominent Toronto-based developers <a href=\"https://www.tridel.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tridel</a> and <a href=\"https://www.menkes.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Menkes</a> to manage the leasing and tenancies. A not-for-profit organization will then be engaged to allocate the affordable units to eligible applicants, with support from Tridel and Menkes.</p><p>“Timing matters in this market,” said High Art Capital Managing Partner Ryan Roebuck in a <a href=\"https://www.newsfilecorp.com/release/288033/High-Art-Capital-Announces-GTA-Rental-and-Affordable-Housing-Initiative-in-Partnership-with-Building-Ontario-Fund\" rel=\"noopener noreferrer\" target=\"_blank\">press release</a>. “There is a rare opportunity right now to convert newly completed but unsold housing into long-term rental supply at scale. This initiative is designed to create real housing availability in the near term, preserve a meaningful affordable component and help stabilize a critical segment of the GTA housing market, all of which has become possible through our partners at BOF.”</p><p>“This partnership demonstrates the power of collaboration between the public and private sectors to address housing challenges,” added Building Ontario Fund CEO Michael Fedchyshyn. “By working together with High Art Capital and our service providers, we're creating rental housing options in the near-term, and securing affordable homes for generations to come. This project was made possible by BOF's participation, requiring no development charge, tax waivers, or direct subsidies to realize its affordability objectives. This type of innovative approach, a first of its kind at this scale, is exactly why BOF was created.”</p><p>According to a <a href=\"https://storeys.com/condo-completions-sales-urbanation-gtha/\" rel=\"\" target=\"_self\">report</a> published by real estate consultation firm Urbanation Inc. earlier this year, the Greater Toronto and Hamilton Area was sitting on 3,897 completed and unsold condo units at the end of 2025 — a 131% year-over-year increase and five times higher than levels seen in 2023.</p><p>Urbanation also noted that approximately 10% of pre-sold condos that were registered in 2025 were taken back by developers after purchasers failed to close on the purchase, representing approximately 3,000 units.</p>",
+      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=51246017&width=1245&height=700&coordinates=0%2C0%2C0%2C0\"/><br/><br/><p>This week, <a href=\"https://highartcap.com/\" rel=\"noopener noreferrer\" target=\"_blank\">High Art Capital</a> and the <a href=\"https://buildingonfund.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Building Ontario Fund</a> announced that they had partnered to launch the GTA Rental and Affordable Housing Initiative, a fund that will “acquire blocks of newly completed, unsold condominium units across the Greater Toronto Area and convert them into long-term rental housing.”</p><p>The partners said the fund is expected to be capitalized with a minimum of $1.3 billion, anchored by up to $300 million in mezzanine debt financing and a nominal equity investment from Building Ontario Fund (BOF) — the arms-length board-governed Crown agency established by the Government of Ontario in 2024.</p><p>High Art Capital, a Toronto-based private investment that says it likes to “deploy disciplined capital where structural opportunities meet operational expertise” and “where objective fundamentals meet subjective insight,” said the commitment from BOF closed on February 13.</p><p>The GTA Rental and Affordable Housing Initiative has a target of 2,200 units, in the near-term, that it hopes to convert into rental units, including around 550 affordable rental units that will be provided at the lower of 25% below-market rent or 30% of median gross household income across the GTA. The tenure would be secured in perpetuity through agreements and titled-based protections.</p><p>The partners say that the affordable units “are intended for the GTA’s workforce, who may be priced out of market rents, yet do not qualify for rent-geared-to-income or other subsidized programs.”</p><p>The initiative will be led by High Art Capital, which has now launched a <a href=\"https://highartcap.com/vendor-intake\" rel=\"noopener noreferrer\" target=\"_blank\">submission portal</a> for developers / vendors. Eligible submissions must meet the following criteria:</p><ol><li>Residential condominium units (including stacked towns) in registered residential or mixed-use condominium buildings;</li><li>Blocks of at least 10 vacant units in the same building;</li><li>New builds only (completed on or after January 1, 2023); and</li><li>Located within: City of Toronto, Durham, Halton, Peel, or York (Ontario, Canada).</li></ol><p>High Art Capital says it has reached an agreement with prominent Toronto-based developers <a href=\"https://www.tridel.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tridel</a> and <a href=\"https://www.menkes.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Menkes</a> to manage the leasing and tenancies. A not-for-profit organization will then be engaged to allocate the affordable units to eligible applicants, with support from Tridel and Menkes.</p><p>“Timing matters in this market,” said High Art Capital Managing Partner Ryan Roebuck in a <a href=\"https://www.newsfilecorp.com/release/288033/High-Art-Capital-Announces-GTA-Rental-and-Affordable-Housing-Initiative-in-Partnership-with-Building-Ontario-Fund\" rel=\"noopener noreferrer\" target=\"_blank\">press release</a>. “There is a rare opportunity right now to convert newly completed but unsold housing into long-term rental supply at scale. This initiative is designed to create real housing availability in the near term, preserve a meaningful affordable component and help stabilize a critical segment of the GTA housing market, all of which has become possible through our partners at BOF.”</p><p>“This partnership demonstrates the power of collaboration between the public and private sectors to address housing challenges,” added Building Ontario Fund CEO Michael Fedchyshyn. “By working together with High Art Capital and our service providers, we're creating rental housing options in the near-term, and securing affordable homes for generations to come. This project was made possible by BOF's participation, requiring no development charge, tax waivers, or direct subsidies to realize its affordability objectives. This type of innovative approach, a first of its kind at this scale, is exactly why BOF was created.”</p><p>According to a <a href=\"https://storeys.com/condo-completions-sales-urbanation-gtha/\" rel=\"\" target=\"_self\">report</a> published by real estate consultation firm Urbanation Inc. earlier this year, the Greater Toronto and Hamilton Area was sitting on 3,897 completed and unsold condo units at the end of 2025 — a 131% year-over-year increase and five times higher than levels seen in 2023.</p><p>Urbanation also noted that approximately 10% of pre-sold condos that were registered in 2025 were taken back by developers after purchasers failed to close on the purchase, representing approximately 3,000 units.</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/image.jpg?id=51246017&amp;width=980",
       "_src": "storeys"
@@ -493,6 +524,17 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/12/November-2025-employment-data_med-500x365.jpg",
       "_src": "cmt",
       "_ogDesc": "The Canadian economy lost the most jobs in more than four years last month, driving the unemployment rate up to 6.7%."
+    },
+    {
+      "title": "National housing supply made strides in 2025 amid weak demand, condo struggles: CMHC",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxQb0xHVV9sNHZ1UzF3eUczd0hlMFFaYVRwMmdvRFJzOWFzM0ZUNVZTQXhOU05Md0dGcGtMMmRSWnlxWUFPVzdyMy1ZRUlvc0tyVHMzRk82WFhmdTBfTTkwWU0tSkxVeFNvQmpQSkNqOTBWeVNYTnU2R2duMU45UzlXN2xPZVEtYW1qckdaMUpLRmttY1M4Sl9palpfVm1OSExjLTlab1J4Ny1jaUhETjJ0VG9RTEhvU3hzeWQ5VFppeDdLTlJYUEdvem5kaXV0M0J3YnpGZXFISjZzbUtu?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 10:37:26 GMT",
+      "description": "National housing supply made strides in 2025 amid weak demand, condo struggles: CMHC - constructconnect.com",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnmort",
+      "_publisher": "constructconnect.com",
+      "_pubUrl": "https://canada.constructconnect.com"
     },
     {
       "title": "It’s been four years since Ottawa’s LRT public inquiry. Where does the train stand now?",
@@ -520,7 +562,7 @@
       "title": "Manulife Sells Downtown Ottawa's EDC HQ To Regional Group For $143.5M",
       "link": "https://storeys.com/ottawa-edc-hq-manulife-regional/",
       "pubDate": "Thu, 12 Mar 2026 14:26:59 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/the-19-storey-office-tower-at-150-slater-street-in-ottawa-cbre.jpg?id=65271527&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>In late-February, Ottawa-based real estate firm <a href=\"https://regionalgroup.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Regional Group</a> announced that they had acquired 150 Slater Street in downtown Ottawa, a landmark office building near Parliament Hill.</p><p>Located at the corner of Slater Street and O’Connor Street, two blocks away from Confederation Park and within 50 metres of the LRT Parliament Station, 150 Slater Street is a 19-storey Class A office tower that was purpose-built as the global headquarters for Crown corporation Export Development Canada (EDC), which was seeking to consolidate its operations from two nearby buildings.</p><p>After a competitive bidding process, EDC chose the Montreal-based duo of <a href=\"https://www.broccolini.com/en\" rel=\"noopener noreferrer\" target=\"_blank\">Broccolini</a> and <a href=\"https://canderel.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Canderel</a> for the project, which commenced construction in May 2009. Later that year, <a href=\"https://www.manulifeim.com/institutional/global/en/strategies/private-markets/real-estate\" rel=\"noopener noreferrer\" target=\"_blank\">Manulife Financial</a> (TSX: MFC) <a href=\"https://www.newswire.ca/news-releases/manulife-financial-to-acquire-edc-headquarters-building-in-ottawa-539036701.html\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that they had entered into an agreement to buy 150 Slater Street in a transaction that was scheduled to close in 2011.</p><p>Last year, 150 Slater Street was then listed for sale by Peter D. Senst, Jaysen Smalley, Kai Tai Li, and Nico Zentil of CBRE on an unpriced basis.</p><p>Regional Group did not disclose financial details when they announced the acquisition last month, but STOREYS has learned that the purchase price was $143.5 million. The building has 477,448 sq. ft of space, according to CBRE’s sales brochure, translating the price to $301 per sq. ft.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"96c6ba33bf087d4e859a4a81f5daeebd\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"7653f\" loading=\"lazy\" src=\"https://storeys.com/media-library/150-slater-street-in-ottawa-regional-group.jpg?id=65272183&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">150 Slater Street in Ottawa. (Regional Group)</small></p><p>The building has been 100% occupied since it was completed, with 98% of the space occupied by EDC through a lease that runs to 2031, according to the 2009 sale announcement. The remaining 2% is leased to a retailer on the ground floor.</p><p>The occupancy has a weighted average lease term of 6.8 years (as of January 2025) and CBRE notes in its sales brochure that EDC’s below-market rent is flat until expiry. They also note that both tenants have options to renew for five-year terms at market rents, offering an attractive upside.</p><p>The office tower occupies a 1.02-acre lot, is anchored by a distinctive white-marble podium bearing the EDC logo, and is served by 215 underground parking spaces. Building amenities include a private gym and rooftop lounge.</p><p>The building was constructed to meet LEED Silver standards — the only such office building in downtown Ottawa at the time — and has since become LEED Gold certified, according to CBRE.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1f17b498595c8a82410d0057fb3efb01\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"700a7\" loading=\"lazy\" src=\"https://storeys.com/media-library/150-slater-street-in-ottawa-regional-group.jpg?id=65272210&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">150 Slater Street in Ottawa. (Regional Group)</small></p><p>“We believe the bottom of the office cycle has passed, and this property is a standout addition to our portfolio, taking advantage of the fact that typical investors have been sidelined,” said Sachin Anand, Regional Group VP of Acquisitions, in a <a href=\"https://www.newswire.ca/news-releases/regional-group-adds-a-landmark-downtown-property-to-its-growing-office-portfolio-with-acquisition-of-150-slater-street-ottawa-859497680.html\" target=\"_blank\">release</a> last month.</p><p>“We firmly believe in the resilience of the sector, and we are strategically investing in Class A office buildings with strong long-term potential,” added Regional Group President and CEO Sender Gordon. “We’ve always approached our acquisitions with an eye to what makes sense today and for the long term.”</p><p>“This property offers excellent future potential with high-quality existing tenants, and we’re thrilled to add it to our portfolio,” Gordon said. “This isn’t just about a real estate transaction. It reflects our continued commitment to Ottawa’s economic community, to shaping a vibrant city, and to Enriching Communities for years to come.”</p><p>Founded in 1958 as Regional Realty, Regional Group has become a vertically-integrated company with a portfolio of over four million square feet of commercial and residential space, plus a development pipeline of $5 billion, according to the company.</p><p>Other notable assets the company owns in Ottawa include the Hazeldean Mall at 300 Eagleson Road acquired from BGO in 2019, the Qualicum Centre three-building office complex at 2932, 2934, and 2936 Baseline Road acquired in 2022, and the gold-glass office building at 1600 Carling Avenue acquired in 2024.</p>",
+      "description": "<img src=\"https://storeys.com/media-library/the-19-storey-office-tower-at-150-slater-street-in-ottawa-cbre.jpg?id=65271527&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>In late-February, Ottawa-based real estate firm <a href=\"https://regionalgroup.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Regional Group</a> announced that they had acquired 150 Slater Street in downtown Ottawa, a landmark office building near Parliament Hill.</p><p>Located at the corner of Slater Street and O’Connor Street, two blocks away from Confederation Park and within 50 metres of the LRT Parliament Station, 150 Slater Street is a 19-storey Class A office tower that was purpose-built as the global headquarters for Crown corporation Export Development Canada (EDC), which was seeking to consolidate its operations from two nearby buildings.</p><p>After a competitive bidding process, EDC chose the Montreal-based duo of <a href=\"https://www.broccolini.com/en\" rel=\"noopener noreferrer\" target=\"_blank\">Broccolini</a> and <a href=\"https://canderel.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Canderel</a> for the project, which commenced construction in May 2009. Later that year, <a href=\"https://www.manulifeim.com/institutional/global/en/strategies/private-markets/real-estate\" rel=\"noopener noreferrer\" target=\"_blank\">Manulife Financial</a> (TSX: MFC) <a href=\"https://www.newswire.ca/news-releases/manulife-financial-to-acquire-edc-headquarters-building-in-ottawa-539036701.html\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that they had entered into an agreement to buy 150 Slater Street in a transaction that was scheduled to close in 2011.</p><p>Last year, 150 Slater Street was then listed for sale by Peter D. Senst, Jaysen Smalley, Kai Tai Li, and Nico Zentil of CBRE on an unpriced basis.</p><p>Regional Group did not disclose financial details when they announced the acquisition last month, but STOREYS has learned that the purchase price was $143.5 million. The building has 477,448 sq. ft of space, according to CBRE’s sales brochure, translating the price to $301 per sq. ft.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"96c6ba33bf087d4e859a4a81f5daeebd\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"7653f\" loading=\"lazy\" src=\"https://storeys.com/media-library/150-slater-street-in-ottawa-regional-group.jpg?id=65272183&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">150 Slater Street in Ottawa. (Regional Group)</small></p><p>The building has been 100% occupied since it was completed, with 98% of the space occupied by EDC through a lease that runs to 2031, according to the 2009 sale announcement. The remaining 2% is leased to a retailer on the ground floor.</p><p>The occupancy has a weighted average lease term of 6.8 years (as of January 2025) and CBRE notes in its sales brochure that EDC’s below-market rent is flat until expiry. They also note that both tenants have options to renew for five-year terms at market rents, offering an attractive upside.</p><p>The office tower occupies a 1.02-acre lot, is anchored by a distinctive white-marble podium bearing the EDC logo, and is served by 215 underground parking spaces. Building amenities include a private gym and rooftop lounge.</p><p>The building was constructed to meet LEED Silver standards — the only such office building in downtown Ottawa at the time — and has since become LEED Gold certified, according to CBRE.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1f17b498595c8a82410d0057fb3efb01\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"700a7\" loading=\"lazy\" src=\"https://storeys.com/media-library/150-slater-street-in-ottawa-regional-group.jpg?id=65272210&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">150 Slater Street in Ottawa. (Regional Group)</small></p><p>“We believe the bottom of the office cycle has passed, and this property is a standout addition to our portfolio, taking advantage of the fact that typical investors have been sidelined,” said Sachin Anand, Regional Group VP of Acquisitions, in a <a href=\"https://www.newswire.ca/news-releases/regional-group-adds-a-landmark-downtown-property-to-its-growing-office-portfolio-with-acquisition-of-150-slater-street-ottawa-859497680.html\" target=\"_blank\">release</a> last month.</p><p>“We firmly believe in the resilience of the sector, and we are strategically investing in Class A office buildings with strong long-term potential,” added Regional Group President and CEO Sender Gordon. “We’ve always approached our acquisitions with an eye to what makes sense today and for the long term.”</p><p>“This property offers excellent future potential with high-quality existing tenants, and we’re thrilled to add it to our portfolio,” Gordon said. “This isn’t just about a real estate transaction. It reflects our continued commitment to Ottawa’s economic community, to shaping a vibrant city, and to Enriching Communities for years to come.”</p><p>Founded in 1958 as Regional Realty, Regional Group has become a vertically-integrated company with a portfolio of over four million square feet of commercial and residential space, plus a development pipeline of $5 billion, according to the company.</p><p>Other notable assets the company owns in Ottawa include the Hazeldean Mall at 300 Eagleson Road acquired from BGO in 2019, the Qualicum Centre three-building office complex at 2932, 2934, and 2936 Baseline Road acquired in 2022, and the gold-glass office building at 1600 Carling Avenue acquired in 2024.</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/the-19-storey-office-tower-at-150-slater-street-in-ottawa-cbre.jpg?id=65271527&amp;width=980",
       "_src": "storeys"
@@ -529,7 +571,7 @@
       "title": "Canada Housing Starts Rise In 2025, But Condo Pipeline Weakens: CMHC",
       "link": "https://storeys.com/spring-2026-supply-report-cmhc/",
       "pubDate": "Wed, 11 Mar 2026 14:59:22 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=34015780&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>Canada added more new housing supply in 2025, driven largely by record rental construction and a growing share of missing middle housing — but new data suggests underlying vulnerabilities are building, particularly in major ownership markets like Toronto and Vancouver.</p><p>According to the <a href=\"https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/housing-market/housing-supply-report\" target=\"_blank\">Spring 2026 Housing Supply Report</a> from the Canada Mortgage and Housing Corporation (CMHC), national housing starts rose 6% year-over-year in 2025, to 259,000 units. Activity exceeded the 10-year average in nearly every major market, with one notable exception: Toronto, where starts fell well below historical norms and reached the lowest per-capita level among Canada’s seven largest census metropolitan areas (CMAs).</p><p>While construction activity remained resilient overall, the report highlights growing concerns about the future pipeline of ownership-oriented housing, as condominium presales weakened sharply and unsold inventories climbed across several markets.</p> <h3>Rental And Missing Middle Construction Drive Supply</h3> <p>Rental development played the largest role in boosting housing supply in 2025. Across the country, the number of rental units under construction reached nearly twice the 10-year average, contributing to higher vacancy rates and slower rent growth.</p><p>Rental starts hit record highs in several major markets, including Calgary, Edmonton, Ottawa, Halifax, and Montréal. Toronto recorded its second-highest level of rental starts on record, while Vancouver — despite a slight decline — still saw rental construction remain elevated by historical standards.</p><p>At the same time, construction of “missing middle” housing continued to expand. The category — which includes accessory suites, multiplexes, row houses, stacked townhouses, and low-rise apartments — accounted for roughly 10% more starts across Canada’s seven largest CMAs in 2025.</p><p>This form of housing has grown steadily in most major cities since 2018. Calgary and Edmonton led the trend in 2025, with about 60% of new housing starts falling into the missing middle category, largely made up of row houses and townhomes. Toronto followed at roughly 50%, with more than half of those units coming from conversions of existing buildings.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"fb6e72f8df7541eac41596e6adf263f1\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"1b02f\" loading=\"lazy\" src=\"https://storeys.com/media-library/spring-2026-housing-supply-report-cmhc.png?id=65257347&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Spring 2026 Housing Supply Report/CMHC</small></p><p>Missing middle housing is considered an important source of faster-to-build and relatively lower-cost housing in established neighbourhoods, while also providing alternatives for households priced out of single-detached homes but seeking more space than high-rise units typically offer.</p> <h3>Construction Timelines Improve, Completions Surge</h3> <p>Despite the large number of apartment projects underway across the country, construction timelines improved in several markets during 2025. Smaller project sizes, efficiency gains, slower construction cost growth, and easing labour constraints all contributed to faster delivery times.</p><p>Calgary, Ottawa, and Edmonton recorded the strongest improvements in construction timelines, with Calgary and Edmonton delivering the fastest apartment construction times overall.</p><p>At the same time, completions remained historically strong as projects launched in previous years reached the finish line. Vancouver recorded a new completion record — driven primarily by apartment projects — while Calgary and Edmonton also reached record levels, supported by strong ground-oriented housing completions.</p><p>Although completions softened slightly in Montreal, Ottawa, Toronto, and Halifax, levels remained historically elevated across those markets as well.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"f20f51511feedb825bec8efa815c2e68\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"47fc4\" loading=\"lazy\" src=\"https://storeys.com/media-library/spring-2026-housing-supply-report-cmhc.png?id=65257360&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Spring 2026 Housing Supply Report/CMHC</small></p> <h3>Condo Slowdown Raises Concerns For Future Supply</h3> <p>Despite the increase in new housing supply, the report identifies growing challenges that could constrain future development.</p><p>Condominium apartment starts declined sharply across the country as presales weakened and investors pulled back. Elevated construction costs also made it more difficult for developers to meet presale thresholds required for financing.</p><p>These conditions were accompanied by rising levels of unsold inventory at completion across most major markets, with the exception of Montreal. Vancouver recorded the highest level of unsold condominium inventory at completion, while Edmonton had the largest inventory of unsold ground-oriented homes. Toronto also saw notable increases in unsold condominium units and row houses.</p><p>When completed units remain unsold, financing conditions typically tighten, making it harder for developers to launch new projects. As a result, some developments are delayed or cancelled, slowing the pipeline of future housing supply.</p> <h3>Vancouver: Short-Term Relief Masks Longer-Term Risks</h3> <p>In the Vancouver region, housing conditions appeared to ease in 2025, but the report notes that the shift reflects timing rather than a fundamental balance between supply and demand.</p><p>A large wave of housing completions — following several years of strong construction activity — increased available supply and pushed rental vacancy rates higher, contributing to slower rent growth and weaker resale price gains.</p><p>At the same time, resale listings increased as some homeowners faced mortgage renewals at higher interest rates or adjusted their housing arrangements. Meanwhile, resale transactions dropped to their lowest level in two decades.</p><p>Despite these softer conditions, the longer-term supply pipeline has begun to shrink. Housing starts have now declined for two consecutive years, and project cancellations are expected to reduce the number of units delivered in the future, particularly in the condominium sector.</p><p>Developers in the region also faced rising construction costs and weaker revenue expectations, as slower rent growth and higher vacancy rates made new rental projects more difficult to finance.</p><p>Even so, missing middle construction increased in the region. Ground-oriented housing starts rose year-over-year, led by growth in semi-detached housing in Burnaby following local policy changes allowing laneway homes and secondary suites in those developments.</p> <h3>Toronto: Short-Term Surplus, Long-Term Supply Risk</h3> <p>In the Toronto region, the report highlights a divergence between current market conditions and longer-term supply trends.</p><p>In the short term, housing markets appear more relaxed. Higher rental vacancy rates, slowing rent growth, and declining home prices have emerged alongside increased supply. A high volume of housing completions and record levels of resale listings have expanded available inventory, while slower population growth and economic uncertainty have weakened demand.</p><p>However, the report notes that housing starts declined again in 2025, and have now fallen to their lowest level since 2009. For the first time, Toronto recorded fewer housing starts than Calgary, Montreal, and Vancouver.</p><p>Because new projects can take several years to move from planning to occupancy, the current slowdown in starts could translate into future supply shortages if demand rebounds. The cancellation of condominium projects is also expected to remove thousands of units from the future housing pipeline.</p><p>Differences between housing types also complicate the market outlook. Surpluses were larger among smaller condominium apartments, for instance, than among family-sized homes.</p><p>Developers increasingly shifted towards smaller projects in response to financing challenges and economic uncertainty. In 2025, projects containing three to five units outnumbered developments with more than 100 units for the first time on record.</p><p>Purpose-built rental construction also gained ground. Rental starts reached their second-highest level since 1990 and, in the City of Toronto, exceeded condominium apartment starts for the first time.</p> <h3>Supply Imbalances Expected To Ease Over Time</h3> <p>Looking ahead, the report projects that national housing starts will decline through 2026 to 2028 as developers contend with elevated costs, softer demand, and higher inventories.</p><p>However, the supply imbalances that emerged in 2025 are expected to ease as the market gradually absorbs newly completed housing.</p><p>Over time, as new homes enter the housing system and age, they tend to become relatively more affordable — a process the report identifies as an important mechanism through which new housing supply improves affordability across the broader housing market.</p>",
+      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=34015780&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>Canada added more new housing supply in 2025, driven largely by record rental construction and a growing share of missing middle housing — but new data suggests underlying vulnerabilities are building, particularly in major ownership markets like Toronto and Vancouver.</p><p>According to the <a href=\"https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/housing-market/housing-supply-report\" target=\"_blank\">Spring 2026 Housing Supply Report</a> from the Canada Mortgage and Housing Corporation (CMHC), national housing starts rose 6% year-over-year in 2025, to 259,000 units. Activity exceeded the 10-year average in nearly every major market, with one notable exception: Toronto, where starts fell well below historical norms and reached the lowest per-capita level among Canada’s seven largest census metropolitan areas (CMAs).</p><p>While construction activity remained resilient overall, the report highlights growing concerns about the future pipeline of ownership-oriented housing, as condominium presales weakened sharply and unsold inventories climbed across several markets.</p> <h3>Rental And Missing Middle Construction Drive Supply</h3> <p>Rental development played the largest role in boosting housing supply in 2025. Across the country, the number of rental units under construction reached nearly twice the 10-year average, contributing to higher vacancy rates and slower rent growth.</p><p>Rental starts hit record highs in several major markets, including Calgary, Edmonton, Ottawa, Halifax, and Montréal. Toronto recorded its second-highest level of rental starts on record, while Vancouver — despite a slight decline — still saw rental construction remain elevated by historical standards.</p><p>At the same time, construction of “missing middle” housing continued to expand. The category — which includes accessory suites, multiplexes, row houses, stacked townhouses, and low-rise apartments — accounted for roughly 10% more starts across Canada’s seven largest CMAs in 2025.</p><p>This form of housing has grown steadily in most major cities since 2018. Calgary and Edmonton led the trend in 2025, with about 60% of new housing starts falling into the missing middle category, largely made up of row houses and townhomes. Toronto followed at roughly 50%, with more than half of those units coming from conversions of existing buildings.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"fb6e72f8df7541eac41596e6adf263f1\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"1b02f\" loading=\"lazy\" src=\"https://storeys.com/media-library/spring-2026-housing-supply-report-cmhc.png?id=65257347&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Spring 2026 Housing Supply Report/CMHC</small></p><p>Missing middle housing is considered an important source of faster-to-build and relatively lower-cost housing in established neighbourhoods, while also providing alternatives for households priced out of single-detached homes but seeking more space than high-rise units typically offer.</p> <h3>Construction Timelines Improve, Completions Surge</h3> <p>Despite the large number of apartment projects underway across the country, construction timelines improved in several markets during 2025. Smaller project sizes, efficiency gains, slower construction cost growth, and easing labour constraints all contributed to faster delivery times.</p><p>Calgary, Ottawa, and Edmonton recorded the strongest improvements in construction timelines, with Calgary and Edmonton delivering the fastest apartment construction times overall.</p><p>At the same time, completions remained historically strong as projects launched in previous years reached the finish line. Vancouver recorded a new completion record — driven primarily by apartment projects — while Calgary and Edmonton also reached record levels, supported by strong ground-oriented housing completions.</p><p>Although completions softened slightly in Montreal, Ottawa, Toronto, and Halifax, levels remained historically elevated across those markets as well.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"f20f51511feedb825bec8efa815c2e68\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"47fc4\" loading=\"lazy\" src=\"https://storeys.com/media-library/spring-2026-housing-supply-report-cmhc.png?id=65257360&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Spring 2026 Housing Supply Report/CMHC</small></p> <h3>Condo Slowdown Raises Concerns For Future Supply</h3> <p>Despite the increase in new housing supply, the report identifies growing challenges that could constrain future development.</p><p>Condominium apartment starts declined sharply across the country as presales weakened and investors pulled back. Elevated construction costs also made it more difficult for developers to meet presale thresholds required for financing.</p><p>These conditions were accompanied by rising levels of unsold inventory at completion across most major markets, with the exception of Montreal. Vancouver recorded the highest level of unsold condominium inventory at completion, while Edmonton had the largest inventory of unsold ground-oriented homes. Toronto also saw notable increases in unsold condominium units and row houses.</p><p>When completed units remain unsold, financing conditions typically tighten, making it harder for developers to launch new projects. As a result, some developments are delayed or cancelled, slowing the pipeline of future housing supply.</p> <h3>Vancouver: Short-Term Relief Masks Longer-Term Risks</h3> <p>In the Vancouver region, housing conditions appeared to ease in 2025, but the report notes that the shift reflects timing rather than a fundamental balance between supply and demand.</p><p>A large wave of housing completions — following several years of strong construction activity — increased available supply and pushed rental vacancy rates higher, contributing to slower rent growth and weaker resale price gains.</p><p>At the same time, resale listings increased as some homeowners faced mortgage renewals at higher interest rates or adjusted their housing arrangements. Meanwhile, resale transactions dropped to their lowest level in two decades.</p><p>Despite these softer conditions, the longer-term supply pipeline has begun to shrink. Housing starts have now declined for two consecutive years, and project cancellations are expected to reduce the number of units delivered in the future, particularly in the condominium sector.</p><p>Developers in the region also faced rising construction costs and weaker revenue expectations, as slower rent growth and higher vacancy rates made new rental projects more difficult to finance.</p><p>Even so, missing middle construction increased in the region. Ground-oriented housing starts rose year-over-year, led by growth in semi-detached housing in Burnaby following local policy changes allowing laneway homes and secondary suites in those developments.</p> <h3>Toronto: Short-Term Surplus, Long-Term Supply Risk</h3> <p>In the Toronto region, the report highlights a divergence between current market conditions and longer-term supply trends.</p><p>In the short term, housing markets appear more relaxed. Higher rental vacancy rates, slowing rent growth, and declining home prices have emerged alongside increased supply. A high volume of housing completions and record levels of resale listings have expanded available inventory, while slower population growth and economic uncertainty have weakened demand.</p><p>However, the report notes that housing starts declined again in 2025, and have now fallen to their lowest level since 2009. For the first time, Toronto recorded fewer housing starts than Calgary, Montreal, and Vancouver.</p><p>Because new projects can take several years to move from planning to occupancy, the current slowdown in starts could translate into future supply shortages if demand rebounds. The cancellation of condominium projects is also expected to remove thousands of units from the future housing pipeline.</p><p>Differences between housing types also complicate the market outlook. Surpluses were larger among smaller condominium apartments, for instance, than among family-sized homes.</p><p>Developers increasingly shifted towards smaller projects in response to financing challenges and economic uncertainty. In 2025, projects containing three to five units outnumbered developments with more than 100 units for the first time on record.</p><p>Purpose-built rental construction also gained ground. Rental starts reached their second-highest level since 1990 and, in the City of Toronto, exceeded condominium apartment starts for the first time.</p> <h3>Supply Imbalances Expected To Ease Over Time</h3> <p>Looking ahead, the report projects that national housing starts will decline through 2026 to 2028 as developers contend with elevated costs, softer demand, and higher inventories.</p><p>However, the supply imbalances that emerged in 2025 are expected to ease as the market gradually absorbs newly completed housing.</p><p>Over time, as new homes enter the housing system and age, they tend to become relatively more affordable — a process the report identifies as an important mechanism through which new housing supply improves affordability across the broader housing market.</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/image.jpg?id=34015780&amp;width=980",
       "_src": "storeys"
@@ -549,7 +591,7 @@
       "title": "Peterson Proposes 34-, 29-Storey Rental Towers On SE Marine Drive",
       "link": "https://storeys.com/peterson-rental-towers-marine-drive/",
       "pubDate": "Tue, 10 Mar 2026 17:21:08 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/the-two-tower-project-proposed-for-605-695-se-marine-drive-in-vancouver-mcmp-architects-peterson.png?id=65181355&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>Fresh off of a <a href=\"https://www.linkedin.com/posts/petersonbc_a-new-chapter-begins-for-peterson-introducing-activity-7432529830354722816-mGl8/\" rel=\"noopener noreferrer\" target=\"_blank\">brand refresh</a>, Vancouver-based <a href=\"https://petersonbc.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Peterson</a> is now advancing one of its largest planned projects to date, according to a new rezoning application published by the City of Vancouver last week.</p><p>The subject site is 605-695 SE Marine Drive, located at the northwest corner of the intersection with Fraser Street. The L-shaped site is currently occupied by a large apartment complex, known as Marine Terrace, which extends up Fraser Street to E 65th Avenue. The property is a single parcel that BC Assessment values at <a href=\"https://www.bcassessment.ca/Property/Info/QTAwMDAwMkc2MQ==\" rel=\"noopener noreferrer\" target=\"_blank\">$31,874,000</a> in its latest assessment, and 605 SE Marine Drive is held by Peterson under Fraser Marine Drive Holdings Inc.</p><p>The south side of SE Marine Drive is heavily industrial, while the north side is residential and/or retail. Although the area is serviced by buses, the closest SkyTrain station is the Canada Line’s Marine Drive Station, which is a nine-minute bus ride or 25-minute walk away.</p><p>The site has been zoned CD-1 (Comprehensive Development) since 1966, and Peterson is now seeking to rezone it to a new CD-1 zone in order to allow for the proposed height, density, and change in use.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"35baf74326a7de9f4085059ebbd4d3bf\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"be715\" loading=\"lazy\" src=\"https://storeys.com/media-library/the-marine-terrace-apartments-at-605-se-marine-drive-mcmp-architects-peterson.png?id=65183300&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">The Marine Terrace apartments at 605 SE Marine Drive. (MCMP Architects, Peterson)</small></p><p>For the site, Peterson is proposing a 29-storey West Tower at the corner of SE Marine Drive and Poplar Street, and a 34-storey East Tower at the corner of SE Marine Drive and Fraser Street that would reach a maximum height of 391 ft. The project has a total proposed density of 9.2 FSR.</p><p>The residential component consists of 652 rental units, split between 499 market rental units and 153 below-market rental units — approximately 23% of the units. The 652 units have an overall suite mix of 45 “micro-studios,” 206 studio units, 162 one-bedroom units, 171 two-bedroom units, and 68 three-bedroom units.</p><p>The 29-storey West Tower would house the 153 below-market rental units — in the building podium that extends along SE Marine Drive — plus 180 market rental units above, while the 34-storey East Tower would house 319 market rental units and have a podium that extends along Fraser Street. The towers will not be physically connected.</p><p>The proposal also includes 18,640 sq. ft of retail space and 3,086 sq. ft of space for a 37-space childcare facility that would be located on the roof of the West Tower building podium. There are <a href=\"https://storeys.com/vancouver-eliminates-minimum-parking-requirements/\" target=\"_self\">no minimum parking requirements</a> in the City of Vancouver now, but Peterson is proposing to provide 409 vehicle stalls and 1,233 bicycle stalls in a four-level underground parkade.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"9c0b03ce7e4ae6857f8e783eb5c54eda\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"ea8ae\" loading=\"lazy\" src=\"https://storeys.com/media-library/an-overview-of-the-605-se-marine-drive-proposal-and-uses-mcmp-architects-peterson.png?id=65183385&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">An overview of the 605 SE Marine Drive proposal and uses. (MCMP Architects, Peterson)</small></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"8d12f6e5e326460ee457eb69f11c828a\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"86519\" loading=\"lazy\" src=\"https://storeys.com/media-library/a-rendering-of-the-605-se-marine-drive-proposal-from-the-corner-of-se-marine-drive-and-fraser-street-mcmp-architects-peterson.png?id=65183523&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">A rendering of the 605 SE Marine Drive proposal from the corner of SE Marine Drive and Fraser Street. (MCMP Architects, Peterson)</small></p><p>“605 SE Marine Drive is located at the nexus of two very different forms of urbanization and offers the opportunity for a type of development to negotiate this transition,” said Peterson in its rezoning application, referring to the industrial uses towards the south and the residential uses towards the north. “Mixed-use high density development along Marine Dr. negotiates this transition while supplying a high volume of much needed residential units and supporting retail activation and the renewal of Marine Dr.”</p><p>Although the site is not within the <a href=\"https://www2.gov.bc.ca/assets/gov/housing-and-tenancy/tools-for-government/local-governments-and-housing/maps/vancouver__richmond_marine_drive_station_toa_map_day_1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Marine Drive Station TOA</a> under provincial legislation, Peterson says their proposal is “designed as a transit-oriented project” and says the prominent intersection of two major arterials “supports a landmark high density development.” The tallest existing building in the area is the 22-storey Fraser Commons condo complex immediately east.</p><p>The project is also subject to the City’s tenant protection policies, although the rezoning application does not address the tenant relocation plan.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"0ecf4e24e24f839de76038b18e1d29b6\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"ad7ab\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65184208&width=980\"/> </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"30ce8c7d5e5ac69ee8b711f4ac8dda91\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"58dfb\" loading=\"lazy\" src=\"https://storeys.com/media-library/renderings-of-the-proposal-for-605-se-marine-drive-in-vancouver-mcmp-architects-peterson.png?id=65184499&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Renderings of the proposal for 605 SE Marine Drive in Vancouver. (MCMP Architects, Peterson)</small></p><p>Peterson also states in the rezoning application that “Transforming the existing car-oriented environment into a pedestrian-focused space is a key aspect of this project” and notes that the architectural design “considers the surrounding land uses, ensuring compatibility and minimizing negative impacts” by incorporating a variety of building scales and architectural expressions.</p><p>In a note published alongside the <a href=\"https://www.shapeyourcity.ca/605-695-se-marine-dr-ta\" rel=\"noopener noreferrer\" target=\"_blank\">rezoning application</a>, the City of Vancouver stated that “This application is not consistent with Council-adopted policies.” Nonetheless, the City says they are required to process the submission and that a future report will outline whether City staff support the proposal.</p><p>Notably, the City of Vancouver says it received the rezoning application in March 2025 and the rezoning application itself is dated October 2024. It’s unclear why there was such an unusual delay between submission and the application being published, but the City is holding the Q&A period for the application from Wednesday, April 1 to Tuesday, April 14.</p>",
+      "description": "<img src=\"https://storeys.com/media-library/the-two-tower-project-proposed-for-605-695-se-marine-drive-in-vancouver-mcmp-architects-peterson.png?id=65181355&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>Fresh off of a <a href=\"https://www.linkedin.com/posts/petersonbc_a-new-chapter-begins-for-peterson-introducing-activity-7432529830354722816-mGl8/\" rel=\"noopener noreferrer\" target=\"_blank\">brand refresh</a>, Vancouver-based <a href=\"https://petersonbc.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Peterson</a> is now advancing one of its largest planned projects to date, according to a new rezoning application published by the City of Vancouver last week.</p><p>The subject site is 605-695 SE Marine Drive, located at the northwest corner of the intersection with Fraser Street. The L-shaped site is currently occupied by a large apartment complex, known as Marine Terrace, which extends up Fraser Street to E 65th Avenue. The property is a single parcel that BC Assessment values at <a href=\"https://www.bcassessment.ca/Property/Info/QTAwMDAwMkc2MQ==\" rel=\"noopener noreferrer\" target=\"_blank\">$31,874,000</a> in its latest assessment, and 605 SE Marine Drive is held by Peterson under Fraser Marine Drive Holdings Inc.</p><p>The south side of SE Marine Drive is heavily industrial, while the north side is residential and/or retail. Although the area is serviced by buses, the closest SkyTrain station is the Canada Line’s Marine Drive Station, which is a nine-minute bus ride or 25-minute walk away.</p><p>The site has been zoned CD-1 (Comprehensive Development) since 1966, and Peterson is now seeking to rezone it to a new CD-1 zone in order to allow for the proposed height, density, and change in use.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"35baf74326a7de9f4085059ebbd4d3bf\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"be715\" loading=\"lazy\" src=\"https://storeys.com/media-library/the-marine-terrace-apartments-at-605-se-marine-drive-mcmp-architects-peterson.png?id=65183300&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">The Marine Terrace apartments at 605 SE Marine Drive. (MCMP Architects, Peterson)</small></p><p>For the site, Peterson is proposing a 29-storey West Tower at the corner of SE Marine Drive and Poplar Street, and a 34-storey East Tower at the corner of SE Marine Drive and Fraser Street that would reach a maximum height of 391 ft. The project has a total proposed density of 9.2 FSR.</p><p>The residential component consists of 652 rental units, split between 499 market rental units and 153 below-market rental units — approximately 23% of the units. The 652 units have an overall suite mix of 45 “micro-studios,” 206 studio units, 162 one-bedroom units, 171 two-bedroom units, and 68 three-bedroom units.</p><p>The 29-storey West Tower would house the 153 below-market rental units — in the building podium that extends along SE Marine Drive — plus 180 market rental units above, while the 34-storey East Tower would house 319 market rental units and have a podium that extends along Fraser Street. The towers will not be physically connected.</p><p>The proposal also includes 18,640 sq. ft of retail space and 3,086 sq. ft of space for a 37-space childcare facility that would be located on the roof of the West Tower building podium. There are <a href=\"https://storeys.com/vancouver-eliminates-minimum-parking-requirements/\" target=\"_self\">no minimum parking requirements</a> in the City of Vancouver now, but Peterson is proposing to provide 409 vehicle stalls and 1,233 bicycle stalls in a four-level underground parkade.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"9c0b03ce7e4ae6857f8e783eb5c54eda\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"ea8ae\" loading=\"lazy\" src=\"https://storeys.com/media-library/an-overview-of-the-605-se-marine-drive-proposal-and-uses-mcmp-architects-peterson.png?id=65183385&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">An overview of the 605 SE Marine Drive proposal and uses. (MCMP Architects, Peterson)</small></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"8d12f6e5e326460ee457eb69f11c828a\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"86519\" loading=\"lazy\" src=\"https://storeys.com/media-library/a-rendering-of-the-605-se-marine-drive-proposal-from-the-corner-of-se-marine-drive-and-fraser-street-mcmp-architects-peterson.png?id=65183523&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">A rendering of the 605 SE Marine Drive proposal from the corner of SE Marine Drive and Fraser Street. (MCMP Architects, Peterson)</small></p><p>“605 SE Marine Drive is located at the nexus of two very different forms of urbanization and offers the opportunity for a type of development to negotiate this transition,” said Peterson in its rezoning application, referring to the industrial uses towards the south and the residential uses towards the north. “Mixed-use high density development along Marine Dr. negotiates this transition while supplying a high volume of much needed residential units and supporting retail activation and the renewal of Marine Dr.”</p><p>Although the site is not within the <a href=\"https://www2.gov.bc.ca/assets/gov/housing-and-tenancy/tools-for-government/local-governments-and-housing/maps/vancouver__richmond_marine_drive_station_toa_map_day_1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Marine Drive Station TOA</a> under provincial legislation, Peterson says their proposal is “designed as a transit-oriented project” and says the prominent intersection of two major arterials “supports a landmark high density development.” The tallest existing building in the area is the 22-storey Fraser Commons condo complex immediately east.</p><p>The project is also subject to the City’s tenant protection policies, although the rezoning application does not address the tenant relocation plan.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"0ecf4e24e24f839de76038b18e1d29b6\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"ad7ab\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65184208&width=980\"/> </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"30ce8c7d5e5ac69ee8b711f4ac8dda91\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"58dfb\" loading=\"lazy\" src=\"https://storeys.com/media-library/renderings-of-the-proposal-for-605-se-marine-drive-in-vancouver-mcmp-architects-peterson.png?id=65184499&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Renderings of the proposal for 605 SE Marine Drive in Vancouver. (MCMP Architects, Peterson)</small></p><p>Peterson also states in the rezoning application that “Transforming the existing car-oriented environment into a pedestrian-focused space is a key aspect of this project” and notes that the architectural design “considers the surrounding land uses, ensuring compatibility and minimizing negative impacts” by incorporating a variety of building scales and architectural expressions.</p><p>In a note published alongside the <a href=\"https://www.shapeyourcity.ca/605-695-se-marine-dr-ta\" rel=\"noopener noreferrer\" target=\"_blank\">rezoning application</a>, the City of Vancouver stated that “This application is not consistent with Council-adopted policies.” Nonetheless, the City says they are required to process the submission and that a future report will outline whether City staff support the proposal.</p><p>Notably, the City of Vancouver says it received the rezoning application in March 2025 and the rezoning application itself is dated October 2024. It’s unclear why there was such an unusual delay between submission and the application being published, but the City is holding the Q&A period for the application from Wednesday, April 1 to Tuesday, April 14.</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/the-two-tower-project-proposed-for-605-695-se-marine-drive-in-vancouver-mcmp-architects-peterson.png?id=65181355&amp;width=980",
       "_src": "storeys"
@@ -558,7 +600,7 @@
       "title": "Cadillac Fairview Polishes Plans For 48-Storey Rental On Fairview Mall Site",
       "link": "https://storeys.com/fairview-mall-redevelopment-phase-one/",
       "pubDate": "Tue, 10 Mar 2026 15:45:15 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/rendering-of-the-first-tower-in-the-fairview-mall-master-plan-project.png?id=65173869&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>All across the Greater Toronto Area, malls are being reimagined into sprawling mixed-use communities — a movement that’s bringing more housing to transit-oriented sites, while lending fresh relevance to retail. And now, <a href=\"https://www.cadillacfairview.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Cadillac Fairview</a> has some skin in the game. </p><p>The commercial real estate giant owns and operates Fairview Mall in North York, and the over 40-acre site at 1800 Sheppard Avenue East is set to be embellished with over a dozen new buildings and upwards of 6,000 new residential units, alongside new parkland, a multi-use trail, and new public and private streets. The mall will be retained, and the project will be rolled out in phases.</p><p>The first phase of development has been in limbo since 2022, and the most recent rendition calls for a 48-storey mixed-use building and Privately-Owned Publicly-Accessible Space (POPS) on 1.5 acres of the larger development site. </p><div class=\"horizontal-rule\"><em><strong></strong></em></div><h4><em>Site Statistics For “Phase 1 South”:</em></h4><ul><li><em>Height: 48 storeys/531 ft</em></li><li><em>Non-residential GFA: 415,025 sq. ft</em></li><li><em>Residential GFA: 1,928 sq. ft</em></li><li><em>Residential units: 584 (all rental)</em></li><li><em>Unit breakdown: 350 one-beds, 175 two-beds, 59 three-beds, and 18 affordable</em></li><li><em>Indoor amenity: 13,305 sq. ft</em></li><li><em>Outdoor amenity: 10,204 sq. ft</em></li><li><em>Vehicle parking spaces: 79</em></li><li><em>Bicycle parking spaces: 234</em></li><li><em>POPS area: 10,613 sq. ft</em></li></ul><div><i></i></div><div class=\"horizontal-rule\"></div><div>The Site Plan Amendment application for Phase 1 South was submitted to the City in early February, on the heels of a Zoning Bylaw amendment application filed in December 2025. While changes were made between the two submissions — for example, the unit-count was brought down from 585 to 584, and the parking spaces from 81 to 79 — any adjustments are minor compared to the changes made to the proposal since first and second submissions in 2022 and 2023.</div><p>Most notably, Cadillac Fairview has opted to pare down the number of towers planned for the initial phase of the development. In 2022, the first phase was proposed to deliver three towers, at 58, 48, and 38 storeys, with 1,416 residential units between them. In 2023, the tower heights were adjusted to 52, 45, and 38 storeys, jointly containing 1,323 units.</p><p>In 2024, however, North York Community Council recommended the refusal of the proposal, amid significant community feedback raised over the lack of affordable housing in the proposal, and the impact the intensification would have on things like traffic and safety. Through an organization called <a href=\"https://www.buildabetterfairview.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Build a Better Fairview</a>, it appears that residents continue to rally for more affordable housing — a 20% share of the overall unit-count — amongst more.</p><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"93d093972f3e943c9decd73201876104\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"0eda0\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173927&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"b99c8ad561c9bbcabbf82cb2677e4f15\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"bf565\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173926&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"582e0b82d44816a4fd67a1176c0914af\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"7039c\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173930&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"f73516138071deaa4c32f7576afd19a2\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"71df4\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173932&width=980\"/><p><br/>Architectural plans prepared by <a href=\"https://www.adamson-associates.com/\" target=\"_blank\">Adamson Associates</a> depict the Phase 1 parcel abutting the Fairview Mall parking garage on the south end of the site, and southeast of the mall. The tower itself is shown rising from a seven-storey podium that’s wider than the tower element, to accommodate a seating area on the roof looking over the proposed POPS area.</p>",
+      "description": "<img src=\"https://storeys.com/media-library/rendering-of-the-first-tower-in-the-fairview-mall-master-plan-project.png?id=65173869&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>All across the Greater Toronto Area, malls are being reimagined into sprawling mixed-use communities — a movement that’s bringing more housing to transit-oriented sites, while lending fresh relevance to retail. And now, <a href=\"https://www.cadillacfairview.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Cadillac Fairview</a> has some skin in the game. </p><p>The commercial real estate giant owns and operates Fairview Mall in North York, and the over 40-acre site at 1800 Sheppard Avenue East is set to be embellished with over a dozen new buildings and upwards of 6,000 new residential units, alongside new parkland, a multi-use trail, and new public and private streets. The mall will be retained, and the project will be rolled out in phases.</p><p>The first phase of development has been in limbo since 2022, and the most recent rendition calls for a 48-storey mixed-use building and Privately-Owned Publicly-Accessible Space (POPS) on 1.5 acres of the larger development site. </p><div class=\"horizontal-rule\"><em><strong></strong></em></div><h4><em>Site Statistics For “Phase 1 South”:</em></h4><ul><li><em>Height: 48 storeys/531 ft</em></li><li><em>Non-residential GFA: 415,025 sq. ft</em></li><li><em>Residential GFA: 1,928 sq. ft</em></li><li><em>Residential units: 584 (all rental)</em></li><li><em>Unit breakdown: 350 one-beds, 175 two-beds, 59 three-beds, and 18 affordable</em></li><li><em>Indoor amenity: 13,305 sq. ft</em></li><li><em>Outdoor amenity: 10,204 sq. ft</em></li><li><em>Vehicle parking spaces: 79</em></li><li><em>Bicycle parking spaces: 234</em></li><li><em>POPS area: 10,613 sq. ft</em></li></ul><div><i></i></div><div class=\"horizontal-rule\"></div><div>The Site Plan Amendment application for Phase 1 South was submitted to the City in early February, on the heels of a Zoning Bylaw amendment application filed in December 2025. While changes were made between the two submissions — for example, the unit-count was brought down from 585 to 584, and the parking spaces from 81 to 79 — any adjustments are minor compared to the changes made to the proposal since first and second submissions in 2022 and 2023.</div><p>Most notably, Cadillac Fairview has opted to pare down the number of towers planned for the initial phase of the development. In 2022, the first phase was proposed to deliver three towers, at 58, 48, and 38 storeys, with 1,416 residential units between them. In 2023, the tower heights were adjusted to 52, 45, and 38 storeys, jointly containing 1,323 units.</p><p>In 2024, however, North York Community Council recommended the refusal of the proposal, amid significant community feedback raised over the lack of affordable housing in the proposal, and the impact the intensification would have on things like traffic and safety. Through an organization called <a href=\"https://www.buildabetterfairview.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Build a Better Fairview</a>, it appears that residents continue to rally for more affordable housing — a 20% share of the overall unit-count — amongst more.</p><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"93d093972f3e943c9decd73201876104\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"0eda0\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173927&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"b99c8ad561c9bbcabbf82cb2677e4f15\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"bf565\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173926&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"582e0b82d44816a4fd67a1176c0914af\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"7039c\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173930&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"f73516138071deaa4c32f7576afd19a2\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"71df4\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65173932&width=980\"/><p><br/>Architectural plans prepared by <a href=\"https://www.adamson-associates.com/\" target=\"_blank\">Adamson Associates</a> depict the Phase 1 parcel abutting the Fairview Mall parking garage on the south end of the site, and southeast of the mall. The tower itself is shown rising from a seven-storey podium that’s wider than the tower element, to accommodate a seating area on the roof looking over the proposed POPS area.</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/rendering-of-the-first-tower-in-the-fairview-mall-master-plan-project.png?id=65173869&amp;width=980",
       "_src": "storeys"
@@ -567,7 +609,7 @@
       "title": "New Research Signals Mortgage Relief As Pandemic Renewal Wave Wanes",
       "link": "https://storeys.com/mortgage-relief-renewal-wave-waning/",
       "pubDate": "Mon, 09 Mar 2026 16:12:29 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=51107299&width=1200&height=800&coordinates=97%2C0%2C98%2C0\"/><br/><br/><p>The pandemic, and the atypical years that followed, turned Canadians on their heads in more ways than one. For those who grabbed the opportunity for a cheap mortgage with both hands, the win was short-lived. Within years, the mortgage space would be rife with warnings of a renewal wave sold as nothing short of jarring. </p><p>In November 2024, Canada Mortgage Housing Corporation (CMHC) <a href=\"https://storeys.com/mortgages-renewal-2025-higher-rates/\" rel=\"noopener noreferrer nofollow\" target=\"_self\">reported</a> that around 1.2 million fixed-rate mortgages — $300 billion’s worth — would be up for renewal in 2025, and of those, over 85% were taken out when the policy interest rate was at or below 1%. At the time CMHC put these figures out, the benchmark rate was 3.75%.</p><p>Separate Bank of Canada <a href=\"https://www.bankofcanada.ca/2025/07/staff-analytical-note-2025-21/#:~:text=About%2060%25%20of%20mortgage%20holders,around%205%25%E2%80%937%25.\" rel=\"noopener noreferrer\" target=\"_blank\">estimates</a> from July 2025 suggested that roughly 60% of Canadian mortgage holders renewing by the end of 2026 would face higher payments, with households expected to see payments that were 5% higher in 2025 — and 6% higher in 2026 ± compared to December 2024.</p><p>But the warnings have eased, and Canada’s mortgage space seems to be turning a corner. A <a href=\"https://economics.td.com/ca-mortgage-renewal-mission-possible\" rel=\"noopener noreferrer\" target=\"_blank\">new analysis</a> from TD Economics’ <a href=\"https://www.linkedin.com/in/maria-solovieva-cfa-2ba23630/\" rel=\"noopener noreferrer\" target=\"_blank\">Maria Solovieva</a> highlights that debt serving costs have fallen, while mortgage interest costs are poised to — both indicators of a more palatable landscape for Canadian mortgagers.</p> <p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"a67372129d60bce782d5e9fcf0bad2ae\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"8ef31\" loading=\"lazy\" src=\"https://storeys.com/media-library/income-growth-and-longer-amortizations-are-blunting-mortgage-shock-statistics-canada-td-economics.png?id=65168521&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Income growth and longer amortizations are blunting mortgage shock/Statistics Canada, TD Economics</small></p> <p>“The most telling sign that Canadian households have weathered the renewal shock is also the simplest: they are spending less of their income on debt. The debt service ratio for households is below its recent highs in 2023, suggesting the greatest strain on consumers has already passed,” writes Solovieva.</p><p>The ratio is down for two reasons: longer amortizations and healthy income growth. Internal data from TD shows that average mortgage amortization length has been on the rise since 2021, and is currently around 16 months longer than it was prior to the pandemic. Meanwhile, personal disposable income has grown at a faster pace in the past three years than the three years leading up to the pandemic. </p><p>“Faster income growth cushioned a meaningful share of the interest rate shock. This has turned a mortgage ‘cliff’ into a much gentler ‘hill,’” Solovieva explains.</p> <p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"b96dbfb6a9e82d0c1b00602f77820f16\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"e52b6\" loading=\"lazy\" src=\"https://storeys.com/media-library/canada-s-mortgage-interest-cost-index-is-nearing-deflation-statistics-canada-td-economics.png?id=65168523&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Canada's mortgage interest cost index is nearing deflation/Statistics Canada, TD Economics</small></p><p>The report also looks at mortgage interest costs (MIC), which is a component within shelter inflation that came in at 31% (year over year) in August 2023, but is now down to just 1.2% (as of January). The metric is informed by changes in dwelling prices and changes in interest rates.</p><p>Solovieva notes that there tend to be “several quarters” of lag in MIC, but that that it is expected to come down gradually nonetheless. </p><p>“The more plausible base case for MIC turning negative end of 2026-beginning of 2027, based on national accounts’ mortgage interest paid as a leading indicator,” she writes. “Deflation in MICs is unlikely to be dramatic, as interest rates are projected to stabilize well above pre-pandemic levels. But its directional signal is consistent with the broader story: the mortgage renewal headwind that has suppressed consumer spending for three years is losing force.”</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"fa0c3a0a9afaf3be53cc4ab9d2bc20db\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"d277c\" loading=\"lazy\" src=\"https://storeys.com/media-library/canada-s-mortgage-stock-is-more-rate-sensitive-today-bank-of-canada-td-economics.png?id=65168524&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Canada's mortgage stock is more rate-sensitive today/Bank of Canada, TD Economics</small></p><p>The final factor at play is the pandemic renewal cycle itself, and the reality that it is finally coming to and end. “Until recently, the dominant renewal dynamic was mortgages originated at ultra-low rates resetting higher. That trend is now reversing,” says Solovieva.</p><p>It also matters that there is now a larger share of variable-rate, variable payment mortgages, which are more interest rate sensitive than five-year fixed, at a ratio of 73 to 27. In 2022, the ratio was 55 to 45, and in 2024, it was 66 to 34. </p><p>“This shift implies that recent interest rate cuts should pass through to borrowers more quickly than rate hikes did during the tightening cycle,” says Solovieva. “Our internal mortgage data confirms that the turning point is on the horizon. Early in 2026, modest payment increases are expected to persist, but by the second half of the year, declines become the dominant outcome as the share renewing into lower rates takes over.”</p>",
+      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=51107299&width=1245&height=700&coordinates=0%2C0%2C0%2C0\"/><br/><br/><p>The pandemic, and the atypical years that followed, turned Canadians on their heads in more ways than one. For those who grabbed the opportunity for a cheap mortgage with both hands, the win was short-lived. Within years, the mortgage space would be rife with warnings of a renewal wave sold as nothing short of jarring. </p><p>In November 2024, Canada Mortgage Housing Corporation (CMHC) <a href=\"https://storeys.com/mortgages-renewal-2025-higher-rates/\" rel=\"noopener noreferrer nofollow\" target=\"_self\">reported</a> that around 1.2 million fixed-rate mortgages — $300 billion’s worth — would be up for renewal in 2025, and of those, over 85% were taken out when the policy interest rate was at or below 1%. At the time CMHC put these figures out, the benchmark rate was 3.75%.</p><p>Separate Bank of Canada <a href=\"https://www.bankofcanada.ca/2025/07/staff-analytical-note-2025-21/#:~:text=About%2060%25%20of%20mortgage%20holders,around%205%25%E2%80%937%25.\" rel=\"noopener noreferrer\" target=\"_blank\">estimates</a> from July 2025 suggested that roughly 60% of Canadian mortgage holders renewing by the end of 2026 would face higher payments, with households expected to see payments that were 5% higher in 2025 — and 6% higher in 2026 ± compared to December 2024.</p><p>But the warnings have eased, and Canada’s mortgage space seems to be turning a corner. A <a href=\"https://economics.td.com/ca-mortgage-renewal-mission-possible\" rel=\"noopener noreferrer\" target=\"_blank\">new analysis</a> from TD Economics’ <a href=\"https://www.linkedin.com/in/maria-solovieva-cfa-2ba23630/\" rel=\"noopener noreferrer\" target=\"_blank\">Maria Solovieva</a> highlights that debt serving costs have fallen, while mortgage interest costs are poised to — both indicators of a more palatable landscape for Canadian mortgagers.</p> <p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"a67372129d60bce782d5e9fcf0bad2ae\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"8ef31\" loading=\"lazy\" src=\"https://storeys.com/media-library/income-growth-and-longer-amortizations-are-blunting-mortgage-shock-statistics-canada-td-economics.png?id=65168521&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Income growth and longer amortizations are blunting mortgage shock/Statistics Canada, TD Economics</small></p> <p>“The most telling sign that Canadian households have weathered the renewal shock is also the simplest: they are spending less of their income on debt. The debt service ratio for households is below its recent highs in 2023, suggesting the greatest strain on consumers has already passed,” writes Solovieva.</p><p>The ratio is down for two reasons: longer amortizations and healthy income growth. Internal data from TD shows that average mortgage amortization length has been on the rise since 2021, and is currently around 16 months longer than it was prior to the pandemic. Meanwhile, personal disposable income has grown at a faster pace in the past three years than the three years leading up to the pandemic. </p><p>“Faster income growth cushioned a meaningful share of the interest rate shock. This has turned a mortgage ‘cliff’ into a much gentler ‘hill,’” Solovieva explains.</p> <p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"b96dbfb6a9e82d0c1b00602f77820f16\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"e52b6\" loading=\"lazy\" src=\"https://storeys.com/media-library/canada-s-mortgage-interest-cost-index-is-nearing-deflation-statistics-canada-td-economics.png?id=65168523&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Canada's mortgage interest cost index is nearing deflation/Statistics Canada, TD Economics</small></p><p>The report also looks at mortgage interest costs (MIC), which is a component within shelter inflation that came in at 31% (year over year) in August 2023, but is now down to just 1.2% (as of January). The metric is informed by changes in dwelling prices and changes in interest rates.</p><p>Solovieva notes that there tend to be “several quarters” of lag in MIC, but that that it is expected to come down gradually nonetheless. </p><p>“The more plausible base case for MIC turning negative end of 2026-beginning of 2027, based on national accounts’ mortgage interest paid as a leading indicator,” she writes. “Deflation in MICs is unlikely to be dramatic, as interest rates are projected to stabilize well above pre-pandemic levels. But its directional signal is consistent with the broader story: the mortgage renewal headwind that has suppressed consumer spending for three years is losing force.”</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"fa0c3a0a9afaf3be53cc4ab9d2bc20db\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"d277c\" loading=\"lazy\" src=\"https://storeys.com/media-library/canada-s-mortgage-stock-is-more-rate-sensitive-today-bank-of-canada-td-economics.png?id=65168524&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Canada's mortgage stock is more rate-sensitive today/Bank of Canada, TD Economics</small></p><p>The final factor at play is the pandemic renewal cycle itself, and the reality that it is finally coming to and end. “Until recently, the dominant renewal dynamic was mortgages originated at ultra-low rates resetting higher. That trend is now reversing,” says Solovieva.</p><p>It also matters that there is now a larger share of variable-rate, variable payment mortgages, which are more interest rate sensitive than five-year fixed, at a ratio of 73 to 27. In 2022, the ratio was 55 to 45, and in 2024, it was 66 to 34. </p><p>“This shift implies that recent interest rate cuts should pass through to borrowers more quickly than rate hikes did during the tightening cycle,” says Solovieva. “Our internal mortgage data confirms that the turning point is on the horizon. Early in 2026, modest payment increases are expected to persist, but by the second half of the year, declines become the dominant outcome as the share renewing into lower rates takes over.”</p>",
       "content": "",
       "thumbnail": "https://storeys.com/media-library/image.jpg?id=51107299&amp;width=980",
       "_src": "storeys"
@@ -584,33 +626,48 @@
       "_pubUrl": "https://ottawacitizen.com"
     },
     {
-      "title": "Manuela Preis On Loving (And Posting) Life As A Crane Operator",
-      "link": "https://storeys.com/manuela-preis-crane-operator-bc/",
-      "pubDate": "Fri, 06 Mar 2026 22:28:11 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/manuela-preis-instagram.jpg?id=65164575&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>There are varying statistics and things are improving, but even so, women are estimated to represent just ~15% of the construction sector workforce in Canada. Any given construction site is home to a variety of people who play different roles, with one of the most important being the crane operator overlooking the site.</p><p>Statistics suggest that as few as 1 in 25 crane operators is a woman (that's ~4%). Manuela Preis is one of those ones. </p><p>Originally from Germany, Preis and her large family immigrated to Manitoba when she was around 8 years old. She went to university in Winnipeg for a year before moving out west to British Columbia four years ago.</p><p>Now 25, Preis has been a crane operator for over two years, and began documenting her job on Instagram.</p><p>In honour of Women In Construction Week and International Women’s Day, STOREYS caught up with Preis to dive into her unique job.</p><p><em><span></span>Responses have been lightly edited for length and clarity</em>.</p><h3>How did you get into construction? </h3><p>I just kind of ended up there. I was originally in university, I was going to be an accountant, actually. COVID happened, everything went online, and online didn’t work well for me for school, so I decided to just put a pause on that. </p><p>I had a connection with oil and gas, my friend’s dad was a foreman, and a group of us decided to try it out just to make some money. It was only supposed to be a short-term thing, but I really liked it. It was fun. There was a lot of money, I think that’s definitely what kind of hooks you in. There was still a lot of work, and they didn’t shut down [because of COVID], so it seemed like a safe place.</p><h3>How did you go from that to specifically being a crane operator?</h3><p>I did oil and gas for three years; I started hopping on equipment, and then I was ready for a change because the work I was doing was up north and out of town, and I wanted the city experience. Out of nowhere, my friend — who knew I was in the trades — [got me in contact with someone who] started a crane company. He had two daughters, and he taught them how to run cranes, and they started a program where they were teaching other people how to run cranes. </p><p>So, I called him a bunch of times, he agreed to meet me, I drove out to Vancouver, we met for coffee, and then I started that process. That’s how I ended up in cranes. [For more details, there's <a href=\"https://www.instagram.com/reels/DUGsiltAcl5/\" target=\"_blank\">a video</a> about it.]</p><h3>What was the training process like? How long did it take?</h3><p>A lot of rules and regulations are [currently] changing for tower cranes. It used to be a lot different. You needed a specific number of hours. When I started, I don’t quite remember the number [of hours that was required], but it was fewer [than today].</p><p>Basically, you had a supervisor with you, you get your <a href=\"https://fulford.ca/crane-operator-certification/bc-yukon/fulford-level-b/\" target=\"_blank\">B Ticket</a>, you get some rigging experience, and then you start collecting hours in the cranes with someone supervising. That’s how I started.</p><h3>Do you typically stay with one project from beginning to end, or do you move around different projects?</h3><p>A lot of times you do bounce around. Sometimes you do start-to-finish, but you just never know what happens with the project, right? [A] project that I was on…Basically, there was a disagreement, and it got put on hold. So you never really know.</p><p>My company does keep me busy. They’ll bounce me around until they find more of a permanent place. But then if you take time off, say, a couple months, then someone else will be taking over that permanent position, so you wouldn’t see that building through to the end. But if you stick around and everything goes according to plan, you should be able to do start-to-finish. </p><p>It also just depends on your experience, like if they want you to fly tables; you need to be a Red Seal operator to fly tables.</p><h3>How would you describe the role crane operators play?</h3><p>It takes a lot of mental work which, for me, is great. I like a busy brain. You pay attention to many things at the same time. </p><p>To me it’s almost like an art form, because in a way, you’re dealing with a pendulum. You have this big hoist line that you’re always trying to catch, so you have your trolley out, you have different gears, you’re doing different motions at the same time — you’re hoisting down with the load, you’re trolleying out, you’re swinging, and you want to keep that load as steady as possible, be smooth, and not too fast. You want it to be efficient. </p><p>Then you’re paying attention to everyone on the ground, what you’re flying over, as well as communicating with everyone, your rigger, and other equipment on site as well. So there’s a lot going on that you’re paying attention to.</p><p>You have a lot of roles; I don't think a lot of people realize what an operator does up there. There’s a system on how to keep your loads smooth and how to be efficient — especially getting into tight places — and making sure everyone feels safe around you. For me, that’s really important. I want the people that work under me to feel safe.</p><h3>I wasn't aware of all the complexities of the job before seeing your videos.</h3><p>There is [a lot of complexity]! Oftentimes your rigger pays attention to the rigging, but it’s also the operator’s responsibility as well, to see from the top if there’s something wrong with the rigging. You work as a team. The operator almost has the last say, like if you don’t feel like the load is safe, or it’s not safely rigged. </p><p>Also, the capacities are based on how far out can I go on my jib with this capacity. Some cranes will tell you how heavy a load is, but a lot of the older cranes, they don’t have any indicators like that. Usually, we do know how heavy something is, and then you do that calculation. There are a lot of different moving parts. [A <a href=\"https://www.instagram.com/reels/DVQ3r3DiJyV/\" target=\"_blank\">recent video</a> dove into crane capacities.]</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"e3acb092819cb7db76b5c041e566f32d\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"7b429\" loading=\"lazy\" src=\"https://storeys.com/media-library/manuela-preis-instagram.jpg?id=65164612&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Manuela Preis/Instagram</small></p><h3>What’s your day-to-day like? How much time do you spend atop your crane? Are you allowed to leave?</h3><p>It depends on the job site. Some job sites, if it’s a smaller job, they’ll do eight or nine hours. Other job sites, a lot of times, you never really know when you’re getting off. You have an idea and then, all of a sudden, you’re there three more hours. Maybe we’re waiting on concrete trucks or a certain aspect of the job needs to get finished, because we’re trying to stick to schedule. During my weekdays, it’s always a gamble. I don’t try to make a lot of plans; if I do get off early, then I make plans then and there.</p><p>In terms of me climbing down … I’ve done it before: I try to squeeze in a quick appointment, I climb down really fast, I Uber to that appointment, and then I get back, climb my tower, and I'm back at work. Sometimes, you'll climb down if you want to grab a quick snack or you want to stretch your legs, but most of the time I stay up in my cab.</p><p>I think a cool thing that I haven’t shown [on Instagram] is, let’s say there’s a food truck that comes, or the rigger will say: “I’m going to 7-Eleven, do you want me to grab you something?” I’ll radio them and tell them if I want something, and then, I have a bucket with a rope that I let down from a counter-jib. They put in everything that I need, and then I pull that bucket up, so we don’t have to climb down.</p><h3>How long does the full climb usually take?</h3><p>It depends on how high up you are. Sometimes it’s a half-hour climb, if it’s a really tall crane. Other times it’s 15 minutes — because also while you’re climbing, you’re doing all your checks, you’re checking each tower section, you’re checking the bolts, you have a structural check every morning. So you want to be able to take a little bit of time to make sure that the crane structure is intact and all the bolts are tight.</p><h3>So you’re pretty much in your cab all day, right? Some of your videos show that you pack your food, and even go to the bathroom in your cab?</h3><p>Yes, everything is done in my cab.</p><p>[Manuela says the bathroom question is the most common question she gets, so she made <a href=\"https://www.instagram.com/reels/DTbI9rWkmGb/\" target=\"_blank\">a video about it</a>.]</p><h3>You talked about the weights and how it’s like a pendulum. How does the weather, like heavy wind, impact your job?</h3><p>We are supposed to shut down at 50 km/h winds. If it’s getting to those higher gusts, your swing breaks might not hold the tower crane, which is very dangerous, because: Imagine you have a load that you’re hoisting, and then the wind grabs you. It can swing you without you having the capacity to swing back against the wind or lock your brakes. Past 50 km/h, the wind is strong enough to blow through your brakes.</p><p>We do have an anemometer up there, so I always know the wind speed. Once it gets too windy, I notify everybody and we try to wait it out.</p><h3>You’re the one that notifies everybody?</h3><p>Yeah, it’s the operator’s responsibility to let people know. And when you’re up there too, you are swinging against the wind. It’s harder to operate when it’s windy, so when it gets to 50 km/h, it’s really hard to keep everything steady and operating properly. You've gotta call it.</p><h3>How often do you come across other women in construction? In general, and specifically with cranes? Is it proportional, or is it even rarer to see female crane operators?</h3><p>I think it’s very rare. It just happened to be the company that I was with, and that he has two daughters that taught us how to run cranes. It’s very rare. Even when I was working oil and gas, I was always the only girl. It’s very normal for me; it’s never been a bother. I grew up with five brothers, so I was always around boys. I do have sisters as well, we’re a big family, but I grew up in between the boys, so me going into construction, it wasn’t a shock. It just felt like normal to be around a lot of men.</p><p>A lot of the men that I was working with are quite a bit older. I was always the youngest one. I would be 20, and the next-youngest person would be 35. And that would be young for construction in the oil field. </p><p>Even now, it’s hard to kind of run into people who are more my age — and you really don’t see a lot of women on site.</p><h3>What’s the favourite part of your job? Any particularly notable days? What do you look forward to?</h3><p>When I get up, I love going to work. I really like running cranes. I know a lot of people don’t feel that way, but I’ve never felt this way about a job before. I’m passionate about it. It’s very serious, there’s a lot of accountability, and I think I like that. I like being held accountable, I like having responsibility, and at the same time, it’s also kind of fun. </p><p>You kind of feel like a magician. You need to be really careful with this load, and you’re paying attention to so many things. You’re chatting with the guys on the radio, you’re joking back and forth, and you’re communicating in different ways. There’s a lot of fun characters that you meet. Every job you have, there are really awesome people. </p>",
-      "content": "",
-      "thumbnail": "https://storeys.com/media-library/manuela-preis-instagram.jpg?id=65164575&amp;width=980",
-      "_src": "storeys"
-    },
-    {
-      "title": "“A Signal Was Sent”: BC Still Reeling From Budget 2026, Housing To Take A Hit",
-      "link": "https://storeys.com/bc-budget-2026-developers-reeling/",
-      "pubDate": "Fri, 06 Mar 2026 17:50:42 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/anthony-maw-unsplash.jpg?id=65163336&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>The dust is yet to settle from the <a href=\"https://storeys.com/bc-taxes-build-canada-homes/\" rel=\"noopener noreferrer nofollow\" target=\"_self\">release of BC’s Budget 2026</a>. </p><p>Weeks later, developers are still reeling, and say that it does nothing to encourage the housing development that the province badly needs. Even worse, they worry that tax measures introduced are actively discouraging it.</p><p>“A signal was sent to individual industries and for housing — it really was,” says <a href=\"https://www.linkedin.com/in/michaelgdrummond/\" rel=\"noopener noreferrer\" target=\"_blank\">Michael Drummond</a>, who is the interim vice president and CEO of the Urban Development Institute (UDI) in BC. “We have been raising the cost-of-delivery crisis for a number of years, and there was nothing in the budget to help address that.”</p><p>UDI is one of 19 signatories on a <a href=\"https://www.boardoftrade.com/news/media-statement/pst-tax-hike-threatens-competitiveness-safety-and-affordability\" rel=\"noopener noreferrer\" target=\"_blank\">February 24 statement</a> urging the Province to walk back on one of the particularly contentious measures introduced in the budget: the expansion of the 7% PST burden to accounting services, architectural services, engineering and geoscience services, security services, and commercial real estate services, effective October 1, 2026. These services have not generally been subject to PST in BC.</p><p>“BC cannot afford policies that raise input costs, discourage investment, and weaken our competitive position,” says the joint statement, which represents the opinion of not just housing market stakeholders, but business organizations across the board. “BC’s PST is already the most uncompetitive sales tax in Canada, and Budget 2026 doubles down. This expansion creates a massive new administrative burden and a 'tax on a tax' for every project.”</p><div class=\"rm-embed embed-media\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"550\" src=\"https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7432585253480873984?collapsed=1\" title=\"Embedded post\" width=\"504\"></iframe></div><p>In one pro forma provided to STOREYS by Drummond, the consultancy spend on a 21-storey, 330-unit concrete rental would jump by about $275,000 (about $800 per unit), while operating expenses would rise by about $20,000 per year (about $60 per unit, per year).</p><p>“It doesn't sound like that much until you look at what that would do to the cap rate. And basically, you take [a $470,000] loss in the value of the asset,” Drummond explains. He also gives a second example of a five-storey, 150-unit wood-frame rental that would see consultancy costs and yearly operating expenses rise increase by $150,000 and $10,000 respectively, resulting in an asset value loss of $250,000.</p><p>“But it's less about that, and it’s more about the signal that government chose to put on an additional tax on development at a time when very few projects are penciling, the presale market has collapsed, rental margins are tightening, and the market is not signalling a near true recovery,” he adds.</p><p>While the PST expansion has gotten a lot of attention, it’s not the only tax measure included in Budget 2026 that will exacerbate pain-points in BC’s housing market.</p><p>The Province has also opted to bump the <a href=\"https://storeys.com/speculation-and-vacancy-tax-meaning-definition-real-estate/\" target=\"_self\">Speculation and Vacancy Tax</a> rate for the 2027 tax year up to 4% (from 3%), and, effective January 1, 2027, the additional school tax rate for properties with a residential component is set to be 0.3% (up from from 0.2%) on the portion of value between $3 million and $4 million, and 0.6% (up from 0.4%) on the portion of value over $4 million. </p><p>“We basically have shut investors down. Like, why would you invest in BC?,” says Wesbild President and CEO <a href=\"https://www.linkedin.com/in/kevin-layden-7079048/overlay/about-this-profile/\" rel=\"noopener noreferrer\" target=\"_blank\">Kevin Layden</a>. “And this just isn't the speculation tax that's discouraging investment, it's the overall taxation environment and the lack of being able to get projects moving forward.”</p><p>“The bigger issue for me is the school tax, which is an asset tax. And for us, we're a land developer, we own a lot of land that we're now going to have to pay additional school taxes on, that we can't bring to market because of how long it takes to bring it to market,” Layden adds. “It's just ridiculous… and it's going to lead to more people leaving BC.”</p><p>And the implications stand to run even deeper than that. Layden reveals that Wesbild has already started to park a number of their projects, including its plans for the Poco Place Shopping Centre in Port Coquitlam, which it <a href=\"https://wesbild.com/wesbild-acquires-poco-place/\" rel=\"noopener noreferrer\" target=\"_blank\">acquired back in April 2024</a>. </p><p>“We have a very strong development permit application in place, but the math doesn't work. […] It'll stay as a shopping centre unless there's some kind of significant change to the expectations of bonus density or DCCs, because the rents have dropped,” he says. “And I’m all for rents dropping, I think it’s good for the market, but the Province and municipalities need to adjust to the market realities that we're all faced with. What I've said to city councillors is that you can raise taxes and the DCCs, but you’ll get 100% of nothing, because the project won’t go forward.”</p><p>While Layden feels that BC could take a page out of Ontario’s book by introducing a GST rebate for first-time homebuyers, he also underscores that the province has a lot more to worry about than its lacklustre housing output. Budget 2026 revealed a 39% increase in operating expenses, but just 18% increase in revenue — and the Province is projecting a record-breaking $13.3 billion deficit for the 2026-2027 fiscal year. </p><p>With everything that BC’s latest budget has revealed and introduced, Layden says he’s “worried for British Columbia” and what this is all going to mean for future generations. And he's certainly not alone.</p>",
-      "content": "",
-      "thumbnail": "https://storeys.com/media-library/anthony-maw-unsplash.jpg?id=65163336&amp;width=980",
-      "_src": "storeys"
-    },
-    {
       "title": "What's next for Calgary's housing market as detached home sales tighten?",
       "link": "https://news.google.com/articles/CBMi0AFBVV95cUxQTTgyTGpqMmN1R1hoQ203VUpGUndUYmRZWFZCMGZMTmlNWlF0cEJaaHdMWmoycGN6dnNiajJrcUdmbEt4MnRpSEJnS0JscHJ3U3MzdFR0N2c3ZmVQWHNLdXlaNkJ2VkdpRWJQUDlWTU1Kd016bE4tLTA2RFFjQ1lTeHFoYlJUck85OF96MFZfOVlVNTZZM1NZQXBIckR6Z0N4ZllQajdRVml4ZlBFNmRaanFKMVJ4SHQ3ZHBBTTZiWVViVVo4dkpNaDRxWGNENFZi?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 20:27:49 GMT",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "description": "What's next for Calgary's housing market as detached home sales tighten? - mpamag.com",
       "content": "",
       "thumbnail": "",
       "_src": "gnhprice",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com"
+    },
+    {
+      "title": "Slower housing market mixed blessing for those looking to move up property ladder",
+      "link": "https://news.google.com/articles/CBMixwFBVV95cUxQNnAxNzlHMmFwdXBLRmo0UVR1NWVobkpoUVdnd1BGTW1XZW5DOUtyQm1kQjJRcXdPU0R0ZFlzMkJJZW1lblB6dXdKWEw3NkhTSG5OdmxRVUpoMTJwQ0hOcTNIbXpWMGJDM2NjSXJxNUJCUXJjWEM5NENoTDRfbU93VzM4SVJDRmpwMEdCenN6QzVFcXl2aEdCM0hmS1lNeGdNSlhkSUNQQ0pOTFJka2RQNDVlT0lQUEw2dW03YjZaWUpIWlNsX1o0?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "description": "Slower housing market mixed blessing for those looking to move up property ladder - Times Colonist",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnott",
+      "_publisher": "Times Colonist",
+      "_pubUrl": "https://www.timescolonist.com"
+    },
+    {
+      "title": "Immigration could soon account for all of Canada’s population growth: expert",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQYVhIZnBkdk5nTUx4NEZMTUJFcEc5ZVVYOHVHUGk0cDVJWHJDWHpaNmZJWUh2MjNzcVBGd3NFYllrNTFBdDVQa2ltdHdwWDRnQ2hWUTRUQllxWk1xMHViX1VacGtPcWh6ZnNEMVh4NDVHdjlDelEzbk5sRUs4UThuQVN4MjNUT180QUpfMlIxOEg4Vk9lSDhGN0t6MnVvTmJTZVNhdmdra1NpdTV1MVBBdEhPOGE?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 09:03:55 GMT",
+      "description": "Immigration could soon account for all of Canada’s population growth: expert - CityNews Halifax",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnimmig",
+      "_publisher": "CityNews Halifax",
+      "_pubUrl": "https://halifax.citynews.ca"
+    },
+    {
+      "title": "Canada's Immigration Targets Signal Opportunity for Investors",
+      "link": "https://news.google.com/articles/CBMi2wFBVV95cUxNSFRBc1ltdjRIcVIzNzRGQnE2dUdtWVZGNXVpdnlsVlBURERHSTFLa2tEN1ZsaUwteXVYVGVNaUpIZlRMcmsxMlpKMnVNNnNjakhGdTFFZGJNRGxGdTkzMVRMeHFHd0VrTGRjUmh2WENVMUlZRzVLZ0RRUnQ4c2NwTDdlQ2pEcEJPZTVBYmxXQlZYTFpQaVNOQlJJdmpfaUZaNWFIVFM4c1BlcGtSM3hmdjhyT0FILThEVUtpLXdXUk93VG5UN3MyNGxFZERlUTE5cjhHNFBGZkhzcDg?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "description": "Canada's Immigration Targets Signal Opportunity for Investors - The Globe and Mail",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnimmig",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com"
     },
     {
       "title": "Calgary home sales fall 11% in February as condo oversupply weighs on prices - CMT News",
@@ -646,17 +703,6 @@
       "_pubUrl": "https://obj.ca"
     },
     {
-      "title": "Canadian Home Sales Begin 2026 on Ice as Snow Buries Central Canada",
-      "link": "https://news.google.com/articles/CBMigAFBVV95cUxOdmN6RENyQzZrMTgwUm1VR1JJbkUxS2x5dG5mekwxQVluR0w4X3RkMS1zeWVoX3RfVE55ZnlldUttb0ZncWVOZDBOWi1CYU1PQVBJbm9relF0RXVlcmtadXhEdnQxS2dWY0ZzbmJiQ0JPRHVwZUR4UmN3WDZ1NXprWA?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "description": "Canadian Home Sales Begin 2026 on Ice as Snow Buries Central Canada - crea.ca",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnre",
-      "_publisher": "crea.ca",
-      "_pubUrl": "https://www.crea.ca"
-    },
-    {
       "title": "Home Prices Are Finally Dropping",
       "link": "https://news.google.com/articles/CBMihgFBVV95cUxOQ0stSlFrSG5oeS1IVl9QMDhsSjk2TUh5QlN2WkdSU2NMTllfQWtwbnI5VXE2dXJBS2xSWFZoaDh3UEZJbFQxdDM4MUdEazNHVU85U205QjlZNFJac2lPSTk4SFVab1V0aWJxSnZKYmZCeTRfbFVGdGhhWS14TUNkaERNMVNYQQ?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
@@ -675,6 +721,28 @@
       "content": "",
       "thumbnail": "",
       "_src": "gnott",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca"
+    },
+    {
+      "title": "Canadian Home Sales Begin 2026 on Ice as Snow Buries Central Canada",
+      "link": "https://news.google.com/articles/CBMigAFBVV95cUxOdmN6RENyQzZrMTgwUm1VR1JJbkUxS2x5dG5mekwxQVluR0w4X3RkMS1zeWVoX3RfVE55ZnlldUttb0ZncWVOZDBOWi1CYU1PQVBJbm9relF0RXVlcmtadXhEdnQxS2dWY0ZzbmJiQ0JPRHVwZUR4UmN3WDZ1NXprWA?oc=5",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "description": "Canadian Home Sales Begin 2026 on Ice as Snow Buries Central Canada - crea.ca",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnontre",
+      "_publisher": "crea.ca",
+      "_pubUrl": "https://www.crea.ca"
+    },
+    {
+      "title": "Ontario Housing Market | 2026 Home Prices",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE5UYlBzNkpnYW0wc0FlS3NyTkV5MFFQeDJ4cUdUc3lZYmhRRmZHeFlwc2xBcjlLZlo1OXFhemRmZEstdFFnR3QwVDVSZm1XMV9STFU5VDQway10QWR5R19YTk5DTHV0VFhwSno4VHlOM2VOdw?oc=5",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "description": "Ontario Housing Market | 2026 Home Prices - nesto.ca",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnontre",
       "_publisher": "nesto.ca",
       "_pubUrl": "https://www.nesto.ca"
     },
@@ -745,17 +813,6 @@
       "_pubUrl": "https://www.cbc.ca"
     },
     {
-      "title": "Why Are Canadian Real Estate Prices So High?",
-      "link": "https://news.google.com/articles/CBMic0FVX3lxTE02MTRxdnY3bnM1aXBIODU4dlo5TDJ3b3FtdGpWdXBtTmFFS01EUWxDbFJLcVU4cDNRLW0yWUZoM3hPM2VyalRxVmVEYTRhLUNSMFI2dXdOXzY5cEpGSGlXOHFPbFdraXlyTWlUMkpaYWMwVzQ?oc=5",
-      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "description": "Why Are Canadian Real Estate Prices So High? - Remax",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnontre",
-      "_publisher": "Remax",
-      "_pubUrl": "https://blog.remax.ca"
-    },
-    {
       "title": "Home prices are now dropping for all property types in Canada",
       "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
       "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -765,28 +822,6 @@
       "_src": "gnhprice",
       "_publisher": "INsauga",
       "_pubUrl": "https://www.insauga.com"
-    },
-    {
-      "title": "Provincial Housing Market Outlook: Activity to Remain Subdued This Year",
-      "link": "https://news.google.com/articles/CBMiZEFVX3lxTE13RTFlSWJnZ2l3S0Vob3o3TjctTUo4WnlFb3dNbFhBYS1VaHgwOFZlLV9aal9zY2hzX3d5OU1tQVlvUG5mRFBtZUM4N0YyOEdNaXY2M21zSmMyNGxHd1ZRLXIzajk?oc=5",
-      "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "description": "Provincial Housing Market Outlook: Activity to Remain Subdued This Year - TD Economics",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnontre",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com"
-    },
-    {
-      "title": "Housing starts up 5.6% in 2025 from 2024",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxPby1NRS1lR3V6SE53QUNwOGN5X0NPcDVyY0ZmemZNaE9Bd2hMb0tNV09HMDlGTVBKajZHNHR2QTZkZWc5ZHB4ZUJ3S0g1TFJHdF9CS1RjMDc5dzk0dGpJUFBrZGJPbklFS2tOMzVPNkpaTTZvU2RBYTRPZWxkYXJ2aGZpQmp5MEt4QlZ5c2pIaUxHZGVW?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "description": "Housing starts up 5.6% in 2025 from 2024 - Canada Mortgage and Housing Corporation | CMHC",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca"
     },
     {
       "title": "Ontario proposes to pause rule that lets cities require affordable housing units",
@@ -812,14 +847,14 @@
     },
     {
       "title": "‘It’s going to get worse in Ontario:’ Here’s what experts predict will happen to the housing market in 2026",
-      "link": "https://news.google.com/articles/CBMi2gFBVV95cUxQMDFLY1d3RTdHbm5EUEEycGNUUFhFUWh3RjNld3NacWFJVmt4Z01aZVViTVQ0V2hkb1hoZF9yaXR1VXA4WUtvTGVLeHRqNFFKYTBJS2pzV29vTkZDRi1Nd1NoVG0tYUVYcjRFYmhtWHZCLXptSVlWUmFCdlJfWW5ZbXl1ZTZPQU11VTM4MU9uRDU1M2FldmtsQ2pxclJyejRtOFMwNHMwS3IweENtaFdIaklITnplZmJzc0JqanlvQy1ZS1lTbFphbnNwbmZicHlDNXVSS3QtTlB4Zw?oc=5",
+      "link": "https://news.google.com/articles/CBMi4wFBVV95cUxPOEF1YjN1d1BHRl9uMVlWekJCaUsxZ3YzSnFUSk0xd1B4R29DMy02YWNOQ2xNaExfNjVGeDBWTkJPZ0RKVG1UMUpxd3pZZlQ3Z1Y2VG9tMlBIUHdaam1yb1kzSlZ5VTZKTHJhd2RSNUVnQ1ZnNnU5QlpqUHhIVDd5R0NFNm9LYjd6S05zZkM5RTFWYVFoaTdLYW5GU3lNX3RIUHRpc0VtNW1aT0NmUUMxa0swZWRyaGt6eWdJcGJKT012S0xmSHUycXd5SFh1VmRGVDAza2tzOS05WTBqbVMxdkZlWQ?oc=5",
       "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
-      "description": "‘It’s going to get worse in Ontario:’ Here’s what experts predict will happen to the housing market in 2026 - CTV News",
+      "description": "‘It’s going to get worse in Ontario:’ Here’s what experts predict will happen to the housing market in 2026 - CP24",
       "content": "",
       "thumbnail": "",
       "_src": "gnontre",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca"
+      "_publisher": "CP24",
+      "_pubUrl": "https://www.cp24.com"
     },
     {
       "title": "Ottawa pushes for policy changes to boost first-time homeownership",
@@ -831,17 +866,6 @@
       "_src": "gnott",
       "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca"
-    },
-    {
-      "title": "Canada Housing Outlook 2026 Signals Stability Amid Immigration Shifts and Market Reset",
-      "link": "https://news.google.com/articles/CBMiYkFVX3lxTE9HWEgzQklWUnlGZU9aRmpSbW5xTWV3NEFfYnNCdjVTSnpLNFRhTFB4SXR5ZHRGQWlsVEp1OG50NkJoUnh0aDZGRFZUN2UzbFRqMGRpeHljMDFaeU1TS3hrSUN3?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "description": "Canada Housing Outlook 2026 Signals Stability Amid Immigration Shifts and Market Reset - ImmigCanada Immigration Consulting Services",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnimmig",
-      "_publisher": "ImmigCanada Immigration Consulting Services",
-      "_pubUrl": "https://immigcanada.com"
     },
     {
       "title": "Tariffs, immigration shifts, condo softness shape Canada’s housing outlook for 2026: Royal LePage CEO",
@@ -877,17 +901,6 @@
       "_pubUrl": "https://ontarioconstructionnews.com"
     },
     {
-      "title": "Stand-off between buyers and sellers leaves Canada’s housing market stuck",
-      "link": "https://news.google.com/articles/CBMigAJBVV95cUxOMFpSd212MkxkdWRTVmk1MG9yeFplOFVQZDJ2b2xCWDJOa1ZPTTY0TEhjTnJKSlFEd2Y1VXhXd2VFeVBMcFVoRl9LN2hOY25leU5TbWlHaHZVLXV0dTZZS2E5TVdwcFJlcGxwVDQzZjVudWRFOElJMWlwelc3YkRWbEJvOU55VHowdEFCcnNEZzV0MDk1MDIwMnVVU2lFX0Z1TUZSMnhFRWtRRWRBSWhvVHJFUG1OeVBtaUZTcm1nYmpoQWtqbHE5WFRIZlV3Y3FqemIxb2d3TjgxOTRGc2s1ZkZ1dHNxMGVhOWlGMnBZNVU1Vm5RamFJRWJMSGhjUVNs?oc=5",
-      "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
-      "description": "Stand-off between buyers and sellers leaves Canada’s housing market stuck - rbc.com",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnre",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com"
-    },
-    {
       "title": "The housing burden of unchecked immigration: Peter Copeland in Commonplace",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxNMl9RT3ZHQUw2a0xMa3l1elFQeWlXS1dKRGt5RW5FYXRReEtiMGJ4SDN2TnNWS1NjMTRhX3hfVUgwT3JvVkpUQ1NWZmtiYXpNVTMyMFlXdnRjOXZvLWkwRjdLX2hGcGRiQUV3M2d6XzJHNzA1TTctVU5udGlwSUhMcW1QTmxBMF9iNm9YZ2RIS2YzOTlRWXN1VlM2QTRFaTBubXc?oc=5",
       "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -921,6 +934,17 @@
       "_pubUrl": "https://www150.statcan.gc.ca"
     },
     {
+      "title": "Buyers jump into Canada’s housing markets as 2025 draws to an end",
+      "link": "https://news.google.com/articles/CBMi8AFBVV95cUxNT0FRSi1VcmNDSHpLelJCWkltUERuS1JRTmd2V21uS290S3F2Q3h4eXlDd2lPam1CYV9iTk0zTHY1TXBjZk0xOXlObFRPOGduZ3ZVYVA2WXpubHBHSE5JLUhtdjJFU08wMHdBUXV6ZW1SNDNKYWUtMGRxaVhLLW9rTzBjeml6VENNYzdkU1c1M3o1dmdJZU42X2NPSEYxdHdtcl9sSnplUlVldEtBNWI3Z2pPWWY4b3JDLWhETk56MWFfSWFNY3RnUF9wbGdNZlhyMFd4TlRSUzNSMXJ1TE9wUmphcDdEcmxKNUpVckN2ZGI?oc=5",
+      "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "description": "Buyers jump into Canada’s housing markets as 2025 draws to an end - rbc.com",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnontre",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com"
+    },
+    {
       "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
       "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
       "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
@@ -941,17 +965,6 @@
       "_src": "gnnewcon",
       "_publisher": "Western Investor",
       "_pubUrl": "https://www.westerninvestor.com"
-    },
-    {
-      "title": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control",
-      "link": "https://news.google.com/articles/CBMitAFBVV95cUxPdWpUbU8xaU94VVNLUl9CQVY0N0RKanNEMzRkZHlrNlVYZVgtRHRrY2sxOEc5cktVTDl3MGZqNWlkTlZxRXZ5OXBPanE0WEtFNEw0cmRfa3Q2bXBUS3hKbTJMSkoyajR0SnQ4T0FldTduYzkzcXozRks2QkVwMXVfTGwyeVdEbGd4eVRkTmtUQjh0aDhXeEZKYUVUSkFpNVVkQVV6cmdmX01sN2U1dUV6V0dMZmM?oc=5",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "description": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control - Glen Gower",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottdev",
-      "_publisher": "Glen Gower",
-      "_pubUrl": "https://glengower.ca"
     },
     {
       "title": "Canada’s immigration overhaul to cool housing demand: RBC",
@@ -1020,15 +1033,15 @@
       "_pubUrl": "https://www.ctvnews.ca"
     },
     {
-      "title": "Ottawa real estate gains pace — average prices up, but uneven recovery ahead",
-      "link": "https://news.google.com/articles/CBMicEFVX3lxTE15SFh4Smxub0ZkNGVBbEhoWWluY0U0Wnd2cnIxZWdmWEF5S3VtVFBrdWROemNKamxSUWd5ejhqbG5ldmFrSU9BS3dYU1NJNGVSbjltUi1YdHJtNFRJWll0SXJRM2p0OVJrZkdXa3NVSEw?oc=5",
+      "title": "‘Micro-bursts’ of intense demand popping up in Ottawa’s luxury market",
+      "link": "https://news.google.com/articles/CBMingFBVV95cUxNMzhYTk5raXVwSDdVZXo2MGtKT1B1YW44YUx0dGp6aG0zdWU5U1hOMjFDZmJsRXh5SDcyVXNOTFZtYmY0amRMTEF4UzFIQzhpdEhmVDZ6U1RpenhnMzdFS0lRZVZlRDU5MGhDRDRVQnZiMm5tU1J2UVluS2s3eGIxcFpSSnFWSThONUkza3J6Vmc0MDhUWGpwdjlDY1BQUQ?oc=5",
       "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "description": "Ottawa real estate gains pace — average prices up, but uneven recovery ahead - Ottawa Business Journal",
+      "description": "‘Micro-bursts’ of intense demand popping up in Ottawa’s luxury market - Real Estate Magazine Canada",
       "content": "",
       "thumbnail": "",
       "_src": "gnott",
-      "_publisher": "Ottawa Business Journal",
-      "_pubUrl": "https://obj.ca"
+      "_publisher": "Real Estate Magazine Canada",
+      "_pubUrl": "https://realestatemagazine.ca"
     },
     {
       "title": "Navigating Toronto’s frozen pre-construction condo market",
@@ -1040,6 +1053,17 @@
       "_src": "gnnewcon",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com"
+    },
+    {
+      "title": "‘Affordability and sustainability don’t need to compete’: green housing advocates urge Carney to see big picture",
+      "link": "https://news.google.com/articles/CBMi5gFBVV95cUxQeF90SlI3akNCRExZV1RPMUwtZlhMQkdjU1JTX0hiOV9FaWR4eEtGTktzWG4zR0Faakg0Slpnc2tzTGtlRU1lVnlXUHlFLTBtT1VWeDVGZVlEQi1BamdMd1cyQU9ETmRJUFVGamloejVYcllRNVdNbk1wSVRSSkJUc1RWRS1fNEhIcmlKMng3M3RtWHNCcG9KOVdkRWowUVhOemdkOGFJdU9HcXdmdTZ3Vi1OQmtsc0JBODgzVGRkdUZhelZxUjVCa3NSVXZzQ1RMRkFLZVo4ZkRPbGNEMnFhWWVUdkdmdw?oc=5",
+      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "description": "‘Affordability and sustainability don’t need to compete’: green housing advocates urge Carney to see big picture - The Pointer",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnnewcon",
+      "_publisher": "The Pointer",
+      "_pubUrl": "https://thepointer.com"
     },
     {
       "title": "‘Housing is too heavily taxed and too heavily regulated’: How Carney’s Build Canada Homes plan misdiagnoses the housing crisis",
@@ -1141,17 +1165,6 @@
       "_pubUrl": "https://macdonaldlaurier.ca"
     },
     {
-      "title": "Rental apartment construction was supposed to fix Canada’s housing crisis, but developers are struggling - and the pain is spreading",
-      "link": "https://news.google.com/articles/CBMitgFBVV95cUxOWngzWkFRamlRc0tDcHFKd3BsOURXdDd3TnRRVy1OU1lpLXZjUE1kemxxRUVhalNZYV9rZVVUZTExQzJKS3pLTmZXakluaEVBQjY1RkRYSGxJWUZFUjNiWXVUT08yelpjMTJPMkhhSnhoSU5ZQU56RmhfYThOVEtQYlgzc0NzdnEwU0JMN291YTg5VnQtQ1AxMDBoaEUySk96bnI0NjlBTFNvanJnak85Vm12aWtCZw?oc=5",
-      "pubDate": "Sat, 16 Aug 2025 07:00:00 GMT",
-      "description": "Rental apartment construction was supposed to fix Canada’s housing crisis, but developers are struggling - and the pain is spreading - The Globe and Mail",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnnewcon",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com"
-    },
-    {
       "title": "Ottawa Real Estate Market Stats July 2025",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxPLWQ1WlltMURGeS00Y3Bia0pwVlpLUkU2QlVBeG5hV2E3OWQtcHU4UmREZmVjSGlRSndjUWh4LW5fMU9zdXNhall2YWJueGxKVXBfRk1YaERGLXhSeHh5OXNIaU15T1RtaDZzVHkyZkF2Vi1RNWZmem9Yc195dzFqNVRR?oc=5",
       "pubDate": "Thu, 14 Aug 2025 07:00:00 GMT",
@@ -1161,17 +1174,6 @@
       "_src": "gnott",
       "_publisher": "weknowottawa.com",
       "_pubUrl": "https://www.weknowottawa.com"
-    },
-    {
-      "title": "Immigration and the housing crisis: Debunking myths to advance an inclusive economy",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxQVFYtSVZIMGFSZWlWZHBmYUhHdmFKd1pRNkdDNTY4WERmZF9NTmNYNWVfdUNGazlUT25GbFVSZTBMSW1lclNIUVFKYklhWlU1eXVvNldhVlFkYW9ybFRzZWI3VXR0LVlGZDNyYlJPaVM5TkY2VC10YktYZW5YVldPTk5XNGtSX1ZuTUlSQTJ3dGlMaDJN?oc=5",
-      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "description": "Immigration and the housing crisis: Debunking myths to advance an inclusive economy - Toronto Metropolitan University (TMU)",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnimmig",
-      "_publisher": "Toronto Metropolitan University (TMU)",
-      "_pubUrl": "https://www.torontomu.ca"
     },
     {
       "title": "Quebec has rent control. So why are apartment prices still soaring?",
@@ -1207,15 +1209,15 @@
       "_pubUrl": "https://immigration.ca"
     },
     {
-      "title": "Canada’s Housing Supply Shortages: Moving to a New Framework",
-      "link": "https://news.google.com/articles/CBMihwJBVV95cUxPbm1fZ3V3Um1Sdm5xVUdJbk1xQTloSGpzUlVncUFJTTIyRm1XTlAtd0lhd0lZd0xVS3dqUW9VdDliSlJuY1FZQ01NM2hEbEZ3dGVkRDZVSTJHcEJCVm9EWWJ6WHBVbHlhLXV3eG9DUnpialE5NmZ2NE5FNkJLWGU0TVBQc3NEdS1YdUkwd0owYjRYa2Ywc0E4dGNwVWpoMERLZ3ZCYU1pTFlIYmdVNW5KQmRpZ2hEOUlkQUY4Wk5sTC1GOUFEZ1hSUTNONTEtUC1ibWEteGxUVGxVVXowZ3A0eEcxWE1wS0xSOFY2YUE1cXJXNGZkRlAzMDRlUWNYRFAwTVVWVU5ZQQ?oc=5",
-      "pubDate": "Thu, 19 Jun 2025 07:00:00 GMT",
-      "description": "Canada’s Housing Supply Shortages: Moving to a New Framework - Canada Mortgage and Housing Corporation | CMHC",
+      "title": "Ottawa Airport Authority opposed to proposed housing development on Riverside Drive",
+      "link": "https://news.google.com/articles/CBMivwFBVV95cUxNOWNhandEU1dDUXZJQl8ycVQ4cFRsTmt3NnJyandOaVVLbHNqMkpobmp1czItN285Y0NaVmNWdnJ3WmY2SGVyUlVLb0JBTU1jNFZoM2R2Tllhb1ZfV2VoOFBxbjF5MVBvN1h5WkFIRFZ1b01UMnBRVlljcWtFZkg1OTFDOFdUaGdRbEdGRkh6czNUX3ZGYWJMdjU1RzhmRnc3cVFjY285QWhzV2ZSdi1MNmhPenBPYko3b3VVX2UzWQ?oc=5",
+      "pubDate": "Wed, 18 Jun 2025 07:00:00 GMT",
+      "description": "Ottawa Airport Authority opposed to proposed housing development on Riverside Drive - CTV News",
       "content": "",
       "thumbnail": "",
-      "_src": "gnpolicy",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca"
+      "_src": "gnottdev",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca"
     },
     {
       "title": "Committee approves zoning for residential developments in Orléans, Barrhaven",
@@ -1251,17 +1253,6 @@
       "_pubUrl": "https://westcarletononline.com"
     },
     {
-      "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
-      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxQMEV1V2JkOHBnZFJwNkhQeTN1Q0MxMks1c3N5dG1mTTRHdEQ3MkdQcDNQUTh3cUJCSUZYRmJZcHVkRFREbmZUdVFSSThyeDBHdWJtZVNVcmJkc1NQWTRrelA4elI4LXJnVXNYNVZSU0VSMmoxaXVRc1NzUFprdW1NZG1NcFFWYlBYT0d4dmFoX19vTUlqdDJYUTY5NUExYTNPRmNQMGVESlllcHFBS3d4dlZsLTJMUDNsMUJN?oc=5",
-      "pubDate": "Fri, 11 Apr 2025 09:58:31 GMT",
-      "description": "The roots of our housing crisis: Austerity, debt and extreme speculation - Policy Alternatives",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca"
-    },
-    {
       "title": "'High-stakes' list sets out Ottawa's road and transit projects for 20 years",
       "link": "https://news.google.com/articles/CBMiqAFBVV95cUxQeGhKbkZEcTRlT0hMN2UwWDdjS0dqcDA1YVBoQlljSGJ6OHVaWGJZRFBySnRxS0ZTNDRQSXhGZ1VkVnl4eVdJRGY3X05qZW1nc3VScFBEei1mQ2RmdG02SVdNN0VCTW83U04yRlBiWFJsMXctSkpKWHRDXzUwWldHeGtpNTV5YmVXb2pVc0g3WDBBQnVDOXVzdkh4SGtOU0xJWXNWeU5KMHE?oc=5",
       "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
@@ -1295,15 +1286,15 @@
       "_pubUrl": "https://www.insauga.com"
     },
     {
-      "title": "How To Fix Canada’s Housing Crisis",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE00N3JJZWpyMnRxcXNmdmdtRmFxSVF2RHd5NmtlczBZS0plbGRNOTlVcFhhaE42anJaalFSWnVHUkpqVWhSZ0JuU2pVVC01ZWJzLTc3VFJvNE1zelMwODJwYmZ1OTZua213cW1JV2VtTmtfdw?oc=5",
-      "pubDate": "Mon, 17 Mar 2025 07:00:00 GMT",
-      "description": "How To Fix Canada’s Housing Crisis - Macleans.ca",
+      "title": "Housing in a Time of Crisis: CUPE Policy Statement",
+      "link": "https://news.google.com/articles/CBMiaEFVX3lxTE5raGZvbXdfY0gxRFprUlVLTmlUN0JBbXBLT0ZROWNneGgweG91Sm80N3ZKSmJDR0RTeVZxVUFNZzNGRHdZVzJwdk1jd2haTGMtWXZpYmdvY2FPTHlzdVplc1Z4c3pQbDI1?oc=5",
+      "pubDate": "Thu, 20 Feb 2025 08:00:00 GMT",
+      "description": "Housing in a Time of Crisis: CUPE Policy Statement - Canadian Union of Public Employees",
       "content": "",
       "thumbnail": "",
       "_src": "gnpolicy",
-      "_publisher": "Macleans.ca",
-      "_pubUrl": "https://macleans.ca"
+      "_publisher": "Canadian Union of Public Employees",
+      "_pubUrl": "https://cupe.ca"
     },
     {
       "title": "Affordable Housing",
@@ -1328,15 +1319,37 @@
       "_pubUrl": "https://ontariopc.ca"
     },
     {
-      "title": "Ottawa Light Rail Transit",
-      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
-      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
-      "description": "Ottawa Light Rail Transit - AECOM",
+      "title": "Policy Matters: Lessons in Housing from the United States",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxPMW5BNjI5TjV3VXprZEtuWFJfZGlWOEhKTkZkTUZFOXYtSmh5RGJfUHlVR1RNT2c2MTVqS1NWdlNlRGljRDR6TE9XMWtDSW5CN0JPMGQ5UWF4Y3BoOS1tMkdjUllhaDRuNER4OWxIYTYwQ3g2cEpvMWVKQnYtNWlRQW9n?oc=5",
+      "pubDate": "Tue, 11 Jun 2024 07:00:00 GMT",
+      "description": "Policy Matters: Lessons in Housing from the United States - Canadian Chamber of Commerce",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnpolicy",
+      "_publisher": "Canadian Chamber of Commerce",
+      "_pubUrl": "https://chamber.ca"
+    },
+    {
+      "title": "2024Unpacking the Affordable Housing Crisis",
+      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQaGw0U0RiOGlvUGE3LURJTXllNTVFRTdLQmxtM2JPLW1RRGZObGotSzllR0JPVjU5M3JNVkdhdzVwMVk4ZDF5S19UbWJNLTdZZExhNHl5ajMtWW0yZGhYUFJNMmtPVGNVT054VndvU1RGbG9TTG9QNkE4dHlBUEttYlhseGVmQ2EySkJLUWRTZngtZ1Qzdkl0R2UzNnFyWXBKQ0tkTVlENVpaT3E5YVV0bmZwb2lLa2gzRGhNb1ExZDM?oc=5",
+      "pubDate": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "description": "2024Unpacking the Affordable Housing Crisis - Mount Royal University",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnpolicy",
+      "_publisher": "Mount Royal University",
+      "_pubUrl": "https://www.mtroyal.ca"
+    },
+    {
+      "title": "City outlines action plan in response to Ottawa Light Rail Transit Public Inquiry",
+      "link": "https://news.google.com/articles/CBMitgFBVV95cUxQV2R3RVM2RGN1cHhhOXF5VFRxeEdoTy12dFc0MU8tWlprMkI5MUpFTE9Gb2V6WHdXNFFQSFd1MTNFZnBzUDRGR3hEUS1BVmJzN2U5WXZ2R3RCX0g1cFVQM1AzVVhpTnZ0SkJaaUxBT3pIYUl3Y1FUQ0xrdjY4c3hVUlNpdnZ2TUlVRlhGdEdNakhNSlp3VzgyS2JCU3dLSHpTdllPOWdpNTA0RHZPaEpqWkRBS1VzUQ?oc=5",
+      "pubDate": "Thu, 20 Apr 2023 07:00:00 GMT",
+      "description": "City outlines action plan in response to Ottawa Light Rail Transit Public Inquiry - Glen Gower",
       "content": "",
       "thumbnail": "",
       "_src": "gnottlrt",
-      "_publisher": "AECOM",
-      "_pubUrl": "https://aecom.com"
+      "_publisher": "Glen Gower",
+      "_pubUrl": "https://glengower.ca"
     },
     {
       "title": "Rideau Transit Group, P3 council issue statements following scathing Ottawa LRT inquiry",
@@ -1350,26 +1363,26 @@
       "_pubUrl": "https://canada.constructconnect.com"
     },
     {
+      "title": "Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects",
+      "link": "https://news.google.com/articles/CBMiggJBVV95cUxQU3YydHVDZWRxMi1Tc1ZjZUZORS01Nl9xd1VLNVl0LVE3dVJtZDNLRTF0RElhSG9xSEF5RU1rS3BMOXdZX1dzbHVZZmI1WHdNUG9yRDJ0X1lad29sb2QzVTR6ak9aMnVBZXZPYl9KZ3Q3LWVyV0E3V3czZXJhYXBDeDRsMG1YRURJdXRCT2Jrdkx4azB2RFZObzB1UlpSMWIyeWlUcFU5cFk2ZjIya0lVZDhfWXdLQW43RUs1M1ZvenRoblZrYUZsZGJ2S1BLa3FyQVhhTHFXeDhCNkVCYjU3R2ZJZ0tLSFNha3dveWtZeVhfS19OV2ZfX00wbmVodGpKaXc?oc=5",
+      "pubDate": "Mon, 28 Nov 2022 08:00:00 GMT",
+      "description": "Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects - canada.ca",
+      "content": "",
+      "thumbnail": "",
+      "_src": "gnottlrt",
+      "_publisher": "canada.ca",
+      "_pubUrl": "https://www.canada.ca"
+    },
+    {
       "title": "Ottawa’s colossal LRT debacle: A brief-ish history",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5",
       "pubDate": "Fri, 14 Jan 2022 08:00:00 GMT",
-      "description": "Ottawa’s colossal LRT debacle: A brief-ish history - TVO",
+      "description": "Ottawa’s colossal LRT debacle: A brief-ish history - TVO.org",
       "content": "",
       "thumbnail": "",
       "_src": "gnottlrt",
-      "_publisher": "TVO",
+      "_publisher": "TVO.org",
       "_pubUrl": "https://www.tvo.org"
-    },
-    {
-      "title": "Ottawa Light Rail Transit System",
-      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
-      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
-      "description": "Ottawa Light Rail Transit System - Torys LLP",
-      "content": "",
-      "thumbnail": "",
-      "_src": "gnottlrt",
-      "_publisher": "Torys LLP",
-      "_pubUrl": "https://www.torys.com"
     },
     {
       "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
