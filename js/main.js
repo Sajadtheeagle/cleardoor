@@ -4,6 +4,9 @@
 
 // ══ PAGE NAV ══
 function showPage(id){
+  // Redirect legacy page IDs to unified calculator tabs
+  if(id==='saving'){showCalcTab('savings');return;}
+  if(id==='compare'){showCalcTab('rvb');return;}
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.nl,.di').forEach(b=>b.classList.remove('active'));
   document.querySelectorAll('.nav-item').forEach(ni=>ni.classList.remove('active'));
@@ -18,8 +21,7 @@ function showPage(id){
   });
   window.scrollTo({top:0,behavior:'smooth'});
   if(id==='calculator'){calcMortgageMain();calcAffordability();calcCMHC();calcLTT();}
-  if(id==='saving')calcSave();
-  if(id==='compare')calcRvB();
+  if(id==='rates'){initRates();}
   if(id==='listings')renderListings();
   if(id==='glossary')renderGlossary();
   if(id==='blog'){blogInit();}
@@ -28,6 +30,12 @@ function showPage(id){
   if(id==='rss-admin'){rssAdminInit();}
   if(id==='dashboard'){if(typeof dashCheckAuth==='function')dashCheckAuth();}
   closeDrawer();
+}
+// Open calculator with a specific tab active
+function showCalcTab(tab){
+  showPage('calculator');
+  var btn=document.querySelector('.tabbtn[data-tab="'+tab+'"]');
+  showCalc(tab,btn);
 }
 // ══ DRAWER ══
 function openDrawer(){ document.getElementById('drawer').classList.add('open'); document.getElementById('doverlay').classList.add('open'); }

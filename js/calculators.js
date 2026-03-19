@@ -6,12 +6,15 @@
 function showCalc(id,el){
   document.querySelectorAll('.tabpane').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.tabbtn').forEach(b=>b.classList.remove('active'));
-  document.getElementById('calc-'+id).classList.add('active');
-  el.classList.add('active');
+  var pane=document.getElementById('calc-'+id);
+  if(pane)pane.classList.add('active');
+  if(el)el.classList.add('active');
   if(id==='mortgage')calcMortgageMain();
   if(id==='affordability')calcAffordability();
   if(id==='cmhc')calcCMHC();
   if(id==='ltt')calcLTT();
+  if(id==='savings')calcSave();
+  if(id==='rvb')calcRvB();
 }
 // ══ CALCS ══
 const fmt=n=>'$'+Math.round(n).toLocaleString();

@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="css/modals.css">
   <link rel="stylesheet" href="css/ottawa-map.css">
   <link rel="stylesheet" href="css/blog.css">
+  <link rel="stylesheet" href="css/rates.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 </head>
 <body>
@@ -34,16 +35,15 @@
       </div>
     </div>
     <!-- FINANCIALS -->
-    <div class="nav-item" data-pages="financial,calculator,saving,compare">
+    <div class="nav-item" data-pages="financial,rates,calculator,saving,compare">
       <button class="nl">Financials <span class="arr">▾</span></button>
       <div class="dropdown">
         <div class="dd-section">Programs & Incentives</div>
         <button class="dd-item" onclick="showPage('financial')"><span class="di-icon">🏛️</span><span class="di-label">Gov't Programs</span></button>
         <div class="dd-sep"></div>
-        <div class="dd-section">Calculators</div>
-        <button class="dd-item" onclick="showPage('calculator')"><span class="di-icon">🧮</span><span class="di-label">Mortgage Calculator</span></button>
-        <button class="dd-item" onclick="showPage('saving')"><span class="di-icon">🪙</span><span class="di-label">Savings Planner</span></button>
-        <button class="dd-item" onclick="showPage('compare')"><span class="di-icon">⚖️</span><span class="di-label">Rent vs Buy</span></button>
+        <div class="dd-section">Rates & Calculators</div>
+        <button class="dd-item" onclick="showPage('rates')"><span class="di-icon">📊</span><span class="di-label">Mortgage Rates</span><span class="di-badge">Live</span></button>
+        <button class="dd-item" onclick="showPage('calculator')"><span class="di-icon">🧮</span><span class="di-label">Calculators</span></button>
       </div>
     </div>
     <!-- MARKET -->
@@ -63,7 +63,7 @@
         <button class="dd-item" onclick="showPage('checklist')"><span class="di-icon">✅</span><span class="di-label">Buyer Checklist</span></button>
         <button class="dd-item" onclick="showPage('glossary')"><span class="di-icon">📖</span><span class="di-label">Glossary</span></button>
         <button class="dd-item" onclick="showPage('calculator')"><span class="di-icon">🧮</span><span class="di-label">Calculators</span></button>
-        <button class="dd-item" onclick="showPage('compare')"><span class="di-icon">⚖️</span><span class="di-label">Rent vs Buy</span></button>
+        <button class="dd-item" onclick="showPage('rates')"><span class="di-icon">📊</span><span class="di-label">Mortgage Rates</span></button>
       </div>
     </div>
     <!-- INSIGHTS -->
@@ -95,9 +95,8 @@
   <button class="di" onclick="showPage('ottawaplan')">🗺️ Ottawa City Plans</button>
   <div class="dl">Financials</div>
   <button class="di" onclick="showPage('financial')">🏛️ Gov't Programs</button>
-  <button class="di" onclick="showPage('calculator')">🧮 Mortgage Calculator</button>
-  <button class="di" onclick="showPage('saving')">🪙 Savings Planner</button>
-  <button class="di" onclick="showPage('compare')">⚖️ Rent vs Buy</button>
+  <button class="di" onclick="showPage('rates')">📊 Mortgage Rates</button>
+  <button class="di" onclick="showPage('calculator')">🧮 Calculators</button>
   <div class="dl">Market</div>
   <button class="di" onclick="showPage('market')">📊 Market Reports</button>
   <div class="dl">Tools</div>
@@ -136,7 +135,7 @@
     <p class="ssub">Most first-time buyers follow these six steps. Click any to jump in.</p>
     <div style="display:grid;gap:.75rem;margin-top:1.3rem;">
       <div class="step-card" onclick="showPage('financial')"><div class="snum">1</div><div class="scontent"><h3>Learn Government Programs (FHSA, HBP, Rebates)</h3><p>Canada offers thousands in tax savings. Most first-time buyers don't claim everything they're entitled to.</p><div class="stip">→ Financial Programs</div></div></div>
-      <div class="step-card" onclick="showPage('saving')"><div class="snum">2</div><div class="scontent"><h3>Build Your Down Payment</h3><p>Learn the minimum you need, the accounts to use, and how to save faster — even on a tight income.</p><div class="stip">→ Saving Tips</div></div></div>
+      <div class="step-card" onclick="showCalcTab('savings')"><div class="snum">2</div><div class="scontent"><h3>Build Your Down Payment</h3><p>Learn the minimum you need, the accounts to use, and how to save faster — even on a tight income.</p><div class="stip">→ Savings Planner</div></div></div>
       <div class="step-card" onclick="showPage('calculator')"><div class="snum">3</div><div class="scontent"><h3>Calculate What You Can Afford</h3><p>Use our stress-test affordability calculator to find your real maximum — including CMHC and closing costs.</p><div class="stip">→ Calculators</div></div></div>
       <div class="step-card" onclick="showPage('newconstruction')"><div class="snum">4</div><div class="scontent"><h3>Browse New Builds & Pre-Construction</h3><p>Explore hundreds of new construction projects across Canada — filter by city, price, type, and occupancy date.</p><div class="stip">→ New Builds Hub</div></div></div>
       <div class="step-card" onclick="showPage('listings')"><div class="snum">5</div><div class="scontent"><h3>Search All Listings</h3><p>Search resale homes across Canada via Realtor.ca with all your filters pre-applied instantly.</p><div class="stip">→ Search Listings</div></div></div>
@@ -158,9 +157,9 @@
       <div class="card" style="cursor:pointer" onclick="showPage('newconstruction')"><div style="font-size:1.6rem;margin-bottom:.6rem">🏗️</div><h3>New Builds Hub</h3><p>Browse & compare new construction projects across Canada with maps and filters.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('financial')"><div style="font-size:1.6rem;margin-bottom:.6rem">💰</div><h3>Financial Programs</h3><p>FHSA, RRSP HBP, First-Time Buyer tax credits, and provincial rebates.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('market')"><div style="font-size:1.6rem;margin-bottom:.6rem">📊</div><h3>Market Guide</h3><p>Seasonality, price drivers, city tiers, and a complete closing cost breakdown.</p></div>
-      <div class="card" style="cursor:pointer" onclick="showPage('saving')"><div style="font-size:1.6rem;margin-bottom:.6rem">🪙</div><h3>Saving Tips</h3><p>Down payment strategy, savings hierarchy, and a timeline calculator.</p></div>
-      <div class="card" style="cursor:pointer" onclick="showPage('compare')"><div style="font-size:1.6rem;margin-bottom:.6rem">⚖️</div><h3>Rent vs Buy</h3><p>Interactive break-even calculator to find what makes sense for your situation.</p></div>
-      <div class="card" style="cursor:pointer" onclick="showPage('calculator')"><div style="font-size:1.6rem;margin-bottom:.6rem">🧮</div><h3>Calculators</h3><p>Mortgage, CMHC, land transfer tax, and affordability — all in one place.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('rates')"><div style="font-size:1.6rem;margin-bottom:.6rem">📊</div><h3>Mortgage Rates</h3><p>Live rates from 12 lenders — Big Banks, monolines, and brokers compared side by side.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showCalcTab('savings')"><div style="font-size:1.6rem;margin-bottom:.6rem">🪙</div><h3>Savings Planner</h3><p>Down payment strategy, savings hierarchy, and a timeline calculator.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('calculator')"><div style="font-size:1.6rem;margin-bottom:.6rem">🧮</div><h3>Calculators</h3><p>Mortgage, CMHC, land transfer tax, affordability, and Rent vs Buy — all in one place.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('checklist')"><div style="font-size:1.6rem;margin-bottom:.6rem">✅</div><h3>Checklist</h3><p>40+ interactive checklist items across 4 phases from prep to closing.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('glossary')"><div style="font-size:1.6rem;margin-bottom:.6rem">📖</div><h3>Glossary</h3><p>Every real estate term explained in plain English — searchable and filterable.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('ottawaplan')"><div style="font-size:1.6rem;margin-bottom:.6rem">🗺️</div><h3>Ottawa City Plans</h3><p>Interactive Official Plan &amp; zoning maps — see future developments and land use designations.</p></div>
@@ -358,77 +357,112 @@
   <tr><td>Property Tax Adjustment</td><td>Varies</td><td>Reimburse seller for pre-paid taxes at closing</td></tr></table></div>
   <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
 </div>
-<!-- ════════════ SAVING ════════════ -->
-<div id="page-saving" class="page">
-  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">🪙 Saving Tips</div><h1>Build Your Down Payment<br><em>Smarter & Faster</em></h1><p>The right savings strategy can shave 1–2 years off your timeline. Here's the optimal hierarchy — and a calculator to prove it.</p></div></div>
-  <div class="section alt"><div class="eyebrow">Requirements</div><h2 class="stitle">How Much Do You Actually Need?</h2>
-  <table><tr><th>Home Price</th><th>Min Down Payment</th><th>CMHC Premium</th><th>Ideal Target</th></tr>
-  <tr><td>Under $500K</td><td>5%</td><td>4.0% of mortgage</td><td>10–20%</td></tr>
-  <tr><td>$500K–$999K</td><td>5% on first $500K + 10% on remainder</td><td>2.8–3.1%</td><td>20%</td></tr>
-  <tr><td>$1M+</td><td>20% — mandatory</td><td>None</td><td>20%</td></tr></table></div>
-  <div class="section"><div class="eyebrow">Savings Hierarchy</div><h2 class="stitle">Where to Put Your Money — In This Order</h2>
-  <div style="display:grid;gap:.7rem;margin-top:1.2rem">
-    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--sky),var(--teal))">1</div><div class="scontent"><h3>Max FHSA ($8,000/year first)</h3><p>Every dollar is tax-deductible going in and tax-free coming out for your home. No other account does both. This is your single highest-impact move.</p><div class="stip">Open immediately — room builds from the year you open, not from contributions.</div></div></div>
-    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--teal),var(--green))">2</div><div class="scontent"><h3>Contribute to RRSP (for HBP withdrawal)</h3><p>After maxing FHSA, contribute to RRSP. You can withdraw up to $60K per person tax-free under the Home Buyers' Plan. Funds need 90 days seasoning.</p></div></div>
-    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--gold),#f97316)">3</div><div class="scontent"><h3>TFSA for overflow savings</h3><p>After FHSA and RRSP, direct additional savings to your TFSA. Tax-free growth and withdrawals — ideal for your closing cost fund.</p></div></div>
-    <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--purple),#9333ea)">4</div><div class="scontent"><h3>HISA for emergency fund</h3><p>Keep 3–6 months of expenses in a High-Interest Savings Account (EQ Bank, Wealthsimple, Simplii — currently 4–5%). Don't use this for your down payment.</p></div></div>
-  </div></div>
-  <div class="section alt"><div class="eyebrow">Calculator</div><h2 class="stitle">Savings Timeline Planner</h2>
-  <div class="calc-grid">
-    <div class="cbox">
-      <h3>🪙 Down Payment Planner</h3>
-      <div class="fr"><label>Home Price: <span class="rv" id="hpVal">$600,000</span></label><input type="range" id="hp" min="200000" max="1200000" step="10000" value="600000" oninput="calcSave()"></div>
-      <div class="fr"><label>Down Payment Goal: <span class="rv" id="dpPctVal">10%</span></label><input type="range" id="dpPct" min="5" max="20" step="1" value="10" oninput="calcSave()"></div>
-      <div class="fr"><label>Current Savings: <span class="rv" id="curSavVal">$15,000</span></label><input type="range" id="curSav" min="0" max="150000" step="1000" value="15000" oninput="calcSave()"></div>
-      <div class="fr"><label>Monthly Savings: <span class="rv" id="mSavVal">$1,800</span></label><input type="range" id="mSav" min="200" max="6000" step="100" value="1800" oninput="calcSave()"></div>
-      <div class="rbox"><div class="rl">Down Payment Needed</div><div class="rn" id="dpNeeded">—</div><div class="rl" style="margin-top:.4rem">Time to Reach Goal</div><div class="rn" id="timeNeeded">—</div></div>
-    </div>
-    <div>
-      <div class="card" style="margin-bottom:1rem"><h3 style="margin-bottom:1rem">📊 Milestones</h3>
-        <div class="pg-bar-row" style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>5% Down</span><span class="rv" id="dp5">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp5Bar" style="width:0%"></div></div></div>
-        <div style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>10% Down</span><span class="rv" id="dp10">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp10Bar" style="width:0%"></div></div></div>
-        <div style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>20% Down (no CMHC)</span><span class="rv" id="dp20">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp20Bar" style="width:0%"></div></div></div>
-        <div><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>Closing Costs (4%)</span><span class="rv" id="cc">—</span></div><div class="pg-bar"><div class="pg-fill" id="ccBar" style="width:0%"></div></div></div>
-      </div>
-      <div class="infobox ok"><h4>🚀 FHSA Accelerator Effect</h4><p>At a 33% tax bracket, an $8,000 FHSA contribution returns ~$2,640 in your tax refund. Reinvest that refund and you're effectively saving $10,640/year toward your home.</p></div>
-    </div>
-  </div></div>
-  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
-</div>
-<!-- ════════════ RENT VS BUY ════════════ -->
-<div id="page-compare" class="page">
-  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">⚖️ Rent vs Buy</div><h1>Is Buying the Right Move<br><em>For You Right Now?</em></h1><p>No universal right answer. Use our comparison tools to understand what makes financial sense for your specific situation today.</p></div></div>
-  <div class="section alt">
-    <div class="g2">
-      <div class="card"><div style="display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem"><span style="font-size:1.8rem">🏠</span><div><h3>Buying</h3><div class="tag tb" style="margin:0">Build Equity</div></div></div><ul class="pro-con"><li class="pro">Equity grows with every payment</li><li class="pro">Stable costs with a fixed-rate mortgage</li><li class="pro">Freedom to renovate and personalize</li><li class="pro">Principal residence is capital-gains exempt</li><li class="pro">Forced savings mechanism</li><li class="con">Large upfront capital required</li><li class="con">Responsible for all maintenance costs</li><li class="con">Less geographic flexibility</li><li class="con">Market risk if prices decline short-term</li></ul></div>
-      <div class="card"><div style="display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem"><span style="font-size:1.8rem">🏢</span><div><h3>Renting</h3><div class="tag tt" style="margin:0">Flexibility</div></div></div><ul class="pro-con"><li class="pro">No large down payment required</li><li class="pro">Easy to move for jobs or lifestyle changes</li><li class="pro">No maintenance responsibility</li><li class="pro">Can invest down payment savings elsewhere</li><li class="pro">Lower financial risk in volatile markets</li><li class="con">No equity building — rent leaves you with nothing</li><li class="con">Landlord can raise rent or not renew lease</li><li class="con">No customization of your space</li><li class="con">Housing insecurity long-term</li></ul></div>
+<!-- page-saving and page-compare redirect to calculator tabs via showPage() in main.js -->
+<!-- ════════════ MORTGAGE RATES ════════════ -->
+<div id="page-rates" class="page">
+  <!-- Hero -->
+  <div class="hero" style="padding:4rem 5% 3rem">
+    <div class="hero-inner">
+      <div class="h-eyebrow">📊 Mortgage Rates</div>
+      <h1>Today's Best Canadian<br><em>Mortgage Rates</em></h1>
+      <p>Live rates from 12 lenders — Big Banks, monoline lenders, and brokers compared side by side.</p>
+      <div id="rates-hero-stats" class="rate-hero-chips"></div>
     </div>
   </div>
-  <div class="section"><div class="eyebrow">Break-Even</div><h2 class="stitle">When Does Buying Beat Renting?</h2>
-  <div class="calc-grid">
-    <div class="cbox">
-      <div class="fr"><label>Home Price: <span class="rv" id="bpVal">$600,000</span></label><input type="range" id="bp" min="200000" max="1200000" step="10000" value="600000" oninput="calcRvB()"></div>
-      <div class="fr"><label>Down Payment: <span class="rv" id="bdpVal">10%</span></label><input type="range" id="bdp" min="5" max="25" step="1" value="10" oninput="calcRvB()"></div>
-      <div class="fr"><label>Mortgage Rate: <span class="rv" id="brVal">5.5%</span></label><input type="range" id="br" min="2" max="10" step="0.1" value="5.5" oninput="calcRvB()"></div>
-      <div class="fr"><label>Equivalent Monthly Rent: <span class="rv" id="rentVal">$2,500/mo</span></label><input type="range" id="rent" min="800" max="6000" step="100" value="2500" oninput="calcRvB()"></div>
-      <div class="rbox"><div class="rl">Monthly Mortgage (P+I)</div><div class="rn" id="rvbMortgage">—</div><div class="rl" style="margin-top:.4rem">Break-Even Point</div><div class="rn" id="rvbBreak">—</div><div style="font-size:.68rem;opacity:.5;margin-top:.2rem">Years before buying beats renting financially</div></div>
+  <!-- Context -->
+  <div class="section" style="padding:1rem 5%"><div id="rates-context"></div></div>
+  <!-- Filters -->
+  <div class="section alt" style="padding:.9rem 5%">
+    <div class="rates-filters">
+      <div class="rates-fg">
+        <label>Rate Type</label>
+        <div class="rtype-bar">
+          <button class="rtype-btn active" data-t="fixed" onclick="ratesSetType('fixed')">Fixed</button>
+          <button class="rtype-btn" data-t="variable" onclick="ratesSetType('variable')">Variable</button>
+          <button class="rtype-btn" data-t="heloc" onclick="ratesSetType('heloc')">HELOC</button>
+        </div>
+      </div>
+      <div class="rates-fg" id="rates-fg-term">
+        <label>Term</label>
+        <div id="rterm-bar" class="rterm-bar"></div>
+      </div>
+      <div class="rates-fg">
+        <label class="rates-amt-label">Mortgage Amount: <strong id="rates-amt-val">$500,000</strong></label>
+        <input type="range" min="100000" max="1500000" step="10000" value="500000" oninput="ratesSetAmount(this.value)" style="width:200px">
+      </div>
+      <div class="rates-fg">
+        <label>Amortization</label>
+        <select class="rates-select" onchange="ratesSetAmort(this.value)">
+          <option value="25" selected>25 years</option>
+          <option value="30">30 years</option>
+          <option value="20">20 years</option>
+          <option value="15">15 years</option>
+        </select>
+      </div>
     </div>
-    <div>
-      <div class="card" style="margin-bottom:.9rem"><h3>✅ Buy if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">Stable income and employment</li><li class="pro">Planning to stay in same area 5+ years</li><li class="pro">Have 5–20% down + closing costs saved</li><li class="pro">Mortgage payment ≤ 32% of gross income</li><li class="pro">Good credit score (650+)</li></ul></div>
-      <div class="card"><h3>⏳ Keep Renting if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">May relocate within 2–3 years</li><li class="pro">Income is variable or newly self-employed</li><li class="pro">Actively building credit or savings</li><li class="pro">Still deciding which city or neighbourhood</li></ul></div>
+  </div>
+  <!-- Table -->
+  <div class="section" style="padding-top:.8rem">
+    <div id="rates-insight" class="rates-insight-box" style="display:none"></div>
+    <!-- Desktop header -->
+    <div class="rates-table-hdr">
+      <div class="rth">Lender</div>
+      <div class="rth">Insured Rate <div class="rth-sub">&lt;20% down · <span id="rates-hdr-amount">$500,000</span></div></div>
+      <div class="rth">Uninsured Rate <div class="rth-sub">≥20% down · monthly payment</div></div>
+      <div class="rth">Details</div>
+      <div class="rth"></div>
     </div>
-  </div></div>
-  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
+    <div id="rates-tbody"></div>
+    <div class="rates-disclaimer">
+      Rates are indicative and subject to change without notice. Insured rates require CMHC mortgage insurance (under 20% down). Monthly payments are P+I only based on selected amortization. Verify all rates directly with lenders before making any financial decisions. <strong>Last updated: March 18, 2026</strong>
+    </div>
+  </div>
+  <!-- Big Picture -->
+  <div class="section alt">
+    <div class="eyebrow">The Big Picture</div>
+    <h2 class="stitle">Understanding the Canadian Mortgage Market</h2>
+    <div class="g3" style="margin-top:1.5rem">
+      <div class="card">
+        <h3>🏦 Big Banks vs. Brokers</h3>
+        <p style="font-size:.87rem;color:#555;margin-top:.5rem">Big banks typically post rates 0.5–0.9% higher than mortgage brokers and monoline lenders. Going with your bank's posted rate without negotiating is one of the most expensive mortgage mistakes Canadians make.</p>
+        <div class="infobox ok" style="margin-top:.8rem"><strong>ClearDoor Tip:</strong> Get a broker rate first. Then use it to negotiate with your bank — you'll often get the same rate with the full-service relationship.</div>
+      </div>
+      <div class="card">
+        <h3>🔒 Fixed vs. Variable — 2026</h3>
+        <p style="font-size:.87rem;color:#555;margin-top:.5rem">After 7 consecutive BoC rate cuts, fixed rates are near 3-year lows. Variable rates remain attractive but offer less discount over fixed than in 2020–2022. The rate curve is relatively flat — less reward for taking variable rate risk today.</p>
+        <div class="infobox" style="margin-top:.8rem"><strong>Consensus:</strong> For buyers planning to stay 5+ years, a 3yr or 5yr fixed offers the best predictability at competitive rates.</div>
+      </div>
+      <div class="card">
+        <h3>📋 Insured vs. Uninsured</h3>
+        <p style="font-size:.87rem;color:#555;margin-top:.5rem">If your down payment is under 20%, you pay CMHC insurance — but your mortgage rate is actually <em>lower</em>. Lenders see insured mortgages as lower risk. With 20%+ down, you skip CMHC premiums but pay a slightly higher rate.</p>
+        <div class="infobox" style="margin-top:.8rem"><strong>Key insight:</strong> The total cost comparison depends on your amortization. Use the Mortgage Calculator tab to model both scenarios.</div>
+      </div>
+    </div>
+  </div>
+  <!-- FAQ -->
+  <div class="section">
+    <div class="eyebrow">FAQ</div>
+    <h2 class="stitle">Common Mortgage Rate Questions</h2>
+    <div style="max-width:800px;margin:1.5rem auto 0;display:grid;gap:.7rem">
+      <div class="card"><h4>How often do mortgage rates change?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">Fixed rates can change daily based on Government of Canada bond yields. Variable rates change only when the Bank of Canada adjusts its overnight rate — announced roughly 8 times per year. This page is updated every business day.</p></div>
+      <div class="card"><h4>What is a rate hold?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">A rate hold locks in today's rate for 90–150 days while you search for a home. If rates rise, you keep the lower locked rate. If rates fall, most lenders will let you take the lower rate at closing.</p></div>
+      <div class="card"><h4>What's the difference between insured and uninsured rates?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">Insured mortgages have under 20% down and require CMHC insurance — but qualify for lower rates. Uninsured mortgages have 20%+ down, no insurance premium, but slightly higher rates. For homes over $1M, only uninsured mortgages are available.</p></div>
+      <div class="card"><h4>Should I get pre-approved before shopping?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">Yes. A pre-approval locks in your rate hold, confirms your qualification, and shows sellers you're serious. It typically takes 1–2 business days. Multiple mortgage inquiries within 14 days count as a single hard inquiry on your credit report.</p></div>
+    </div>
+  </div>
+  <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Rates for educational comparison only · Not a licensed lender or broker · Verify all rates directly with lenders</div>
 </div>
 <!-- ════════════ CALCULATORS ════════════ -->
 <div id="page-calculator" class="page">
-  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">🧮 Calculators</div><h1>Every Number You Need<br><em>Before You Buy</em></h1><p>Mortgage payment, affordability stress test, CMHC insurance, and land transfer tax — all in one place.</p></div></div>
+  <div class="hero" style="padding:4rem 5% 3rem"><div class="hero-inner"><div class="h-eyebrow">🧮 Calculators</div><h1>Every Number You Need<br><em>Before You Buy</em></h1><p>Mortgage payment, affordability, CMHC, land transfer tax, savings planner, and rent vs buy — all in one place.</p></div></div>
   <div class="section alt">
     <div class="tab-bar">
-      <button class="tabbtn active" onclick="showCalc('mortgage',this)">🏦 Mortgage</button>
-      <button class="tabbtn" onclick="showCalc('affordability',this)">💰 Affordability</button>
-      <button class="tabbtn" onclick="showCalc('cmhc',this)">🛡️ CMHC</button>
-      <button class="tabbtn" onclick="showCalc('ltt',this)">🏛️ Land Transfer Tax</button>
+      <button class="tabbtn active" data-tab="mortgage" onclick="showCalc('mortgage',this)">🏦 Mortgage</button>
+      <button class="tabbtn" data-tab="affordability" onclick="showCalc('affordability',this)">💰 Affordability</button>
+      <button class="tabbtn" data-tab="cmhc" onclick="showCalc('cmhc',this)">🛡️ CMHC</button>
+      <button class="tabbtn" data-tab="ltt" onclick="showCalc('ltt',this)">🏛️ Land Transfer Tax</button>
+      <button class="tabbtn" data-tab="savings" onclick="showCalc('savings',this)">🪙 Savings Planner</button>
+      <button class="tabbtn" data-tab="rvb" onclick="showCalc('rvb',this)">⚖️ Rent vs Buy</button>
     </div>
     <div id="calc-mortgage" class="tabpane active"><div class="calc-grid">
       <div class="cbox"><h3>🏦 Mortgage Calculator</h3>
@@ -467,6 +501,63 @@
       </div>
       <div class="card"><ul class="pro-con" style="margin-top:.5rem"><li class="pro">Alberta & SK: no LTT at all</li><li class="pro">Ontario FTB: up to $4,000</li><li class="pro">Toronto FTB adds up to $4,475</li><li class="pro">BC FTB: up to $8,000 (homes ≤$835K)</li><li class="pro">Paid at closing through your lawyer</li></ul></div>
     </div></div>
+    <!-- ── Savings Planner Tab ── -->
+    <div id="calc-savings" class="tabpane">
+      <div class="section alt" style="padding:0;background:none"><div class="eyebrow" style="margin-bottom:.3rem">Requirements</div><h2 class="stitle" style="margin-bottom:.8rem">How Much Do You Actually Need?</h2>
+      <table style="font-size:.83rem"><tr><th>Home Price</th><th>Min Down Payment</th><th>CMHC Premium</th><th>Ideal Target</th></tr>
+      <tr><td>Under $500K</td><td>5%</td><td>4.0% of mortgage</td><td>10–20%</td></tr>
+      <tr><td>$500K–$999K</td><td>5% on first $500K + 10% on remainder</td><td>2.8–3.1%</td><td>20%</td></tr>
+      <tr><td>$1M+</td><td>20% — mandatory</td><td>None</td><td>20%</td></tr></table></div>
+      <div style="margin-top:1.5rem"><div class="eyebrow" style="margin-bottom:.4rem">Savings Hierarchy</div><h2 class="stitle" style="margin-bottom:.8rem">Where to Put Your Money — In This Order</h2>
+      <div style="display:grid;gap:.7rem">
+        <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--sky),var(--teal))">1</div><div class="scontent"><h3>Max FHSA ($8,000/year first)</h3><p>Every dollar is tax-deductible going in and tax-free coming out for your home. No other account does both.</p><div class="stip">Open immediately — room builds from the year you open, not from contributions.</div></div></div>
+        <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--teal),var(--green))">2</div><div class="scontent"><h3>Contribute to RRSP (for HBP withdrawal)</h3><p>After maxing FHSA, contribute to RRSP. Withdraw up to $60K per person tax-free under the Home Buyers' Plan. Funds need 90 days seasoning.</p></div></div>
+        <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--gold),#f97316)">3</div><div class="scontent"><h3>TFSA for overflow savings</h3><p>After FHSA and RRSP, direct additional savings to your TFSA. Tax-free growth and withdrawals — ideal for your closing cost fund.</p></div></div>
+        <div class="step-card"><div class="snum" style="background:linear-gradient(135deg,var(--purple),#9333ea)">4</div><div class="scontent"><h3>HISA for emergency fund</h3><p>Keep 3–6 months of expenses in a High-Interest Savings Account. Don't use this for your down payment.</p></div></div>
+      </div></div>
+      <div style="margin-top:1.5rem"><div class="eyebrow" style="margin-bottom:.4rem">Calculator</div><h2 class="stitle" style="margin-bottom:.8rem">Savings Timeline Planner</h2>
+      <div class="calc-grid">
+        <div class="cbox">
+          <h3>🪙 Down Payment Planner</h3>
+          <div class="fr"><label>Home Price: <span class="rv" id="hpVal">$600,000</span></label><input type="range" id="hp" min="200000" max="1200000" step="10000" value="600000" oninput="calcSave()"></div>
+          <div class="fr"><label>Down Payment Goal: <span class="rv" id="dpPctVal">10%</span></label><input type="range" id="dpPct" min="5" max="20" step="1" value="10" oninput="calcSave()"></div>
+          <div class="fr"><label>Current Savings: <span class="rv" id="curSavVal">$15,000</span></label><input type="range" id="curSav" min="0" max="150000" step="1000" value="15000" oninput="calcSave()"></div>
+          <div class="fr"><label>Monthly Savings: <span class="rv" id="mSavVal">$1,800</span></label><input type="range" id="mSav" min="200" max="6000" step="100" value="1800" oninput="calcSave()"></div>
+          <div class="rbox"><div class="rl">Down Payment Needed</div><div class="rn" id="dpNeeded">—</div><div class="rl" style="margin-top:.4rem">Time to Reach Goal</div><div class="rn" id="timeNeeded">—</div></div>
+        </div>
+        <div>
+          <div class="card" style="margin-bottom:1rem"><h3 style="margin-bottom:1rem">📊 Milestones</h3>
+            <div class="pg-bar-row" style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>5% Down</span><span class="rv" id="dp5">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp5Bar" style="width:0%"></div></div></div>
+            <div style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>10% Down</span><span class="rv" id="dp10">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp10Bar" style="width:0%"></div></div></div>
+            <div style="margin-bottom:.7rem"><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>20% Down (no CMHC)</span><span class="rv" id="dp20">—</span></div><div class="pg-bar"><div class="pg-fill" id="dp20Bar" style="width:0%"></div></div></div>
+            <div><div style="display:flex;justify-content:space-between;font-size:.8rem;margin-bottom:.2rem"><span>Closing Costs (4%)</span><span class="rv" id="cc">—</span></div><div class="pg-bar"><div class="pg-fill" id="ccBar" style="width:0%"></div></div></div>
+          </div>
+          <div class="infobox ok"><h4>🚀 FHSA Accelerator Effect</h4><p>At a 33% tax bracket, an $8,000 FHSA contribution returns ~$2,640 in your tax refund. Reinvest that and you're effectively saving $10,640/year toward your home.</p></div>
+        </div>
+      </div></div>
+    </div>
+    <!-- ── Rent vs Buy Tab ── -->
+    <div id="calc-rvb" class="tabpane">
+      <div class="g2" style="margin-bottom:1.2rem">
+        <div class="card"><div style="display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem"><span style="font-size:1.8rem">🏠</span><div><h3>Buying</h3><div class="tag tb" style="margin:0">Build Equity</div></div></div><ul class="pro-con"><li class="pro">Equity grows with every payment</li><li class="pro">Stable costs with a fixed-rate mortgage</li><li class="pro">Freedom to renovate and personalize</li><li class="pro">Principal residence is capital-gains exempt</li><li class="pro">Forced savings mechanism</li><li class="con">Large upfront capital required</li><li class="con">Responsible for all maintenance costs</li><li class="con">Less geographic flexibility</li></ul></div>
+        <div class="card"><div style="display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem"><span style="font-size:1.8rem">🏢</span><div><h3>Renting</h3><div class="tag tt" style="margin:0">Flexibility</div></div></div><ul class="pro-con"><li class="pro">No large down payment required</li><li class="pro">Easy to move for jobs or lifestyle changes</li><li class="pro">No maintenance responsibility</li><li class="pro">Can invest down payment savings elsewhere</li><li class="con">No equity building — rent leaves you with nothing</li><li class="con">Landlord can raise rent or not renew lease</li><li class="con">No customization of your space</li></ul></div>
+      </div>
+      <div class="eyebrow" style="margin-bottom:.4rem">Break-Even Calculator</div>
+      <h2 class="stitle" style="margin-bottom:.8rem">When Does Buying Beat Renting?</h2>
+      <div class="calc-grid">
+        <div class="cbox">
+          <div class="fr"><label>Home Price: <span class="rv" id="bpVal">$600,000</span></label><input type="range" id="bp" min="200000" max="1200000" step="10000" value="600000" oninput="calcRvB()"></div>
+          <div class="fr"><label>Down Payment: <span class="rv" id="bdpVal">10%</span></label><input type="range" id="bdp" min="5" max="25" step="1" value="10" oninput="calcRvB()"></div>
+          <div class="fr"><label>Mortgage Rate: <span class="rv" id="brVal">5.5%</span></label><input type="range" id="br" min="2" max="10" step="0.1" value="5.5" oninput="calcRvB()"></div>
+          <div class="fr"><label>Equivalent Monthly Rent: <span class="rv" id="rentVal">$2,500/mo</span></label><input type="range" id="rent" min="800" max="6000" step="100" value="2500" oninput="calcRvB()"></div>
+          <div class="rbox"><div class="rl">Monthly Mortgage (P+I)</div><div class="rn" id="rvbMortgage">—</div><div class="rl" style="margin-top:.4rem">Break-Even Point</div><div class="rn" id="rvbBreak">—</div><div style="font-size:.68rem;opacity:.5;margin-top:.2rem">Years before buying beats renting financially</div></div>
+        </div>
+        <div>
+          <div class="card" style="margin-bottom:.9rem"><h3>✅ Buy if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">Stable income and employment</li><li class="pro">Planning to stay in same area 5+ years</li><li class="pro">Have 5–20% down + closing costs saved</li><li class="pro">Mortgage payment ≤ 32% of gross income</li></ul></div>
+          <div class="card"><h3>⏳ Keep Renting if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">May relocate within 2–3 years</li><li class="pro">Income is variable or newly self-employed</li><li class="pro">Actively building credit or savings</li></ul></div>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Educational purposes only</div>
 </div>
@@ -1257,6 +1348,7 @@ function doGet() {
 
   <!-- ══ Feature Modules ══ -->
   <script src="js/calculators.js"></script>
+  <script src="js/rates.js"></script>
   <script src="js/blog.js"></script>
 
   <!-- ══ Leaflet (must be before ottawa-map.js) ══ -->
