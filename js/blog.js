@@ -543,6 +543,8 @@ var NEWS_SRC_COLORS={
   cbc:'#d62c1a',bd:'#1a6b3a',cmt:'#1a4a8a',fp:'#0a2240',
   cbcott:'#c0392b',cbcnews:'#d62c1a',
   betterdwelling:'#e74c3c',storeys:'#2c3e50',
+  boc:'#8b1a1a',bnn:'#0a2240',mpamag:'#0277bd',
+  timescolonist:'#1a3a6b',nsnews:'#1b5e20',
   gnre:'#1a3a6b',gnmort:'#2e7d32',gnhprice:'#c2185b',
   gnott:'#1565c0',gnottdev:'#6a1b9a',gnottlrt:'#00838f',
   gnboc:'#bf360c',gnpolicy:'#4527a0',gnimmig:'#00695c',
@@ -730,10 +732,11 @@ function _newsOpenArticle(item,items,source){
   var srcLabel=getNewsLabel(item);
   var clr=NEWS_SRC_COLORS[item._src]||'#1a3a6b';
   var img=extractNewsImg(item);
-  var articleUrl=fixGnUrl(item.link);
+  /* Prefer real publisher URL (extracted during fetch) over GN redirect */
+  var articleUrl=item.realLink||fixGnUrl(item.link);
   var pubHome=item._pubUrl||'';
-  /* Clean content — prefer content:encoded, fallback to description */
-  var rawContent=item.content||item.description||'';
+  /* Clean content — prefer fetched body, then content:encoded, then description */
+  var rawContent=item.body||item.content||item.description||'';
   rawContent=rawContent.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/\son\w+="[^"]*"/gi,'');
   /* Strip leading <img> tags from description (already shown in hero) */
   rawContent=rawContent.replace(/^(\s*<img[^>]*>\s*(<br\s*\/?>)*\s*)+/i,'');
@@ -742,13 +745,13 @@ function _newsOpenArticle(item,items,source){
   var ogDesc=item._ogDesc||'';
   var content;
 
-  /* ── Tier 1: Rich content (500+ chars, e.g. Storeys, Better Dwelling) ── */
-  if(!isGoogleNews && plainText.length>=500 && plainText!==item.title){
+  /* ── Tier 1: Rich content (500+ chars) — includes GN items that now have body ── */
+  if(plainText.length>=500 && plainText!==item.title){
     content=rawContent;
     if(!/<[a-z][\s\S]*>/i.test(content))content='<p>'+content.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
 
-  /* ── Tier 2: Medium content (50-499 chars, e.g. CBC, CMT short descs) ── */
-  }else if(!isGoogleNews && plainText.length>=50 && plainText!==item.title){
+  /* ── Tier 2: Medium content (50-499 chars, e.g. CBC, CMT, or GN with og:desc) ── */
+  }else if(plainText.length>=50 && plainText!==item.title){
     /* Build a clean article-style preview from available text */
     var bodyHtml=rawContent;
     if(!/<[a-z][\s\S]*>/i.test(bodyHtml))bodyHtml='<p>'+bodyHtml.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>')+'</p>';
@@ -1002,7 +1005,9 @@ var ARCHIVE_SRC_LABELS={
   gnboc:'Bank of Canada Rates',gnpolicy:'Housing Policy',gnimmig:'Immigration & Housing',
   gnontre:'Ontario Real Estate',gnnewcon:'New Construction',
   cmt:'Canadian Mortgage Trends',betterdwelling:'Better Dwelling',storeys:'Storeys',
-  cbc:'CBC News',cbcnews:'CBC News',bd:'Better Dwelling',fp:'Financial Post',cbcott:'CBC Ottawa'
+  cbc:'CBC News',cbcnews:'CBC News',bd:'Better Dwelling',fp:'Financial Post',cbcott:'CBC Ottawa',
+  boc:'Bank of Canada',bnn:'BNN Bloomberg',mpamag:'MPA Magazine',
+  timescolonist:'Times Colonist',nsnews:'North Shore News'
 };
 
 function archiveInit(){

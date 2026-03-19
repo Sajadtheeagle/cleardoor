@@ -114,11 +114,16 @@ var RSS_SOURCES_KEY = 'cd_rss_sources_v1';
 /* Default sources — used if none saved yet.
    Keep IDs in sync with scripts/fetch-news.js SOURCES. */
 var RSS_DEFAULT_SOURCES = [
-  { id: 'cmt',          label: 'Canadian Mortgage Trends', url: 'https://www.canadianmortgagetrends.com/feed/' },
-  { id: 'betterdwelling',label: 'Better Dwelling',         url: 'https://betterdwelling.com/feed/' },
-  { id: 'storeys',      label: 'Storeys',                  url: 'https://storeys.com/feed/' },
-  { id: 'cbc',          label: 'CBC News',                 url: 'https://rss.cbc.ca/lineup/topstories.xml' },
-  { id: 'cbcott',       label: 'CBC Ottawa',               url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' }
+  { id: 'cmt',           label: 'Canadian Mortgage Trends', url: 'https://www.canadianmortgagetrends.com/feed/' },
+  { id: 'betterdwelling',label: 'Better Dwelling',          url: 'https://betterdwelling.com/feed/' },
+  { id: 'storeys',       label: 'Storeys',                  url: 'https://storeys.com/feed/' },
+  { id: 'cbc',           label: 'CBC News',                 url: 'https://rss.cbc.ca/lineup/topstories.xml' },
+  { id: 'cbcott',        label: 'CBC Ottawa',               url: 'https://rss.cbc.ca/lineup/canada/ottawa.xml' },
+  { id: 'boc',           label: 'Bank of Canada',           url: 'https://www.bankofcanada.ca/category/press-releases/feed/' },
+  { id: 'bnn',           label: 'BNN Bloomberg',            url: 'https://www.bnnbloomberg.ca/arc/outboundfeeds/rss/' },
+  { id: 'mpamag',        label: 'MPA Magazine',             url: 'https://www.mpamag.com/ca/rss' },
+  { id: 'timescolonist', label: 'Times Colonist',           url: 'https://www.timescolonist.com/rss/real-estate' },
+  { id: 'nsnews',        label: 'North Shore News',         url: 'https://www.nsnews.com/rss/real-estate' }
 ];
 
 function rssAdminGetSources() {
