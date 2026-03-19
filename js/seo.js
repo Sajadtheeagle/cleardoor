@@ -57,8 +57,9 @@ var SEO_PAGES = {
 // ══ DYNAMIC META UPDATER ══
 function seoUpdate(pageId) {
   var data = SEO_PAGES[pageId] || SEO_PAGES['home'];
-  var hash = pageId === 'home' ? '' : '#' + pageId;
-  var url = 'https://cleardoor.ca/' + hash;
+  // Use ?p=pageid so Google indexes each page as a separate URL
+  var path = pageId === 'home' ? '/' : '/?p=' + pageId;
+  var url = 'https://cleardoor.ca' + path;
 
   // Title
   document.title = data.title;
@@ -83,22 +84,33 @@ function seoUpdate(pageId) {
   var canonical = document.querySelector('link[rel="canonical"]');
   if (canonical) canonical.setAttribute('href', url);
 
-  // Update URL in browser history (for bookmarking + crawlability)
+  // Push clean URL into browser bar — Google crawls ?p= as separate pages
   if (window.history && window.history.replaceState) {
-    window.history.replaceState(null, data.title, '/' + hash);
+    window.history.replaceState({page: pageId}, data.title, path);
   }
 }
 
-// ══ HASH CHANGE LISTENER ══
-window.addEventListener('hashchange', function () {
-  var hash = window.location.hash.replace('#', '') || 'home';
-  seoUpdate(hash);
+// ══ POPSTATE (back/forward button) ══
+window.addEventListener('popstate', function (e) {
+  var page = (e.state && e.state.page) || _seoPageFromUrl() || 'home';
+  if (typeof showPage === 'function') showPage(page);
 });
+
+// ══ HELPER — read ?p= from current URL ══
+function _seoPageFromUrl() {
+  try {
+    var p = new URLSearchParams(window.location.search).get('p');
+    return p || (window.location.hash ? window.location.hash.replace('#','') : null);
+  } catch(e) { return null; }
+}
 
 // ══ INITIAL META ON LOAD ══
 document.addEventListener('DOMContentLoaded', function () {
-  var hash = window.location.hash.replace('#', '') || 'home';
-  seoUpdate(hash);
+  // Support both ?p=rates (new) and #rates (legacy bookmarks)
+  var page = _seoPageFromUrl() || 'home';
+  seoUpdate(page);
+  // If a ?p= page was requested, navigate to it
+  if (page !== 'home' && typeof showPage === 'function') showPage(page);
 
   // ══ JSON-LD STRUCTURED DATA ══
   var schema = {

@@ -76,3 +76,11 @@ function insNewsletter(page){
 function toggleFAQ(el){ el.classList.toggle('open'); }
 // ══ INIT ══
 calcMortgageMain();calcSave();calcRvB();renderGlossary();renderListings();renderNC();
+// Navigate to ?p= page on direct load (e.g. shared links, Google clicks)
+(function(){
+  try {
+    var p = new URLSearchParams(window.location.search).get('p')
+         || (window.location.hash ? window.location.hash.replace('#','') : null);
+    if (p && p !== 'home') showPage(p);
+  } catch(e) {}
+})();
