@@ -411,6 +411,205 @@ function dashRenderOverview() {
         '<strong>' + d + '</strong>: ' + devMap[d] + '</div>';
     }).join('') : '<div class="dash-empty">No device data yet.</div>';
   }
+
+  /* ── Traffic Channels table ── */
+  dashRenderChannelsTable(events30);
+
+  /* ── Visitor Locations tables ── */
+  dashRenderLocations(events30);
+}
+
+/* ══════════════════════════════════════
+   TRAFFIC CHANNELS TABLE
+   ══════════════════════════════════════ */
+function dashRenderChannelsTable(events30) {
+  var el = document.getElementById('dash-channels-table');
+  if (!el) return;
+
+  var sessions = events30.filter(function(e){ return e.t === 'session_start'; });
+  if (sessions.length === 0) {
+    el.innerHTML = '<div class="dash-empty">No channel data yet — visit the live site from different sources to populate this.</div>';
+    return;
+  }
+
+  /* Build channel map: channel → {sessions, devices:{}, pages:{}, lastSeen} */
+  var chMap = {};
+  sessions.forEach(function(e) {
+    var ch = e.channel || 'Direct';
+    if (!chMap[ch]) chMap[ch] = { count: 0, devices: {}, pages: {}, lastSeen: 0 };
+    chMap[ch].count++;
+    if (e.device) chMap[ch].devices[e.device] = (chMap[ch].devices[e.device] || 0) + 1;
+    if (e.ts > chMap[ch].lastSeen) chMap[ch].lastSeen = e.ts;
+  });
+
+  /* Map page views to sessions for "pages/session" */
+  var pvBySess = {};
+  events30.filter(function(e){ return e.t === 'pageview'; }).forEach(function(e) {
+    pvBySess[e.session] = (pvBySess[e.session] || 0) + 1;
+  });
+
+  /* Average pages/session per channel */
+  var chAvgPages = {};
+  sessions.forEach(function(e) {
+    var ch = e.channel || 'Direct';
+    if (!chAvgPages[ch]) chAvgPages[ch] = { total: 0, count: 0 };
+    chAvgPages[ch].total += pvBySess[e.session] || 1;
+    chAvgPages[ch].count++;
+  });
+
+  var total = sessions.length;
+  var sorted = dashSortMap(dashCount(sessions, 'channel'));
+
+  /* Channel icons */
+  var chIcons = {
+    'Direct': '🔗', 'Google': '🔍', 'Bing': '🔎',
+    'Facebook': '👥', 'Instagram': '📸', 'LinkedIn': '💼',
+    'X / Twitter': '🐦', 'YouTube': '▶️', 'Email': '📧', 'Internal': '🏠'
+  };
+
+  var html = '<div class="dash-table-scroll"><table class="dash-table">' +
+    '<thead><tr>' +
+      '<th>Channel</th>' +
+      '<th>Sessions</th>' +
+      '<th>Share</th>' +
+      '<th>Avg Pages/Session</th>' +
+      '<th>Device Split</th>' +
+      '<th>Last Visit</th>' +
+    '</tr></thead><tbody>';
+
+  sorted.forEach(function(row) {
+    var ch   = row[0];
+    var cnt  = row[1];
+    var pct  = ((cnt / total) * 100).toFixed(1);
+    var d    = chMap[ch];
+    var icon = chIcons[ch] || (ch.indexOf('Referral:') === 0 ? '🌐' : (ch.indexOf('UTM:') === 0 ? '📣' : '🔗'));
+    var lastSeen = d.lastSeen ? new Date(d.lastSeen).toLocaleDateString('en-CA') : '—';
+
+    /* Device split as compact pills */
+    var devPills = Object.keys(d.devices).map(function(dv) {
+      var dvIcons = { mobile: '📱', tablet: '⬜', desktop: '💻' };
+      return '<span class="dash-ch-device">' + (dvIcons[dv] || dv[0].toUpperCase()) + ' ' + d.devices[dv] + '</span>';
+    }).join('');
+
+    /* Avg pages/session */
+    var ap = chAvgPages[ch] ? (chAvgPages[ch].total / chAvgPages[ch].count).toFixed(1) : '—';
+
+    /* Bar in "Share" column */
+    var barPct = ((cnt / sorted[0][1]) * 100).toFixed(0);
+    var shareCell =
+      '<div style="display:flex;align-items:center;gap:.4rem">' +
+        '<div style="width:60px;background:#f0f4f8;border-radius:4px;height:8px;overflow:hidden">' +
+          '<div style="width:' + barPct + '%;height:100%;background:#1a3a6b;border-radius:4px"></div>' +
+        '</div>' +
+        '<span style="font-size:.8rem;color:#64748b">' + pct + '%</span>' +
+      '</div>';
+
+    html += '<tr>' +
+      '<td><span class="dash-ch-icon">' + icon + '</span> <strong>' + ch + '</strong></td>' +
+      '<td><strong>' + cnt + '</strong></td>' +
+      '<td>' + shareCell + '</td>' +
+      '<td style="color:#0891b2;font-weight:600">' + ap + '</td>' +
+      '<td>' + (devPills || '—') + '</td>' +
+      '<td style="color:#94a3b8;font-size:.8rem">' + lastSeen + '</td>' +
+    '</tr>';
+  });
+
+  el.innerHTML = html + '</tbody></table></div>';
+}
+
+/* ══════════════════════════════════════
+   VISITOR LOCATIONS TABLES
+   ══════════════════════════════════════ */
+function dashRenderLocations(events30) {
+  var sessions = events30.filter(function(e){ return e.t === 'session_start'; });
+  var total    = sessions.length || 1;
+
+  /* ── Country table ── */
+  var countryEl = document.getElementById('dash-locations-country');
+  if (countryEl) {
+    var countryMap  = {};
+    var countryDev  = {};
+    var countryLast = {};
+    sessions.forEach(function(e) {
+      var c = (e.geo && e.geo.country) ? e.geo.country : 'Unknown';
+      countryMap[c]  = (countryMap[c]  || 0) + 1;
+      if (!countryDev[c]) countryDev[c] = {};
+      if (e.device) countryDev[c][e.device] = (countryDev[c][e.device] || 0) + 1;
+      if (!countryLast[c] || e.ts > countryLast[c]) countryLast[c] = e.ts;
+    });
+    var cSorted = dashSortMap(countryMap);
+
+    var countryFlags = { 'Canada':'🇨🇦','United States':'🇺🇸','United Kingdom':'🇬🇧','Australia':'🇦🇺','France':'🇫🇷','Germany':'🇩🇪','India':'🇮🇳','China':'🇨🇳','Japan':'🇯🇵','South Korea':'🇰🇷','Unknown':'🌍' };
+
+    if (cSorted.length === 0) {
+      countryEl.innerHTML += '<div class="dash-empty">No location data yet.</div>';
+    } else {
+      var html = '<div class="dash-table-scroll"><table class="dash-table">' +
+        '<thead><tr><th>Country</th><th>Sessions</th><th>Share</th><th>Last Visit</th></tr></thead><tbody>';
+      cSorted.forEach(function(row, i) {
+        var pct      = ((row[1] / total) * 100).toFixed(1);
+        var flag     = countryFlags[row[0]] || '🌍';
+        var lastSeen = countryLast[row[0]] ? new Date(countryLast[row[0]]).toLocaleDateString('en-CA') : '—';
+        var barPct   = ((row[1] / cSorted[0][1]) * 100).toFixed(0);
+        html += '<tr>' +
+          '<td>' + flag + ' <strong>' + row[0] + '</strong></td>' +
+          '<td><strong>' + row[1] + '</strong></td>' +
+          '<td>' +
+            '<div style="display:flex;align-items:center;gap:.4rem">' +
+              '<div style="width:50px;background:#f0f4f8;border-radius:4px;height:7px;overflow:hidden">' +
+                '<div style="width:' + barPct + '%;height:100%;background:#2e7d32;border-radius:4px"></div>' +
+              '</div>' +
+              '<span style="font-size:.78rem;color:#64748b">' + pct + '%</span>' +
+            '</div>' +
+          '</td>' +
+          '<td style="color:#94a3b8;font-size:.78rem">' + lastSeen + '</td>' +
+        '</tr>';
+      });
+      countryEl.innerHTML = '<div class="dash-chart-title">By Country</div>' + html + '</tbody></table></div>';
+    }
+  }
+
+  /* ── City table ── */
+  var cityEl = document.getElementById('dash-locations-city');
+  if (cityEl) {
+    var cityMap  = {};
+    var cityCountry = {};
+    var cityLast = {};
+    sessions.forEach(function(e) {
+      if (!e.geo || !e.geo.city) return;
+      var c = e.geo.city;
+      cityMap[c]  = (cityMap[c]  || 0) + 1;
+      if (e.geo.country && !cityCountry[c]) cityCountry[c] = e.geo.country;
+      if (!cityLast[c] || e.ts > cityLast[c]) cityLast[c] = e.ts;
+    });
+    var citySorted = dashSortMap(cityMap);
+
+    if (citySorted.length === 0) {
+      cityEl.innerHTML += '<div class="dash-empty">No city data yet — requires geolocation API response.</div>';
+    } else {
+      var html = '<div class="dash-table-scroll"><table class="dash-table">' +
+        '<thead><tr><th>City</th><th>Country</th><th>Sessions</th><th>Last Visit</th></tr></thead><tbody>';
+      citySorted.slice(0, 20).forEach(function(row) {
+        var lastSeen = cityLast[row[0]] ? new Date(cityLast[row[0]]).toLocaleDateString('en-CA') : '—';
+        var barPct   = ((row[1] / citySorted[0][1]) * 100).toFixed(0);
+        var country  = cityCountry[row[0]] || '';
+        html += '<tr>' +
+          '<td>' +
+            '<div style="display:flex;align-items:center;gap:.5rem">' +
+              '<div style="width:40px;background:#f0f4f8;border-radius:4px;height:6px;overflow:hidden">' +
+                '<div style="width:' + barPct + '%;height:100%;background:#7c3aed;border-radius:4px"></div>' +
+              '</div>' +
+              '<strong>' + row[0] + '</strong>' +
+            '</div>' +
+          '</td>' +
+          '<td style="color:#64748b;font-size:.8rem">' + country + '</td>' +
+          '<td><strong>' + row[1] + '</strong></td>' +
+          '<td style="color:#94a3b8;font-size:.78rem">' + lastSeen + '</td>' +
+        '</tr>';
+      });
+      cityEl.innerHTML = '<div class="dash-chart-title">By City</div>' + html + '</tbody></table></div>';
+    }
+  }
 }
 
 function dashKpiCard(icon, label, value, sub, accent) {
