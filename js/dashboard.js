@@ -3,9 +3,123 @@
    Auth · Subscribers · Analytics · Charts (Canvas 2D)
    ═══════════════════════════════════════════════════════ */
 
-var DASH_PASS        = 'cleardoor2026';
-var DASH_STORE_KEY   = 'cd_subscribers';
-var DASH_WEBHOOK_KEY = 'cd_newsletter_webhook';
+var DASH_PASS            = 'cleardoor2026';
+var DASH_STORE_KEY       = 'cd_subscribers';
+var DASH_WEBHOOK_KEY     = 'cd_newsletter_webhook';
+var DASH_GH_TOKEN_KEY    = 'cd_gh_token';
+var DASH_GH_REPO         = 'Sajadtheeagle/cleardoor';
+var DASH_GH_ANALYTICS    = 'data/analytics.json';
+
+/* ══════════════════════════════════════
+   CROSS-DEVICE ANALYTICS SYNC
+   Remote data fetched from /data/analytics.json (GitHub Pages)
+   Writes go via GitHub API (requires token in Settings)
+   ══════════════════════════════════════ */
+var _remoteAnalytics = [];  /* populated by dashFetchRemoteAnalytics() */
+
+/* Merge two event arrays, dedup by ts+session+type */
+function mergeAnalyticsEvents(a, b) {
+  var seen = {};
+  var merged = [];
+  [a, b].forEach(function(arr) {
+    (arr || []).forEach(function(e) {
+      var key = (e.ts || 0) + '|' + (e.session || '') + '|' + (e.t || '');
+      if (!seen[key]) { seen[key] = true; merged.push(e); }
+    });
+  });
+  return merged.sort(function(x, y) { return (x.ts || 0) - (y.ts || 0); });
+}
+
+/* Fetch the central analytics.json served by GitHub Pages — no auth needed */
+function dashFetchRemoteAnalytics(cb) {
+  fetch('/data/analytics.json?_=' + Date.now())
+    .then(function(r) { if (!r.ok) throw new Error('no file'); return r.json(); })
+    .then(function(data) {
+      if (Array.isArray(data)) _remoteAnalytics = data;
+      if (cb) cb();
+    })
+    .catch(function() { if (cb) cb(); });
+}
+
+/* Push local events to GitHub → updates data/analytics.json via GitHub API */
+function dashSyncAnalytics(cb) {
+  var token = localStorage.getItem(DASH_GH_TOKEN_KEY);
+  if (!token) { if (cb) cb('Save a GitHub token in Settings first.'); return; }
+
+  var local = [];
+  try { local = JSON.parse(localStorage.getItem('cd_analytics_v2') || '[]'); } catch(e) {}
+
+  var apiUrl = 'https://api.github.com/repos/' + DASH_GH_REPO + '/contents/' + DASH_GH_ANALYTICS;
+  var headers = {
+    'Authorization': 'Bearer ' + token,
+    'Accept': 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28'
+  };
+
+  /* GET current file to retrieve its SHA */
+  fetch(apiUrl, { headers: headers })
+    .then(function(r) { return r.json(); })
+    .then(function(fileData) {
+      var existing = [];
+      if (fileData.content) {
+        try { existing = JSON.parse(atob(fileData.content.replace(/\n/g, ''))); } catch(e) {}
+      }
+      var merged = mergeAnalyticsEvents(existing, local);
+      /* Cap at 5 000 most recent events to keep file small */
+      if (merged.length > 5000) merged = merged.slice(merged.length - 5000);
+
+      var jsonStr = JSON.stringify(merged);
+      var encoded;
+      try { encoded = btoa(unescape(encodeURIComponent(jsonStr))); } catch(e) { encoded = btoa(jsonStr); }
+
+      return fetch(apiUrl, {
+        method: 'PUT',
+        headers: Object.assign({ 'Content-Type': 'application/json' }, headers),
+        body: JSON.stringify({
+          message: 'analytics: sync ' + merged.length + ' events [skip ci]',
+          content: encoded,
+          sha: fileData.sha
+        })
+      });
+    })
+    .then(function(r) {
+      if (!r.ok) return r.json().then(function(e) { throw new Error(e.message || 'Write failed'); });
+      return r.json();
+    })
+    .then(function() {
+      /* Refresh _remoteAnalytics in memory */
+      var local2 = [];
+      try { local2 = JSON.parse(localStorage.getItem('cd_analytics_v2') || '[]'); } catch(e) {}
+      _remoteAnalytics = mergeAnalyticsEvents(_remoteAnalytics, local2);
+      if (cb) cb(null);
+    })
+    .catch(function(err) { if (cb) cb(err && err.message ? err.message : String(err)); });
+}
+
+function dashSaveGHToken() {
+  var inp = document.getElementById('dash-gh-token');
+  if (!inp) return;
+  localStorage.setItem(DASH_GH_TOKEN_KEY, inp.value.trim());
+  var st = document.getElementById('dash-sync-status');
+  if (st) { st.textContent = 'Token saved to this browser.'; st.style.color = '#2e7d32'; }
+}
+
+function dashSyncNow() {
+  var st = document.getElementById('dash-sync-status');
+  if (st) { st.textContent = 'Syncing...'; st.style.color = '#1a3a6b'; }
+  dashSyncAnalytics(function(err) {
+    if (!st) return;
+    if (err) {
+      st.textContent = 'Sync failed: ' + err;
+      st.style.color = '#b91c1c';
+    } else {
+      st.textContent = 'Done — ' + _remoteAnalytics.length + ' events in central store. Dashboard updated.';
+      st.style.color = '#2e7d32';
+      dashRenderOverview();
+      dashRenderSubscribers();
+    }
+  });
+}
 
 /* ══════════════════════════════════════
    AUTH
@@ -44,16 +158,23 @@ function dashCheckAuth() {
 function dashStartAutoRefresh() {
   dashStopAutoRefresh();
   _dashRefreshTimer = setInterval(function() {
-    /* only refresh the active tab */
-    var activeTab = (document.querySelector('.dash-tab.active') || {}).dataset && document.querySelector('.dash-tab.active').dataset.tab || 'overview';
-    if (activeTab === 'overview')    dashRenderOverview();
-    if (activeTab === 'behaviour')   dashRenderBehaviour();
-    if (activeTab === 'content')     dashRenderContent();
-    if (activeTab === 'seo')         dashRenderSEO();
-    if (activeTab === 'subscribers') dashRenderSubscribers();
-    /* update last-refreshed timestamp */
+    /* Detect active tab from onclick attribute */
+    var activeBtn = document.querySelector('.dash-tab.active');
+    var activeTab = 'overview';
+    if (activeBtn) {
+      var m = (activeBtn.getAttribute('onclick') || '').match(/dashSwitchTab\('([^']+)'/);
+      if (m) activeTab = m[1];
+    }
+    /* Fetch latest remote data then re-render active tab */
+    dashFetchRemoteAnalytics(function() {
+      if (activeTab === 'overview')    dashRenderOverview();
+      if (activeTab === 'behaviour')   dashRenderBehaviour();
+      if (activeTab === 'content')     dashRenderContent();
+      if (activeTab === 'seo')         dashRenderSEO();
+      if (activeTab === 'subscribers') dashRenderSubscribers();
+    });
     var ts = document.getElementById('dash-refresh-ts');
-    if (ts) ts.textContent = 'Last updated: ' + new Date().toLocaleTimeString();
+    if (ts) ts.textContent = 'Auto-refreshed: ' + new Date().toLocaleTimeString();
   }, 60000);
 }
 function dashStopAutoRefresh() {
@@ -141,9 +262,12 @@ function dashSwitchTab(tab, btn) {
    ANALYTICS HELPERS
    ══════════════════════════════════════ */
 function dashGetEvents() {
-  if (typeof cdGetAnalytics === 'function') return cdGetAnalytics();
-  try { return JSON.parse(localStorage.getItem('cd_analytics_v2') || '[]'); }
-  catch (e) { return []; }
+  /* Local events for this browser */
+  var local = [];
+  if (typeof cdGetAnalytics === 'function') local = cdGetAnalytics();
+  else { try { local = JSON.parse(localStorage.getItem('cd_analytics_v2') || '[]'); } catch(e) {} }
+  /* Merge with remote (all devices) */
+  return mergeAnalyticsEvents(_remoteAnalytics, local);
 }
 
 function dashLast30Days() {
@@ -1102,7 +1226,14 @@ function dashInit() {
   var wInp  = document.getElementById('dash-webhook-url');
   if (wInp && saved) wInp.value = saved;
 
-  /* Render the default (overview) tab */
-  dashRenderOverview();
-  dashRenderSubscribers();
+  /* Pre-fill GitHub token field if saved */
+  var savedToken = localStorage.getItem(DASH_GH_TOKEN_KEY);
+  var tInp = document.getElementById('dash-gh-token');
+  if (tInp && savedToken) tInp.value = savedToken;
+
+  /* Fetch remote analytics (all devices) then render */
+  dashFetchRemoteAnalytics(function() {
+    dashRenderOverview();
+    dashRenderSubscribers();
+  });
 }

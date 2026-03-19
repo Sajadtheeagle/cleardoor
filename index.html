@@ -1849,11 +1849,30 @@
           <div id="dash-webhook-status" style="margin-top:.5rem;font-size:.82rem"></div>
         </div>
 
+        <!-- Cross-Device Analytics Sync -->
+        <div style="background:#f0f6ff;border:1.5px solid #c0d8f4;border-radius:14px;padding:1.5rem;margin-bottom:1rem">
+          <h4 style="margin:0 0 .3rem;color:var(--navy)">Cross-Device Analytics Sync</h4>
+          <p style="font-size:.82rem;color:var(--gray);margin-bottom:1rem">Merge analytics from all browsers and devices into one central file (<code>data/analytics.json</code>) in your GitHub repo. The dashboard always reads from this file — so any device shows complete stats from <em>all</em> visitors.</p>
+
+          <label style="font-weight:700;color:var(--navy);display:block;font-size:.85rem;margin-bottom:.25rem">GitHub Personal Access Token</label>
+          <p style="font-size:.77rem;color:var(--gray);margin-bottom:.5rem">
+            Go to <strong>GitHub → Settings → Developer settings → Fine-grained personal access tokens → Generate new token</strong>.
+            Set repository access to <strong>Only cleardoor</strong> and grant <strong>Contents: Read and Write</strong>.
+          </p>
+          <input type="password" id="dash-gh-token" class="rss-input" placeholder="github_pat_..." style="margin-bottom:.6rem">
+          <div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:.6rem">
+            <button class="rss-add-btn" onclick="dashSaveGHToken()" style="font-size:.82rem;padding:.45rem 1.2rem;background:#1a3a6b">Save Token</button>
+            <button class="rss-add-btn" onclick="dashSyncNow()" style="font-size:.82rem;padding:.45rem 1.2rem">Sync This Device Now</button>
+          </div>
+          <div id="dash-sync-status" style="font-size:.82rem;min-height:1.2em"></div>
+          <p style="font-size:.75rem;color:#94a3b8;margin-top:.7rem;margin-bottom:0">The token is saved only in this browser's localStorage. Dashboard auto-reads the central file on every open — no token required for viewing.</p>
+        </div>
+
         <!-- Analytics reset -->
         <div style="background:#fff8f8;border:1.5px solid #fecaca;border-radius:14px;padding:1.5rem;margin-bottom:1rem">
-          <h4 style="margin:0 0 .5rem;color:#b91c1c">Analytics Data</h4>
-          <p style="font-size:.82rem;color:var(--gray);margin-bottom:.8rem">Clear all locally stored analytics events. This cannot be undone.</p>
-          <button class="rss-add-btn" style="background:#ef4444;font-size:.82rem;padding:.45rem 1.2rem" onclick="if(confirm('Clear all analytics data?')){if(typeof cdClearAnalytics==='function')cdClearAnalytics();alert('Analytics cleared.');}">🗑️ Clear Analytics</button>
+          <h4 style="margin:0 0 .5rem;color:#b91c1c">Local Analytics Data</h4>
+          <p style="font-size:.82rem;color:var(--gray);margin-bottom:.8rem">Clear events stored in <em>this browser only</em>. Central synced data in GitHub is not affected.</p>
+          <button class="rss-add-btn" style="background:#ef4444;font-size:.82rem;padding:.45rem 1.2rem" onclick="if(confirm('Clear local analytics data on this device?')){if(typeof cdClearAnalytics==='function')cdClearAnalytics();alert('Local analytics cleared.');}">Clear Local Analytics</button>
         </div>
 
         <!-- Google Apps Script instructions -->
