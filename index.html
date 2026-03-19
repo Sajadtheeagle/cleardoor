@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="css/ottawa-map.css">
   <link rel="stylesheet" href="css/blog.css">
   <link rel="stylesheet" href="css/rates.css">
+  <link rel="stylesheet" href="css/dashboard.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 </head>
 <body>
@@ -1387,11 +1388,12 @@
 
 <!-- ════════════ ADMIN DASHBOARD ════════════ -->
 <div id="page-dashboard" class="page">
+  <!-- ── Login Gate ── -->
   <div class="dash-login" id="dash-login">
     <div class="rss-login-card">
       <div class="rss-login-icon">📊</div>
       <h2 class="rss-login-h">ClearDoor Dashboard</h2>
-      <p class="rss-login-sub">Newsletter subscribers &amp; news KPIs</p>
+      <p class="rss-login-sub">Analytics, subscribers &amp; content KPIs</p>
       <div class="rss-login-fields">
         <input type="password" id="dash-pass" placeholder="Admin password" class="rss-input" onkeydown="if(event.key==='Enter')dashLogin()">
         <div id="dash-login-err" class="rss-msg rss-msg--error" style="display:none"></div>
@@ -1399,45 +1401,106 @@
       </div>
     </div>
   </div>
+
+  <!-- ── Authenticated Content ── -->
   <div id="dash-content" style="display:none">
+    <!-- Header -->
     <div class="hero" style="padding:2.5rem 5% 2rem;background:linear-gradient(135deg,#0a1628 0%,var(--navy) 100%)">
       <div class="hero-inner" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem">
         <div>
           <div class="h-eyebrow">📊 Admin Dashboard</div>
           <h1 style="color:#fff">ClearDoor Analytics</h1>
-          <p style="color:rgba(255,255,255,.7)">Newsletter subscribers, news performance &amp; content KPIs</p>
+          <p style="color:rgba(255,255,255,.7)">User behaviour, content performance &amp; subscribers</p>
         </div>
         <button class="rss-logout-btn" onclick="dashLogout()">Sign Out</button>
       </div>
     </div>
+
     <div class="section" style="max-width:1200px">
-      <!-- KPI Cards -->
-      <div id="dash-kpi-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-bottom:2rem"></div>
-      <!-- Tabs -->
-      <div style="display:flex;gap:.5rem;margin-bottom:1.5rem;flex-wrap:wrap">
-        <button class="dash-tab active" onclick="dashSwitchTab('subscribers',this)">📬 Subscribers</button>
-        <button class="dash-tab" onclick="dashSwitchTab('sources',this)">📡 News Sources</button>
-        <button class="dash-tab" onclick="dashSwitchTab('articles',this)">📰 Recent Articles</button>
+
+      <!-- ── Tabs ── -->
+      <div class="dash-tabs">
+        <button class="dash-tab active" onclick="dashSwitchTab('overview',this)">📊 Overview</button>
+        <button class="dash-tab" onclick="dashSwitchTab('behaviour',this)">🖱️ Behaviour</button>
+        <button class="dash-tab" onclick="dashSwitchTab('content',this)">📰 Content</button>
+        <button class="dash-tab" onclick="dashSwitchTab('subscribers',this)">📬 Subscribers</button>
         <button class="dash-tab" onclick="dashSwitchTab('settings',this)">⚙️ Settings</button>
       </div>
-      <!-- Tab Panels -->
-      <div id="dash-panel-subscribers" class="dash-panel">
+
+      <!-- ══════════ OVERVIEW PANEL ══════════ -->
+      <div id="dash-panel-overview" class="dash-panel">
+        <!-- KPI Cards -->
+        <div id="dash-kpi-grid" class="dash-kpi-grid"></div>
+
+        <!-- Sessions / Day Chart -->
+        <div class="dash-chart-wrap" id="dash-sessions-chart-wrap">
+          <div class="dash-chart-title">Sessions per Day — Last 30 Days</div>
+          <canvas class="dash-chart-canvas" style="height:200px"></canvas>
+          <div class="dash-chart-tooltip"></div>
+        </div>
+
+        <!-- Device Breakdown -->
+        <div class="dash-section-title">Device Breakdown</div>
+        <div id="dash-device-pills" class="dash-device-pills"></div>
+      </div>
+
+      <!-- ══════════ BEHAVIOUR PANEL ══════════ -->
+      <div id="dash-panel-behaviour" class="dash-panel" style="display:none">
+        <div class="dash-section-title">Top Pages (last 30 days)</div>
+        <div id="dash-top-pages" class="dash-chart-wrap"></div>
+
+        <div class="dash-two-col">
+          <!-- Calculator usage -->
+          <div class="dash-chart-wrap" id="dash-calc-chart-wrap">
+            <div class="dash-chart-title">Calculator Usage</div>
+            <canvas class="dash-chart-canvas" style="height:180px"></canvas>
+            <div class="dash-chart-tooltip"></div>
+          </div>
+          <!-- Top CTAs -->
+          <div class="dash-chart-wrap">
+            <div class="dash-chart-title">Top CTAs Clicked</div>
+            <div id="dash-top-ctas"></div>
+          </div>
+        </div>
+
+        <div class="dash-section-title">Scroll Depth per Page</div>
+        <div id="dash-scroll-depth"></div>
+      </div>
+
+      <!-- ══════════ CONTENT PANEL ══════════ -->
+      <div id="dash-panel-content" class="dash-panel" style="display:none">
+        <div class="dash-section-title">Most Opened News Articles (last 30 days)</div>
+        <div id="dash-top-articles" class="dash-chart-wrap"></div>
+
+        <div class="dash-two-col" style="margin-top:1.2rem">
+          <!-- Articles by source chart -->
+          <div class="dash-chart-wrap" id="dash-source-chart-wrap">
+            <div class="dash-chart-title">Article Opens by Source</div>
+            <canvas class="dash-chart-canvas" style="height:180px"></canvas>
+            <div class="dash-chart-tooltip"></div>
+          </div>
+          <!-- Source bar rows -->
+          <div class="dash-chart-wrap">
+            <div class="dash-chart-title">Articles in Feed by Source</div>
+            <div id="dash-source-bars"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════ SUBSCRIBERS PANEL ══════════ -->
+      <div id="dash-panel-subscribers" class="dash-panel" style="display:none">
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;margin-bottom:1rem">
           <h3 style="margin:0;color:var(--navy)">Newsletter Subscribers</h3>
-          <button class="rss-add-btn" onclick="dashExportCSV()" style="font-size:.8rem;padding:.4rem 1rem">⬇ Export CSV</button>
+          <button class="dash-export-btn" onclick="dashExportCSV()">⬇ Export CSV</button>
         </div>
         <div id="dash-sub-list"></div>
       </div>
-      <div id="dash-panel-sources" class="dash-panel" style="display:none">
-        <h3 style="margin:0 0 1rem;color:var(--navy)">Articles by Source</h3>
-        <div id="dash-source-chart"></div>
-      </div>
-      <div id="dash-panel-articles" class="dash-panel" style="display:none">
-        <h3 style="margin:0 0 1rem;color:var(--navy)">Latest Articles</h3>
-        <div id="dash-article-list"></div>
-      </div>
+
+      <!-- ══════════ SETTINGS PANEL ══════════ -->
       <div id="dash-panel-settings" class="dash-panel" style="display:none">
-        <h3 style="margin:0 0 1rem;color:var(--navy)">Newsletter Settings</h3>
+        <h3 style="margin:0 0 1rem;color:var(--navy)">Settings</h3>
+
+        <!-- Webhook -->
         <div style="background:#fff;border:1.5px solid var(--border);border-radius:14px;padding:1.5rem;margin-bottom:1rem">
           <label style="font-weight:700;color:var(--navy);display:block;margin-bottom:.5rem">Google Sheets Webhook URL</label>
           <p style="font-size:.82rem;color:var(--gray);margin-bottom:.8rem">Paste your Google Apps Script URL here to save newsletter subscribers to a Google Sheet automatically.</p>
@@ -1445,8 +1508,17 @@
           <button class="rss-add-btn" onclick="dashSaveWebhook()" style="font-size:.82rem;padding:.45rem 1.2rem">Save Webhook URL</button>
           <div id="dash-webhook-status" style="margin-top:.5rem;font-size:.82rem"></div>
         </div>
+
+        <!-- Analytics reset -->
+        <div style="background:#fff8f8;border:1.5px solid #fecaca;border-radius:14px;padding:1.5rem;margin-bottom:1rem">
+          <h4 style="margin:0 0 .5rem;color:#b91c1c">Analytics Data</h4>
+          <p style="font-size:.82rem;color:var(--gray);margin-bottom:.8rem">Clear all locally stored analytics events. This cannot be undone.</p>
+          <button class="rss-add-btn" style="background:#ef4444;font-size:.82rem;padding:.45rem 1.2rem" onclick="if(confirm('Clear all analytics data?')){if(typeof cdClearAnalytics==='function')cdClearAnalytics();alert('Analytics cleared.');}">🗑️ Clear Analytics</button>
+        </div>
+
+        <!-- Google Apps Script instructions -->
         <div style="background:#f0f6ff;border:1.5px solid #d0e2f7;border-radius:14px;padding:1.5rem">
-          <h4 style="margin:0 0 .8rem;color:var(--navy)">Setup Instructions</h4>
+          <h4 style="margin:0 0 .8rem;color:var(--navy)">Google Sheets Setup</h4>
           <ol style="font-size:.85rem;color:var(--gray);line-height:1.8;padding-left:1.2rem">
             <li>Create a new Google Sheet</li>
             <li>Go to Extensions → Apps Script</li>
@@ -1474,9 +1546,11 @@ function doGet() {
 }</pre>
         </div>
       </div>
-    </div>
-  </div>
+
+    </div><!-- /section -->
+  </div><!-- /dash-content -->
 </div>
+<!-- ══ END ADMIN DASHBOARD ══ -->
 
   <!-- ══ Core Data ══ -->
   <script src="js/new-construction.js"></script>
@@ -1495,6 +1569,9 @@ function doGet() {
 
   <!-- ══ RSS Admin ══ -->
   <script src="js/rss-admin.js"></script>
+
+  <!-- ══ Analytics (must load before dashboard) ══ -->
+  <script src="js/analytics.js"></script>
 
   <!-- ══ Dashboard ══ -->
   <script src="js/dashboard.js"></script>

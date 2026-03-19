@@ -1,0 +1,331 @@
+/* ═══════════════════════════════════════════════════════
+   CLEARDOOR — ADMIN DASHBOARD STYLES  (css/dashboard.css)
+   Brand: navy #0a1628 | blue #1a3a6b | green #2e7d32
+   ═══════════════════════════════════════════════════════ */
+
+/* ── KPI Grid ── */
+.dash-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+@media (max-width: 900px) {
+  .dash-kpi-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 540px) {
+  .dash-kpi-grid { grid-template-columns: 1fr; }
+}
+
+/* ── KPI Card ── */
+.dash-kpi-card {
+  background: #fff;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 1.2rem 1rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(10,22,40,.05);
+  border-left: 4px solid var(--kpi-accent, #1a3a6b);
+  transition: box-shadow .2s;
+}
+.dash-kpi-card:hover {
+  box-shadow: 0 4px 18px rgba(10,22,40,.10);
+}
+.dash-kpi-icon {
+  font-size: 1.7rem;
+  margin-bottom: .35rem;
+  display: block;
+}
+.dash-kpi-value {
+  font-size: 1.9rem;
+  font-weight: 900;
+  color: #0a1628;
+  line-height: 1;
+  margin-bottom: .25rem;
+}
+.dash-kpi-label {
+  font-size: .82rem;
+  font-weight: 700;
+  color: #0a1628;
+  margin-bottom: .15rem;
+}
+.dash-kpi-sub {
+  font-size: .72rem;
+  color: #64748b;
+}
+
+/* ── Chart Wrapper ── */
+.dash-chart-wrap {
+  background: #fff;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 1.2rem 1.2rem .8rem;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(10,22,40,.05);
+  margin-bottom: 1.2rem;
+}
+
+/* ── Chart Title ── */
+.dash-chart-title {
+  font-weight: 700;
+  color: #0a1628;
+  font-size: .9rem;
+  margin-bottom: .8rem;
+}
+
+/* ── Chart Canvas ── */
+.dash-chart-canvas {
+  width: 100%;
+  height: 200px;
+  display: block;
+}
+
+/* ── Chart Tooltip ── */
+.dash-chart-tooltip {
+  position: absolute;
+  background: #1a2332;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: .75rem;
+  pointer-events: none;
+  display: none;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+/* ── Section Title ── */
+.dash-section-title {
+  font-weight: 800;
+  color: #0a1628;
+  font-size: 1rem;
+  margin: 1.2rem 0 .8rem;
+}
+
+/* ── Data Table ── */
+.dash-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .83rem;
+}
+.dash-table th {
+  text-align: left;
+  padding: .5rem .7rem;
+  color: #0a1628;
+  border-bottom: 2px solid #e2e8f0;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.dash-table td {
+  padding: .45rem .7rem;
+  border-bottom: 1px solid #f0f4f8;
+  color: #334155;
+}
+.dash-table tr:hover td {
+  background: #f8faff;
+}
+.dash-table a {
+  color: #1a3a6b;
+  text-decoration: none;
+  font-weight: 600;
+}
+.dash-table a:hover {
+  text-decoration: underline;
+}
+
+/* ── Bar Rows (horizontal inline bars) ── */
+.dash-bar-row {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin-bottom: .65rem;
+}
+.dash-bar-label {
+  flex: 0 0 140px;
+  font-size: .8rem;
+  font-weight: 600;
+  color: #0a1628;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.dash-bar-track {
+  flex: 1;
+  background: #f0f4f8;
+  border-radius: 6px;
+  height: 20px;
+  overflow: hidden;
+}
+.dash-bar-fill {
+  height: 100%;
+  border-radius: 6px;
+  background: #1a3a6b;
+  transition: width .4s ease;
+  min-width: 4px;
+}
+.dash-bar-count {
+  flex: 0 0 40px;
+  text-align: right;
+  font-size: .78rem;
+  color: #64748b;
+  font-weight: 600;
+}
+
+/* ── Empty State ── */
+.dash-empty {
+  text-align: center;
+  padding: 2rem;
+  color: #94a3b8;
+  font-size: .9rem;
+}
+
+/* ── Device Pills ── */
+.dash-device-pills {
+  display: flex;
+  gap: .8rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.dash-device-pill {
+  background: #f0f6ff;
+  border-radius: 8px;
+  padding: .5rem 1rem;
+  font-size: .82rem;
+  display: flex;
+  gap: .4rem;
+  align-items: center;
+  font-weight: 600;
+  color: #1a3a6b;
+}
+
+/* ── Tabs ── */
+.dash-tabs {
+  display: flex;
+  gap: .4rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+.dash-tab {
+  background: #f0f4f8;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 8px;
+  padding: .45rem 1rem;
+  font-size: .82rem;
+  font-weight: 600;
+  color: #475569;
+  cursor: pointer;
+  transition: all .15s;
+}
+.dash-tab:hover {
+  background: #e2e8f0;
+  color: #0a1628;
+}
+.dash-tab.active {
+  background: #1a3a6b;
+  border-color: #1a3a6b;
+  color: #fff;
+}
+
+/* ── Two-column layout ── */
+.dash-two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+@media (max-width: 720px) {
+  .dash-two-col { grid-template-columns: 1fr; }
+}
+
+/* ── Export Button ── */
+.dash-export-btn {
+  background: #1a3a6b;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: .45rem 1.1rem;
+  font-size: .82rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background .15s;
+}
+.dash-export-btn:hover {
+  background: #0a1628;
+}
+
+/* ── Positive metric accent ── */
+.dash-positive {
+  color: #2e7d32;
+  font-weight: 700;
+}
+
+/* ── Scroll depth grid ── */
+.dash-depth-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: .8rem;
+  margin-bottom: 1.2rem;
+}
+.dash-depth-card {
+  background: #fff;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 10px;
+  padding: .9rem 1rem;
+}
+.dash-depth-page {
+  font-size: .78rem;
+  font-weight: 700;
+  color: #0a1628;
+  margin-bottom: .5rem;
+  text-transform: capitalize;
+}
+.dash-depth-bars {
+  display: flex;
+  gap: 4px;
+  align-items: flex-end;
+  height: 36px;
+}
+.dash-depth-bar-seg {
+  flex: 1;
+  border-radius: 3px 3px 0 0;
+  transition: height .3s;
+}
+.dash-depth-label {
+  font-size: .65rem;
+  color: #94a3b8;
+  margin-top: .3rem;
+  display: flex;
+  gap: 4px;
+}
+.dash-depth-label span { flex: 1; text-align: center; }
+
+/* ── Panel scroll container for long tables ── */
+.dash-table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ── Header sub-label ── */
+.dash-header-sub {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: .5rem;
+}
+
+/* ── Badge ── */
+.dash-badge {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: .72rem;
+  font-weight: 700;
+}
+.dash-badge--blue {
+  background: #e8f0fe;
+  color: #1a3a6b;
+}

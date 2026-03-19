@@ -30,6 +30,9 @@ function showPage(id){
   if(id==='rss-admin'){rssAdminInit();}
   if(id==='dashboard'){if(typeof dashCheckAuth==='function')dashCheckAuth();}
   closeDrawer();
+  // Analytics: update current page and fire pageview
+  if(typeof cdSetPage==='function') cdSetPage(id);
+  if(typeof cdTrack==='function') cdTrack('pageview',{page:id});
 }
 // Open calculator with a specific tab active
 function showCalcTab(tab){
