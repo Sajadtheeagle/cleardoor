@@ -33,6 +33,7 @@ function showPage(id){
   // Analytics: update current page and fire pageview
   if(typeof cdSetPage==='function') cdSetPage(id);
   if(typeof cdTrack==='function') cdTrack('pageview',{page:id});
+  if(typeof seoUpdate!=='undefined') seoUpdate(id);
 }
 // Open calculator with a specific tab active
 function showCalcTab(tab){
