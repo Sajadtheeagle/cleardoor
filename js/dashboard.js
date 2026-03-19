@@ -580,10 +580,11 @@ function dashRenderChannelsTable(events30) {
     return;
   }
 
-  /* Build channel map: channel → {sessions, devices:{}, pages:{}, lastSeen} */
+  /* Build channel map: channel → {sessions, devices:{}, pages:{}, lastSeen}
+     Use same fallback key ('unknown') as dashCount() to keep maps in sync */
   var chMap = {};
   sessions.forEach(function(e) {
-    var ch = e.channel || 'Direct';
+    var ch = e.channel || 'unknown';
     if (!chMap[ch]) chMap[ch] = { count: 0, devices: {}, pages: {}, lastSeen: 0 };
     chMap[ch].count++;
     if (e.device) chMap[ch].devices[e.device] = (chMap[ch].devices[e.device] || 0) + 1;
@@ -599,7 +600,7 @@ function dashRenderChannelsTable(events30) {
   /* Average pages/session per channel */
   var chAvgPages = {};
   sessions.forEach(function(e) {
-    var ch = e.channel || 'Direct';
+    var ch = e.channel || 'unknown';
     if (!chAvgPages[ch]) chAvgPages[ch] = { total: 0, count: 0 };
     chAvgPages[ch].total += pvBySess[e.session] || 1;
     chAvgPages[ch].count++;
@@ -629,7 +630,7 @@ function dashRenderChannelsTable(events30) {
     var ch   = row[0];
     var cnt  = row[1];
     var pct  = ((cnt / total) * 100).toFixed(1);
-    var d    = chMap[ch];
+    var d    = chMap[ch] || { lastSeen: 0, devices: {} };   /* null-safe fallback */
     var icon = chIcons[ch] || (ch.indexOf('Referral:') === 0 ? '🌐' : (ch.indexOf('UTM:') === 0 ? '📣' : '🔗'));
     var lastSeen = d.lastSeen ? new Date(d.lastSeen).toLocaleDateString('en-CA') : '—';
 
