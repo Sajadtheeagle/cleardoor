@@ -16,7 +16,7 @@ function dashLogin() {
   var inp = document.getElementById('dash-pass');
   var err = document.getElementById('dash-login-err');
   if (!inp) return;
-  if (inp.value === DASH_PASS) {
+  if (inp.value.trim() === DASH_PASS) {
     document.getElementById('dash-login').style.display = 'none';
     document.getElementById('dash-content').style.display = 'block';
     localStorage.setItem('dash_auth', '1');   /* persists across sessions */
@@ -29,7 +29,7 @@ function dashLogin() {
 function dashLogout() {
   localStorage.removeItem('dash_auth');
   dashStopAutoRefresh();
-  document.getElementById('dash-login').style.display = '';
+  document.getElementById('dash-login').style.display = 'flex';
   document.getElementById('dash-content').style.display = 'none';
 }
 function dashCheckAuth() {
