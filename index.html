@@ -151,26 +151,130 @@
 <!-- ════════════ HOME ════════════ -->
 <div id="page-home" class="page active">
   <div class="hero">
+    <div class="home-pulse-bar">
+      <div class="home-pulse-inner">
+        <span>🏦 BoC Rate: <strong>2.75%</strong></span>
+        <span class="pulse-div">|</span>
+        <span>📊 Best 5yr Fixed: <strong id="h-best-rate">3.79%</strong></span>
+        <span class="pulse-div">|</span>
+        <span>📅 Next BoC Decision: <strong>Apr 16, 2026</strong></span>
+        <span class="pulse-live"><span class="pulse-dot"></span> LIVE</span>
+      </div>
+    </div>
     <div class="hero-inner">
-      <div class="h-eyebrow">🇨🇦 Canada's First-Time Buyer Platform · 100% Free</div>
-      <h1>Everything You Need to Buy<br>Your First Home in <em>Canada</em></h1>
-      <p>From saving your first dollar to getting your keys — ClearDoor gives every Canadian first-time buyer the tools, programs, and guidance to buy with confidence.</p>
+      <div class="h-eyebrow">🇨🇦 Canada's Real Estate Intelligence Platform · 100% Free</div>
+      <h1>Make the Most Informed<br>Real Estate Decision <em>of Your Life</em></h1>
+      <p>Live mortgage rates from 22 lenders, government programs, market intelligence, calculators, and Ottawa neighbourhood data — everything in one place, free.</p>
       <div class="hctas">
-        <button class="btn btn-sky" onclick="showPage('newconstruction')">🏗️ Explore New Builds</button>
-        <button class="btn btn-ghost" onclick="showPage('financial')">View Programs →</button>
+        <button class="btn btn-sky" onclick="showPage('rates')">📊 Compare Live Rates</button>
+        <button class="btn btn-ghost" onclick="showPage('calculator')">🧮 Calculate Affordability</button>
       </div>
       <div class="hero-stats">
-        <div class="hs"><div class="hs-n">$80K</div><div class="hs-l">FHSA per couple (tax-free)</div></div>
-        <div class="hs"><div class="hs-n">5%</div><div class="hs-l">Minimum down payment</div></div>
-        <div class="hs"><div class="hs-n">200+</div><div class="hs-l">New build projects tracked</div></div>
-        <div class="hs"><div class="hs-n">Free</div><div class="hs-l">All tools, always</div></div>
+        <div class="hs"><div class="hs-n">3.79%</div><div class="hs-l">Best 5yr Fixed today</div></div>
+        <div class="hs"><div class="hs-n">22</div><div class="hs-l">Lenders compared</div></div>
+        <div class="hs"><div class="hs-n">$80K</div><div class="hs-l">FHSA per couple tax-free</div></div>
+        <div class="hs"><div class="hs-n">Free</div><div class="hs-l">Always, no signup</div></div>
       </div>
     </div>
   </div>
+
+  <!-- Section 2 — Intelligence Pillars -->
   <div class="section alt">
-    <div class="eyebrow">Where to Start</div>
-    <h2 class="stitle">Your Homebuying Roadmap</h2>
-    <p class="ssub">Most first-time buyers follow these six steps. Click any to jump in.</p>
+    <div class="eyebrow">Why ClearDoor</div>
+    <h2 class="stitle">Three Layers of Intelligence</h2>
+    <p class="ssub">Most sites give you one piece. ClearDoor gives you the full picture.</p>
+    <div class="home-pillars-grid">
+      <div class="home-pillar">
+        <div class="home-pillar-icon">💹</div>
+        <h3>Live Market Data</h3>
+        <p>Mortgage rates updated daily from 22 Canadian lenders. BoC rate history trend chart. Insured vs. uninsured comparison. Named lenders, no anonymized rates.</p>
+        <button class="pillar-btn" onclick="showPage('rates')">View Live Rates →</button>
+      </div>
+      <div class="home-pillar">
+        <div class="home-pillar-icon">🧠</div>
+        <h3>Decision Intelligence</h3>
+        <p>6 calculators — mortgage, affordability, CMHC, land transfer tax, savings planner, rent vs buy. Full buyer journey guide. Government program explainers.</p>
+        <button class="pillar-btn" onclick="showPage('calculator')">Open Calculators →</button>
+      </div>
+      <div class="home-pillar">
+        <div class="home-pillar-icon">📡</div>
+        <h3>Market Intelligence</h3>
+        <p>Live news from 10+ sources — CBC, BNN Bloomberg, Bank of Canada, MPA Magazine, Better Dwelling. Updated every 4 hours. Mortgage market signals daily.</p>
+        <button class="pillar-btn" onclick="showPage('blog')">Read Market News →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 3 — Competitor Comparison -->
+  <div class="section">
+    <div class="eyebrow">How We Compare</div>
+    <h2 class="stitle">Built to Beat the Best</h2>
+    <p class="ssub">We benchmarked every major Canadian platform. Here's what we do differently.</p>
+    <div class="home-compare-wrap">
+      <table class="home-compare-table">
+        <thead>
+          <tr>
+            <th>Feature</th>
+            <th class="hct-cd">⭐ ClearDoor</th>
+            <th>RateHub</th>
+            <th>nesto</th>
+            <th>Realtor.ca</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Rates from 22+ named lenders</td><td class="hct-cd hct-yes">✅</td><td>Partial</td><td>❌</td><td>❌</td></tr>
+          <tr><td>Insured + Uninsured side by side</td><td class="hct-cd hct-yes">✅</td><td>Partial</td><td>❌</td><td>❌</td></tr>
+          <tr><td>Monthly payment shown inline</td><td class="hct-cd hct-yes">✅</td><td>❌</td><td>✅</td><td>❌</td></tr>
+          <tr><td>BoC rate history chart</td><td class="hct-cd hct-yes">✅</td><td>❌</td><td>❌</td><td>❌</td></tr>
+          <tr><td>FHSA + HBP full guide</td><td class="hct-cd hct-yes">✅</td><td>❌</td><td>❌</td><td>❌</td></tr>
+          <tr><td>6 calculators in one place</td><td class="hct-cd hct-yes">✅</td><td>Partial</td><td>Partial</td><td>❌</td></tr>
+          <tr><td>Live mortgage news feed</td><td class="hct-cd hct-yes">✅</td><td>❌</td><td>❌</td><td>❌</td></tr>
+          <tr><td>Ottawa zoning & city plans map</td><td class="hct-cd hct-yes">✅</td><td>❌</td><td>❌</td><td>❌</td></tr>
+          <tr><td>No signup required</td><td class="hct-cd hct-yes">✅</td><td>Partial</td><td>❌</td><td>✅</td></tr>
+          <tr><td>100% Free forever</td><td class="hct-cd hct-yes">✅</td><td>✅</td><td>❌</td><td>✅</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Section 4 — Coming Intelligence -->
+  <div class="section alt">
+    <div class="eyebrow">On the Roadmap</div>
+    <h2 class="stitle">The Intelligence Layer — Coming Soon</h2>
+    <p class="ssub">We're building what no Canadian real estate platform has built. Subscribe below to get early access.</p>
+    <div class="g4" style="margin-top:1.5rem;">
+      <div class="card home-coming-card">
+        <div class="coming-soon-badge">Coming Soon</div>
+        <div style="font-size:1.6rem;">🏘️</div>
+        <h3>Neighbourhood Profiles</h3>
+        <p>Price/sqft trends, avg days on market, school ratings, walk score, and a buyer verdict for every Ottawa neighbourhood.</p>
+      </div>
+      <div class="card home-coming-card">
+        <div class="coming-soon-badge">Coming Soon</div>
+        <div style="font-size:1.6rem;">🧠</div>
+        <h3>Market Sentiment Score</h3>
+        <p>NLP-powered weekly score (0–100) from 10+ news sources. Know if the market is bullish or bearish for buyers before you act.</p>
+      </div>
+      <div class="card home-coming-card">
+        <div class="coming-soon-badge">Coming Soon</div>
+        <div style="font-size:1.6rem;">⚠️</div>
+        <h3>Power of Sales Tracker</h3>
+        <p>Distressed listings monitor — identify motivated sellers, foreclosures, and below-market opportunities across Ottawa.</p>
+      </div>
+      <div class="card home-coming-card">
+        <div class="coming-soon-badge">Coming Soon</div>
+        <div style="font-size:1.6rem;">📈</div>
+        <h3>Completed Sales Trends</h3>
+        <p>24-month rolling price/sqft by neighbourhood. See what homes actually sell for — not just listing prices.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 5 — Buyer Journey -->
+  <div class="section">
+    <div class="eyebrow">The Full Journey</div>
+    <h2 class="stitle">From First Dollar to Front Door</h2>
+    <p class="ssub">Click any step to jump directly to that tool.</p>
     <div style="display:grid;gap:.75rem;margin-top:1.3rem;">
       <div class="step-card" onclick="showPage('financial')"><div class="snum">1</div><div class="scontent"><h3>Learn Government Programs (FHSA, HBP, Rebates)</h3><p>Canada offers thousands in tax savings. Most first-time buyers don't claim everything they're entitled to.</p><div class="stip">→ Financial Programs</div></div></div>
       <div class="step-card" onclick="showCalcTab('savings')"><div class="snum">2</div><div class="scontent"><h3>Build Your Down Payment</h3><p>Learn the minimum you need, the accounts to use, and how to save faster — even on a tight income.</p><div class="stip">→ Savings Planner</div></div></div>
@@ -179,23 +283,17 @@
       <div class="step-card" onclick="showPage('listings')"><div class="snum">5</div><div class="scontent"><h3>Search All Listings</h3><p>Search resale homes across Canada via Realtor.ca with all your filters pre-applied instantly.</p><div class="stip">→ Search Listings</div></div></div>
       <div class="step-card" onclick="showPage('checklist')"><div class="snum">6</div><div class="scontent"><h3>Close With Confidence</h3><p>Follow our 40-item interactive checklist so nothing falls through the cracks on closing day.</p><div class="stip">→ My Checklist</div></div></div>
     </div>
-    <!-- Newsletter CTA strip -->
-    <div class="nl-cta-strip">
-      <div><div class="nl-cta-text">📬 Ottawa Market Weekly</div><div class="nl-cta-sub">News, rate changes &amp; buyer tips every Friday — free</div></div>
-      <div class="nl-cta-form">
-        <input type="email" id="home-nl-email" placeholder="your@email.com" onkeydown="if(event.key==='Enter')insNewsletter('home')">
-        <button onclick="insNewsletter('home')">Subscribe →</button>
-      </div>
-    </div>
   </div>
-  <div class="section">
+
+  <!-- Section 6 — All Tools Grid -->
+  <div class="section alt">
     <div class="eyebrow">All Tools</div>
     <h2 class="stitle">Everything in One Place</h2>
     <div class="g4">
       <div class="card" style="cursor:pointer" onclick="showPage('newconstruction')"><div style="font-size:1.6rem;margin-bottom:.6rem">🏗️</div><h3>New Builds Hub</h3><p>Browse & compare new construction projects across Canada with maps and filters.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('financial')"><div style="font-size:1.6rem;margin-bottom:.6rem">💰</div><h3>Financial Programs</h3><p>FHSA, RRSP HBP, First-Time Buyer tax credits, and provincial rebates.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('market')"><div style="font-size:1.6rem;margin-bottom:.6rem">📊</div><h3>Market Guide</h3><p>Seasonality, price drivers, city tiers, and a complete closing cost breakdown.</p></div>
-      <div class="card" style="cursor:pointer" onclick="showPage('rates')"><div style="font-size:1.6rem;margin-bottom:.6rem">📊</div><h3>Mortgage Rates</h3><p>Live rates from 12 lenders — Big Banks, monolines, and brokers compared side by side.</p></div>
+      <div class="card" style="cursor:pointer" onclick="showPage('rates')"><div style="font-size:1.6rem;margin-bottom:.6rem">📊</div><h3>Mortgage Rates <span style="background:var(--sky);color:#fff;font-size:.62rem;font-weight:700;padding:.1rem .45rem;border-radius:20px;vertical-align:middle;margin-left:.3rem;">Live</span></h3><p>Live rates from 22 lenders — Big Banks, monolines, and brokers compared side by side.</p></div>
       <div class="card" style="cursor:pointer" onclick="showCalcTab('savings')"><div style="font-size:1.6rem;margin-bottom:.6rem">🪙</div><h3>Savings Planner</h3><p>Down payment strategy, savings hierarchy, and a timeline calculator.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('calculator')"><div style="font-size:1.6rem;margin-bottom:.6rem">🧮</div><h3>Calculators</h3><p>Mortgage, CMHC, land transfer tax, affordability, and Rent vs Buy — all in one place.</p></div>
       <div class="card" style="cursor:pointer" onclick="showPage('checklist')"><div style="font-size:1.6rem;margin-bottom:.6rem">✅</div><h3>Checklist</h3><p>40+ interactive checklist items across 4 phases from prep to closing.</p></div>
@@ -203,6 +301,16 @@
       <div class="card" style="cursor:pointer" onclick="showPage('ottawaplan')"><div style="font-size:1.6rem;margin-bottom:.6rem">🗺️</div><h3>Ottawa City Plans</h3><p>Interactive Official Plan &amp; zoning maps — see future developments and land use designations.</p></div>
     </div>
   </div>
+
+  <!-- Section 7 — Newsletter -->
+  <div class="nl-cta-strip">
+    <div><div class="nl-cta-text">📬 Ottawa Market Weekly</div><div class="nl-cta-sub">News, rate changes &amp; buyer tips every Friday — free</div></div>
+    <div class="nl-cta-form">
+      <input type="email" id="home-nl-email" placeholder="your@email.com" onkeydown="if(event.key==='Enter')insNewsletter('home')">
+      <button onclick="insNewsletter('home')">Subscribe →</button>
+    </div>
+  </div>
+
   <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · For educational purposes only · Not a licensed lender or brokerage · <a href="#" onclick="showPage('dashboard');return false" style="color:var(--gray);opacity:.45;font-size:.7rem;text-decoration:none">Admin</a></div>
 </div>
 <!-- ════════════ NEW CONSTRUCTION HUB ════════════ -->

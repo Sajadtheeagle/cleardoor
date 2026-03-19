@@ -385,3 +385,100 @@ input.chk{width:16px;height:16px;border-radius:4px;flex-shrink:0;margin-top:2px;
   margin-top:2rem;
   border-left:3px solid var(--sky);
 }
+
+/* ══ HOME PAGE — PULSE BAR ══ */
+.home-pulse-bar {
+  background: rgba(255,255,255,.06);
+  border-bottom: 1px solid rgba(255,255,255,.08);
+  padding: .5rem 5%;
+}
+.home-pulse-inner {
+  display: flex; align-items: center; gap: 1.2rem;
+  flex-wrap: wrap; font-size: .8rem; color: rgba(255,255,255,.75);
+  max-width: 1200px; margin: 0 auto;
+}
+.home-pulse-inner strong { color: #fff; }
+.pulse-div { opacity: .3; }
+.pulse-live {
+  margin-left: auto; display: flex; align-items: center; gap: .4rem;
+  font-size: .72rem; font-weight: 700; color: #4ade80; letter-spacing: .05em;
+}
+.pulse-dot {
+  width: 7px; height: 7px; background: #4ade80; border-radius: 50%;
+  animation: pulseDot 1.8s ease-in-out infinite;
+}
+@keyframes pulseDot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: .4; transform: scale(0.7); }
+}
+
+/* ══ HOME PAGE — INTELLIGENCE PILLARS ══ */
+.home-pillars-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem;
+  margin-top: 1.5rem;
+}
+.home-pillar {
+  background: #fff; border: 1.5px solid var(--border);
+  border-radius: 16px; padding: 1.8rem 1.4rem;
+  display: flex; flex-direction: column; gap: .6rem;
+  transition: box-shadow .2s, transform .2s;
+}
+.home-pillar:hover { box-shadow: 0 8px 28px rgba(10,22,40,.10); transform: translateY(-2px); }
+.home-pillar-icon { font-size: 2rem; margin-bottom: .2rem; }
+.home-pillar h3 { font-size: 1.05rem; font-weight: 800; color: var(--navy); margin: 0; }
+.home-pillar p { font-size: .875rem; color: var(--gray); line-height: 1.65; margin: 0; flex: 1; }
+.pillar-btn {
+  margin-top: .4rem; background: none; border: 1.5px solid var(--navy);
+  color: var(--navy); border-radius: 8px; padding: .45rem .9rem;
+  font-size: .82rem; font-weight: 700; cursor: pointer;
+  transition: all .15s; width: fit-content;
+}
+.pillar-btn:hover { background: var(--navy); color: #fff; }
+
+/* ══ HOME PAGE — COMPETITOR TABLE ══ */
+.home-compare-wrap { overflow-x: auto; margin-top: 1.4rem; border-radius: 14px; border: 1.5px solid var(--border); }
+.home-compare-table { width: 100%; border-collapse: collapse; font-size: .875rem; }
+.home-compare-table th {
+  padding: .75rem 1rem; text-align: center; font-weight: 700; font-size: .8rem;
+  text-transform: uppercase; letter-spacing: .04em; background: #f8faff;
+  border-bottom: 2px solid var(--border); color: var(--gray);
+}
+.home-compare-table th:first-child { text-align: left; }
+.home-compare-table td {
+  padding: .65rem 1rem; text-align: center; border-bottom: 1px solid #f0f4f8;
+  color: var(--gray); font-size: .84rem;
+}
+.home-compare-table td:first-child { text-align: left; font-weight: 600; color: var(--navy); }
+.home-compare-table tr:last-child td { border-bottom: none; }
+.home-compare-table tr:hover td { background: #fafbff; }
+.hct-cd { background: #f0f6ff !important; }
+.hct-yes { color: #2e7d32 !important; font-size: 1rem !important; font-weight: 700 !important; }
+th.hct-cd {
+  background: var(--navy) !important; color: #fff !important;
+  font-size: .85rem !important; letter-spacing: 0 !important;
+}
+
+/* ══ HOME PAGE — COMING SOON CARDS ══ */
+.home-coming-card {
+  position: relative; padding-top: 2rem !important;
+  border: 1.5px dashed #c7d8f0 !important;
+  background: linear-gradient(135deg,#fafcff,#f0f6ff) !important;
+}
+.coming-soon-badge {
+  position: absolute; top: .7rem; right: .7rem;
+  background: #1a3a6b; color: #fff; font-size: .68rem;
+  font-weight: 700; padding: .2rem .55rem; border-radius: 20px;
+  letter-spacing: .04em; text-transform: uppercase;
+}
+.home-coming-card h3 { color: var(--navy); font-size: .95rem; margin: .4rem 0 .3rem; }
+.home-coming-card p { font-size: .83rem; color: #64748b; line-height: 1.6; }
+
+/* ══ RESPONSIVE ══ */
+@media (max-width: 900px) {
+  .home-pillars-grid { grid-template-columns: 1fr; }
+  .home-pulse-inner { gap: .7rem; font-size: .75rem; }
+  .pulse-live { margin-left: 0; }
+}
+@media (max-width: 640px) {
+  .home-compare-table th, .home-compare-table td { padding: .5rem .6rem; font-size: .78rem; }
+}
