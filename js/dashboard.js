@@ -10,6 +10,8 @@ var DASH_WEBHOOK_KEY = 'cd_newsletter_webhook';
 /* ══════════════════════════════════════
    AUTH
    ══════════════════════════════════════ */
+var _dashRefreshTimer = null;
+
 function dashLogin() {
   var inp = document.getElementById('dash-pass');
   var err = document.getElementById('dash-login-err');
@@ -17,23 +19,45 @@ function dashLogin() {
   if (inp.value === DASH_PASS) {
     document.getElementById('dash-login').style.display = 'none';
     document.getElementById('dash-content').style.display = 'block';
-    sessionStorage.setItem('dash_auth', '1');
+    localStorage.setItem('dash_auth', '1');   /* persists across sessions */
     dashInit();
+    dashStartAutoRefresh();
   } else {
     if (err) { err.textContent = 'Wrong password'; err.style.display = 'block'; }
   }
 }
 function dashLogout() {
-  sessionStorage.removeItem('dash_auth');
+  localStorage.removeItem('dash_auth');
+  dashStopAutoRefresh();
   document.getElementById('dash-login').style.display = '';
   document.getElementById('dash-content').style.display = 'none';
 }
 function dashCheckAuth() {
-  if (sessionStorage.getItem('dash_auth') === '1') {
+  if (localStorage.getItem('dash_auth') === '1') {
     document.getElementById('dash-login').style.display = 'none';
     document.getElementById('dash-content').style.display = 'block';
     dashInit();
+    dashStartAutoRefresh();
   }
+}
+/* Auto-refresh dashboard data every 60 seconds while the page is open */
+function dashStartAutoRefresh() {
+  dashStopAutoRefresh();
+  _dashRefreshTimer = setInterval(function() {
+    /* only refresh the active tab */
+    var activeTab = (document.querySelector('.dash-tab.active') || {}).dataset && document.querySelector('.dash-tab.active').dataset.tab || 'overview';
+    if (activeTab === 'overview')    dashRenderOverview();
+    if (activeTab === 'behaviour')   dashRenderBehaviour();
+    if (activeTab === 'content')     dashRenderContent();
+    if (activeTab === 'seo')         dashRenderSEO();
+    if (activeTab === 'subscribers') dashRenderSubscribers();
+    /* update last-refreshed timestamp */
+    var ts = document.getElementById('dash-refresh-ts');
+    if (ts) ts.textContent = 'Last updated: ' + new Date().toLocaleTimeString();
+  }, 60000);
+}
+function dashStopAutoRefresh() {
+  if (_dashRefreshTimer) { clearInterval(_dashRefreshTimer); _dashRefreshTimer = null; }
 }
 
 /* ══════════════════════════════════════
