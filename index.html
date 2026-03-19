@@ -1423,6 +1423,7 @@
         <button class="dash-tab active" onclick="dashSwitchTab('overview',this)">📊 Overview</button>
         <button class="dash-tab" onclick="dashSwitchTab('behaviour',this)">🖱️ Behaviour</button>
         <button class="dash-tab" onclick="dashSwitchTab('content',this)">📰 Content</button>
+        <button class="dash-tab" onclick="dashSwitchTab('seo',this)">🔍 SEO &amp; Traffic</button>
         <button class="dash-tab" onclick="dashSwitchTab('subscribers',this)">📬 Subscribers</button>
         <button class="dash-tab" onclick="dashSwitchTab('settings',this)">⚙️ Settings</button>
       </div>
@@ -1465,6 +1466,12 @@
 
         <div class="dash-section-title">Scroll Depth per Page</div>
         <div id="dash-scroll-depth"></div>
+
+        <div class="dash-section-title">Time on Page (avg)</div>
+        <div id="dash-time-on-page" class="dash-chart-wrap"></div>
+
+        <div class="dash-section-title">Most Clicked Buttons (top 10)</div>
+        <div id="dash-clicked-buttons" class="dash-chart-wrap"></div>
       </div>
 
       <!-- ══════════ CONTENT PANEL ══════════ -->
@@ -1485,7 +1492,16 @@
             <div id="dash-source-bars"></div>
           </div>
         </div>
+
+        <div class="dash-section-title">Traffic by Source</div>
+        <div class="dash-chart-wrap">
+          <div class="dash-chart-title">Sessions by Channel (last 30 days)</div>
+          <div id="dash-content-traffic-src"></div>
+        </div>
       </div>
+
+      <!-- ══════════ SEO PANEL ══════════ -->
+      <div id="dash-panel-seo" class="dash-panel" style="display:none"></div>
 
       <!-- ══════════ SUBSCRIBERS PANEL ══════════ -->
       <div id="dash-panel-subscribers" class="dash-panel" style="display:none">

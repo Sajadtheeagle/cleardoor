@@ -109,6 +109,7 @@ function dashSwitchTab(tab, btn) {
   if (tab === 'overview')   { dashRenderOverview(); }
   if (tab === 'behaviour')  { dashRenderBehaviour(); }
   if (tab === 'content')    { dashRenderContent(); }
+  if (tab === 'seo')        { dashRenderSEO(); }
   if (tab === 'subscribers'){ dashRenderSubscribers(); }
 }
 
@@ -162,6 +163,16 @@ function dashSessionsByDay(events) {
     result.push({ date: k, count: map[k].size });
   });
   return result;
+}
+
+/* Format milliseconds to "Xm Ys" */
+function dashFmtDuration(ms) {
+  if (!ms || ms < 0) return '0s';
+  var secs = Math.round(ms / 1000);
+  var mins = Math.floor(secs / 60);
+  var rem  = secs % 60;
+  if (mins === 0) return rem + 's';
+  return mins + 'm ' + rem + 's';
 }
 
 /* ══════════════════════════════════════
@@ -337,6 +348,23 @@ function dashRenderOverview() {
   var calcSorted = dashSortMap(calcMap);
   var topCalc    = calcSorted.length ? calcSorted[0][0] : 'N/A';
 
+  /* Top channel — from session_start events */
+  var sessionStarts30 = events30.filter(function(e){ return e.t === 'session_start'; });
+  var channelMap  = dashCount(sessionStarts30, 'channel');
+  var channelSort = dashSortMap(channelMap);
+  var topChannel  = channelSort.length ? channelSort[0][0] : 'N/A';
+
+  /* Top city — from geo field on session_start events */
+  var cityMap = {};
+  sessionStarts30.forEach(function(e) {
+    if (e.geo && e.geo.city) {
+      var city = e.geo.city;
+      cityMap[city] = (cityMap[city] || 0) + 1;
+    }
+  });
+  var citySorted = dashSortMap(cityMap);
+  var topCity = citySorted.length ? citySorted[0][0] : 'N/A';
+
   /* Render KPI grid */
   var grid = document.getElementById('dash-kpi-grid');
   if (grid) {
@@ -347,21 +375,13 @@ function dashRenderOverview() {
       dashKpiCard('👥', 'Unique Visitors',  uniqueVisitors, 'By session ID',        '#1e5f8e'),
       dashKpiCard('🏆', 'Top Page',         topPage,        'Most visited',         '#2e7d32'),
       dashKpiCard('🧮', 'Top Calculator',   topCalc,        'Most used',            '#5c6bc0'),
-      dashKpiCard('📬', 'Subscribers',      subs.length,    'Newsletter all-time',  '#c0392b')
+      dashKpiCard('📬', 'Subscribers',      subs.length,    'Newsletter all-time',  '#c0392b'),
+      dashKpiCard('📡', 'Top Channel',      topChannel,     'Primary traffic source','#0891b2'),
+      dashKpiCard('🌆', 'Top City',         topCity,        'Most visitors from',   '#7c3aed')
     ].join('');
   }
 
   /* ── Sessions/day chart ── */
-  var dailyData = dashSessionsByDay(events30.concat(
-    /* include ALL events so we can group by day */
-    (function(){
-      var all = dashGetEvents();
-      var cutoff = Date.now() - 30*24*3600*1000;
-      return all.filter(function(e){return e.ts>=cutoff;});
-    })()
-  ));
-  /* deduplicate */
-  var seenSessions = {};
   var cleanDaily = dashSessionsByDay(
     (function(){
       var all = dashGetEvents();
@@ -500,6 +520,60 @@ function dashRenderBehaviour() {
         }).join('') + '</div>';
     }
   }
+
+  /* ══ NEW: Time on Page table ══ */
+  var topEl = document.getElementById('dash-time-on-page');
+  if (topEl) {
+    var topEvents = events30.filter(function(e){ return e.t === 'time_on_page' && e.duration_ms > 0; });
+    /* Aggregate per page: sum duration, count, compute avg */
+    var topMap = {};
+    topEvents.forEach(function(e) {
+      var pg = e.page || 'unknown';
+      if (!topMap[pg]) topMap[pg] = { total: 0, count: 0 };
+      topMap[pg].total += e.duration_ms;
+      topMap[pg].count++;
+    });
+    var topSorted = Object.keys(topMap)
+      .map(function(pg) {
+        return { page: pg, avg: topMap[pg].total / topMap[pg].count, count: topMap[pg].count };
+      })
+      .sort(function(a, b) { return b.avg - a.avg; });
+
+    if (topSorted.length === 0) {
+      topEl.innerHTML = '<div class="dash-empty">No time-on-page data yet. Browse the site to generate data.</div>';
+    } else {
+      var html = '<div class="dash-table-scroll"><table class="dash-table">' +
+        '<thead><tr><th>#</th><th>Page</th><th>Avg Time</th><th>Samples</th></tr></thead><tbody>';
+      topSorted.forEach(function(row, i) {
+        html += '<tr><td>' + (i+1) + '</td>' +
+          '<td style="font-weight:700;color:#0a1628;text-transform:capitalize">' + row.page + '</td>' +
+          '<td><span class="dash-positive">' + dashFmtDuration(row.avg) + '</span></td>' +
+          '<td>' + row.count + '</td></tr>';
+      });
+      topEl.innerHTML = html + '</tbody></table></div>';
+    }
+  }
+
+  /* ══ NEW: Most Clicked Buttons ══ */
+  var btnEl = document.getElementById('dash-clicked-buttons');
+  if (btnEl) {
+    var btnEvents = events30.filter(function(e){ return e.t === 'click' && e.label; });
+    var btnMap    = dashCount(btnEvents, 'label');
+    var btnSorted = dashSortMap(btnMap);
+    if (btnSorted.length === 0) {
+      btnEl.innerHTML = '<div class="dash-empty">No button click data yet.</div>';
+    } else {
+      var maxBtn = btnSorted[0][1] || 1;
+      btnEl.innerHTML = btnSorted.slice(0, 10).map(function(row) {
+        var pct = Math.round((row[1] / maxBtn) * 100);
+        return '<div class="dash-bar-row">' +
+          '<div class="dash-bar-label" title="' + row[0] + '">' + row[0] + '</div>' +
+          '<div class="dash-bar-track"><div class="dash-bar-fill" style="width:' + pct + '%;background:#0891b2"></div></div>' +
+          '<div class="dash-bar-count">' + row[1] + '</div>' +
+        '</div>';
+      }).join('');
+    }
+  }
 }
 
 /* ══════════════════════════════════════
@@ -562,15 +636,8 @@ function dashRenderContent() {
 
   /* ── Articles by Source chart ── */
   var srcMap    = dashCount(newsEvents, 'source');
-  /* Also include news cache source data */
   var newsData2 = null;
   try { newsData2 = JSON.parse(localStorage.getItem('cd_news_cache')); } catch(e){}
-  if (newsData2 && newsData2.items) {
-    newsData2.items.forEach(function(item){
-      var src = item._publisher || item._src || 'unknown';
-      /* Only if not already counted from events */
-    });
-  }
   var srcSorted = dashSortMap(srcMap);
 
   var srcChartWrap = document.getElementById('dash-source-chart-wrap');
@@ -588,7 +655,6 @@ function dashRenderContent() {
   /* Horizontal bar rows for source breakdown */
   var srcBarsEl = document.getElementById('dash-source-bars');
   if (srcBarsEl) {
-    /* If no news-open events, fall back to news cache counts */
     var displayMap = srcMap;
     if (!srcSorted.length && newsData2 && newsData2.items) {
       displayMap = {};
@@ -616,6 +682,167 @@ function dashRenderContent() {
       }).join('');
     }
   }
+
+  /* ══ NEW: Traffic by Source (reuse channel data) ══ */
+  var trafficSrcEl = document.getElementById('dash-content-traffic-src');
+  if (trafficSrcEl) {
+    var sessStarts = events30.filter(function(e){ return e.t === 'session_start'; });
+    var chMap  = dashCount(sessStarts, 'channel');
+    var chSort = dashSortMap(chMap);
+    var total  = sessStarts.length || 1;
+    if (chSort.length === 0) {
+      trafficSrcEl.innerHTML = '<div class="dash-empty">No traffic source data yet.</div>';
+    } else {
+      var maxCh = chSort[0][1] || 1;
+      trafficSrcEl.innerHTML = chSort.map(function(row) {
+        var barPct = Math.round((row[1] / maxCh) * 100);
+        var totalPct = ((row[1] / total) * 100).toFixed(1);
+        return '<div class="dash-bar-row">' +
+          '<div class="dash-bar-label" title="' + row[0] + '">' + row[0] + '</div>' +
+          '<div class="dash-bar-track"><div class="dash-bar-fill" style="width:' + barPct + '%;background:#0891b2"></div></div>' +
+          '<div class="dash-bar-count">' + row[1] + '<span class="dash-channel-pct">' + totalPct + '%</span></div>' +
+        '</div>';
+      }).join('');
+    }
+  }
+}
+
+/* ══════════════════════════════════════
+   SEO TAB  (Enhancement 5)
+   ══════════════════════════════════════ */
+function dashRenderSEO() {
+  var panel = document.getElementById('dash-panel-seo');
+  if (!panel) return;
+
+  var events30     = dashLast30Days();
+  var sessStarts30 = events30.filter(function(e){ return e.t === 'session_start'; });
+  var total30      = sessStarts30.length || 1;
+
+  /* ── Card 1: Organic Traffic ── */
+  var organicSessions = sessStarts30.filter(function(e) {
+    return e.channel === 'Google' || e.channel === 'Bing';
+  });
+
+  /* Organic sessions per week (4 weeks, newest first) */
+  var now = Date.now();
+  var weekBuckets = [0, 0, 0, 0]; /* index 0 = current week, 3 = oldest */
+  organicSessions.forEach(function(e) {
+    var ageMs  = now - e.ts;
+    var weekIdx = Math.floor(ageMs / (7 * 24 * 3600 * 1000));
+    if (weekIdx >= 0 && weekIdx < 4) weekBuckets[weekIdx]++;
+  });
+  /* weekBuckets[0] is newest; reverse for chronological display */
+  var weekLabels = ['Wk -3', 'Wk -2', 'Wk -1', 'This wk'];
+  var weekData   = weekBuckets.slice().reverse().map(function(v, i) {
+    return { label: weekLabels[i], value: v };
+  });
+
+  var organicHtml = '<div class="dash-seo-card">' +
+    '<div class="dash-chart-title">Organic Traffic (Google + Bing)</div>' +
+    '<div class="dash-kpi-value" style="font-size:2.2rem;text-align:center;margin:.5rem 0">' + organicSessions.length + '</div>' +
+    '<div style="text-align:center;color:#64748b;font-size:.82rem;margin-bottom:1rem">organic sessions in last 30 days</div>' +
+    '<div style="position:relative;height:160px">' +
+      '<canvas class="dash-chart-canvas" style="height:160px" id="dash-seo-organic-canvas"></canvas>' +
+      '<div class="dash-chart-tooltip" id="dash-seo-organic-tip"></div>' +
+    '</div>' +
+  '</div>';
+
+  /* ── Card 2: Traffic Sources breakdown ── */
+  var chMap  = dashCount(sessStarts30, 'channel');
+  var chSort = dashSortMap(chMap);
+  var maxCh  = chSort.length ? chSort[0][1] : 1;
+
+  var srcRows = chSort.map(function(row) {
+    var barPct   = Math.round((row[1] / maxCh) * 100);
+    var totalPct = ((row[1] / total30) * 100).toFixed(1);
+    return '<div class="dash-bar-row">' +
+      '<div class="dash-bar-label" title="' + row[0] + '">' + row[0] + '</div>' +
+      '<div class="dash-bar-track"><div class="dash-bar-fill" style="width:' + barPct + '%;background:#1a3a6b"></div></div>' +
+      '<div class="dash-bar-count">' + row[1] + '<span class="dash-channel-pct">' + totalPct + '%</span></div>' +
+    '</div>';
+  }).join('') || '<div class="dash-empty">No traffic source data yet.</div>';
+
+  var sourcesHtml = '<div class="dash-seo-card">' +
+    '<div class="dash-chart-title">Traffic Sources — Last 30 Days</div>' +
+    srcRows +
+  '</div>';
+
+  /* ── Card 3: Top Referrer Domains ── */
+  var referralEvents = sessStarts30.filter(function(e) {
+    return e.channel && e.channel.indexOf('Referral: ') === 0;
+  });
+  var refDomainMap = {};
+  var refLastSeen  = {};
+  referralEvents.forEach(function(e) {
+    var domain = e.channel.replace('Referral: ', '');
+    refDomainMap[domain] = (refDomainMap[domain] || 0) + 1;
+    if (!refLastSeen[domain] || e.ts > refLastSeen[domain]) {
+      refLastSeen[domain] = e.ts;
+    }
+  });
+  var refSorted = dashSortMap(refDomainMap).slice(0, 10);
+
+  var refBody = '';
+  if (refSorted.length === 0) {
+    refBody = '<div class="dash-empty">No referral traffic yet.</div>';
+  } else {
+    var refHtml = '<div class="dash-table-scroll"><table class="dash-table">' +
+      '<thead><tr><th>#</th><th>Domain</th><th>Sessions</th><th>Last Seen</th></tr></thead><tbody>';
+    refSorted.forEach(function(row, i) {
+      var lastSeen = refLastSeen[row[0]] ? new Date(refLastSeen[row[0]]).toLocaleDateString('en-CA') : '';
+      refHtml += '<tr><td>' + (i+1) + '</td>' +
+        '<td style="font-weight:600;color:#1a3a6b">' + row[0] + '</td>' +
+        '<td>' + row[1] + '</td>' +
+        '<td style="color:#64748b">' + lastSeen + '</td></tr>';
+    });
+    refBody = refHtml + '</tbody></table></div>';
+  }
+
+  var referrersHtml = '<div class="dash-seo-card">' +
+    '<div class="dash-chart-title">Top Referrer Domains</div>' +
+    refBody +
+  '</div>';
+
+  /* ── Card 4: Google Search Console CTA + Checklist ── */
+  var ctaHtml = '<div class="dash-seo-cta">' +
+    '<h3>📈 Connect Google Search Console</h3>' +
+    '<p>See your exact keyword rankings, click-through rates, and impressions in Google\'s free dashboard.</p>' +
+    '<a href="https://search.google.com/search-console" target="_blank" rel="noopener" class="rss-add-btn" style="display:inline-block;margin:.6rem 0 1rem;text-decoration:none">Open Search Console →</a>' +
+    '<div style="color:rgba(255,255,255,.9);font-size:.83rem;margin-bottom:.8rem"><strong>3-step setup:</strong>' +
+      '<ol style="margin:.4rem 0 0 1.2rem;line-height:1.9">' +
+        '<li>Add your property (e.g. <em>cleardoor.ca</em>) in Search Console</li>' +
+        '<li>Verify ownership via the HTML meta tag method</li>' +
+        '<li>View the Performance report to see impressions, clicks &amp; rankings</li>' +
+      '</ol>' +
+    '</div>' +
+    '<div class="dash-chart-title" style="color:rgba(255,255,255,.9);margin:.8rem 0 .3rem">Site Health Checklist</div>' +
+    '<ul class="dash-checklist">' +
+      '<li><span>✅</span> HTTPS enabled</li>' +
+      '<li><span>✅</span> Mobile-friendly</li>' +
+      '<li><span>✅</span> Sitemap exists</li>' +
+      '<li><span>⚠️</span> Google Search Console not yet verified</li>' +
+      '<li><span>⚠️</span> Structured data (schema.org) not detected</li>' +
+    '</ul>' +
+  '</div>';
+
+  /* Inject everything into the panel */
+  panel.innerHTML =
+    '<div class="dash-section-title">SEO &amp; Traffic</div>' +
+    '<div class="dash-two-col">' +
+      organicHtml +
+      sourcesHtml +
+    '</div>' +
+    referrersHtml +
+    ctaHtml;
+
+  /* Draw organic weekly chart after DOM is ready */
+  setTimeout(function() {
+    var orgCanvas = document.getElementById('dash-seo-organic-canvas');
+    var orgTip    = document.getElementById('dash-seo-organic-tip');
+    if (orgCanvas) {
+      dashDrawBarChart(orgCanvas, weekData, { tooltip: orgTip, color: '#2e7d32', padB: 30 });
+    }
+  }, 60);
 }
 
 /* ══════════════════════════════════════

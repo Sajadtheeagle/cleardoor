@@ -329,3 +329,61 @@
   background: #e8f0fe;
   color: #1a3a6b;
 }
+
+/* ── SEO Tab Cards ── */
+.dash-seo-card {
+  background: #fff;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 1.4rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(10,22,40,.05);
+}
+
+.dash-seo-cta {
+  background: linear-gradient(135deg, #0a1628, #1a3a6b);
+  border-radius: 14px;
+  padding: 1.4rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.dash-seo-cta h3 {
+  color: #fff;
+  margin: 0 0 .5rem;
+  font-size: 1.05rem;
+}
+
+.dash-seo-cta p {
+  color: rgba(255,255,255,.8);
+  font-size: .85rem;
+  margin: 0 0 .4rem;
+}
+
+.dash-seo-cta .rss-add-btn {
+  background: #fff;
+  color: #1a3a6b;
+}
+
+/* ── Checklist ── */
+.dash-checklist {
+  list-style: none;
+  padding: 0;
+  margin: .8rem 0 0;
+}
+
+.dash-checklist li {
+  padding: .3rem 0;
+  font-size: .83rem;
+  color: rgba(255,255,255,.9);
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+}
+
+/* ── Channel percentage label ── */
+.dash-channel-pct {
+  font-size: .75rem;
+  color: #888;
+  margin-left: .4rem;
+}
