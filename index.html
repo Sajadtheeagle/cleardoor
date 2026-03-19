@@ -365,12 +365,27 @@
     <div class="hero-inner">
       <div class="h-eyebrow">📊 Mortgage Rates</div>
       <h1>Today's Best Canadian<br><em>Mortgage Rates</em></h1>
-      <p>Live rates from 12 lenders — Big Banks, monoline lenders, and brokers compared side by side.</p>
+      <p>Live rates from 22 lenders — Big Banks, monoline lenders, credit unions &amp; brokers compared side by side.</p>
       <div id="rates-hero-stats" class="rate-hero-chips"></div>
     </div>
   </div>
   <!-- Context -->
   <div class="section" style="padding:1rem 5%"><div id="rates-context"></div></div>
+  <!-- BoC Rate History Chart -->
+  <div class="section" style="padding-top:.5rem;padding-bottom:.5rem">
+    <div class="boc-chart-wrap">
+      <div class="boc-chart-header">
+        <div class="boc-chart-title">📉 BoC Rate History</div>
+        <div class="boc-chart-sub">2020 → Today<br>Peak 5.00% → Now 2.75%</div>
+        <div class="boc-chart-pills">
+          <span class="boc-pill"><span class="boc-pill-dot" style="background:#ef4444"></span>Peak: 5.00%</span>
+          <span class="boc-pill"><span class="boc-pill-dot" style="background:#10b981"></span>Now: 2.75%</span>
+          <span class="boc-pill"><span class="boc-pill-dot" style="background:#f59e0b"></span>Next: Apr 16</span>
+        </div>
+      </div>
+      <div id="boc-chart"></div>
+    </div>
+  </div>
   <!-- Filters -->
   <div class="section alt" style="padding:.9rem 5%">
     <div class="rates-filters">
@@ -439,6 +454,13 @@
       </div>
     </div>
   </div>
+  <!-- Mortgage Journey -->
+  <div class="section alt">
+    <div class="eyebrow">Step-by-Step Guide</div>
+    <h2 class="stitle">Your Mortgage Journey — From Saving to Keys 🔑</h2>
+    <p style="color:#64748b;font-size:.88rem;margin-top:.5rem">Every step, explained. Tap any step for the tool you need.</p>
+    <div id="rates-journey" class="journey-grid"></div>
+  </div>
   <!-- FAQ -->
   <div class="section">
     <div class="eyebrow">FAQ</div>
@@ -448,6 +470,39 @@
       <div class="card"><h4>What is a rate hold?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">A rate hold locks in today's rate for 90–150 days while you search for a home. If rates rise, you keep the lower locked rate. If rates fall, most lenders will let you take the lower rate at closing.</p></div>
       <div class="card"><h4>What's the difference between insured and uninsured rates?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">Insured mortgages have under 20% down and require CMHC insurance — but qualify for lower rates. Uninsured mortgages have 20%+ down, no insurance premium, but slightly higher rates. For homes over $1M, only uninsured mortgages are available.</p></div>
       <div class="card"><h4>Should I get pre-approved before shopping?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">Yes. A pre-approval locks in your rate hold, confirms your qualification, and shows sellers you're serious. It typically takes 1–2 business days. Multiple mortgage inquiries within 14 days count as a single hard inquiry on your credit report.</p></div>
+      <div class="card"><h4>What is the mortgage stress test?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">A federal rule requiring you to prove you can afford your mortgage at your contract rate + 2% (or 5.25%, whichever is higher). Even if you're renewing with your existing lender, the stress test may apply if you switch lenders.</p></div>
+      <div class="card"><h4>What are mortgage break penalties?</h4><p style="font-size:.85rem;color:#555;margin-top:.4rem">Breaking a fixed-rate mortgage early typically costs the greater of 3 months' interest or the Interest Rate Differential (IRD). Big bank IRD penalties can reach $20,000+. Monolines typically calculate IRD differently and often have lower penalties. Use our Penalty Calculator before breaking your mortgage.</p></div>
+    </div>
+  </div>
+  <!-- Related News -->
+  <div id="rates-news-section" class="section alt">
+    <div class="eyebrow">Market Intelligence</div>
+    <h2 class="stitle">Latest Mortgage Rate News</h2>
+    <p style="color:#64748b;font-size:.88rem;margin-top:.5rem">Curated from 10+ Canadian sources — updated daily.</p>
+    <div id="rates-news-grid" class="rn-grid"></div>
+    <div style="text-align:center;margin-top:1.5rem">
+      <button class="rn-more-btn" onclick="showPage('news')">📰 View All Mortgage News →</button>
+    </div>
+  </div>
+  <!-- Rate Alert CTA -->
+  <div class="section">
+    <div class="rate-alert-box">
+      <div class="rate-alert-text">
+        <h3>🔔 Get Rate Drop Alerts</h3>
+        <p>Be the first to know when mortgage rates drop. We monitor 22 lenders daily and send you a summary every time rates move — so you never miss a better deal at renewal.</p>
+        <div class="rate-alert-features">
+          <span class="rate-alert-feature">✓ Free, no spam</span>
+          <span class="rate-alert-feature">✓ Unsubscribe anytime</span>
+          <span class="rate-alert-feature">✓ Weekly Canadian rate summary</span>
+        </div>
+      </div>
+      <div>
+        <div class="rate-alert-form">
+          <input type="email" class="rate-alert-input" placeholder="your@email.com" id="rate-alert-email">
+          <button class="rate-alert-btn" onclick="rateAlertSignup()">Get Alerts →</button>
+        </div>
+        <div id="rate-alert-msg" style="font-size:.78rem;color:rgba(255,255,255,.6);margin-top:.5rem;display:none"></div>
+      </div>
     </div>
   </div>
   <div class="pfooter">© 2026 <span>ClearDoor</span> 🇨🇦 · Rates for educational comparison only · Not a licensed lender or broker · Verify all rates directly with lenders</div>
@@ -463,6 +518,8 @@
       <button class="tabbtn" data-tab="ltt" onclick="showCalc('ltt',this)">🏛️ Land Transfer Tax</button>
       <button class="tabbtn" data-tab="savings" onclick="showCalc('savings',this)">🪙 Savings Planner</button>
       <button class="tabbtn" data-tab="rvb" onclick="showCalc('rvb',this)">⚖️ Rent vs Buy</button>
+      <button class="tabbtn" data-tab="prepayment" onclick="showCalc('prepayment',this)">⚡ Prepayment</button>
+      <button class="tabbtn" data-tab="penalty" onclick="showCalc('penalty',this)">⚠️ Break Penalty</button>
     </div>
     <div id="calc-mortgage" class="tabpane active"><div class="calc-grid">
       <div class="cbox"><h3>🏦 Mortgage Calculator</h3>
@@ -555,6 +612,86 @@
         <div>
           <div class="card" style="margin-bottom:.9rem"><h3>✅ Buy if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">Stable income and employment</li><li class="pro">Planning to stay in same area 5+ years</li><li class="pro">Have 5–20% down + closing costs saved</li><li class="pro">Mortgage payment ≤ 32% of gross income</li></ul></div>
           <div class="card"><h3>⏳ Keep Renting if…</h3><ul class="pro-con" style="margin-top:.5rem"><li class="pro">May relocate within 2–3 years</li><li class="pro">Income is variable or newly self-employed</li><li class="pro">Actively building credit or savings</li></ul></div>
+        </div>
+      </div>
+    <!-- ── Prepayment Calculator ── -->
+    <div id="calc-prepayment" class="tabpane">
+      <div class="calc-grid">
+        <div class="cbox">
+          <h3>⚡ Prepayment Savings Calculator</h3>
+          <p style="font-size:.8rem;color:#64748b;margin:.4rem 0 1rem">See how extra payments dramatically cut your amortization and interest costs.</p>
+          <div class="fr"><label>Remaining Balance: <span class="rv" id="ppBalVal">$400,000</span></label><input type="range" id="ppBal" min="50000" max="1200000" step="5000" value="400000" oninput="calcPrepayment()"></div>
+          <div class="fr"><label>Interest Rate: <span class="rv" id="ppRateVal">4.5%</span></label><input type="range" id="ppRate" min="1" max="10" step="0.1" value="4.5" oninput="calcPrepayment()"></div>
+          <div class="fr"><label>Remaining Amortization: <span class="rv" id="ppAmortVal">22 years</span></label><input type="range" id="ppAmort" min="1" max="30" step="1" value="22" oninput="calcPrepayment()"></div>
+          <div class="fr"><label>Extra Monthly Payment: <span class="rv" id="ppExtraVal">$500/mo</span></label><input type="range" id="ppExtra" min="0" max="3000" step="50" value="500" oninput="calcPrepayment()"></div>
+          <div class="rbox">
+            <div class="rl">Interest Saved</div><div class="rn" id="ppSaved" style="color:#10b981">—</div>
+            <div class="rrow">
+              <div class="ri"><div class="rl">Months Saved</div><div class="rv2" id="ppMonths">—</div></div>
+              <div class="ri"><div class="rl">New Payoff</div><div class="rv2" id="ppPayoff">—</div></div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="infobox ok" style="margin-bottom:.8rem">
+            <h4>💡 Why prepayments matter</h4>
+            <p style="margin-top:.3rem">Most Canadian mortgages allow 10–20% annual prepayments penalty-free. An extra $500/month on a $400K mortgage can shave 5+ years off your amortization and save tens of thousands in interest.</p>
+          </div>
+          <div class="infobox">
+            <h4>Check your prepayment privileges</h4>
+            <p style="margin-top:.3rem">Brokers and monolines typically allow 20%/year. Big banks allow 10–15%. Always check your mortgage contract — exceeding the limit triggers a penalty.</p>
+          </div>
+          <div class="card" style="margin-top:.8rem">
+            <h4>Annual Lump Sum Option</h4>
+            <p style="font-size:.83rem;color:#555;margin-top:.3rem">Many lenders also allow a one-time annual lump sum payment (10–20% of original balance). Put your tax refund, bonus, or inheritance directly onto your mortgage principal.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- ── Mortgage Penalty Calculator ── -->
+    <div id="calc-penalty" class="tabpane">
+      <div class="calc-grid">
+        <div class="cbox">
+          <h3>⚠️ Mortgage Break Penalty</h3>
+          <p style="font-size:.8rem;color:#64748b;margin:.4rem 0 1rem">Estimate the cost to break your fixed-rate mortgage early. Always verify with your lender.</p>
+          <div class="fr"><label>Remaining Balance: <span class="rv" id="penBalVal">$400,000</span></label><input type="range" id="penBal" min="50000" max="1200000" step="5000" value="400000" oninput="calcPenalty()"></div>
+          <div class="fr"><label>Your Current Rate: <span class="rv" id="penRateVal">4.89%</span></label><input type="range" id="penRate" min="1" max="10" step="0.01" value="4.89" oninput="calcPenalty()"></div>
+          <div class="fr"><label>Lender's Rate for Remaining Term: <span class="rv" id="penCompVal">3.99%</span></label><input type="range" id="penComp" min="1" max="10" step="0.01" value="3.99" oninput="calcPenalty()"></div>
+          <div class="fr"><label>Months Remaining in Term: <span class="rv" id="penMonthsVal">36 mo</span></label><input type="range" id="penMonths" min="1" max="120" step="1" value="36" oninput="calcPenalty()"></div>
+          <div class="fr">
+            <label>Lender Type:</label>
+            <select class="rates-select" id="penType" onchange="calcPenalty()">
+              <option value="bank">Big Bank (higher IRD)</option>
+              <option value="monoline">Monoline / Broker (lower IRD)</option>
+            </select>
+          </div>
+          <div class="rbox">
+            <div class="rl">Estimated Penalty</div><div class="rn" id="penResult" style="color:#ef4444">—</div>
+            <div class="rrow">
+              <div class="ri"><div class="rl">3-Month Interest</div><div class="rv2" id="pen3mo">—</div></div>
+              <div class="ri"><div class="rl">IRD Penalty</div><div class="rv2" id="penIRD">—</div></div>
+            </div>
+            <div style="font-size:.68rem;opacity:.5;margin-top:.3rem">Penalty = greater of 3-month interest or IRD</div>
+          </div>
+        </div>
+        <div>
+          <div class="infobox" style="margin-bottom:.8rem;background:#fff3f3;border-color:#fca5a5">
+            <h4>⚠️ Big Bank vs. Monoline Penalties</h4>
+            <p style="margin-top:.3rem">Big banks calculate IRD using their <strong>posted rates</strong> (inflated by 1–2%), making penalties much larger. A monoline uses the <strong>discounted rate</strong> — often resulting in penalties 50–70% lower for the same mortgage.</p>
+          </div>
+          <div class="infobox ok" style="margin-bottom:.8rem">
+            <h4>When does breaking make sense?</h4>
+            <p style="margin-top:.3rem">If the rate difference saves you more over the remaining term than the penalty costs, breaking may be worthwhile. Factor in legal fees ($1,000–$2,000) and setup fees at the new lender.</p>
+          </div>
+          <div class="card">
+            <h4>Penalty-Free Alternatives</h4>
+            <ul class="pro-con" style="margin-top:.4rem">
+              <li class="pro">Port your mortgage when moving</li>
+              <li class="pro">Blend and extend with your existing lender</li>
+              <li class="pro">Wait for renewal (no penalty)</li>
+              <li class="pro">Make max prepayments before breaking</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>

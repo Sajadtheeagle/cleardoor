@@ -15,6 +15,8 @@ function showCalc(id,el){
   if(id==='ltt')calcLTT();
   if(id==='savings')calcSave();
   if(id==='rvb')calcRvB();
+  if(id==='prepayment')calcPrepayment();
+  if(id==='penalty')calcPenalty();
 }
 // ══ CALCS ══
 const fmt=n=>'$'+Math.round(n).toLocaleString();
@@ -89,4 +91,62 @@ function calcRvB(){
   let be='10+ yrs';
   for(let y=1;y<=12;y++){if(P*.04*y>(m-rent)*12*y+P*dp*.04*y){be=y+' yr'+(y>1?'s':'');break;}}
   document.getElementById('rvbBreak').textContent=be;
+}
+// ══ PREPAYMENT CALCULATOR ══
+function calcPrepayment(){
+  var bal=+document.getElementById('ppBal').value;
+  var rate=+document.getElementById('ppRate').value;
+  var amort=+document.getElementById('ppAmort').value;
+  var extra=+document.getElementById('ppExtra').value;
+  document.getElementById('ppBalVal').textContent=fmt(bal);
+  document.getElementById('ppRateVal').textContent=rate.toFixed(1)+'%';
+  document.getElementById('ppAmortVal').textContent=amort+' years';
+  document.getElementById('ppExtraVal').textContent=fmt(extra)+'/mo';
+  var r=rate/100/12, n=amort*12;
+  if(r===0){document.getElementById('ppSaved').textContent='$0';return;}
+  var m=bal*(r*Math.pow(1+r,n))/(Math.pow(1+r,n)-1);
+  var totalIntNormal=(m*n)-bal;
+  // With extra payment
+  var mNew=m+extra, bal2=bal, months=0, totalIntExtra=0;
+  while(bal2>0 && months<n+1){
+    var interest=bal2*r;
+    totalIntExtra+=interest;
+    var principal=mNew-interest;
+    if(principal<=0){months=n;break;}
+    bal2-=principal;
+    months++;
+    if(bal2<0)bal2=0;
+  }
+  var saved=totalIntNormal-totalIntExtra;
+  var monthsSaved=n-months;
+  var now=new Date();
+  var payoffDate=new Date(now.getFullYear(),now.getMonth()+months);
+  var payoffStr=payoffDate.toLocaleDateString('en-CA',{month:'short',year:'numeric'});
+  document.getElementById('ppSaved').textContent=saved>0?fmt(saved):'$0';
+  document.getElementById('ppMonths').textContent=monthsSaved>0?monthsSaved+' mo ('+Math.floor(monthsSaved/12)+'y '+monthsSaved%12+'m)':'0';
+  document.getElementById('ppPayoff').textContent=payoffStr;
+}
+
+// ══ MORTGAGE PENALTY CALCULATOR ══
+function calcPenalty(){
+  var bal=+document.getElementById('penBal').value;
+  var rate=+document.getElementById('penRate').value;
+  var comp=+document.getElementById('penComp').value;
+  var months=+document.getElementById('penMonths').value;
+  var type=document.getElementById('penType').value;
+  document.getElementById('penBalVal').textContent=fmt(bal);
+  document.getElementById('penRateVal').textContent=rate.toFixed(2)+'%';
+  document.getElementById('penCompVal').textContent=comp.toFixed(2)+'%';
+  document.getElementById('penMonthsVal').textContent=months+' mo';
+  // 3-month interest penalty
+  var mo3=bal*(rate/100/12)*3;
+  // IRD: big banks use posted rate (add ~1.5%), monolines use discounted
+  var yourRate=rate/100;
+  var compRate=type==='bank'? Math.max(0,(comp-1.5)/100) : comp/100;
+  var diff=Math.max(0,yourRate-compRate);
+  var ird=bal*diff*(months/12);
+  var penalty=Math.max(mo3,ird);
+  document.getElementById('pen3mo').textContent=fmt(mo3);
+  document.getElementById('penIRD').textContent=fmt(ird);
+  document.getElementById('penResult').textContent=fmt(penalty);
 }
