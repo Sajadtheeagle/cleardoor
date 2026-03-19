@@ -120,14 +120,33 @@ function initHomeStats() {
       if (items && items.length) {
         newsPreview.innerHTML = items.slice(0,4).map(function(item) {
           var src = item._publisher || item._src || '';
+          var img = _homeNewsThumb(item);
+          var thumbHtml = img
+            ? '<div class="snap-news-thumb"><img src="' + img + '" alt="" loading="lazy" onerror="this.parentElement.innerHTML=\'<div class=snap-news-thumb-placeholder>' + (src ? src.slice(0,3).toUpperCase() : 'NEWS') + '</div>\'"></div>'
+            : '<div class="snap-news-thumb"><div class="snap-news-thumb-placeholder">' + (src ? src.slice(0,3).toUpperCase() : '') + '</div></div>';
           return '<div class="snap-news-item">' +
-            (src ? '<div class="snap-news-source">' + src + '</div>' : '') +
-            '<div>' + (item.title || '') + '</div>' +
+            thumbHtml +
+            '<div class="snap-news-body">' +
+              (src ? '<div class="snap-news-source">' + src + '</div>' : '') +
+              '<div class="snap-news-title">' + (item.title || '') + '</div>' +
+            '</div>' +
           '</div>';
         }).join('');
       }
     } catch(e) {}
   }
+}
+
+// Extract thumbnail from a news item (mirrors extractNewsImg in blog.js)
+function _homeNewsThumb(item) {
+  try {
+    if (item.thumbnail && item.thumbnail.indexOf('http') === 0) return item.thumbnail;
+    if (item.enclosure && item.enclosure.link && item.enclosure.link.indexOf('http') === 0) return item.enclosure.link;
+    var c = item.content || item.description || '';
+    var m = c.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (m) return m[1];
+  } catch(e) {}
+  return null;
 }
 // ══ INIT ══
 calcMortgageMain();calcSave();calcRvB();renderGlossary();renderListings();renderNC();initHomeStats();
