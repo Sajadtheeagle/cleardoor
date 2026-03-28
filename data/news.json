@@ -1,6 +1,6 @@
 {
-  "ts": 1774691726349,
-  "fetched": "2026-03-28T09:55:26.349Z",
+  "ts": 1774706645652,
+  "fetched": "2026-03-28T14:04:05.652Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,6 +89,16 @@
   ],
   "items": [
     {
+      "title": "Outlook for Ontario housing starts weakens further away from 1.5 million goal",
+      "link": "https://www.canadianmortgagetrends.com/2026/03/outlook-for-ontario-housing-starts-weakens-further-away-from-1-5-million-goal/",
+      "pubDate": "Sat, 28 Mar 2026 13:38:35 +0000",
+      "description": "Ontario's housing start projections have been revised downward once again in the province's budget, putting the government even farther off track from building 1.5 million homes over 10 years — a target to which the ministers in charge say they pay no mind.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2024/05/April-housing-starts-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Ontario&#039;s housing start projections have been revised downward once again in the province&#039;s budget, putting the government even farther off track from building 1.5 million homes over 10 years — a target to which the ministers in charge say they pay no mind."
+    },
+    {
       "title": "Multiple U.S. troops injured after Iranian strike on Saudi Arabian base",
       "link": "https://www.bnnbloomberg.ca/business/international/2026/03/27/nuclear-facilities-targeted-iran-says-after-israel-threatens-attacks-will-escalate-and-expand/",
       "pubDate": "Sat, 28 Mar 2026 01:21:27 -0400",
@@ -162,7 +172,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "financialpost.com",
+      "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -174,7 +184,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "Global News",
+      "_publisher": "globalnews.ca",
       "_pubUrl": "https://globalnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -395,7 +405,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "CBC",
+      "_publisher": "cbc.ca",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -451,7 +461,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnontre",
-      "_publisher": "bnnbloomberg.ca",
+      "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -463,7 +473,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "bankofcanada.ca",
+      "_publisher": "Bank of Canada",
       "_pubUrl": "https://www.bankofcanada.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -537,7 +547,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnontre",
-      "_publisher": "financialpost.com",
+      "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -604,16 +614,6 @@
       "_ogDesc": "As many as 150,000 Canadian borrowers will have trouble refinancing their mortgages over the next two years as they face a combination of declining home values and higher interest rates, according to the country’s top banking regulator. "
     },
     {
-      "title": "U.S. mortgage rates jump further to five-month high of 6.43%",
-      "link": "https://www.canadianmortgagetrends.com/2026/03/u-s-mortgage-rates-jump-further-to-five-month-high-of-6-43/",
-      "pubDate": "Wed, 25 Mar 2026 13:49:08 +0000",
-      "description": "U.S. mortgage rates climbed for a third straight week, pushing home-financing costs to the highest since October and dealing a blow to both purchasing and refinancing activity.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/03/Homes-in-Daly-City-California_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "U.S. mortgage rates climbed for a third straight week, pushing home-financing costs to the highest since October and dealing a blow to both purchasing and refinancing activity."
-    },
-    {
       "title": "Why market bets for interest rate hikes in Canada are so high",
       "link": "https://news.google.com/articles/CBMijgFBVV95cUxNQWh5MWxXNzdrYzhJZ0pWd244S0ZhVFppaWdYOUdiYmpHUjJEaHRDa0tLbUg5VVhCUFNCWUl0TmZST0N2Z3JQbHkzMEExTThpZHpabXFpSjNZUW9XSGp3ekxDUkFmX0ZJMF8zaG16Y1pyOFM4MGMydWRaUGlieTNiTDlQV2JjUGpHZWxHUUd3?oc=5",
       "pubDate": "Wed, 25 Mar 2026 10:52:31 GMT",
@@ -621,7 +621,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "financialpost.com",
+      "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -723,7 +723,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "financialpost.com",
+      "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -792,7 +792,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "canadianmortgagetrends.com",
+      "_publisher": "Canadian Mortgage Trends",
       "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -852,7 +852,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "Global News",
+      "_publisher": "globalnews.ca",
       "_pubUrl": "https://globalnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -869,27 +869,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ontario Housing Market | 2026 Home Prices",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
+      "title": "Canada posts first population drop in decades amid immigration slowdown",
+      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxPWUJKOHpsaENaazk4V1llSkNFdVJFOWk4OGNXX3RJZGVFcVZYdkFlQlplNlgwV2JQdGVJNTRlRmpoSUFtQ0lPN3dCRmVUZDRnc2VTbTJlVmhtaEIxX1FnODlTVldpb1l4ZzlVYjVjSFpaaGVqbjJLelhzVFZIU0JqcW00X0RLdW44SWNjMHpMZ1dwN2pzZ181YVh2REFuQXdWOElOY2VQVTZlTGVxV0RDOG5kcUhFVGc4X1Z0MWxURmVvSFJXYTBYNEZhQkJlNHJ3ZnNaVA?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
+      "_src": "gnimmig",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "High-speed rail proposal sends chill through rural real estate market",
-      "link": "https://news.google.com/articles/CBMirgFBVV95cUxQUXVsTlctYWVWUzMybXRCLUp2Ul9hWHh2dHRKLXVnRnFya3FhZ3o5WldpVEszRS1YLUp4Vk9iRWdHZGZId2ZLZFRPQ3R5SVltMFN6dm9MLUpIZ3A1V3lGM0VkWkZPWGNmdGRmRzJwVWxUdnJGU2h6dzBrclJrNlozMGVYVjliSEtMcWcwMS0zNUtDSHBkWm9LRUg2ZXFNTEowQ3o1RktFTWFSX2s5VEE?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 14:00:31 GMT",
+      "title": "Public-private partnership launches $1.3-billion fund to purchase unsold GTA condos",
+      "link": "https://news.google.com/articles/CBMijAFBVV95cUxPUGZLOHlqVjBsRXNtYk5pWlFHU0ZiVmpWS1ltV0ZoY0d0S0tpTE10eVp0N21NSjJFbUxPSHZxUDhrYURZR3R6eXprR0JwWndva3lFeGdENHBmdlNqbGtjZ3FLMkZiRTZ1WFBhUkZHcmNlT05ZajFaOVNVVmtXVWtIbXFLZTJqV19acjBRYQ?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "The Kingston Whig Standard",
-      "_pubUrl": "https://www.thewhig.com",
+      "_src": "gnnewcon",
+      "_publisher": "Financial Post",
+      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -923,8 +923,8 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "TD Economics",
+      "_src": "gnre",
+      "_publisher": "economics.td.com",
       "_pubUrl": "https://economics.td.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -935,9 +935,33 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "bnnbloomberg.ca",
+      "_src": "gnre",
+      "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada’s housing market in a stalemate this February",
+      "link": "https://news.google.com/articles/CBMi5AFBVV95cUxQMWk1Qm1XdU9OcFBkdDNibl9yeFNzMGZiQVJMVWlzek1GYXVmaEpqNnFONndpQ1poU0EyUzFUclNOSUM2QkF6azYzbEpIN0FKQUxPcDFsUFVWOUlrTE4yeXZmblJSVHBzNTk4SW5zM1IzUlI4MjVUZVI1RENvbkI3d0xjbFNaMjAyZjBRbjliYXk1R090V2VUdXQzRi1tcjZBS3NxMVZWVFFMUVBOc244OFFxY3hxTElnYXRaajRuWkVyMWxaWkdtZGNadC02cHl0WkJfNnRkZEEtQm9DNWJxSFotemk?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "CMHC reports February housing starts up 4.5% from January",
+      "link": "https://news.google.com/articles/CBMipwFBVV95cUxNWXYxQ2FNZTdTSWlDWHBPZGtqeFZDS0stOFV4Y21oYXNoLXlKWVJ3TThOU1JjWUtkbXZqeDIxRzh6aGxwV2FKdlJWZlRJMlBFTGh4ZmE0SllFaVpqRlpLQ3p1S3hPSVFyMmp3NGtfaEdCOHZaV2cteWpEU2JWbU5MUmxvcktKLWhoeW40aGxQUi12TVJYQkhtdGxhdDlhYlV0SnhFYlB4bw?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 15:32:32 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1020,7 +1044,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "financialpost.com",
+      "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1061,27 +1085,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Immigration could soon account for all of Canada’s population growth: expert",
-      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNWW5oX2M4Z2hvRDJ5V29uY2hudU1wWmRZYUhOb1EzQ25ua0ZCQy0yQ0wzV0NuS3Y5VEJaU01JdnZzUTZEbHpIbTBvY1hrUmthaWVHZVNTQkFmNTAxWGljUC1NN3BwN3EtSnU0eVJ4ZDY3dS1YMFBFa1c0MldtdW41YUI2RkhRWFpwZENobTlvRmJqQnRpZEtBREo4eGZHN2NBYWgyM2hIWkNDWFhHYjFTdG1NV29KaW8?oc=5",
-      "pubDate": "Wed, 04 Mar 2026 11:03:02 GMT",
+      "title": "Canada's Immigration Targets Signal Opportunity for Investors",
+      "link": "https://news.google.com/articles/CBMi2wFBVV95cUxNeWFYQmtmUndVaDZWLUVQZnNtcDFlZXlkOVEtQTFpSXhTX2k4MTN3RnpYcTFCdmVwckJJZElNNXdNMkRjbG1kRDZVRzM4OUxXM1NWTzFXbmRSWVlVRXA0M2FNTS11Y1FlVHFNdmJBMnh4ekwwZlQ5M1ZXcjc5MVI1dXpMeFkwUENSSGNFNGlOOFpPWXU3ZW94d2p6N1NBYzNuOFNuMzdibHphNTNwRFkwVzhZcm4xTzZSd1Z0bXc0U3VVeHdwalZYcThxOUxTWUxqVjF4S04yZzVYZ00?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "CityNews Kitchener",
-      "_pubUrl": "https://kitchener.citynews.ca",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canada's Falling Home Prices Threaten Your Retirement Wealth",
-      "link": "https://news.google.com/articles/CBMicEFVX3lxTE9wTUlIeFRmTVNJcVlOa3RqbGd2MThqb3hRSHE1OXQxU2tTRDZrU3V0QWZTQ2t1MzhtV2ZTT2M3TThfaWpRZk96dlE2LWZGcVlYc1lzM0ZvY25jUzZyTkpya2hRblhVaVlodjJHN0x2ODk?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "title": "Immigration could soon account for all of Canada’s population growth: expert",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQYVhIZnBkdk5nTUx4NEZMTUJFcEc5ZVVYOHVHUGk0cDVJWHJDWHpaNmZJWUh2MjNzcVBGd3NFYllrNTFBdDVQa2ltdHdwWDRnQ2hWUTRUQllxWk1xMHViX1VacGtPcWh6ZnNEMVh4NDVHdjlDelEzbk5sRUs4UThuQVN4MjNUT180QUpfMlIxOEg4Vk9lSDhGN0t6MnVvTmJTZVNhdmdra1NpdTV1MVBBdEhPOGE?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Money.ca",
-      "_pubUrl": "https://money.ca",
+      "_src": "gnimmig",
+      "_publisher": "CityNews Halifax",
+      "_pubUrl": "https://halifax.citynews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1092,7 +1116,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "bnnbloomberg.ca",
+      "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1130,6 +1154,18 @@
       "_src": "gnmort",
       "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
       "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "CMHC Forecast Warns GTA Home Constructi­on Will Slow Through 2028",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxPVDRGU01DdU1BdmZqX0tJaFdINnZfNXBWYXJWb3FWdnpsVnBrTjRPeFNfbkFJZjFyMENHYm81aXNYWWh6NU0ydjBxR2ZpSjFyTmtxWnFWa19na1c1WXJWNzVqN2pKOENMV05NTTM0NGoyRFAwTmhVZC1jVnF6SHZuVWY3RFUyamxB?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "PressReader",
+      "_pubUrl": "https://www.pressreader.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1193,15 +1229,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canada’s softer population outlook reshapes long‑term housing demand",
-      "link": "https://news.google.com/articles/CBMizgFBVV95cUxNcVBlcno0VWRha3U1d1NMZlE0QUNKVHVNSGlKOHVBcWJPYzlXZ3JvUjFxSFo0ZkRKaXU3QnY2RFZDbkNuZ1A5cjVaRmhkWGg4NXdwX2pzd2N3eFBRUjMwQ0NTd3pha3duZnd6Tmh2Sm1xQktta0x1aEhBWk1ldTI2NjdfNUZacmR1ZUU1RU82a0lYdjcwdzdNVnBpV2k0S0Y2TGpnUWhqajJvd2hPZlpQQlF5eUR5blJLeVJIY0Q3VXktWmpWdDEySHc0Ylcydw?oc=5",
+      "title": "Ottawa approves landmark zoning by-law to boost housing density; city buys $95 million landfill site",
+      "link": "https://news.google.com/articles/CBMizwFBVV95cUxPQl9md2puZlRHQWZNa0xwanFSZWRnb1JiTHgxblVKUEpmRUVoWHd4aFIxTFNTMkJTd1ViWFVEWGhSWjE0Y3kyS3FDTDZZNUxTOGJLbl9COGxJRENENmVNckd0bkxyckxhWmpLZEtUNUFyUWtlTXN3M1FzaUJUTklFMjhxcTRZUm5ZbXMxOXk1T0huY1ZfR25oV3hZUlFKNFhZTV9nazZpSVM1cVhMY2p6SXBxMVdqOFl5VzB6RERlVFNDVDQ5NGhja3lyc2txcGM?oc=5",
+      "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Lifetime, DiamondCorp Launch New Condo Project Amid Downturn",
+      "link": "https://news.google.com/articles/CBMimgFBVV95cUxOQ3JVTmk1N2JSdVViVEZnLUp5N1F1RkpCOWtiU0d5UlRhMXZkd3FVdTlEazI4RThGaGJVQzVPUDJ0TFU4ZWNDVjhOam9aX29SaDZSeTRTV1ozazAtMkJycWticGlhYlc5WjF2VEQ3dzZjclU4bURsYndQaEc5QUpFSXhmcVotdm5peVRCTzBqY040S253M2RtcmZ3?oc=5",
       "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
+      "_src": "gnnewcon",
+      "_publisher": "Connect CRE Canada",
+      "_pubUrl": "https://www.connectcre.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1212,20 +1260,20 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "CBC",
+      "_publisher": "cbc.ca",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "“No New Condo Completions” In GTHA By Decade’s End: Urbanation",
-      "link": "https://news.google.com/articles/CBMibEFVX3lxTE5UeGZNSTNjWWZKNE43aFotT2x4VHhGbkVmQ1lWOGVlQ0c2MndTQlFKbTc2Rm9vWWduRUFYNDVJUmMxY1poWnR2QTJhaDFvQllpYU15dGhsVmdsdU5YeWJQN0NIYzUydzlGbjlyWQ?oc=5",
-      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "title": "Zonda Urban: Townhouses Lead the GTHA New Home Market as Buyer Options Shift",
+      "link": "https://news.google.com/articles/CBMijgFBVV95cUxOOTY5QXpBb2ctY2dORFdLNnJsZHdpSjdnRElEQmRRcmduc29kdElXTG1RTFdvMkdCNkJMaGN4QmlldEJLa2pfZ3lWLXROWmsyRF85QnAyUGpWaUk5SC15RXg5OWNCVGxXSlViR3Z1djFHVEQ5NTNoOU8ybkRQNEVEU011S0lEUTV6YVlxNWtR?oc=5",
+      "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com",
+      "_publisher": "Livabl",
+      "_pubUrl": "https://www.livabl.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1265,6 +1313,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "CREA Updates Resale Housing Market Forecast for 2026 and 2027",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxQWkg5ZWhnbllFajBaWFlhdWZ1UExyNnhuVjE5c2VnX3VQVzV3dDNHemItcEdZT1B0QzBsY2ZuaTV5NVlJRm9FUlhOb0EyNm5HU2E0N0tGUkF3X01KcFVyX2Q1WDk3WUdIWDhpSlVSZndLVFZURkZsRDZ2ejlMT2pZZllpMzdVZDJISUd5Z3NjVXBfYzM1eEFnWTlZOHYtVUgyZmZ4WlF4UDZfSktncmFZeC1GUGp0dEZyRzdTeFpPOGp6VDR6dlNYd1h1MA?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "crea.ca",
+      "_pubUrl": "https://www.crea.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Homes market will need time to recover",
       "link": "https://news.google.com/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5",
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -1272,7 +1332,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
+      "_publisher": "ottawacitizen.com",
       "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1301,27 +1361,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "'Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal",
-      "link": "https://news.google.com/articles/CBMiWkFVX3lxTE5VTWVrZk02Mnl5dEN4S25jbW05dVktRmJTQWloRF9NY0xTMGx2NnNGQ2dGMDlHdG9KUEsyOEZzRmp1Sk9Pa0lQWExfeTRzMHNaN0p6eHVrMV9zUQ?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "BBC",
-      "_pubUrl": "https://www.bbc.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Tariffs, immigration shifts, condo softness shape Canada’s housing outlook for 2026: Royal LePage CEO",
-      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxOTU9HMVdvWFVtSlVGbk9ubzNfMFJ0aHByaEpNUk0tNXdjbnMtejNZdF8tX3ZJVm1wMDl0SHRZbS1HVkxaa2JuUElManJzOUVOTlRTRGNETmtORlZrNVQwWi1jaVh0SExELWNnN3o3RjB5ZXFUS25ROWdjWDctYTNuazRGd0s3REVmdk9qdWNVZlNyVDZqSVNCSHBRTXA5bHNBcU1wdnFwdGVHR2VFZExPN29DR28tRlQwMmpsSTRmVWcydTFvNUJlZWhVUmJBRU9SbU5aZw?oc=5",
+      "link": "https://news.google.com/articles/CBMi2gFBVV95cUxOanFDWkNvaFBaZkV3TGdka1NhU3Z5U2hTZ3lLZEswaDNqd25KckpyS21Zc1plRDBkRVlBclNYT25RNFM4Rzh4TlhGcXNNUnZWYWNiVU9YZVR6azc5Vm5yVkM1R0I0azlhUGtxY2t5MUpPaklzTXRTVjk3Q05VN2xMQURGQkpZQnZLYkd6clFLZlZXZTV2N0NZUjR1ZmZCdjJoc0hXZUl2VTRaSDNXOU04RV9vZnFHaWE3c1pqdXl2NHhkeDQxdDdrWmh5TGxGVVNiMDZETjFFWVRTQQ?oc=5",
       "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
+      "_publisher": "CP24",
+      "_pubUrl": "https://www.cp24.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1346,30 +1394,6 @@
       "_src": "gnnewcon",
       "_publisher": "Daily Hive Vancouver",
       "_pubUrl": "https://dailyhive.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa committees greenlight landmark zoning by-law to boost housing supply and cut red tape",
-      "link": "https://news.google.com/articles/CBMixwFBVV95cUxQa0pwejU1SWQ3eERabDdGaVRIaGZRM3k2T0VVX1ZENzdDZzVBUlM1Y3FXRWtXTk1HY0ZWYWVzQzF0dldwVjdQOUVsRmhoTm0xeWFBQUZrTkJDTkJJMlpkNWlVak1Ka2pBNU1xZTV0TUo4azhLNTB2V2U4SGVSaGJNVUZKVGJDbDVmUklpTWwwTlN5U2plUlZpRmZJWUdoUzZHSE85TXBfejBkV3B2UEZaMFpVblAzTHhNQVh6MEVaSjVvU0M5cUFV?oc=5",
-      "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Stand-off between buyers and sellers leaves Canada’s housing market stuck",
-      "link": "https://news.google.com/articles/CBMigAJBVV95cUxOMFpSd212MkxkdWRTVmk1MG9yeFplOFVQZDJ2b2xCWDJOa1ZPTTY0TEhjTnJKSlFEd2Y1VXhXd2VFeVBMcFVoRl9LN2hOY25leU5TbWlHaHZVLXV0dTZZS2E5TVdwcFJlcGxwVDQzZjVudWRFOElJMWlwelc3YkRWbEJvOU55VHowdEFCcnNEZzV0MDk1MDIwMnVVU2lFX0Z1TUZSMnhFRWtRRWRBSWhvVHJFUG1OeVBtaUZTcm1nYmpoQWtqbHE5WFRIZlV3Y3FqemIxb2d3TjgxOTRGc2s1ZkZ1dHNxMGVhOWlGMnBZNVU1Vm5RamFJRWJMSGhjUVNs?oc=5",
-      "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1421,18 +1445,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "We built this city on… Development charges, and it’s been rock and roll",
-      "link": "https://news.google.com/articles/CBMihwFBVV95cUxONE9meFZURmF5YWpnMzlod0h1SmxFVEVrVjRiVTQ5M3phWlNoa3V0eC1IakpCMkVJOXBSb203aTlCa09PUDlUckF2SnEtUXFVck5ma25qeXZ1cnpzNWx3WVpxVjBhdVlRVWRCU3BMaWhBaG5KWndndE5sLWMzTVQ4Zi1BNXZXd00?oc=5",
-      "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
       "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
       "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
@@ -1440,7 +1452,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "CBC",
+      "_publisher": "cbc.ca",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1488,8 +1500,20 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "CBC",
+      "_publisher": "cbc.ca",
       "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Alternative federal budget 2026: Affordable housing and homelessness",
+      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
+      "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Alternatives",
+      "_pubUrl": "https://www.policyalternatives.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1500,7 +1524,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "TD Economics",
+      "_publisher": "economics.td.com",
       "_pubUrl": "https://economics.td.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1517,39 +1541,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxPOFZCZGdPU21jcEU3SVNsQ2pxLVBwUnJBeElUajlXRVlPbTl6Rm80d2tWSUtRRnpodmJHdHhURW84ajFUWURqNGtGSThQSXNpSzc0QkluX0NvVVFGVUtOYzh6S2R2NXRvRnUwU1BzZ3Z3RWI3UlVHVzM0LUJaY05BM0xhV2tzeE4zVnViQTR2S3JZOF9XSTdsM0pSaktlODZlZjZlTVpR?oc=5",
-      "pubDate": "Sun, 14 Sep 2025 07:00:00 GMT",
+      "title": "‘Housing is too heavily taxed and too heavily regulated’: How Carney’s Build Canada Homes plan misdiagnoses the housing crisis",
+      "link": "https://news.google.com/articles/CBMi6wFBVV95cUxPbzJqUjR3ZXNFM2Rpd3FKRnE0MXVyUmJnTTJvOVc2Tm43bldNNmZlLWZvS0ZMWGY0dDd5MjdtNG5IQTNBRnAwbTBLdlNuX1Z1V1J0ZUl6OGN5WFl3WDFiT0NOTnRUX3hOTGF6d0VSY0VnQXM4MHVINmZsV1lxeXczRmh3TTM4NWlTa3g4X2xmR0ZYa0doVFJHMmctb01jcUoyLTMyWkU4TDI4YXAtZktoVmtISkJQY0VjdE1TaUQ5X1J1UHpidDZqcFJuUXllY1hDa3p5amx5MlRpX1c1azZlUUJFWmVjdEdVai0w?oc=5",
+      "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "pm.gc.ca",
-      "_pubUrl": "https://www.pm.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Carney announces launch of new housing agency, earmarks funding for new projects",
-      "link": "https://news.google.com/articles/CBMid0FVX3lxTFBTdHNJMUttczFETWN6RjNfc1BoRmozSWoxei1HSldRT0xXVlpMampwRDczWm1pV2dGX2FJREhKdmRqNjRiQkhPWW9ocGd1TWhRaTBZRUdHNm0wS01mcnpGaFBMVmFqQ2s1LWhrV2ZPbDVRbkRsQkFZ?oc=5",
-      "pubDate": "Sun, 14 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Housing Starts And Housing Supply in Canada",
-      "link": "https://news.google.com/articles/CBMidkFVX3lxTE9KTk1JUlIxaWlFQzBKZGJ1VTdCbi1FMVR6cXp5eHdleUkzem1iSUdYeGVVbnZNbUtrZG1pdnBiY3lsdjR0Tnh4R3hpaGY0NHpPMTh0RmxmTEtOdW0xdmxLSG9DeE5vTG5QcGJ2cmdNdWQzem1lTGc?oc=5",
-      "pubDate": "Fri, 05 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
+      "_src": "gnpolicy",
+      "_publisher": "The Hub | More Signal. Less Noise.",
+      "_pubUrl": "https://thehub.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1601,18 +1601,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Canada’s O-Train Western Expansion Nears Completion: New Key Stations and Major Progress Ahead of 2027",
-      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxOY2dManJRak9CUm5JWUExTkc3WjByLVprNThVQnREWVEyNnBjSFN2UVlEMFV0dTVwNEx6Y1QyVkN2c1g4UnllWFo4WHB2MFVMMFF2dW9lbUNZNW5oMlNtTlgyV3ljM1JiNXczYmZzbm11dmVKNWo4WGNtOGFLdWR0Wlk3WmRhUF9PWU8zeThHSEZCWV9WRVNIYVBTYUM4Ymt1eko1d2VRYWpibGF2S0xKUUxiUlNzdnhvRVNRTWtBMkZDMVA3X01IVTdneGp3ZFg3allRMjdRV2plUGprTXk3MmhEQmYzbnN0S0NwNA?oc=5",
-      "pubDate": "Wed, 09 Jul 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Travel And Tour World",
-      "_pubUrl": "https://www.travelandtourworld.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa Airport Authority opposed to proposed housing development on Riverside Drive",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxNOWNhandEU1dDUXZJQl8ycVQ4cFRsTmt3NnJyandOaVVLbHNqMkpobmp1czItN285Y0NaVmNWdnJ3WmY2SGVyUlVLb0JBTU1jNFZoM2R2Tllhb1ZfV2VoOFBxbjF5MVBvN1h5WkFIRFZ1b01UMnBRVlljcWtFZkg1OTFDOFdUaGdRbEdGRkh6czNUX3ZGYWJMdjU1RzhmRnc3cVFjY285QWhzV2ZSdi1MNmhPenBPYko3b3VVX2UzWQ?oc=5",
       "pubDate": "Wed, 18 Jun 2025 07:00:00 GMT",
@@ -1632,7 +1620,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "ottawa.citynews.ca",
+      "_publisher": "CityNews Ottawa",
       "_pubUrl": "https://ottawa.citynews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1649,30 +1637,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
-      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxQMEV1V2JkOHBnZFJwNkhQeTN1Q0MxMks1c3N5dG1mTTRHdEQ3MkdQcDNQUTh3cUJCSUZYRmJZcHVkRFREbmZUdVFSSThyeDBHdWJtZVNVcmJkc1NQWTRrelA4elI4LXJnVXNYNVZSU0VSMmoxaXVRc1NzUFprdW1NZG1NcFFWYlBYT0d4dmFoX19vTUlqdDJYUTY5NUExYTNPRmNQMGVESlllcHFBS3d4dlZsLTJMUDNsMUJN?oc=5",
-      "pubDate": "Fri, 11 Apr 2025 09:58:31 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "'High-stakes' list sets out Ottawa's road and transit projects for 20 years",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxQeGhKbkZEcTRlT0hMN2UwWDdjS0dqcDA1YVBoQlljSGJ6OHVaWGJZRFBySnRxS0ZTNDRQSXhGZ1VkVnl4eVdJRGY3X05qZW1nc3VScFBEei1mQ2RmdG02SVdNN0VCTW83U04yRlBiWFJsMXctSkpKWHRDXzUwWldHeGtpNTV5YmVXb2pVc0g3WDBBQnVDOXVzdkh4SGtOU0xJWXNWeU5KMHE?oc=5",
-      "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Jon Love: The housing crisis has a simple solution — and it doesn't involve yet another government program",
       "link": "https://news.google.com/articles/CBMingFBVV95cUxPVlNBNUFlVXVWNm5fNHBmWHdiNTJCQjhqTWRGb05UemlrSzJ3djNMdlAxemJfWUtnUlZVVnpORHh0U09tcHlLcWlDQ3E2R2lJSzB0NVI2eG1aN29GYVg3RFVCREQ5YXdXcEljTkc2TmpOS09CbXNrdktEUTd2a3JzcGs5YWZEYmxBLUxNZHZ4ZERua1dFX2tzUTdMMjNBZw?oc=5",
       "pubDate": "Wed, 02 Apr 2025 07:00:00 GMT",
@@ -1680,7 +1644,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "financialpost.com",
+      "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1709,18 +1673,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Is restrictive local zoning stifling Canada’s affordable housing goals?",
-      "link": "https://news.google.com/articles/CBMizAFBVV95cUxPNTJoVGFzb0FaUW16Q0M3OHF6TUFhZVVPUE5QNU1OUUZzMFUtbFpWLXZQU2tVT1BtX2VFbVh6ekJIbEZkOV9abW92NmY1aUVGYUlxQzVMdVhPSThIZC1SMS1qTDVLSDNteXhyVXRzQlo4LTVhSkw3RjYyeFJ5NHd1M05qMm5vVTVYSkdQSGxJdk94WERJX1hpZHg0U2JVRkhPbWxaVGZPVkxTUDdVakZaTUFGSEtzRHdqODRRbG8tR2sxMmNjQjlWUWZrZ2w?oc=5",
-      "pubDate": "Thu, 05 Sep 2024 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa Light Rail Transit",
       "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
       "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
@@ -1733,15 +1685,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "2024Unpacking the Affordable Housing Crisis",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQaGw0U0RiOGlvUGE3LURJTXllNTVFRTdLQmxtM2JPLW1RRGZObGotSzllR0JPVjU5M3JNVkdhdzVwMVk4ZDF5S19UbWJNLTdZZExhNHl5ajMtWW0yZGhYUFJNMmtPVGNVT054VndvU1RGbG9TTG9QNkE4dHlBUEttYlhseGVmQ2EySkJLUWRTZngtZ1Qzdkl0R2UzNnFyWXBKQ0tkTVlENVpaT3E5YVV0bmZwb2lLa2gzRGhNb1ExZDM?oc=5",
-      "pubDate": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "title": "CMHC 2023: Housing Reports Retrospective",
+      "link": "https://news.google.com/articles/CBMilAFBVV95cUxNeTVpVndac3I4dTE2eEgzR1hyaW9qVXNtWDM4WUl3SXNBenNCWTYtZld0eHZpRVktRDk1VlFyQndkTDJ5c2o3QUh1UkEtcW1RYkxYejZMbWJwTmFjTGtqUWlha2o2MXItNEdGamhGUTFibGVvMUJ6LW52RDZNVy0yLW1mLTB2WmJDY2hwRnA2VXJOWGR0?oc=5",
+      "pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Mount Royal University",
-      "_pubUrl": "https://www.mtroyal.ca",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1757,6 +1709,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "'Disastrous' LRT experience should end public-private infrastructure projects, says Ontario NDP",
+      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxNQ014bXk5ZW9zMVhsSmNXeE9uNjNPQkJITGtZMmxZRDhLRTdfM1kzQW9VVUE2UUY3SVdfWjBXOHJVQWRaNjgtRVB3eHlxRGJ2UTFnYU1kSXBWQVA0R0V0R3JzY3ZVT211b1RVUlRFNWdFeDRDNUx3N0Jld2VmMTNXYVEwc3ZiWTFycjNvX2pMUEJDVndOZXF4RXFfQlN0WGpYUlhmeERkdlQ?oc=5",
+      "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "cbc.ca",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Rideau Transit Group, P3 council issue statements following scathing Ottawa LRT inquiry",
       "link": "https://news.google.com/articles/CBMi6gFBVV95cUxPcGN6QmFBeXhHem5hMTZQcnFPMmlhT2FJX2FrVVNlejk4Z2E1alA4UG1ONlFaWDF3eEgyak8zLU91VWxoN19UMWdGMlMtYXl5SzhfM3VGVjNKdDVCM2prNmVGYTMzWUxONHY2dUNwcG4zT0tielhTdjFRZjZKSlRCZjFQcXNDNHl1MmF3dDB3Z2QycUt0UTJCWkxwSll5U1ZpNkEwUVl5eGxlSWdtaTZHYnpnSllpNWRfYWNreGNTeEZwRXFqbWUtRnh2VVg3SVhzNEZpMi1Xa3JuNUdGYjNVV1JKdDN4Y20zcFE?oc=5",
       "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
@@ -1766,18 +1730,6 @@
       "_src": "gnottlrt",
       "_publisher": "constructconnect.com",
       "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Public Inquiry finds there were failures on both sides of Ottawa LRT project",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxQY2FDZGdlWHNZOGlkcm1fQXAtNHUwOFVhejhkdWQzckEtTkpHMk0yZjJYeTR5Vi1tVk9ZQzZfM2RGVTZ6TDhKT0JaV3RsN1BFa2FKcU5QT2gwT1RVN0lIWW14cE11cnFPdXRoc2Fva2pHNTlYbDF4Q3RIQ0lmdkh3aE41WUtRakY1NjBDU283eWF3UDZMLWVINWJraXFKQW95TGhlWHdZMUo?oc=5",
-      "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "ReNew Canada",
-      "_pubUrl": "https://www.renewcanada.net",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1802,6 +1754,30 @@
       "_src": "gnottlrt",
       "_publisher": "TVO",
       "_pubUrl": "https://www.tvo.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa Light Rail Transit System",
+      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
+      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Torys LLP",
+      "_pubUrl": "https://www.torys.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
+      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "ottawacitizen.com",
+      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
