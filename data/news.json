@@ -1,6 +1,6 @@
 {
-  "ts": 1776416893998,
-  "fetched": "2026-04-17T09:08:13.998Z",
+  "ts": 1776430479888,
+  "fetched": "2026-04-17T12:54:39.888Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,7 +89,93 @@
   ],
   "items": [
     {
-      "title": "Red-hot housing market in Newfoundland shows no signs of cooling",
+      "title": "Carney announces new summit in Toronto aimed at driving $1 trillion in investment",
+      "link": "https://www.bnnbloomberg.ca/business/politics/2026/04/17/pm-carney-announces-new-summit-in-toronto-aimed-at-driving-1-trillion-in-investment/",
+      "pubDate": "Fri, 17 Apr 2026 12:52:13 -0400",
+      "description": "Prime Minister Mark Carney announced a new “Canada Investment Summit” that will invite investors, CEOs and business leaders to Toronto this fall.",
+      "content": "<media:description type=\"plain\"><![CDATA[Prime Minister Mark Carney, left, holds a press conference in Ottawa on Tuesday, April 14, 2026. THE CANADIAN PRESS/Sean Kilpatrick]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Sean Kilpatrick</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/5L6NTLBZZJ5ZSGCQHJHIW5CN7I.jpg?auth=9e49864c223659ed872c78c0087b64cbfae8b63afff86f5960cdfd9ffb121f57&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Prime Minister Mark Carney announced a new “Canada Investment Summit” that will invite investors, CEOs and business leaders to Toronto this fall.",
+      "body": "<p>TORONTO — Prime Minister Mark Carney announced a new “Canada Investment Summit” that will invite investors, CEOs and business leaders to Toronto this fall.</p>\n<p>The Prime Minister’s Office said in a media release the aim of the summit is to unleash $1 trillion in investment over the next five years to advance nation-building projects.</p>\n<p>This comes after a globetrotting year for the prime minister, where he’s held several meetings with international investors and businesses in an effort to gin up interest in putting money into the Canadian economy.</p>\n<p>Carney touted Canada’s strengths as an energy producer with a highly-educated workforce, saying Canada has what the world wants.</p>\n<p>The goal of the summit is to grow businesses, unlock job opportunities and build a stronger economy, according to the release.</p>\n<p>This comes after a decade of declining international investment in Canada.</p>\n<p>A recent report from RBC says that last year was Canada’s first to attract more than $100 billion in foreign direct investment since 2015.</p>\n<p>More than $1 trillion in foreign investment exited the Canadian economy between 2015 and 2024, what the report calls the “largest capital exodus in Canadian history.”</p>\n<p>However, RBC projects Canada could attract upwards of $1.8 billion over the next decade if advancements are made in key industries. This includes building new pipelines and liquefied natural gas terminals, expanding nuclear, hydro and renewable power and growing as a critical mineral supplier.</p>\n<p>The Canadian Federation of Independent Business issued a report this week pointing to a struggling small business sector in Canada. The CFIB says this is the sixth consecutive quarter they’ve tracked more small businesses closing than opening.</p>\n<p>The Prime Minister’s Office says the summit will be hosted on Sept. 14 and 15 in partnership with the Canada Pension Plan Investment Board and the Public Sector Pension Investment Board.</p>\n<p>The announcement comes as Canada faces ongoing economic disruptions due to the Iran war spiking gas prices and tariffs imposed by the U.S.</p>\n<p><i>This report by The Canadian Press was first published April 17, 2026.</i></p>\n<p><i>By Kathryn Mannie and David Baxter</i></p>"
+    },
+    {
+      "title": "Anthropic CEO to meet White House chief of staff amid Pentagon dispute, Axios reports",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/17/anthropic-ceo-to-meet-white-house-chief-of-staff-amid-pentagon-dispute-axios-reports/",
+      "pubDate": "Fri, 17 Apr 2026 12:34:10 -0400",
+      "description": "Anthropic CEO Dario Amodei is slated to meet White House chief of staff Susie Wiles on Friday, in a sign of a breakthrough in the artificial intelligence startup’s dispute with the Pentagon, Axios reported.",
+      "content": "<media:description type=\"plain\"><![CDATA[Pages from the Anthropic website and the company's logos are displayed on a computer screen in New York on Thursday, Feb. 26, 2026. (AP Photo/Patrick Sison)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Patrick Sison</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/D3HP7HUSVSRPSMRNTHQLRV6NDQ.jpg?auth=4f22283bb295190ce767641b40b906dfa521467ac2ff5c809b07e7bbbc66861d&amp;smart=true&amp;width=1400&amp;height=934",
+      "_src": "bnn",
+      "_ogDesc": "Anthropic CEO Dario Amodei is slated to meet White House chief of staff Susie Wiles on Friday, in a sign of a breakthrough in the artificial intelligence startup’s dispute with the Pentagon, Axios reported.",
+      "body": "<p>Anthropic CEO Dario Amodei is slated to meet White House chief of staff Susie Wiles on Friday, in a sign of a breakthrough in the artificial intelligence startup’s dispute with the Pentagon, Axios reported.</p>\n<p>The potential meeting comes as U.S. President Donald Trump’s administration acknowledges the advanced capabilities of Anthropic’s new AI model, Mythos, for its sophisticated cybersecurity defense breaching abilities, according to the report.</p>\n<p>White House and Anthropic did not immediately respond to requests for comment. Reuters could not independently verify the report.</p>\n<p>It would be “grossly irresponsible” for the U.S. government to deprive the country of the technological advantages offered by the new model, suggesting such a move would benefit China, Axios reported, citing a source close to the negotiations.</p>\n<p>Separately, the New York Times’ DealBook newsletter reported that the Treasury and the State Departments, have asked Anthropic for briefings on and access to Mythos.</p>\n<p>Representatives for the Treasury and the State Departments could not immediately be reached for comment</p>\n<p>Announced on April 7, Mythos is being deployed as part of Anthropic’s “Project Glasswing,” a controlled initiative under which select organizations are permitted to use the unreleased Claude Mythos Preview model for defensive cybersecurity purposes.</p>\n<p>Bloomberg News reported on Thursday that the U.S. government is planning to make a version of Anthropic’s Mythos available to major federal agencies.</p>\n<p>Anthropic was discussing Mythos with the Trump administration, co-founder Jack Clark said on Monday, even after the Pentagon cut off business ties with the U.S. AI lab following a contract dispute.</p>\n<p><i>(Reporting by Jaspreet Singh in Bengaluru; Editing by Anil D’Silva)</i></p>"
+    },
+    {
+      "title": "NorthStar Earth & Space Announces Plans to Become Publicly Traded via Merger with Viking Acquisition Corp. I",
+      "link": "https://www.bnnbloomberg.ca/press-releases/2026/04/17/northstar-earth-space-announces-plans-to-become-publicly-traded-via-merger-with-viking-acquisition-corp-i/",
+      "pubDate": "Fri, 17 Apr 2026 12:30:29 -0400",
+      "description": "NorthStar Earth & Space Inc. (“NorthStar” or the “Company”), a global leader in Space Situational Awareness (“SSA”) and Space Domain Awareness (“SDA”), and Viking Acquisition Corp. I (“Viking”) (NYSE: VACI), a special purpose acquisition company, announced that they have entered into a definitive business combination agreement (the “Business Combination Agreement”). Upon closing of the transaction, shares of the combined company are expected to trade on the New York Stock Exchange under the ticker “NSTR”.",
+      "content": "",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1717607291216.jpg?auth=ef34cf3f59642485b12f79845baaee98582b911ca4d3aeb27d8722b9c453587b&amp;width=1200",
+      "_src": "bnn",
+      "_ogDesc": "NorthStar Earth & Space Inc. (“NorthStar” or the “Company”), a global leader in Space Situational Awareness (“SSA”) and Space Domain Awareness (“SDA”), and Viking Acquisition Corp. I (“Viking”) (NYSE: VACI), a special purpose acquisition company, announced that they have entered into a definitive business combination agreement (the “Business Combination Agreement”). Upon closing of the transaction, shares of the combined company are expected to trade on the New York Stock Exchange under the ticker “NSTR”.",
+      "body": "<p><i>This press release is provided by GlobeNewswire and is published as received.</i></p>\n<p>MONTREAL and NEW YORK, April 17, 2026 (GLOBE NEWSWIRE) -- NorthStar Earth &amp; Space Inc. (“NorthStar” or the “Company”), a global leader in Space Situational Awareness (“SSA”) and Space Domain Awareness (“SDA”), and Viking Acquisition Corp. I (“Viking”) (NYSE: VACI), a special purpose acquisition company, announced that they have entered into a definitive business combination agreement (the “Business Combination Agreement”). Upon closing of the transaction, shares of the combined company are expected to trade on the New York Stock Exchange under the ticker “NSTR”.</p>\n<p>NorthStar’s planned constellation demonstrates industry-defining capabilities in delivering advanced, scalable SSA and geospatial intelligence services to commercial customers and governments. Through its network of bespoke sensors designed to monitor orbital activity and provide threat detection, NorthStar is uniquely equipped to service the rapidly growing space economy and to provide the necessary support systems to ensure satellite safety, support defense and security operations, and enable orbital sustainability.</p>\n<p>Stewart Bain, Founder and Chief Executive Officer of NorthStar, said, “NorthStar intends to play a vital role in safeguarding orbital environments and advancing sustainability in space. At this critical juncture, becoming a public company provides NorthStar with unprecedented access to capital to scale our operations. The transaction positions NorthStar to keep pace with the challenges presented by the increased frequency of new launches and deliver greater value to stakeholders across the space industry. Our team is mission-driven as we seek to make a lasting positive impact on our planet through advanced Space Situational Awareness.”</p>\n<p>“We are proud to partner with NorthStar, a company at the forefront of space-based intelligence and a clear leader in addressing the growing need for Space Situational Awareness,” said N. Håkan Wohlin, Chief Executive Officer of Viking. “NorthStar’s differentiated technology, strong customer interest, and scalable business model position it to capitalize on powerful secular tailwinds across defense, security, and commercial space. We believe this transaction offers a compelling opportunity for investors to participate in the next generation of space infrastructure.”</p>\n<p>Beth Michelson, Partner at Cartesian Capital Group, added, “We are thrilled to build on our partnership with NorthStar as it enters its next phase of growth. We have been consistently impressed by NorthStar’s execution capabilities and its ability to commercialize space information and intelligence services. These strengths reinforce our conviction in NorthStar’s differentiated value proposition and long-term growth potential. As lead investor in this round, we are excited to support the company in scaling its platform, expanding its global reach, and unlocking new opportunities across the sector.”</p>\n<p>Transaction Overview</p>\n<p>The transaction includes a fully committed $30 million common stock PIPE anchored by Cartesian Capital Group, with participation from leading Canadian and U.S. institutional investors, which may be satisfied through a direct subscription or the purchase and non-redemption of Viking’s existing public shares. The transaction is expected to provide the business with minimum gross proceeds of $30 million, before giving effect to any additional funds remaining in the trust account.</p>\n<p>Under the terms of the Business Combination Agreement, the transaction values NorthStar at a pre-money valuation of $300 million. The expected proceeds from the transaction will be used to fund payload capital expenditures such as sensors to include on satellites, spacecraft integration and deployment, and non-recurring engineering expenses.</p>\n<p>Stewart Bain and the NorthStar executive team will continue to lead the Company following the close of the transaction, with the defined goal of executing NorthStar’s growth strategy.</p>\n<p>The boards of directors of NorthStar and Viking have each unanimously approved the proposed transaction, which is expected to close in Q3 2026, subject to customary closing conditions.</p>\n<p>Cohen &amp; Company Capital Markets, a division of Cohen &amp; Company Securities, LLC, is serving as exclusive financial advisor, lead capital markets advisor, and sole placement agent to NorthStar, and Greenberg Traurig, LLP is serving as the Company’s legal counsel. KingsRock Advisors, LLC is serving as exclusive financial advisor to Viking. Nelson Mullins Riley &amp; Scarborough, LLP is serving as legal counsel to Viking.</p>\n<p>NorthStar’s precise information services identify and anticipate the position of space objects to enhance spaceflight safety. NorthStar is the first commercial service to deliver space-based SSA and SDA capabilities on an international scale. With headquarters in Montreal, Canada, a European headquarters in Luxembourg, and a dedicated US operation in New York, NorthStar addresses the ever-growing threat of space collisions as a major contribution to empower humanity to preserve our planet.</p>\n<p>Viking Acquisition Corp. I is a blank check company formed for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. Viking is sponsored by KingsRock Advisors, LLC, an independent global advisory firm, with securities offered by KingsRock Securities, LLC, a FINRA member firm and SIPC. KingsRock advises on a wide range of corporate finance matters and private capital markets transactions, including debt, hybrid, equity and M&amp;A.</p>\n<p>Pro-NorthStar@Prosek.com</p>\n<p>Gil.Ottensoser@viking.kingsrock.com</p>\n<p>NEWS RELEASE TRANSMITTED BY Globe Newswire</p>"
+    },
+    {
+      "title": "Mountain Valley MD Announces Appointment of Advisors and Stock Option Grants",
+      "link": "https://www.bnnbloomberg.ca/press-releases/2026/04/17/mountain-valley-md-announces-appointment-of-advisors-and-stock-option-grants/",
+      "pubDate": "Fri, 17 Apr 2026 12:28:09 -0400",
+      "description": "Mountain Valley MD Holdings Inc. (the “Company” or “MVMD”) (CSE: MVMD) (OTC: MVMDF) is pleased to announce the appointment of multiple advisors to the Company as well as the grant of stock options to certain directors, officers, and consultants/advisors of the Company.",
+      "content": "",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1717607291216.jpg?auth=ef34cf3f59642485b12f79845baaee98582b911ca4d3aeb27d8722b9c453587b&amp;width=1200",
+      "_src": "bnn",
+      "_ogDesc": "Mountain Valley MD Holdings Inc. (the “Company” or “MVMD”) (CSE: MVMD) (OTC: MVMDF) is pleased to announce the appointment of multiple advisors to the Company as well as the grant of stock options to certain directors, officers, and consultants/advisors of the Company."
+    },
+    {
+      "title": "3.1 million eye drop bottles recalled in U.S., products not sold in Canada",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/17/31-million-eye-drop-bottles-recalled-in-us-products-not-sold-in-canada/",
+      "pubDate": "Fri, 17 Apr 2026 12:25:37 -0400",
+      "description": "More than 3.1 million bottles of lubricating eye drops are being recalled in the U.S., but the products were not distributed in Canada.",
+      "content": "<media:description type=\"plain\"><![CDATA[More than 3.1 million bottles of lubricating eye drops are being recalled in the U.S., but the products were not distributed in Canada. (Tima Miroshnichenko/Pexels)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/HIMIMZF7J5DIJPC5PG4QWC3CYQ.jpg?auth=5b59d2c9d973d43f5508e394ef8b63ba33ebacf01d21f9fc8144125124bf2ff1&amp;smart=true&amp;width=5859&amp;height=3906",
+      "_src": "bnn",
+      "_ogDesc": "More than 3.1 million bottles of lubricating eye drops are being recalled in the U.S., but the products were not distributed in Canada.",
+      "body": "<p>More than 3.1 million bottles of lubricating eye drops are being recalled in the U.S., but the products were not distributed in Canada.</p>\n<p>According to the <a href=\"https://www.accessdata.fda.gov/scripts/ires/?Event=98533?ftag=MSFd61514f\" rel=\"\">U.S. Food and Drug Administration (FDA)</a>, California-based company K.C. Pharmaceuticals failed to properly test the products to ensure that they are sterile.</p>\n<p>The eye drops were sold under several brand names, including Walgreens and CVS, which are major U.S. pharmacy chains.</p>\n<p>In an email to CTVNews.ca, a Health Canada spokesperson said the department is aware of the <a href=\"https://www.cnn.com/2026/04/15/health/eye-drop-recall-fda\" rel=\"\">American recall</a>, which does not impact Canada.</p>\n<p>“We can confirm that no affected product has been distributed on the Canadian market,” the Health Canada spokesperson said. “Should the scope of the recall expand to include products authorized or sold in Canada, Health Canada will take appropriate action to protect the health and safety of Canadians and communicate any relevant information publicly.”</p>\n<p><a href=\"https://www.cnn.com/2026/04/15/health/eye-drop-recall-fda\" rel=\"\">According to CNN</a>, this is the second time that the FDA has become aware of sterility issues at K.C. Pharmaceuticals.</p>\n<p>C. Michael White heads the University of Connecticut’s pharmacy school.</p>\n<p>“This recall is very large, potentially affecting over a million people,” White wrote in a <a href=\"https://theconversation.com/massive-eye-drop-recall-reflects-ongoing-issues-with-manufacturing-and-fda-inspection-279971\" rel=\"\">recent article in The Conversation</a>. “Using nonsterile eye drops that harbor bacteria and fungus can cause eye infections, which can become severe because the immune system has a hard time accessing the eyeball and fighting the microbes.”</p>"
+    },
+    {
+      "title": "Last minute tax tips as clock ticks toward filing deadline: Dale Jackson",
+      "link": "https://www.bnnbloomberg.ca/investing/opinion/2026/04/17/last-minute-tax-tips-as-clock-ticks-toward-filing-deadline-dale-jackson/",
+      "pubDate": "Fri, 17 Apr 2026 12:19:15 -0400",
+      "description": "",
+      "content": "<media:description type=\"plain\"><![CDATA[For most people, the deadline to file your taxes is April 30, 2026.]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/CBDO7E64FBHWNPPBOL2WDEKBQQ.jpeg?auth=ce28a09cdc3e73ddf2db270ecfc2c765e6dbc546adb8fbee4bedab151ee2b9aa&amp;smart=true&amp;width=1920&amp;height=1080",
+      "_src": "bnn",
+      "body": "<p>Over 16 million income tax returns had been filed for the 2025 tax year as of April 12.</p>\n<p>According to the Canada Revenue Agency (CRA), 9.9 million refunds totaling over $22 billion have already been issued.</p>\n<p>For most who haven’t filed yet, the deadline is April 30. That’s when the meter starts running for those who owe money, even the self employed and their spouses, whose formal filing deadline is June 15.</p>\n<p>The penalty is five per cent of any balance owing, plus one per cent of the balance owing for each full month the return is late. After a year the penalties increase.</p>\n<p>There’s still time left but here are some key last minute tax tips compiled by tax experts:</p>\n<p>File on time even if you can’t pay your tax bill.</p>\n<ul><li>The rules say April 30 is the deadline regardless of who owes who, what. The CRA wants to know what you’re up to and it tells them you are aware of the situation.</li></ul>\n<p>File a tax return even if you don’t think you have to.</p>\n<ul><li>There are many reasons why you must file a tax return but benefits like the Canada Child Benefit, Guaranteed Income Supplement (GIS) and the GST/HST tax credit, are based on your tax return and you can only qualify if you file a return. Also, you might have a refund coming your way if your earnings were such that you overpaid with your tax withholdings from your paycheque. This often happens with students, especially with tuition tax credits.</li></ul>\n<p>Make sure that you are maximizing all of the allowable deductions and tax credits available to you based on your personal situation. This includes registered retirement savings plan (RRSP) contributions and childcare deductions, or medical and tuition non-refundable tax credits.</p>\n<ul><li>Medical expenses, for example, can span any 12-month period as long as it ends during the tax year. Depending upon your situation in 2025, or even the current year, you can plan your claim accordingly to maximize your return.</li><li>If your kids are attending an eligible education institution, such as college or university, remind them to log into their student account at their school and download their T2202 forms. Even if they are not earning money now, they must file their return to declare tuition expenses. They can either carry forward the unused amounts to another tax year or transfer up to $5,000 to parents or even grandparents.</li></ul>\n<p>Make sure you have your direct deposit information on your CRA My Account so you can get your refunds and any other paid benefits quickly. If you don’t have a <a href=\"https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html\" target=\"_self\" rel=\"\" title=\"https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html\">CRA My Account, sign up.</a></p>\n<ul><li>If you are self-employed don’t forget your business use-of-home expenses. You can also claim work-related vehicle expenses. Remember to maintain a mileage log to validate the use. It’s important to understand that a side gig is considered a business entity for tax purposes and requires a separate filing in addition to your basic T1 personal return.</li></ul>\n<p>In most cases, the CRA requires a T2125 Statement of Business or Professional Activities, which includes a tally of total income generated from the business during the year and direct business expenses that qualify as deductions such as office expenses, tools and equipment, advertising, meals and travel.</p>\n<p>CRA provides specific industry codes that should match your primary business activity. If you have more than one distinct business, a separate T2125 must be filed for each.</p>\n<p>If you file your return and realize you’ve made a mistake, don’t panic. The CRA allows for adjustments on returns, which can be done through your CRA My Account under “Change My Return” or using a refile option on your tax solution if it is available. You can also complete the T1-ADJ request form and mail it in but you need to wait until you get your notice of assessment first.</p>\n<h3>Related Articles:</h3>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/investing/opinion/2026/04/10/5-ways-to-re-invest-your-tax-refund-and-plump-up-your-portfolio-dale-jackson/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/investing/opinion/2026/04/10/5-ways-to-re-invest-your-tax-refund-and-plump-up-your-portfolio-dale-jackson/\">5 ways to re-invest your tax refund and plump up your portfolio: Dale Jackson</a></li><li><a href=\"https://www.bnnbloomberg.ca/investing/opinion/2026/03/20/most-canadians-have-the-power-to-avoid-paying-tax-on-their-investment-gains-dale-jackson/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/investing/opinion/2026/03/20/most-canadians-have-the-power-to-avoid-paying-tax-on-their-investment-gains-dale-jackson/\">Most Canadians have the power to avoid paying tax on their investment gains: Dale Jackson</a></li><li><a href=\"https://www.bnnbloomberg.ca/investing/opinion/2026/03/13/cra-crackdown-on-gig-workers-goes-viral-this-tax-season-heres-what-you-need-to-know-dale-jackson/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/investing/opinion/2026/03/13/cra-crackdown-on-gig-workers-goes-viral-this-tax-season-heres-what-you-need-to-know-dale-jackson/\">CRA crackdown on gig workers goes viral this tax season. Here’s what you need to know: Dale Jackson</a></li></ul>"
+    },
+    {
+      "title": "Canada Post beginning work to move from door-to-door mail delivery to community mailboxes",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/17/canada-post-beginning-work-to-move-from-door-to-door-mail-delivery-to-community-mailboxes/",
+      "pubDate": "Fri, 17 Apr 2026 12:00:24 -0400",
+      "description": "Canada Post is starting preliminary work to convert addresses that receive door-to-door mail to community mailboxes, and to phase out some post offices.",
+      "content": "<media:description type=\"plain\"><![CDATA[Mark Binay, co-owner of the Canada Post office in Chinatown in Vancouver, serves a customer at his shop on Wednesday, Nov. 5, 2025. THE CANADIAN PRESS/Rich Lam]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/UOBKDXPRT4JSB7KPYBGBO4LMKI.jpg?auth=53cfd98ebe97804519ab75b8d759a1b358c1647e95c5074fe3daf91b0b6b42db&amp;smart=true&amp;width=1400&amp;height=941",
+      "_src": "bnn",
+      "_ogDesc": "Canada Post is starting preliminary work to convert addresses that receive door-to-door mail to community mailboxes, and to phase out some post offices.",
+      "body": "<p>OTTAWA — Canada&nbsp;Post&nbsp;is starting preliminary work to convert addresses that receive door-to-door mail to community mailboxes, and to phase out some&nbsp;post&nbsp;offices.</p>\n<p>The Crown corporation said in a news release <a href=\"https://www.canadapost-postescanada.ca/cpc/en/our-company/news-and-media/corporate-news/news-release/2026-04-16-canada-post-moving-forward-with-preliminary-work-on-multi-year-transformation\" target=\"_self\" rel=\"\" title=\"https://www.canadapost-postescanada.ca/cpc/en/our-company/news-and-media/corporate-news/news-release/2026-04-16-canada-post-moving-forward-with-preliminary-work-on-multi-year-transformation\">the process is beginning</a> after meetings with union officials.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/business/article/what-you-need-to-know-as-canada-post-considers-ending-home-delivery/\" rel=\"\"><b>Everything you need to know as Canada Post considers ending home delivery</b></a></li></ul>\n<p>Canada&nbsp;Post&nbsp;said it’s converting about four million addresses to community mailboxes and the work is expected to take about five years, with different regions moving to community mailboxes each year.</p>\n<p>The corporation says it’s starting discussions with 13 communities across&nbsp;Canada&nbsp;— including Ottawa and Winnipeg — as it prepares to move about 136,000 addresses from door-to-door delivery to community mailboxes in late 2026 and early 2027.</p>\n<p>“Nearly three out of every four Canadian addresses already receive their mail and parcels through some form of centralized delivery,” said the news release, noting that converting an address from door-to-door delivery to a community mailbox typically takes months.</p>\n<p>“Canada&nbsp;Post&nbsp;will engage with communities as it identifies suitable locations for community mailbox sites. It is also notifying residents of the upcoming change to their mail delivery, and will keep them, businesses, bargaining agents and employees informed every step of the way.”</p>\n<p>Canada&nbsp;Post&nbsp;said it’s also reviewing its retail network in preparation for closures of urban and suburban&nbsp;post&nbsp;offices in areas it says are currently over-served.</p>\n<p>“While Canadians still value&nbsp;post&nbsp;offices, they are visiting them less frequently and making fewer in-store purchases,” said the news release. “This pattern has driven a 30-per-cent drop in retail revenue since 2021. Usage is also uneven across the network.”</p>\n<p>The federal government last year ended a decades-long moratorium on rural&nbsp;post&nbsp;office closures, a move that sparked concern about the future of mail delivery in remote communities that aren’t well served by private couriers.</p>\n<p>Canada&nbsp;Post&nbsp;said it’s conducting market reviews to gather data on local&nbsp;post&nbsp;offices.</p>\n<p>“Regions will also be evaluated as a whole so each&nbsp;post&nbsp;office can be viewed through a community lens,” said the news release. “The analysis will support the corporation’s careful evaluation of where changes to the network are most warranted, while prioritizing service to Canadians and protecting it where it’s needed most.”</p>\n<p>Ottawa announced a series of reforms to&nbsp;Canada&nbsp;Post&nbsp;late last year in an effort to save the Crown corporation millions of dollars annually.</p>\n<p><i>This report by The Canadian Press was first published April 16, 2026.</i></p>\n<p><i>Catherine Morrison, The Canadian Press</i></p>\n<p><i>— With files from Craig Lord</i></p>"
+    },
+    {
+      "title": "Equity fund inflows rise as war risks recede, upbeat earnings boost mood",
+      "link": "https://www.bnnbloomberg.ca/investing/2026/04/17/equity-fund-inflows-rise-as-war-risks-recede-upbeat-earnings-boost-mood/",
+      "pubDate": "Fri, 17 Apr 2026 11:57:16 -0400",
+      "description": "Global equity funds received a fourth successive weekly inflow in the week through April 15 as upbeat earnings and increased optimism that the Iran war could be resolved more quickly than expected boosted risk appetite.",
+      "content": "<media:description type=\"plain\"><![CDATA[Traders work on the options floor at the New York Stock Exchange in New York, Thursday, Feb. 12, 2026. (AP Photo/Seth Wenig)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Seth Wenig</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/JQKU5EIOCWWD2Q2U6RMXWYXQT4.jpg?auth=79a781c12a910b18a73617dd7425b53cda69a739e0b4486d29e4251092c91ab4&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Global equity funds received a fourth successive weekly inflow in the week through April 15 as upbeat earnings and increased optimism that the Iran war could be resolved more quickly than expected boosted risk appetite.",
+      "body": "<p>Global equity funds received a fourth successive weekly inflow in the week through April 15 as upbeat earnings and increased optimism that the Iran war could be resolved more quickly than expected boosted risk appetite.</p>\n<p>Investors allocated a net of US$31.26 billion to global equity funds in their largest weekly purchase since March 25, LSEG Lipper data showed.</p>\n<p>Benchmark Brent crude held broadly below $100 a barrel this week, helping to ease inflation concerns. A potential meeting between the United States and Iran over the weekend could pave the way for a near-term resolution to the Middle East conflict.</p>\n<p>U.S. equity funds had an allotment of $21.25 billion, the fourth weekly net purchase in a row. Investors added $9.38 billion to European funds but divested Asian funds of a net $2.06 billion.</p>\n<p>Sectoral funds had $6.74 billion of weekly net purchases after a net $4.86 billion inflow the week before. Tech, industrial and metals and mining sectors led with $5.46 billion, $1.37 billion and $633 million net allocations.</p>\n<p>Global bond fund flows eased to a net of $7.59 billion during the week from roughly $14.5 billion a week ago.</p>\n<p>Short-term bond funds had weekly outflows of $7.08 billion, broadly reversing the prior week’s $7.5 billion net inflows. High-yield, euro-denominated and government bond funds gained $3.64 billion, $1.15 billion and $827 million of net inflows.</p>\n<p>Money market funds had a net sale of $173.24 billion, the largest weekly outflow since at least September 2018.</p>\n<p>Gold and other precious metals commodity funds remained popular for the third successive week, gaining inflows to the tune of roughly $822 million.</p>\n<p>Emerging markets had a second successive week of net investments as investors pumped $3.63 billion into equity funds and $2.11 billion into bond funds, data for a combined 28,807 funds showed.</p>\n<p><i>(Reporting by Gaurav Dogra; Editing by Jane Merriman)</i></p>"
+    },
+    {
+      "title": "How this Atlantic city became one of Canada’s hottest markets",
       "link": "https://www.bnnbloomberg.ca/business/2026/04/17/red-hot-housing-market-in-newfoundland-shows-no-signs-of-cooling/",
       "pubDate": "Fri, 17 Apr 2026 09:00:00 -0400",
       "description": "The number of houses available for sale has dropped to historic lows in the St. John’s region, while buyers are throwing everything they have at what little is available.",
@@ -97,11 +183,11 @@
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/XEZBD4NTUZDFVJRETOEH44N33Q.JPG?auth=baaae12d950df6cf8d738bce8de0a1fc71208f8f5899f287dd1bdfa15ee17736&amp;smart=true&amp;width=3258&amp;height=2082",
       "_src": "bnn",
       "_ogDesc": "The number of houses available for sale has dropped to historic lows in the St. John’s region, while buyers are throwing everything they have at what little is available.",
-      "body": "<p>ST. JOHN’S – It took months of searching, but Allyssa McCarthy finally found a home in St. John’s that ticked off her entire checklist.</p>\n<p>She wanted three bedrooms — spacious enough for herself, her boyfriend and his son — with roofing and flooring that wasn’t out of date.</p>\n<p>The most important consideration was her budget, trying to keep the mortgage cost affordable for her family.</p>\n<p>But even as a price-conscious buyer, McCarthy had to shell out big for her new mobile home in the Goulds area of St. John’s. To beat out more than a dozen other bids, she says she paid $56,000 — about 30 per cent more than asking price.</p>\n<p>“Everything is overpriced, overselling, going well above what they’re asking,” McCarthy said. “The bidding wars are insane.”</p>\n<p>The trailer court in the Goulds neighbourhood of St. John’s is not where you’d traditionally expect to find house bidding wars, but the red-hot housing market in the St. John’s region has turned traditional expectations upside down.</p>\n<p>Statistics compiled by the Canadian Real Estate Association show there are fewer “months of inventory” — a measure of how many homes are for sale compared to how many finished transactions — than ever before in St. John’s.</p>\n<p>Median prices have also been increasing, their steady climb, up about 6.6 per cent year-over-year after the first quarter of 2026.</p>\n<p>“It gets like, mentally exhausting looking for houses these days,” McCarthy said.</p>\n<p>While this new home was her first offer, she spent months trying to find others that would suit her families’ needs.</p>\n<p>“After a while you just become deflated,” she added. “It’s like, is this ever going to happen for me? Am I ever going to get a home?”</p>\n<p>Years of slow housing construction, combined with a post-COVID-19 pandemic bump in immigration interest in Newfoundland and Labrador, created a competitive market for buyers.</p>\n<p>Hillary Hodder, McCarthy’s real estate agent, estimated that about 50 per cent of her clients are purchasers living outside the province.</p>\n<p>“They’re getting ready to retire (and come home). I’ve even had customers from the U.S. looking to relocate to Newfoundland,” she said.</p>\n<p>Jason Piercey, a real estate agent in the St. John’s area, said housing construction still hasn’t rebounded from an economic slowdown in 2014 — when oil prices plummeted and offshore oil and gas activity in the province slowed.</p>\n<p>“Even when oil recovered, (housing construction) did not,” he said. “We’ve had a shortage of new homes that would have been built every year for over 10 years.”</p>\n<p>It’s not a lack of will — construction companies are simply struggling to find skilled workers to start the work required, according to Kelly Rogers, CEO of the Canadian Homebuilders Association in Newfoundland and Labrador.</p>\n<p>She also blames increases in development fees and taxes, tariff costs and the costs of materials — each, according to her, slowing construction activity.</p>\n<p>The Canada Mortgage and Housing Corporation suggested in 2024 that Newfoundland and Labrador needs to dramatically increase its rate of construction — in the neighbourhood of 10,000 houses per year — to meet demand.</p>\n<p>That would involve more than doubling it.</p>\n<p>It’s an ambitious goal: In 2025, there were about 1,600 housing units starting construction in the province.</p>\n<p>“Even if we had a thousand units to go in the ground this summer, that’s still a year before those houses are really available, right?” said Bill Stirling, head of the Newfoundland and Labrador Association of Realtors.</p>\n<p>That means the hot market in the city might just become a new fact of life.</p>\n<p>“It’s going to be a while, unless something changes in the economy.”</p>"
+      "body": "<p>ST. JOHN’S – It took months of searching, but Allyssa McCarthy finally found a home in St. John’s that ticked off her entire checklist.</p>\n<p>She wanted three bedrooms — spacious enough for herself, her boyfriend and his son — with roofing and flooring that wasn’t out of date.</p>\n<p>The most important consideration was her budget, trying to keep the mortgage cost affordable for her family.</p>\n<p>But even as a price-conscious buyer, McCarthy had to shell out big for her new mobile home in the Goulds area of St. John’s. To beat out more than a dozen other bids, she says she paid an additional $56,000 — about 30 per cent — more than asking price.</p>\n<p>“Everything is overpriced, overselling, going well above what they’re asking,” McCarthy said. “The bidding wars are insane.”</p>\n<p>The trailer court in the Goulds neighbourhood of St. John’s is not where you’d traditionally expect to find house bidding wars, but the red-hot housing market in the St. John’s region has turned traditional expectations upside down.</p>\n<p>Statistics compiled by the Canadian Real Estate Association show there are fewer “months of inventory” — a measure of how many homes are for sale compared to how many finished transactions — than ever before in St. John’s.</p>\n<p>Median prices have also been increasing, their steady climb, up about 6.6 per cent year-over-year after the first quarter of 2026.</p>\n<p>“It gets like, mentally exhausting looking for houses these days,” McCarthy said.</p>\n<p>While this new home was her first offer, she spent months trying to find others that would suit her families’ needs.</p>\n<p>“After a while you just become deflated,” she added. “It’s like, is this ever going to happen for me? Am I ever going to get a home?”</p>\n<p>Years of slow housing construction, combined with a post-COVID-19 pandemic bump in immigration interest in Newfoundland and Labrador, created a competitive market for buyers.</p>\n<p>Hillary Hodder, McCarthy’s real estate agent, estimated that about 50 per cent of her clients are purchasers living outside the province.</p>\n<p>“They’re getting ready to retire (and come home). I’ve even had customers from the U.S. looking to relocate to Newfoundland,” she said.</p>\n<p>Jason Piercey, a real estate agent in the St. John’s area, said housing construction still hasn’t rebounded from an economic slowdown in 2014 — when oil prices plummeted and offshore oil and gas activity in the province slowed.</p>\n<p>“Even when oil recovered, (housing construction) did not,” he said. “We’ve had a shortage of new homes that would have been built every year for over 10 years.”</p>\n<p>It’s not a lack of will — construction companies are simply struggling to find skilled workers to start the work required, according to Kelly Rogers, CEO of the Canadian Homebuilders Association in Newfoundland and Labrador.</p>\n<p>She also blames increases in development fees and taxes, tariff costs and the costs of materials — each, according to her, slowing construction activity.</p>\n<p>The Canada Mortgage and Housing Corporation suggested in 2024 that Newfoundland and Labrador needs to dramatically increase its rate of construction — in the neighbourhood of 10,000 houses per year — to meet demand.</p>\n<p>That would involve more than doubling it.</p>\n<p>It’s an ambitious goal: In 2025, there were about 1,600 housing units starting construction in the province.</p>\n<p>“Even if we had a thousand units to go in the ground this summer, that’s still a year before those houses are really available, right?” said Bill Stirling, head of the Newfoundland and Labrador Association of Realtors.</p>\n<p>That means the hot market in the city might just become a new fact of life.</p>\n<p>“It’s going to be a while, unless something changes in the economy.”</p>"
     },
     {
-      "title": "What is surveillance pricing? The data driven tactic some politicians want to ban",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/04/17/what-is-surveillance-pricing-the-data-driven-tactic-some-politicians-want-to-ban/",
+      "title": "What is surveillance pricing? How algorithms affect the price you pay",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/04/17/what-is-surveillance-pricing-how-algorithms-affect-the-price-you-pay/",
       "pubDate": "Fri, 17 Apr 2026 09:00:00 -0400",
       "description": "Data points, such as a person’s neighbourhood, browsing history, spending habits and device type can be used to generate the custom price.",
       "content": "<media:description type=\"plain\"><![CDATA[Surveillance pricing occurs when a company uses personal data scoured from across the web to create a custom price for an individual. (Surveillance pricing occurs when a company uses personal data scoured from across the web to create a custom price for an individual. (Stock photo)]]></media:description>",
@@ -109,6 +195,42 @@
       "_src": "bnn",
       "_ogDesc": "Data points, such as a person’s neighbourhood, browsing history, spending habits and device type can be used to generate the custom price.",
       "body": "<p>TORONTO – “Surveillance pricing” has been a hot topic this week following calls from the federal NDP and their provincial counterparts to ban the practice.</p>\n<p>But when CTV News spoke with consumers in downtown Toronto Thursday, none had heard of it.</p>\n<p>“Definitely shocking,” one woman said. “But not surprising. There’s a lot of ways people sneakily make you pay more for things than you would.”</p>\n<p>Another person said he understood why businesses would do it.</p>\n<p>“I actually have no problem with it,” he said. “I think it makes sense.”</p>\n<p>Surveillance pricing occurs when a company uses personal data scoured from across the web to create a custom price for an individual. When buying a pair of shoes online, for instance, one person might see a different price than someone else looking at the exact same shoes on the same site at the same time.</p>\n<p>An algorithm determines the highest price a specific consumer might be willing to pay.</p>\n<p>“AI and machine learning have supercharged the ability to analyze these data signals, where previously, stuff like this wouldn’t have even been possible,” said Emily Osborne, a policy research associate at the Canadian Shield Institute, a think-tank that has worked on issues such as dynamic pricing.</p>\n<p>Data points, such as a person’s neighbourhood, browsing history, spending habits and device type can be used to generate the custom price. Osborne said even the way a person interacts with a webpage is tracked.</p>\n<p>“For example, how your cursor is moving on a screen can tell them a lot about what your attitude is,” she said. “It can even be used to infer more sensitive details like what your emotional state is.”</p>\n<p>Some experts believe data regarding when a person receives their paycheque could also be used.</p>\n<p>“Ultimately, this could be used by firms to increase prices when they know that it’s your payday,” Osborne said.</p>\n<p>How widespread the practice is in Canada remains unclear. Osborne noted that some reports are anecdotal and the push for bans is partly based on what could happen in the future.</p>\n<p>Surveillance pricing is distinct from dynamic pricing, where rideshare companies, airlines and hotels fluctuate prices based on timing, location, and demand.</p>\n<p>Surveillance pricing — or algorithmic personalized pricing — has generated significant consumer concern, especially as some retailers switch to digital shelf labels.</p>\n<p>Some fear consumers will eventually see individualized prices while shopping in brick-and-mortar stores. Small cameras embedded in shelving could estimate age, gender and mood.</p>\n<p>If a shopper has the store’s app open, the retailer could identify them and display a custom price as they walk by, while a different price is shown to another shopper.</p>\n<p>Though CTV News technology expert Carmi Levy says retailers have, so far, been too worried about blowback to do that.</p>\n<p>“It wouldn’t surprise me if over time, this goes from being something that is the source of outrage to the new normal,” says Levy.</p>\n<p>In December, Consumer Reports found Instacart was using AI-driven price experiments. When several shoppers tried to buy the same items from the same grocery store at the same time, they were shown different online prices. Instacart later stated it was ending those price tests.</p>\n<p>“There is more evidence in the U.S. that it is spreading to retail settings, even in physical stores, and we should anticipate that this is where Canada will move,” Osborne said.</p>\n<p>The Competition Bureau looked at surveillance pricing as part of a broader consultation on algorithmic pricing.</p>\n<p>Brad Callahan, the associate deputy commissioner for policy planning and advocacy, said the main concern from consumers is a lack of transparency.</p>\n<p>“It’s raising questions for consumers about what was the basis of that? What data does the company have that has led to my price? Have I lost my chance at getting the deal I normally would have?” Callahan said.</p>\n<p>He noted that personalized pricing has existed for a long time, citing senior or student discounts. However, he said those were intended to offer certain groups a better price.</p>\n<p>“What we’re hearing concerns about now is higher prices, because companies are testing the willingness to pay of their consumers, and they have a lot more data to do it with.”</p>\n<p>Callahan said the Competition Bureau will continue to monitor the issue to ensure harms are addressed while allowing businesses to innovate.</p>\n<p>Lawmakers in several U.S. states are considering regulating or banning the use of personal data for individualized pricing. In Canada, Manitoba’s NDP government introduced a bill last month that would make it the first province to ban the practice.</p>\n<p>Asked on Thursday if Ontario would follow suit, Premier Doug Ford said no.</p>\n<p>“I believe in a capitalist society. Free market. The market dictates,” said Ford.</p>"
+    },
+    {
+      "title": "CREA slashes home sales and price forecasts, how to know when to buy or sell, the Home of the Week and more top real estate stories",
+      "link": "https://news.google.com/articles/CBMisAFBVV95cUxNcmVTSWhldVRubDNuajhmMG9jWWtXSnZ0eW9VMy03VjRNbHo4eDdlV1U4eDdpdEdEd2ktNmJZRVpHUmc0bnotRTBnOUtUQkdlU3ByTUFvc2ZzN2MyMlN2OGZ6ZzZIMGg2RzZ0QzF1dDJYMlVycTB1V3RkSTlLTGpPQ0txaDR6WXhQSUFSS3d1eWk3VXkzbzRzZXJWZk9FRnFXZ0x0SWU3aUNIUGNPY0NSbw?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 12:30:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "9 Bank of Canada rate cuts haven't touched your 20% credit card rate — here's why and what to do",
+      "link": "https://news.google.com/articles/CBMifEFVX3lxTE83YjBpa25vdXBXUDU3V0w4b2N6eHppQmN3NTJTZ2ZWOWtHWXhoZFVVekZHeE5iM24zbXdyMmE2bll1a0RKUHJsUTdtaU0yck1kd1FCRERKUkFlMHYxU2p6MEdNaWM5ZTdsSnA4OWQ0UXVoVDd5X3R6dFlSak0?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 11:30:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "K-Shaped Divide: Canada’s Housing Market Booms in Small Cities While Big-City Condos Languish",
+      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxPUVhydHZZNFlGQk40eWJxQjdsc21GQ2dpZmRCZEpOajBRTENSc2J0bEZkLTBfV19HaV90THpfeXVNbU5hbDM3XzJta285bmtHcHI3d3JiTktWZ01sTGtya000SzlLekYzY0dXR3l2N1RMbnNtZUtmZEdNY19GRlRHNm5aRVNQQ1pibjBUQU9VdTRfVWZpdk9PVVFZbEw0ZkRJSmtKWjFET2VKVFJJd0FyajRBaThILWE2MzBhZHg3VGZWQQ?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 05:08:12 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "NAI500",
+      "_pubUrl": "https://nai500.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Paying down your mortgage faster comes with trade-offs",
@@ -121,101 +243,13 @@
       "_ogDesc": "While extra payments can reduce long-term interest costs, they may also limit liquidity, trigger penalties and crowd out other financial priorities"
     },
     {
-      "title": "Netflix co-founder Reed Hastings to exit in June",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/16/netflix-co-founder-reed-hastings-to-exit-in-june/",
-      "pubDate": "Thu, 16 Apr 2026 23:51:32 -0400",
-      "description": "Netflix Chairman Reed Hastings is leaving the streaming service he co-founded 29 years ago as the company regains its footing after it lost its US$72 billion deal for Warner Bros Discovery.",
-      "content": "<media:description type=\"plain\"><![CDATA[In this Feb. 28, 2017, file photo, Netflix Founder and CEO Reed Hastings smiles during an interview in Barcelona, Spain. (AP Photo/Manu Fernandez, File)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/RY7HDF2TVR3AGBY4KRDVO4OKYY.jpg?auth=e5be5aac1c3bc95dd50d61cd5f7d2de284a7e4a2becfeff44bc2c209e6b9abe3&amp;smart=true&amp;width=1020&amp;height=573",
-      "_src": "bnn",
-      "_ogDesc": "Netflix Chairman Reed Hastings is leaving the streaming service he co-founded 29 years ago as the company regains its footing after it lost its US$72 billion deal for Warner Bros Discovery.",
-      "body": "<p>Netflix&nbsp;Chairman Reed Hastings is quitting the streaming service he co-founded 29 years ago.</p>\n<p>The departure of Hastings, 65, comes at an inopportune time. The company is searching for new avenues of growth as sales slow due to competition, and after&nbsp;a potentially transformative merger with Warner Bros Discovery&nbsp;fell through in February.</p>\n<p>Netflix on Thursday forecast earnings per share in the current quarter below analysts’ expectations and quarterly revenue growth that is the slowest in a year, according to LSEG.</p>\n<p>The company’s stock plunged around nine per cent on the news of Hastings’ departure.</p>\n<p>Netflix doubled down on its existing strategy to entertain the world, providing movies and series for many tastes, cultures and languages, in a 14-page shareholder letter released on Thursday. The company’s full-year outlook remained unchanged.</p>\n<p>The company’s co-chief executive, Greg Peters, said that Netflix ended last year with more than 325 million paid members and is entertaining an audience approaching a billion people. “But even given that number, we still have plenty of room to grow into our addressable market,” he said.</p>\n<p>In the letter to investors, Netflix said Hastings will not stand for re-election at its annual meeting in June and plans to focus on philanthropy and other pursuits.</p>\n<h2>From DVD rentals to streaming giant</h2>\n<p>Hastings transformed Netflix from a DVDs-by-mail business to a global streaming goliath that revolutionized the distribution of movies and television series. He led the company through missteps like the short-lived decision, in 2011, to spin off the DVD business into a service called Qwikster. He also steered it through a pandemic, which led to a surge of growth at Netflix even as other entertainment companies struggled.</p>\n<p>The entrepreneur forged Netflix’s unique performance culture in a moment of crisis, when funding for internet startups had dried up, and Hastings was forced to lay off one-third of his employees. This culling of everyone but the “keepers” led to a surge of productivity that laid the foundation for the Netflix Way, Hastings wrote in his book, “No Rules Rules.”</p>\n<p>“My real contribution at Netflix wasn’t a single decision,” Hastings wrote on Thursday, but rather, “building a company that others could inherit and improve.”</p>\n<p>Netflix Co-CEO Ted Sarandos lauded Hastings’ leadership and his desire to build a company that would survive him.</p>\n<p>“He built a company of risk-takers and a culture where character matters, and nobody rests in the pursuit of excellence,” said Sarandos. “I have loved working with and for Reed through amazing twists and turns in our business, and he has modelled what it is to be a leader and a friend.”</p>\n<p>LightShed Partners media analyst Richard Greenfield said “the departure of Reed Hastings has spooked investors.”</p>\n<h2>Warner Bros termination fee boost</h2>\n<p>The company did not say how it plans to spend the US$2.8 billion termination fee it received after losing the Warner Bros movie studio and HBO, and lifted its earnings per share to US$1.23 in the first quarter compared with 66 cents per share in the same quarter last year.</p>\n<p>Revenue rose to US$12.25 billion, an increase of 16 per cent from the year-ago period, modestly exceeding analyst forecasts of US$12.18 billion.</p>\n<p>Netflix, which long told investors that a Warner Bros acquisition was a “nice to have, not need to have” proposition, highlighted areas of future growth.</p>\n<p>The company said its investment in expanding its entertainment offerings with video podcasts, and live entertainment - such as the World Baseball Classic in Japan - is fueling engagement. It plans to use technology to enhance the user experience and improve monetization, as advertising revenue remains on track to reach US$3 billion in 2026 - a twofold increase from a year ago.</p>\n<p><i>Reporting by Dawn Chmielewski in Los Angeles and Harshita Mary Varghese in Bengaluru; Editing by Jennifer Saba and Matthew Lewis</i></p>"
-    },
-    {
-      "title": "Gordie Howe bridge opening date being ‘quietly’ negotiated to avoid angering Trump: source",
-      "link": "https://www.bnnbloomberg.ca/business/2026/04/16/gordie-howe-bridge-opening-date-being-quietly-negotiated-to-avoid-angering-trump-source/",
-      "pubDate": "Thu, 16 Apr 2026 23:48:49 -0400",
-      "description": "The opening date of the new bridge linking Canada and the U.S. is being quietly negotiated to let the criticism around it die down, according to an American source familiar with talks.",
-      "content": "",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/YBKTUEIY4FAORIHJKUNTIOWCWQ.jpg?auth=a0326803d329d80b6d526e67b9c3f765c19a639f6c39e4f01fd7f47292776c58&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "The opening date of the new bridge linking Canada and the U.S. is being quietly negotiated to let the criticism around it die down, according to an American source familiar with talks.",
-      "body": "<p>OTTAWA – The opening date of the new bridge linking Canada and the U.S. is being quietly negotiated to let the criticism around it die down, according to an American source familiar with talks.</p>\n<p>The source tells CTV News both sides are trying not to do anything that would “trigger the kooks and crackpots” around U.S. President Donald Trump, who has threatened to block the opening of the Gordie Howe International Bridge on the American side.</p>\n<p>CTV News isn’t naming the source, because they were not authorized to speak about the discussions over the opening of the bridge. However, they say it has been a big collective effort on both sides of the border.</p>\n<p>Officials representing the Crown corporation in charge of the new span continue to say the bridge is expected to open in the spring of 2026, without giving an exact date.</p>\n<p>“It’s just the reality of building new technology and new built infrastructure,” said Heather Grondin, chief relations officer for the Windsor-Detroit Bridge Authority.</p>\n<p>“We have to make some adjustments that we need to retest or recalibrate, and across this whole system, that ranges from things like our tolling system, our traffic management centre, the esthetic lights that people are seeing on the bridge”.</p>\n<p>Questions over when the bridge would open have persisted for the last two months as construction wrapped up, but the threats ramped up from Washington, D.C.</p>\n<p><a href=\"https://truthsocial.com/@realDonaldTrump/posts/116043090074364624\" target=\"_self\" rel=\"\" title=\"https://truthsocial.com/@realDonaldTrump/posts/116043090074364624\">In a Feb. 9 post on Truth Social</a>, U.S. President Donald Trump complained that Canada wasn’t treating the U.S. fairly when it came to trade, and he went on a lengthy tirade, including the construction of the Gordie Howe International Bridge as part of his grievance.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/politics/article/trump-says-canada-us-will-immediately-start-negotiations-over-windsor-detroit-bridge/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/politics/article/trump-says-canada-us-will-immediately-start-negotiations-over-windsor-detroit-bridge/\"><b>READ: Trump threatens to block opening of new bridge between Windsor and Detroit</b></a></li><li><a href=\"https://www.ctvnews.ca/windsor/article/democrats-say-theyre-escalating-investigation-into-gordie-howe-bridge-debacle/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/windsor/article/democrats-say-theyre-escalating-investigation-into-gordie-howe-bridge-debacle/\"><b>READ: Democrats say they’re escalating investigation into Gordie Howe bridge debacle</b></a></li></ul>\n<p>Pointing out Canada owns both sides of the bridge in both countries, Trump wrote, “I will not allow this bridge to open until the United States is fully compensated for everything we have given them, and also, importantly, Canada treats the United States with the Fairness and Respect that we deserve”.</p>\n<p>In the post, Trump complained about Canada’s supply-managed dairy sector, the removal of American spirits from Ontario-run liquor stores and the apparent lack of U.S. content in the Canadian-built Gordie Howe International bridge.</p>\n<p>CTV News reached out to the Canadian government to ask if Trump’s threat is affecting the announcement of the opening date of the $6.4-billion bridge.</p>\n<p>In a statement, the department of Housing, Infrastructure and Communities Canada said progress is being made towards the opening of the bridge this spring.</p>\n<p>“The exact opening date depends on the completion of the ongoing quality reviews and testing and commissioning activities,” wrote Caleb Spassov from the department. “Updates will be provided as that information is available”.</p>\n<p>While officials refuse to provide a clearer picture of exactly when the span will open to vehicle and pedestrian traffic, there are indications it could happen soon.</p>\n<p>The toll discount program for the Gordie Howe International Bridge, which has been aptly named “Breakaway,” is seeing brisk sales.</p>\n<p>“We’ve had over 5,000 accounts opened and over 12,000 transponders ordered through that process,” said Grondin. “We expect more to come as we announce an opening date.”</p>"
-    },
-    {
-      "title": "Canadians may go electric as EV market widens, expert says",
-      "link": "https://www.bnnbloomberg.ca/business/technology/2026/04/16/as-new-vehicle-sales-decrease-more-canadians-could-turn-to-evs-to-save-money-expert/",
-      "pubDate": "Thu, 16 Apr 2026 23:01:03 -0400",
-      "description": "Although new motor vehicle sales dropped for February, according to Statistics Canada’s latest report released Thursday, zero-emission vehicles have taken a larger piece of the pie of all sales compared to this time last year.",
-      "content": "<media:description type=\"plain\"><![CDATA[FILE: A man uses an electric vehicle charger. (AP Photo/Mike Stewart)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Mike Stewart</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/6J2MHSLZANDRRMWZUJEI73RM5Q.jpg?auth=5e0507e79e674ad863d54133c809f3b1b9c1fca39476d45413e5ad4e9ece920b&amp;smart=true&amp;width=5301&amp;height=3534",
-      "_src": "bnn",
-      "_ogDesc": "Although new motor vehicle sales dropped for February, according to Statistics Canada’s latest report released Thursday, zero-emission vehicles have taken a larger piece of the pie of all sales compared to this time last year.",
-      "body": "<p>Although new motor vehicle sales dropped for February, according to Statistics Canada’s <a href=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260416/dq260416a-eng.htm\" rel=\"\" title=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260416/dq260416a-eng.htm\">latest report</a> released Thursday, zero-emission vehicles (ZEV) have taken a larger piece of the pie of all sales compared to this time last year.</p>\n<p>There were just over 124-thousand new motor vehicles sold in Canada in February, down nearly one per cent compared to the same month last year. Sales of new passenger cars fell nearly four per cent, while sales of new trucks saw a smaller decline at half a percentage point.</p>\n<p>In the same month, 12,626 new ZEVs were sold. That’s an increase of just over 47 per cent from February of 2025.</p>\n<p>New ZEVs, which are categorized as battery electric or plug-in hybrid electric vehicles, also comprised just over ten per cent of total new motor vehicles sold, an increase of more than three per cent from one year earlier.</p>\n<p>In mid-February, the federal government began the Electric Vehicle Affordability Program – which could return as much as $5,000 to consumers for purchasing battery electric vehicles.</p>\n<p>Transports Canada put out a full list of vehicles eligible under the five-year, $2.3-billion EV affordability program, with the incentives dependent on the duration of the lease. They are also designed to decrease over the five years by $1,000 each year.</p>\n<p>The rebates are only available for vehicles imported from a country that has a pre-existing free-trade deal with Canada and cost less than $50,000.</p>\n<p>“Late last year, the second half was kind of low sales – but now you’re seeing an uptick again,” said Devin Arthur, director of government relations with Electric Vehicle Society, in a Zoom interview with CTV News Thursday.</p>\n<p>“I think a lot of those affordability issues, and now the incentive coming back, I think all that’s coming to play with more increased EV sales.”</p>\n<p>Arthur added there’s a resurgence in interest for Chinese EVs potentially coming into Canada, especially with increasing fuel prices amid the Middle East conflict between the U.S., Israel and Iran.</p>\n<p>“I think people are looking for more ways to save money,” he said. “So switching to an EV can do that.”</p>\n<h2>Is the infrastructure there?</h2>\n<p>Electric vehicles represented roughly 10 of all new car sales in February and experts predict that number will continue to grow.</p>\n<p>For now, experts say Canada has the infrastructure to handle a slight surge in electric vehicle purchases, but they warn that won’t last long without new investment in the energy grid and the charging network.</p>\n<p>Western University associate professor Gal Raz says overall, Canada is not where it’s supposed to be.</p>\n<p>“We have less than 40,000 chargers and one of the challenges is that a majority are Level 2, so they’re not even fast charging,” he said.</p>\n<p>Level 2 chargers use 240-volt electric outlets and can typically charge an EV in approximately four to 10 hours.</p>\n<p>The federal government says that since 2016, it has invested more than $1 billion to help make EVs more affordable and make chargers more accessible. Of the nearly <a href=\"https://natural-resources.canada.ca/energy-efficiency/transportation-energy-efficiency/electric-charging-alternative-fuelling-stationslocator-map#/analyze?country=CA&amp;tab=fuel&amp;fuel=ELEC&amp;ev_levels=dc_fast\" rel=\"\">40,000 charging ports,</a> just 8,500 are DC Fast or so-called superchargers, also known as Level 3.</p>\n<p>Raz says Canada needs to follow the lead of major players like Norway and China, who made massive investments in superchargers. China, he points out, went from 5 million chargers in 2022 to almost 20 million today. He also says Canada could start offering incentives or other measures that make getting a charger installed at home easier and less expensive.</p>\n<p>“Norway passed a law, “<a href=\"https://www.ivey.uwo.ca/media/jnmnxjn2/western-drivingchange-12-sm.pdf\" rel=\"\">the right to charge</a>,” in 2021 which made a big difference,” he said. “It really kind of meant that anybody who wanted to get a charger in their home could.”</p>\n<h2>How will Chinese EVs change the landscape?</h2>\n<p>Canada will soon be allowing a limited number of Chinese EVs to be imported and sold into Canada essentially tariff-free at an import price of less than $35,000. Experts believe this change will help drum up interest in electric vehicles and that their sale could help drop EV prices.</p>\n<p>Speaking to the standing committee on science and research, Canadian Michael Kovrig called on Canadians to think strategically. The new trade agreement with China, he warned, must be executed very carefully as the impacts on the auto sector could be large and long lasting.</p>\n<p>“Unless this trade is tightly constrained, it’s likely to undermine Canada’s industrial base and technological development and weaken national security and policy making autonomy,” Kovrig said.</p>\n<p>The former Canadian diplomat who was arbitrarily detained in China says the quota the government has introduced can help limit import volumes, but it will not protect against data security risks.</p>\n<p>“A quota can limit import volumes, but it doesn’t address the risk of connected vehicles running untrusted software, or the entrenchment of imported Chinese brands that foster consumer loyalty and political pressure to expand the quota,” he said.</p>\n<p>Arthur added there’s a resurgence in interest for Chinese EVs potentially coming into Canada, especially with increasing fuel prices amid the Middle East conflict between the U.S., Israel and Iran.</p>\n<p>“I think people are looking for more ways to save money,” he said. “So, switching to an EV can do that.”</p>\n<p>Some national security and privacy experts have raised concerns about the high-tech Chinese vehicles and the information they could be collecting and sharing with the Chinese government.</p>\n<p>Speaking before the same committee, Canada’s Privacy Commissioner Philippe Dufresne said he hopes laws around private sector data sharing are strengthened. Canadians, Defresne said, shouldn’t have to sacrifice privacy for a cheaper car.</p>\n<p>“Generally speaking, I find that the consent and the information sharing for Canadians in terms of their privacy, in many cases, could be stronger,” said Dufresne.</p>\n<p>“I am hoping that government and Parliament will modernize private sector privacy law on a number of fronts. We need stronger enforcement rules. It’s quite a notable gap that Canada, almost alone, we lack the ability for my office to issue orders, or to issue fines.”</p>"
-    },
-    {
-      "title": "What the U.S. Live Nation-Ticketmaster ruling could mean for Canadians",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/16/what-the-us-live-nation-ticketmaster-ruling-could-mean-for-canadians/",
-      "pubDate": "Thu, 16 Apr 2026 21:12:32 -0400",
-      "description": "A U.S. jury ruling against Live Nation and Ticketmaster could eventually result in lower ticket prices for Canadian concertgoers, according to a former federal U.S. prosecutor.",
-      "content": "<media:description type=\"plain\"><![CDATA[The Ticketmaster logo is seen along the sideline of the field before an NFL football game, Sept. 15, 2024, in Jacksonville, Fla. (AP Photo/Phelan M. Ebenhack, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Phelan M. Ebenhack</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VCLSQBRXYDC4AOGSKA325J7LPQ.jpg?auth=538405f2c12a7bd1b9626050f72b99faa680be947399d723c0c63102e72fc821&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "A U.S. jury ruling against Live Nation and Ticketmaster could eventually result in lower ticket prices for Canadian concertgoers, according to a former federal U.S. prosecutor.",
-      "body": "<p>VANCOUVER — A U.S. jury ruling against <a href=\"https://www.ctvnews.ca/world/article/us-jury-finds-that-ticketmaster-live-nation-had-anticompetitive-monopoly-over-big-concert-venues/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/article/us-jury-finds-that-ticketmaster-live-nation-had-anticompetitive-monopoly-over-big-concert-venues/\">Live Nation and Ticketmaster</a> could eventually result in lower ticket prices for Canadian concertgoers, who may also qualify for compensation, according to a former federal U.S. prosecutor.</p>\n<p>A New York jury on Wednesday found the massive concert promoter and its subsidiary operated an illegal monopoly which overcharged customers and stifled competition.</p>\n<p>Mitchell Epner, a former federal prosecutor in New York, said the verdict marks a major turning point for music fans on both sides of the border.</p>\n<p>“This is a good day for concertgoers, and it was a very, very bad day for Live Nation - Ticketmaster,” Epner told CTV News Thursday.</p>\n<p>The case was brought by 30 U.S. states, accusing Live Nation of using its market dominance to inflate fees and block competition. Jurors concluded Ticketmaster overcharged buyers by US$1.72 per ticket, an amount that Epner says could be tripled under U.S. antitrust law.</p>\n<p>“Whatever amount of money the judge ultimately finds concertgoers were overcharged, that will be tripled in the amount that Live Nation is required to pay,” Epner said.</p>\n<p>That means customers, including Canadians who purchased tickets through Ticketmaster for shows in Canada, could potentially qualify for compensation if damages are awarded.</p>\n<p>“The location of the concert does not impact the ability to recover,” Epner confirmed.</p>\n<p>The ruling could also reshape the concert business by forcing Live Nation to separate from Ticketmaster, a move Epner says would open the door to more competition in ticket sales and event promotion, “really changing the way in which people attend live events, sports and music around North America.”</p>\n<p>And, Epner says, the ruling could lead to lower ticket prices.</p>\n<p>“What it almost certainly will lead to is more competition, more opportunities for acts to go to different venues and not end up where Ticketmaster takes a big percentage of the money that’s coming out of fans’ pockets.”</p>\n<p>He noted the service charges and convenience fees that have long infuriated concert fans often make up a significant share of the ticket price.</p>\n<p>“A person will spend $100 to get into the venue, but $65 of it will be ticket price and the other $35 will be various Ticketmaster fees and convenience charges,” Epner said.</p>\n<p>The final outcome, and what could change for Canadian concertgoers, will depend on the upcoming decision of a judge.</p>\n<p>“The jury was asked to find Live Nation liable, and they did,” Epner said. “But that’s really just the beginning of the remedies phase here.”</p>"
-    },
-    {
-      "title": "Wall Street sets another record after U.S. stocks tick higher",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/04/16/wall-street-holds-at-its-record-high-even-as-oil-prices-climb/",
-      "pubDate": "Thu, 16 Apr 2026 21:00:37 -0400",
-      "description": "The U.S. stock market ticked to another record high  Thursday as Wall Street waits for more clues about what will happen in the Iran war  before making its next big move.",
-      "content": "<media:description type=\"plain\"><![CDATA[John Bishop, left, and others work on the floor at the New York Stock Exchange in New York, Monday, April 13, 2026. (AP Photo/Seth Wenig)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/5WIN4RPR6BFNNKZ45HAZV7DCZY.jpg?auth=1afb1915cebf66f84e33778f4f09145c1b6ec8d026e8091752860665cbbcba5f&amp;smart=true&amp;width=7814&amp;height=5209",
-      "_src": "bnn",
-      "_ogDesc": "The U.S. stock market ticked to another record high  Thursday as Wall Street waits for more clues about what will happen in the Iran war  before making its next big move. ",
-      "body": "<p>The U.S. stock market ticked to another record high&nbsp; Thursday as Wall Street waits for more clues about what will happen in the Iran war&nbsp; before making its next big move.</p>\n<p>The S&amp;P 500 rose 0.3 per cent, a day after topping its prior all-time high set in January, for its 11th gain in 12 days. The Dow Jones Industrial Average added 115 points, or 0.2 per cent, and the Nasdaq composite rose 0.4 per cent.</p>\n<p>U.S. stocks have leaped more than 10 per cent since hitting a low in late March, driven by hopes for an end to the war or something that could avert a worst-case scenario for the global economy. Now, the wait is on to see if such hopes were prescient or just wishful thinking.</p>\n<p>Pakistan’s powerful army chief met Thursday with Iran’s parliament speaker as part of efforts to press for an extension to a ceasefire that has paused almost seven weeks of war between Israel, the U.S. and the Islamic Republic.</p>\n<p>Oil prices climbed, showing that caution still remains in financial markets. The price for a barrel of Brent crude oil, the international standard, rose 4.7 per cent to settle at US$99.39. It’s gone from roughly US$70 before the war to as high as US$119 at times on uncertainty about how long the war will keep oil stuck in the Persian Gulf area and away from customers.</p>\n<p>“The key upside risk for the market is that peace talks between the US and Iran break down,” ING Bank strategists Warren Patterson and Ewa Manthey wrote Thursday. “This isn’t an unrealistic scenario, given that US and Iranian demands remain fairly wide apart.”</p>\n<p>In the meantime, big U.S. companies are continuing to deliver growth in profits for the start of 2026 that’s even better than analysts expected. Such growth is the lifeblood of the stock market, whose level tends to follow the track of corporate profits over the long term.</p>\n<p>PepsiCo rose 2.3 per cent after reporting better results for the latest quarter than analysts expected. Customers bought more snacks during the quarter, after the company said in February it would cut prices on Lay’s, Doritos, Cheetos and Tostitos chips to win back people frustrated by high prices.</p>\n<p>J.B. Hunt Transport Services vroomed 6.3 per cent higher, and Marsh &amp; McLennan climbed 4.4 per cent after both likewise delivered stronger results than expected.</p>\n<p>Technology stocks also broadly got some support after Taiwan Semiconductor Manufacturing Co., an industry heavyweight, reported stronger revenue and profit for the start of 2026 than analysts expected. TSMC’s Chief Financial Officer Wendell Huang said the company expects strong demand to continue into the spring.</p>\n<p>On the losing end of Wall Street was Abbott, which fell 6 per cent even though it reported slightly better results than analysts expected. The health care company cut its forecast for profit over the full year, mostly because of its purchase of cancer-screening company Exact Sciences.</p>\n<p>Allbirds&nbsp; slumped 35.8 per cent, but that gave back only a portion of its 582 per cent surge from the day before. The company formerly known for sneakers is pivoting to the artificial-intelligence industry and hopes to rent out the use of high-powered AI chips as a service.</p>\n<p>All told, the S&amp;P 500 rose 18.33 points to 7,041.28. The Dow Jones Industrial Average added 115.00 to 48,578.72, and the Nasdaq composite gained 86.69 to 24,102.70.</p>\n<p>In stock markets abroad, indexes climbed across much of Europe and Asia. Japan’s Nikkei 225 jumped 2.4 per cent, South Korea’s Kospi rallied 2.2 per cent and Hong Kong’s Hang Seng rose 1.7 per cent for some of the world’s larger moves.</p>\n<p>China on Thursday reported 5 per cent economic growth for the January-March quarter, an acceleration from the previous quarter. While economists say China has largely shrugged off the initial impacts of the Iran war, some are warning its massive export engine could be hit more significantly in the coming months on slower global economic growth.</p>\n<p>In the bond market Treasury yields rose a bit after a report showed fewer U.S. workers applied for unemployment benefits&nbsp; last week.</p>\n<p>The yield on the 10-year Treasury rose to 4.31 per cent from 4.29 per cent late Wednesday.</p>\n<p><i>Stan Choe, The Associated Press. AP Business Writers Chan Ho-him and Matt Ott contributed to this report.</i></p>"
-    },
-    {
-      "title": "S&P/TSX composite slides more than 100 points, U.S. markets hit new highs",
-      "link": "https://www.bnnbloomberg.ca/markets/tsx/2026/04/16/sptsx-composite-edges-lower-in-late-morning-trading/",
-      "pubDate": "Thu, 16 Apr 2026 20:56:21 -0400",
-      "description": "Canada’s main stock index fell, while U.S. markets edged up to another record high on Thursday as investors wait for more information about the war in Iran.",
-      "content": "<media:description type=\"plain\"><![CDATA[The Toronto Stock Exchange Broadcast Centre is shown in Toronto on June 28, 2013. THE CANADIAN PRESS/Aaron Vincent Elkaim]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Aaron Vincent Elkaim</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/PF5R6IJJCSAJT4YOODZ6JZ64GQ.jpg?auth=ae8e8c5ce475441248401056783c3b27d137c14e9b8846961850677e626a52a2&amp;smart=true&amp;width=1400&amp;height=931",
-      "_src": "bnn",
-      "_ogDesc": "Canada’s main stock index fell, while U.S. markets edged up to another record high on Thursday as investors wait for more information about the war in Iran.  ",
-      "body": "<p>Canada’s main stock index fell, while U.S. markets edged up to another record high on Thursday as investors wait for more information about the war in Iran.&nbsp;</p>\n<p>“The market, it’s rallied extremely fast and now it’s taking its breath a little, which is very normal in this situation,” said Pierre-Benoît Gauthier, vice-president of investment strategy at IG Wealth Management.</p>\n<p>The S&amp;P/TSX composite index was down 103.76 points at 34,052.23.</p>\n<p>Meanwhile, in New York, the Dow Jones industrial average was up 115.00 points at 48,578.72. The S&amp;P 500 index was up 18.33 points at 7,041.28, while the Nasdaq composite was up 86.69 points at 24,102.70.</p>\n<p>The S&amp;P 500 rose a day after topping its prior all-time high set in January, for its 11th gain in 12 days. U.S. stocks have leaped more than 10 per cent since hitting a low in late March, driven by hopes for an end to the war or something that could avert a worst-case scenario for the global economy. Now, the wait is on to see if such hopes were prescient or just wishful thinking.</p>\n<p>Pakistan’s powerful army chief met Thursday with Iran’s parliament speaker as part of efforts to press for an extension to a ceasefire that has paused almost seven weeks of war between Israel, the U.S. and the Islamic Republic. &nbsp;&nbsp;</p>\n<p>Oil prices climbed, showing that caution still remains in financial markets.&nbsp;</p>\n<p>The June crude oil contract was up US$3.04 at US$91.17 per barrel.</p>\n<p>The price for a barrel of Brent crude oil, the international standard, rose 4.7 per cent to settle at US$99.39. It’s gone from roughly US$70 before the war to as high as US$119 at times on uncertainty about how long the war will keep oil stuck in the Persian Gulf area and away from customers.</p>\n<p>While the situation in the Middle East is not yet resolved, Gauthier said oil prices appear to have stabilized between US$90 and US$100 and “the market is OK with that.”&nbsp;</p>\n<p>“It appears that at these levels it’s not enough to derail the economy, and it’s surely not enough to derail earnings because earnings season has started and so far the commentary has been very strong and the results themselves have been extremely strong,” Gauthier said.&nbsp;</p>\n<p>Big U.S. companies are continuing to deliver profit growth for the start of 2026 that’s even better than analysts expected. Such growth is the lifeblood of the stock market, whose level tends to follow the track of corporate profits over the long term.</p>\n<p>Technology stocks also broadly got some support after Taiwan Semiconductor Manufacturing Co., an industry heavyweight, reported stronger revenue and profit for the start of 2026 than analysts expected.&nbsp;</p>\n<p>On the TSX, the consumer non-cyclicals sector led the declines.&nbsp;</p>\n<p>“It’s the defensive sectors that are going down. The consumer staples and the utilities are having a bad day, even the Canadian banks are having a bad day,” Gauthier said.&nbsp;</p>\n<p>“That aligns with the overall theme that the market is moving away from more risk-off classic sectors and themes and back into risk-on themes like big technology.”&nbsp;</p>\n<p>The Canadian dollar traded for 72.94 cents US compared with 72.75 cents US on Wednesday. &nbsp;</p>\n<p>The June gold contract was down US$15.30 at US$4,808.30 an ounce. &nbsp;</p>\n<p><i>This report by The Canadian Press was first published April 16, 2026.</i></p>\n<p><i>Daniel Johnson, The Canadian Press. With files from The Associated Press. &nbsp;&nbsp;</i></p>"
-    },
-    {
-      "title": "Market Outlook: Stocks near records as investors look past oil volatility",
-      "link": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/04/16/market-outlook-stocks-near-records-as-investors-look-past-oil-volatility/",
-      "pubDate": "Thu, 16 Apr 2026 20:39:28 -0400",
-      "description": "Markets near record highs as investors look past oil volatility, with strength in big tech, bank earnings and resilient consumer spending.",
-      "content": "<media:description type=\"plain\"><![CDATA[Trader William Lawrence works on the floor of the New York Stock Exchange, Wednesday, Jan. 7, 2026. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/PEGJMD3ESZDV6P57RFRIYKKLVU.jpg?auth=616c084f50e52ac37c3082eb4c2cd5e634b2729ed6264cd7760686a8443b82ae&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Markets near record highs as investors look past oil volatility, with strength in big tech, bank earnings and resilient consumer spending.",
-      "body": "<p>North American equities are hovering near record highs despite elevated oil prices and ongoing uncertainty in the Middle East, with investors appearing to price in a path toward stability.</p>\n<p>BNN Bloomberg spoke with Benjamin Klein, senior portfolio manager at Baskin Wealth Management, about market concentration in big tech, strong bank earnings and where he is seeing investment opportunities.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Major indices are near record highs as investors look beyond geopolitical uncertainty and focus on underlying economic resilience. </li><li>Market gains remain concentrated in large-cap technology, with strong earnings potential offset by concerns around capital spending and supply constraints. </li><li>Semiconductor demand remains robust, supporting optimism for chipmakers despite ongoing shortages and capacity limits. </li><li>U.S. bank earnings were solid, supported by trading revenue from market volatility and steady consumer spending. </li><li>Consumer staples face ongoing pressure from weaker demand and pricing adjustments, while investors see stronger opportunities in AI-linked infrastructure and technology.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>ROGER:</b> Despite high oil prices and the lack of a peace deal in the Middle East, U.S. markets are sitting around record highs. Yesterday, the S&amp;P 500 closed at a record high. The Nasdaq, the TSX, just a couple hundred points away from its peak, and seeing double-digit gains at times. Joining us now is Benjamin Klein, senior portfolio manager at Baskin Wealth Management. Benjamin, thanks, as always, for joining us.</p>\n<p><b>BENJAMIN:</b> Thanks for having me.</p>\n<p><b>ROGER:</b> When you look at what’s unfolding, we don’t have any kind of a peace agreement. We have a truce. People are treating it, though, like this is all over. Your thoughts on that?</p>\n<p><b>BENJAMIN:</b> I think investors are kind of latching on to some sort of clarity, some sort of sense of normalcy that we can get. The reality is we have no idea how long it’s going to take, what the treaty is going to look like when it happens. This could very easily still be in the early innings. I don’t think anybody knows.</p>\n<p><b>ROGER:</b> And are they baking in that this will be closer to being resolved rather than further away from being resolved? And when we do finally hear any kind of official statement, we won’t see much movement in the markets?</p>\n<p><b>BENJAMIN:</b> I mean, hard to tell. Obviously, the price of oil has been so volatile, and you would expect it to come down when and if there’s a deal, when and if oil becomes more able to freely move around. In terms of the markets, it certainly seems like things are closer to where they were at the beginning of the year, before the war started. But I think every investor has probably got a different idea of how long this is going to take and what the impacts are going to be.</p>\n<p><b>ROGER:</b> And through all of this, now that it’s kind of slowing, relatively speaking, slowing down, we’re starting to look back at big tech. It’s becoming sexy again.</p>\n<p><b>BENJAMIN:</b> Yeah, the market is still, I think, as everyone knows, extremely heavily weighted toward big tech. We think that big tech is still very attractively valued, just given the earning power, the earnings growth potential going forward. But there’s also skepticism out there about capital expenditure, how much they’re spending, memory shortages, chip shortages, energy requirements. We are still owners of big tech, and we still think there’s a bright future ahead, but it’s not necessarily all sunshine and rainbows.</p>\n<p><b>ROGER:</b> And what do you think of TSMC? They’re talking about their 2026 sales growth could be 30 per cent.</p>\n<p><b>ROGER:</b> Is that a good sign, or are they being optimistic?</p>\n<p><b>BENJAMIN:</b> We think that there are every signs that demand is real. I mean, there are, as we know, enormous chip shortages, enormous inability to create all the chips for which there’s demand. We think that’s great for them. We are owners of TSMC, and on a valuation basis, just given their unbelievable earnings growth and unbelievable profits, you can argue the valuation is basically the same as it was 18 months ago. So we are very bullish on TSMC.</p>\n<p><b>ROGER:</b> And you mentioned capex. Is that the big potential headwind, or the big concern for a lot of people?</p>\n<p><b>BENJAMIN:</b> It’s a major one. I mean, we’re not talking about billions of dollars here. Of course, you’re talking about tens or hundreds of billions of dollars. And even for the big techs, even given their scale, given their size, that has a significant impact on their bottom line, and whether they’re able to earn a significant enough return on investment on that kind of outlay is obviously a big question in a lot of investors’ minds.</p>\n<p><b>ROGER:</b> So which way are you looking then? You mentioned you’re still into big tech. How are you approaching it?</p>\n<p><b>BENJAMIN:</b> So we think that, number one, it’s an attractive way to invest in what we would call AI infrastructure, as opposed to picking who’s going to be the best model, who’s going to monetize their model and their systems most effectively. We think that owning not just the big techs, but partly the big techs, is a way to have AI exposure without necessarily having to pick the winner, so to speak. You have Microsoft and Amazon providing the computing power on the back end. Google and Apple are going to be how AI gets into the hands of consumers. So we think it’s a way to add sufficient AI exposure without necessarily having the risk of OpenAI winning or Anthropic winning, or what have you.</p>\n<p><b>ROGER:</b> Want to move on to banks. American banks, their earnings this week — your thoughts on what you’re seeing? They’re pretty solid for the most part.</p>\n<p><b>BENJAMIN:</b> Yep. And like Canadian banks, although maybe to a lesser extent, they continue to benefit from market volatility. They benefit on trading revenue. And the more volatile the market is, tends to be better for banks, so they continue to benefit from that tailwind. Although, of course, who knows how long that’s going to last. And on the side of U.S. consumer spending, that’s been pretty solid as well. So we think the American banking sector looks pretty healthy to us.</p>\n<p><b>ROGER:</b> What do you like about them, and what’s maybe a concern for you?</p>\n<p><b>BENJAMIN:</b> Well, they’re a play on not only stock market health and volatility, but also on the U.S. economy as a whole. And if you’re skeptical about the U.S. economy — and I wouldn’t say we are — you might have concerns about whether consumer spending is going to decline and whether retail banking will decline as a result. But we are actually relatively low weight U.S. banking, though we think the sector is perfectly reasonable and investable.</p>\n<p><b>ROGER:</b> All right, and PepsiCo had its earnings out. It did okay, thanks to Frito-Lay, essentially.</p>\n<p><b>BENJAMIN:</b> Yeah, they’ve had to cut prices on Frito-Lay products, just given their inability to grow sales. Consumer staples have continued to be sluggish, and they’ve been sluggish for a while. Pepsi did raise prices — not on Frito-Lay, but other products — I think three or four years ago. They, like a lot of other food and beverage companies, are having headwinds from GLP-1. We actually own Coca-Cola, so we are interested to dig a little deeper into Pepsi’s results. But they’ve been fine. It was certainly not a disaster by any stretch.</p>\n<p><b>ROGER:</b> And with Pepsi, can you say, so goes Pepsi, so goes Coke? Or are they still different to a significant extent?</p>\n<p><b>BENJAMIN:</b> We think Coca-Cola is a little bit of a higher-quality business, and they’ve been a little bit more consistent. It’s arguably a bit more of a luxury good, as opposed to Pepsi, which is a little bit cheaper. But both companies, of course, are to a significant extent very comparable.</p>\n<p><b>ROGER:</b> All right. And let’s sneak in one more. Netflix has its earnings coming up, first one since they stepped back from the Warner Bros. deal. It looks like it may have been a good thing for them.</p>\n<p><b>BENJAMIN:</b> Yeah, whenever there’s a merger or potential acquisition, the big question is how much you’re going to pay. And if you pay too much and you’re not able to get a return on your investment, then you’re probably better off not doing it in the first place. So we’re looking for clarity and guidance from Netflix on what their content spend is going to look like going forward, what their overall strategy is going to be, and how they feel about missing out on that opportunity. We thought that if the price was reasonable, it could have been a transformational acquisition. But there’s obviously a limit to how much you’re willing to pay, and it seems encouraging that they weren’t taking a “no price is too high” approach. We’re interested to see what Netflix has to say.</p>\n<p><b>ROGER:</b> All right, we’ll wrap it up there. Benjamin, thanks, as always, for joining us.</p>\n<p><b>BENJAMIN:</b> Thank you.</p>\n<p><b>ROGER:</b> Benjamin Klein, senior portfolio manager at Baskin Wealth Management.</p>\n<p><i>This BNN Bloomberg summary and transcript of the April 16, 2026 interview with Benjamin Klein are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
-    },
-    {
-      "title": "Clean up of Imperial Oil spill in northern Alberta underway",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/16/clean-up-of-imperial-oil-spill-in-northern-alberta-underway/",
-      "pubDate": "Thu, 16 Apr 2026 17:00:53 -0400",
-      "description": "About 843,000 litres of crude bitumen and salt water leaked from an Imperial Oil pipeline in northern Alberta last week.",
-      "content": "<media:description type=\"plain\"><![CDATA[Imperial Oil logo as seen at the company's annual meeting in Calgary, Friday, April 29, 2016.THE CANADIAN PRESS/Jeff McIntosh]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jeff McIntosh</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/GD7FS2EL7KI76YJTAQFIPO7ZDU.jpg?auth=8e120783b820ded7e5b33d88ab24c8687c00b81041ab8f018e36141a36201fd0&amp;smart=true&amp;width=1400&amp;height=990",
-      "_src": "bnn",
-      "_ogDesc": "About 843,000 litres of crude bitumen and salt water leaked from an Imperial Oil pipeline in northern Alberta last week. ",
-      "body": "<p>About 843,000 litres of crude bitumen and salt water leaked from an Imperial Oil pipeline in northern Alberta last week.</p>\n<p>The spill happened on April 9 about 32 kilometres northwest of Cold Lake.</p>\n<p>Imperial Oil’s teams responded immediately to stop and contain the leak, spokesperson Lisa Schmidt told CTV News Edmonton on Thursday.</p>\n<p>“We are sorry this incident has occurred; cleanup and remediation activities are underway. We have trained personnel assessing the site and are continuing to monitor the area,” Schmidt said in a statement.</p>\n<p>Both Imperial Oil and the Alberta Energy Regulator (AER) are investigating the cause.</p>\n<p>The leak consisted of 172,000 litres of crude bitumen and 671,000 litres of salt water.</p>\n<p>No impacts to water bodies or wildlife have been reported.</p>\n<p>AER is overseeing the cleanup, which it described as 90-per cent complete on Thursday.</p>\n<p>The agency said a wildlife mitigation and management plan is being implemented, which includes deterrents like snow fencing around the perimeter of the leak and bird deterrents. A third-party wildlife biologist has also done an initial wildlife sweep and the area is swept daily.</p>\n<p>Imperial Oil says it notified local communities and the Alberta Energy Regulator (AER), and representatives from the Cold Lake First Nations visited the site last week.</p>\n<h2>Related Stories</h2>"
-    },
-    {
       "title": "Canadian Existing Home Sales (March 2026)",
       "link": "https://news.google.com/articles/CBMiW0FVX3lxTE43aVpucXh2ZFZBRV9jd1VXRkFsajR2VTZoclJrbUlKWkdHbHQ2ZTlWTGthZ2ljdmdRMXZodF8xcVNvX3VzR1hiSmZyd29JV2xvMGZCWWdyLWZJaTA?oc=5",
       "pubDate": "Thu, 16 Apr 2026 20:33:02 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
+      "_src": "gnontre",
       "_publisher": "TD Economics",
       "_pubUrl": "https://economics.td.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -227,7 +261,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
+      "_src": "gnboc",
       "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -267,6 +301,15 @@
       "body": "<p>Royal LePage&rsquo;s 2026 Market Survey Forecast pointed to a fragile national recovery, with most big-city markets edging higher while Toronto and Vancouver stayed in reverse.</p>\n<p>The brokerage projected the national aggregate home price would reach $815,272 in the fourth quarter of 2026, up 1.0% year over year from $807,200.</p>\n<p>Across the 12 major markets in the report, 10 are expected to post gains.</p>\n<p>The Greater Montreal Area was forecast to see prices rise 5.0% to $672,735, Ottawa 2.0% to $786,624, and Calgary 1.5% to $691,926.</p>\n<p>Halifax, Winnipeg and Regina were each projected to record 4.0% growth, while Edmonton is expected to climb 2.0%.</p>\n<h2><strong>Quebec City becomes the standout market</strong></h2>\n<p>The sharpest move is slated for Quebec City, where Royal LePage forecast a 12.0% year‑over‑year jump in Q4 2026, to an aggregate price of $508,032 from $453,600. The firm said that outlook reflects&nbsp;tight supply and steady demand rather than speculative heat.</p>\n<p>Economic headwinds and geopolitical shocks&nbsp;weighed on the early‑2026 picture. The Royal LePage House Price Survey and Market Forecast said &ldquo;economic challenges and geopolitical uncertainty&rdquo; &ndash; including the US&nbsp;and Israel&rsquo;s war on Iran &ndash; were partly to blame for a slow start to the year, with national aggregate prices down 2% year over year in the first quarter but up 0.7% from late 2025.</p>\n<p>Phil Soper, Royal LePage president and CEO, said the sluggish opening months were also shaped by nervous first‑time buyers, &ldquo;sell‑before‑buy behaviour&rdquo; and restricted inventory in prime markets.</p>\n<p>He added that an eventual reset, paired with lower rates, has&nbsp;the potential to &ldquo;rebuild market confidence among both buyers and sellers.&rdquo;</p>\n<h2><strong>Toronto and Vancouver remain the weak spots</strong></h2>\n<p>In the Greater Toronto Area, the forecast called for a 4.5% decline in aggregate prices by Q4 2026, to $1,035,507 from $1,084,300.</p>\n<p>The firm reported that in Q1 2026 the GTA&rsquo;s aggregate price already dipped 4.7% year over year to $1,091,900, even as values inched up quarter over quarter.</p>\n<p>Royal LePage broker Shawn Zigelstein said price growth &ldquo;remains flat&rdquo; in Toronto, with &ldquo;elevated supply levels&rdquo; keeping conditions balanced.</p>\n<p>He said condo activity has&nbsp;picked up slightly thanks to first‑time buyers and downsizers, but a &ldquo;degree of gridlock with buyers and sellers waiting for more favourable conditions to move forward&rdquo; persists.</p>\n<p>Vancouver is also expected to post a 3.5% annual price drop in Q4 2026, to $1,137,542 from $1,178,800, underscoring the uneven nature of the national rebound.</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/toronto-and-vancouver-slump-masks-stronger-housing-markets-across-canada/572033\">Toronto and Vancouver slump masks stronger housing markets across Canada</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/market-updates/ten-of-12-major-canadian-markets-to-see-price-growth-in-2026-says-royal-lepage/572031\">Ten of 12 major Canadian markets to see price growth in 2026, says Royal LePage</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/kingsett-choice-strike-94bn-first-capital-deal/572028\">KingSett, Choice strike $9.4bn First Capital deal</a></h3>"
     },
     {
+      "title": "Mortgage Rates, Uncertainty Kept Canadian Buyers Sidelined In March",
+      "link": "https://storeys.com/canadian-home-sales-march-2026/",
+      "pubDate": "Thu, 16 Apr 2026 18:38:18 +0000",
+      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=34010873&width=1200&height=800&coordinates=27%2C0%2C28%2C0\"/><br/><br/><p>New data from the Canadian Real Estate Association shows national home sales were essentially unchanged in March 2026, ticking down just 0.1% month-over-month — but the stability masks a more complicated picture.</p><p>Actual (not seasonally adjusted) sales came in 2.3% below March 2025, while the national average home price landed at $673,084, down 0.8% year-over-year. The MLS® Home Price Index Composite fell 0.4% month-over-month and was down 4.7% compared to March 2025 — though the month-over-month decline was smaller than in February, and roughly half the drop recorded in January.</p><p>New listings edged down 0.2% month-over-month, leaving overall supply at its lowest levels since mid-2024. With sales and new supply both little changed, the national sales-to-new listings ratio held steady at 47.8% — below the long-term average of 54.8%, but still within the range generally considered balanced market territory. There were 167,524 properties listed for sale across Canadian MLS® Systems at the end of March, up just 1% from a year earlier and 10.6% below the long-term average for this time of year. Months of inventory sat at five nationally — unchanged from January and February, and in line with the long-term average.</p><p>CREA Senior Economist Shaun Cathcart pointed to a confluence of headwinds keeping buyers on the sidelines. </p><p>\"Home sales activity remained at lower levels in March, as rising global economic uncertainty, along with a mid-month jump in fixed mortgage rates tied to incoming higher inflation, piled on to an already shaky economic start to the year,\" he said. \"2026 is still expected to see a modest amount of upward momentum in sales and a stabilization in prices as some pent-up first-time buyer demand enters the market, but the forecast for the year has had to be revised downward. The timing of higher mortgage rates, along with the perception they may be temporary, could keep would-be buyers away at the most active time of year – April, May, and June – as they wait for rates to come back down.\"</p><p>Regionally, prices remain down year-over-year in British Columbia, Alberta, and Ontario, offsetting gains recorded in other provinces.</p><p>CREA's 2026–2027 Chair Garry Bhaura acknowledged the rate headwinds, but offered a more measured take for buyers less exposed to fixed-rate changes. </p><p>\"While the interest rate situation has recently changed, what could be a challenge for a buyer looking for a fixed rate mortgage may also be seen as more choice and less competition for those choosing a variable rate,\" he said. \"Spring tends to be a busier time of year for the housing market, even if it may not be quite as busy as we were expecting not so long ago. For those of you not impacted by the recent jump in mortgage rates, get working with a local REALTOR® today.\"</p><p>Price stabilization remains part of CREA's official forecast for 2026 — a milestone the association characterizes as an important precondition for buyers to re-enter the market in larger numbers.</p>",
+      "content": "",
+      "thumbnail": "https://storeys.com/media-library/image.jpg?id=34010873&amp;width=980",
+      "_src": "storeys"
+    },
+    {
       "title": "Here’s what the CREA now estimates the average Canadian home will sell for",
       "link": "https://news.google.com/articles/CBMi0AFBVV95cUxOd2dZTGY2QWJPOWN1NlBSeVdzMGE3Z1plZEtDWGl4NEsybzNMVGt2UzV1bEJxc0pZX05YajFIbDM5Zkxscl8tNUFzcWRRZEJoa2ZJMFpXTUsxTmpKRXVZNWNncExDX0pXWm4wU2NpQkpDMnJZUy1pa0RrQlRqS2N0NXBFMktnSFE1OVhEM0taZXhxMkJXQmtMc3BaRFJyVTRZZE4zM3FCWmtzNnVUamcydDJEU2l6WlRJY0R6WnVaYlVtY2g2cU5pNm40eFZSVFdO?oc=5",
       "pubDate": "Thu, 16 Apr 2026 18:38:13 GMT",
@@ -286,18 +329,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/f6e172504b11d0ef6800c83a5b3a10652536440b59eace6f30026231a1f9c9ec.jpg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "Toronto house prices have dropped by staggering numbers in last year",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxNR3AyQ1doc2xXQktFWWdOQnlobXNZWVFhZnNVc0U2c1hHeGlSZWdiaDhjZ0xUM05naUlJWkMtRm16WnV3djBRdlV4cURwbFp6WW9CeGlOczNSQzN3bG81MmdPdWRSZW5kWWQyeUsyd3NzaDZEa21MV3ZTLUt2UkZFY3hXMkVIMnQ1azFubk1NWFY1eUpW?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 18:11:52 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "blogTO",
-      "_pubUrl": "https://www.blogto.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "KingSett, Choice strike $9.4bn First Capital deal",
@@ -331,18 +362,6 @@
       "_src": "gnre",
       "_publisher": "Calgary Herald",
       "_pubUrl": "https://calgaryherald.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Rise in mortgage defaults predicted by bank watchdog amid Trump tariffs, war in Iran",
-      "link": "https://news.google.com/articles/CBMiiAJBVV95cUxNRjlFQVI4aldSdU45QURpRUU0OUpVZ3Z2SnNHVjhUQTQzWjFxVjRZcDR4VmFSTUFhc0VXSU5NVGs0ZVRCSG5oeWhPeF92WXoydDVKZVFCTzNuZk5WcEVGX0ZKX2ZyMElwWlppaDZydVRCRDhKWF9DVXpRcG41YVNNR1BDTTk1a1cydXA0WGdVSUotTGFxd0hUajhkRnBNWjZRUEJheldhQXhLUEt4RHA3eDVabnVCcWxrV3F4TXoxN1hXNnQ1ZXdwV2FzTzhrMmxUbmc5TjZGMElEN3ljaGc3Q0pTSF9xQS05NDZMYlBPRTk2aVBqN2xha3NPZWVlNUx6UHI1SG12MjQ?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 16:31:47 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Toronto Star",
-      "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -674,6 +693,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Mortgage Rates Forecast Canada 2026-2030",
+      "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 17:59:03 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Zenterra Breaks Ground At Clayton Crest In Surrey",
       "link": "https://storeys.com/zenterra-surrey-clayton-crest/",
       "pubDate": "Fri, 10 Apr 2026 15:20:02 +0000",
@@ -780,15 +811,6 @@
       "_publisher": "CTV News",
       "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CreateTO Files Plans To Bring New Affordable Units To Strachan House Site",
-      "link": "https://storeys.com/affordable-housing-strachan-house-createto/",
-      "pubDate": "Wed, 08 Apr 2026 18:33:53 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/strachan-house-at-805-wellington-street-west-createto-dtah-architects.jpg?id=65477647&width=1200&height=800&coordinates=32%2C0%2C32%2C0\"/><br/><br/><p>CreateTO, the City of Toronto’s dedicated housing agency, is forging ahead with a mixed-income housing community at <a href=\"https://createto.ca/projects/805-wellington-street\" rel=\"noopener noreferrer\" target=\"_blank\">805 Wellington Street West</a> — the location of the Strachan House building in Liberty Village. </p><p>Strachan House was built in 1888 and served an 80-year stint as a major lumber planing mill under John B. Smith & Sons. In 1989, the property was converted into supportive housing, operated by the Homes First Society, but residents were displaced in early-2022 as the City toyed with redevelopment plans. </p><p>CreateTO’s proposal, submitted to city staff in mid-March, will return the 1.4-acre site at 805 Wellington Street West to its roots. It calls for an eight-storey “Building A” on the east portion of the site, with 81 deeply affordable supportive housing units, and a 30-storey “Building B” on the west portion of the site with 240 market rental units and 61 affordable rental units.</p><div class=\"horizontal-rule\"></div><h4><em>Site Statistics For 805 Wellington Street West:</em></h4><ul> <li><em>Building heights: eight and 30 storeys/331 ft at the highest point</em></li><li><em>Total gross floor area (all residential): 360,473 sq. ft </em></li><li><em>“Building A” GFA: 58,524 sq. ft</em></li><li><em>“Building B” GFA: 301,952 sq. ft</em></li><li><em>Residential units: 382</em></li><li><em>Unit breakdown: 93 bachelors, 153 one-beds, 106 two-beds, and 30 three-beds</em></li><li><em>Landscaped open space: 7,836 sq. ft</em></li><li><em>Vehicle parking: 14 </em></li><li><em>Bicycle parking: 432</em></li></ul><div class=\"horizontal-rule\"></div><p>The plans also show there are 52 accessible units planned across both buildings, and seven live-work units slated for “Building B” along Wellington Street.</p><p>The proposal also calls for the retention of any heritage elements of Strachan House — it has been listed on the City of Toronto’s Heritage Register since 2024, and was designated under the <em>Ontario Heritage Act</em> last month — as well as the conservation and continuation of the Garrison Flats community garden on the eastern portion of the site, and the conservation of Wellington Park at 801 Wellington Street West.</p><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"8990a4cc61c1659a76a5c83fc04c14b5\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"be2d6\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65477691&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"5471cb6db5ca9eacf1cbe6f43cc53bd4\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"21634\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65477687&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1811d1d33c048411e5a26620e040c130\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"7d5fb\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65477688&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1aa18051a2268edbe3b96049cbe0c65a\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"5eb16\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65477690&width=980\"/><h3></h3><br/><img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"5aef170adf03b6794726d0f025f997ff\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"9f786\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=65477689&width=980\"/><p>CreateTO and the City of Toronto hosted a community pop-up event last month, where they revealed that the 805 Wellington Street West community will be made available to “tenants from low-to-moderate-income households, with a maximum income set at four times the annual rent.” Per the City’s latest definition for affordable housing, rents will be at or below the lesser of average market rate, or 30% of the before-tax household income.</p><p>A second community information session will be held on April 15 at the Fort York Visitor Centre.</p>",
-      "content": "",
-      "thumbnail": "https://storeys.com/media-library/strachan-house-at-805-wellington-street-west-createto-dtah-architects.jpg?id=65477647&amp;width=980",
-      "_src": "storeys"
     },
     {
       "title": "B.C. orders West Vancouver to implement plan to build more homes and meet its target",
@@ -917,6 +939,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ask an Expert: What CMHC’s housing affordability index is and why it matters",
+      "link": "https://news.google.com/articles/CBMipAFBVV95cUxQb3hWVjZWSTZiU1RsN043RGZYYkhFbDV0WDFmdHh2YW1RbU12czhfZ2FrSE1vVkxHWGN6OHRRdlBwc3VxRFJsODZZNkRfVWZLbHpLcXF0WWJ0U3M2WWV0SFZpTVVXYndRYVNyajVXRUhXQ09KbG1iODAwZHM4SjA1OWZSQTRtVFBiVUVLQTQtUTgzN3A2d0RscU5VcTVuRW9ORzEzcQ?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa's homebuyers gaining the upper hand",
       "link": "https://news.google.com/articles/CBMif0FVX3lxTE9OUWkyZDRRX2pRRUxNSndybXhDNDdsajFRamZRTzJPRGNHU2FmeENkSmZCRWVfZmpvMFVyRkxCbkl1YUlSYUxRQk5qanNERjVjVUd6X3RXZnNJdGs5S09FZV9nQzhURFQ1eEk2Y0ROUkl6d1V6NTdaT2hOLXVlcEE?oc=5",
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
@@ -938,18 +972,6 @@
       "_src": "gnott",
       "_publisher": "Ottawa Citizen",
       "_pubUrl": "https://ottawacitizen.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "/C O R R E C T I O N -- Canada Mortgage and Housing Corporation (CMHC)/",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxQazNmSWVRWmp2TWxpSDMta0dGdm9ldVhDbUYyNG5ma3RyZTlJU2pJSTc3aEtMQTljMG9WMDJwWm5HdmQ5ZzRsYjV1YlVJM2phaktIbGJjalhJT2RYek0xcHYweGNFdFJQN2pTX1hKbXd0aFJlQVRSVjNGckxJWXFLd0hFZTZMaW84NU0tV3p4Z3AyUkNP?oc=5",
-      "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1025,6 +1047,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Making sense of the Bank of Canada interest rate decision on March 18, 2026",
+      "link": "https://news.google.com/articles/CBMikAFBVV95cUxNR29zWGdXWDFVTVhxWFBhcWlONWNtUktjZUxWd3BiVVF2Sjc5cDBTWkhyTFpQdHB6QW90NVEwQTBBV1pxRUpTZkVkbU0xQXowNUVJYkJ6QjlQM09vQjU2dDlnNUVjT0xWd0p3Qy1zRjhvTHJhbkFTZWtvT3BGSjM2OFFkazJSRVZrcE1YR2cwU1I?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "MoneySense",
+      "_pubUrl": "https://www.moneysense.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa Housing Market | 2026 Home Prices",
       "link": "https://news.google.com/articles/CBMicEFVX3lxTFAycnJsWjBleERSMElQcllBTW1jOE03ZGlzdDctenJUdVE1X0U5dkFOVmgzZ1I5MVZSaWxrTFBMT0NYOFBOTzk3RUtDeE43ZEtwX2k3aUpnVkotMFdpRGNTTUItVElpWFNUT0NIbUhiS3U?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
@@ -1046,30 +1080,6 @@
       "_src": "gnboc",
       "_publisher": "TD Stories",
       "_pubUrl": "https://stories.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada holds interest rates as Iran war rattles global economies",
-      "link": "https://news.google.com/articles/CBMihwFBVV95cUxORkI5bTU3X1BYNjFqYktya2Npa1ZyZUppNG9Ea3lkWXNwaUJxN3VtSDJTcTJUYUxhWmNxdFFLSENyODIxc0xmYzBsTk9NMVlwMEoxQXJfOTBzWmlFcTdORTJ3U1FZeVpWamM3T3A5b1hpc1lJRG9YNEJvUGdlWjVJaFk0Q2d2a0E?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada Interest Rate Explained and How It Shapes Your Mortgage",
-      "link": "https://news.google.com/articles/CBMi5gFBVV95cUxQR1FqNUtwYUpaN2c1T3NlaElSTE9Bc3RsSFFrYlFQSTBXeFJraFZIaHBVaHI2ZGhhWE9UYUZZUDNIdjRNakJfM01LWks3dGZnUEtOQXdlbmlPNkJfUGxZNHZHNU1GaEpqUEJpeXFUbVh1enp0NDZsczdURW9kUjFDVk1nal9Ud2NnTVZEOGZXaEJhaHlVNHhmRmE3aXV4bVROWnZKRk1EVFdYamZvbmw4T2ZOVF9KYnY5MmtkTDloLWRuN3kwUWNOa1ZPX3hleXhlSTRPRFVWa0FFVl9hVHk1RkJ0NXFJUQ?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Royal Bank",
-      "_pubUrl": "https://www.rbcroyalbank.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1103,9 +1113,21 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
+      "_src": "gnre",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Housing Starts for February 2026",
+      "link": "https://news.google.com/articles/CBMilAFBVV95cUxQNVdnZE1jOE5SY21NTTZrbUpQdjF2WHVzeVRZeFJrbmVKWUlxaVczQ0V3WjRnblFtenZSWHlQajBhNi1JSjFBMHd4bjBZaE93Tkc4eTVSa0hmQUx5akZrTHlqZjN5OW5rajVvNkYwNzJZQzlCZWtJUm81eExwREJuU25BaWdxRnQ4cXhyNXpTT2pVZFhl?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1157,15 +1179,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Expert: An HST Holiday Could Be A Lifeline For Ontario’s Housing Market",
-      "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9KTHhqLU5HY3FfMGdKWkc2Q21VaThyYVNhTjBTcjBIU09lZnhUQ3NJUVZIS25kTFRZNmd2ZWpDS1AxR2ktSUtwS2VyaFRFa3FyRTJYLThGWF84X2lkSWlTZU1WM2JJdw?oc=5",
+      "title": "Immigration could soon account for all of Canada’s population growth: expert",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQYVhIZnBkdk5nTUx4NEZMTUJFcEc5ZVVYOHVHUGk0cDVJWHJDWHpaNmZJWUh2MjNzcVBGd3NFYllrNTFBdDVQa2ltdHdwWDRnQ2hWUTRUQllxWk1xMHViX1VacGtPcWh6ZnNEMVh4NDVHdjlDelEzbk5sRUs4UThuQVN4MjNUT180QUpfMlIxOEg4Vk9lSDhGN0t6MnVvTmJTZVNhdmdra1NpdTV1MVBBdEhPOGE?oc=5",
       "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com",
+      "_src": "gnimmig",
+      "_publisher": "CityNews Halifax",
+      "_pubUrl": "https://halifax.citynews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1214,30 +1236,6 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Canada’s condo reckoning deepens, but banks avoid worst damage",
-      "link": "https://news.google.com/articles/CBMixgFBVV95cUxQQ1JCbTZGZG50andSLTNnZHV2T1lNMU44VGpIRVEwT3loSUExaUt0NWlpYnBLSk5kSmI0X0t0RVFaMXczelg0QnRNMTJEZmVIaXpyaG9UbE5oXzB4LVE3TjZQV052Zi1LMEs0WFd3d2xYaVRuOTVzYjItdGdFaWo3dWQzTFlPMEdiNEtvc2p3YndmZVdzY3pDZDk4RDVKWmlsWm9YbzZBZkNXdm5HVUJPVmh5OV9PRGNfQzdlMm1HOHJldmw4Q1E?oc=5",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "National housing starts to slow even further, says CMHC",
-      "link": "https://news.google.com/articles/CBMivAFBVV95cUxQVGthbDYyMkZYMDZMQm9zUUNxX1NxaTd1c2RHQ3J5LWp4UHBwME5nM2dyT2RKLVZ5cWl4dmFlZW5tUFlpMDB6WGJENW5wR2kyZGVoLU9vMm1wSWlTR19vOWtZRnltYTQxbkhycWd2WmpGZktQMzROUWl0UktHTDMyWjBwU29MWlN2ZjI2b0dwQ2dhYmNVSVZPN252eUlqVlhoRTYxY0RaNEtEMGNLNXZUcHk1V2hrNDRJWGtVNQ?oc=5",
-      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1421,18 +1419,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Tariffs, immigration shifts, condo softness shape Canada’s housing outlook for 2026: Royal LePage CEO",
-      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxOTU9HMVdvWFVtSlVGbk9ubzNfMFJ0aHByaEpNUk0tNXdjbnMtejNZdF8tX3ZJVm1wMDl0SHRZbS1HVkxaa2JuUElManJzOUVOTlRTRGNETmtORlZrNVQwWi1jaVh0SExELWNnN3o3RjB5ZXFUS25ROWdjWDctYTNuazRGd0s3REVmdk9qdWNVZlNyVDZqSVNCSHBRTXA5bHNBcU1wdnFwdGVHR2VFZExPN29DR28tRlQwMmpsSTRmVWcydTFvNUJlZWhVUmJBRU9SbU5aZw?oc=5",
-      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The Year Ahead: Housing",
       "link": "https://news.google.com/articles/CBMicEFVX3lxTFBWVDFMZ2lEX1d2Z2prWGJxLTFrZjQwaTdjM2dDU3N3QS00cTNtbE5RdXJTQ3l0UU5abWc5QndoazhtT3ZTSjg2VUZPTEJYejVXVWVDSTdWaVZNc0JtX2VCMXhfT0UxQ2NVa05Gbk9zSEQ?oc=5",
       "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
@@ -1481,6 +1467,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Construction launches on $98M Phase 1 of major rental development near Ottawa’s Experimental Farm",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPRWpCRWlrTnllbmlLSnBkUWJnbUNvanBoWEhCOVpzUkZFT2lVZnEwYjBCVXE0NzlZZGtmVWhtV25LZWlnY1ExU3I5US1aVDZTM0dldHJxQnpEUXNxT0RTTUliSmsxMG5FNWJVeGFiWFVDUUFhRHFFUERlbVlpbEtfcXk3VjB2b0ZmSVBKa0tqeFJWaEpNSVRDUFZFcDBneFRUMXloSmxFRDBhbUg0QnZweVpIZlZ6LU5QOUhrdzhlTVA5SlFia3VjcFBQdw?oc=5",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The housing burden of unchecked immigration: Peter Copeland in Commonplace",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxNMl9RT3ZHQUw2a0xMa3l1elFQeWlXS1dKRGt5RW5FYXRReEtiMGJ4SDN2TnNWS1NjMTRhX3hfVUgwT3JvVkpUQ1NWZmtiYXpNVTMyMFlXdnRjOXZvLWkwRjdLX2hGcGRiQUV3M2d6XzJHNzA1TTctVU5udGlwSUhMcW1QTmxBMF9iNm9YZ2RIS2YzOTlRWXN1VlM2QTRFaTBubXc?oc=5",
       "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -1505,6 +1503,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Here’s why city hall should save ‘blanket rezoning’ in Calgary",
+      "link": "https://news.google.com/articles/CBMioAFBVV95cUxNX3lmRHVYaUd2UVFBamFsNU53WTZwQ2RzeUZQZVhPUjQ1X250elkyOTd3WmNUSUhNU1ZPb0xxM0N3aFVpdGNwdUtRNTFiQ3F6UzM1N1diWlFnR2JCLTg4ajlQMW9aZlZ0VzJTbXUtdE43WDJFRTlXRGpkMWlmcTNNVmVpV0JSVlZJTk5lcDdHSFZDU2tRU3g2RjNtSjllbkZy?oc=5",
+      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Fraser Institute",
+      "_pubUrl": "https://www.fraserinstitute.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Non-permanent residents in the homeownership market",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxNQ29jcGlNWDVzd3pmUEQxRXUxZnNJWXlNWElEcjlIeVlNZE54clpkTFEyeGlyTkxRdGFaZmxzMXViRUotQzhWOWFoclpSaGFFWnc3OFZnaVJmSU5qV24wdWg0VFd2NGxOdEtJTjJZMWtGRTZ4NjNaSTlidG1zSTA4Vnl3?oc=5",
       "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
@@ -1517,18 +1527,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Home prices in Toronto and Vancouver expected to drop as the rest of Canada sees a hike: LePage",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxOSXV2M1JEZU5iTHBiaU9LN1lOSmdQbzhRODZYVjc2Q05LM3IxM3QxYXVQSWNJbHNPSGxXV1NqQU9vYUdaaFZsWXRMclpIQmZ5MWFLZ3lWdjRFVEdpWXlFcmVtbERaejhtZjdPMFJjVUpHZHBwNjJROFl0eEUtdjRHZ3d3?oc=5",
-      "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "National Post",
-      "_pubUrl": "https://nationalpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "City of Ottawa, feds launch $400 million investment to build homes in Ottawa",
       "link": "https://news.google.com/articles/CBMiswFBVV95cUxQNkVvckN2MGJYRzV3eXl6d3NOTTVfY1dNWVVNYTEyZmJ0SHNiTW9IYzhiRnB6bzZOYm9mQzRySXVmR0lQNnozNGY3LWZyQy1udHJWOFE2d3FNclAtaVdJYjd6eHhyU29NOTR0WVpZQzAxcnlQV2VLNUZFSkx3RUxNd21wSF9DZUtRRnBzdnJ6WXFpM1VncUozb0QyZmpwa2ZYZWNHM203V0ZnOGxPUEZkQ2dwWQ?oc=5",
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
@@ -1538,18 +1536,6 @@
       "_src": "gnnewcon",
       "_publisher": "CTV News",
       "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CMHC warns soaring development charges are reshaping Canada’s housing costs",
-      "link": "https://news.google.com/articles/CBMi2AFBVV95cUxQbDVnZ0ktRVVLYVN5MDJOWUt3MUFuVU1VNWwwZGVDN215cThyS0owdVQxSFE1bUdqYUtBLWtMN2paZ3I4eTVDMzFKS3I4dUJNcy1DcDdaOWc2SWVhNEtfeUJfcmlycDgwMmdZRURxUHNnMlRWZGlWMXJzNEFqbWVBNThBaVo5Q3hfRGpLS2RQd0ZETzB5SThYUFc3S0VjMzBkZUd2RXBDTWpfNEQ2d0hmdW5CMmxpWFJieUFBbTFtM0tqZVdwQTBQWWZ4Z1lhSThyUmwxUm0xRno?oc=5",
-      "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1589,6 +1575,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Alternative federal budget 2026: Affordable housing and homelessness",
+      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
+      "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Alternatives",
+      "_pubUrl": "https://www.policyalternatives.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Is the Dial-Back of Immigration Having the Intended Impact in Canada?",
       "link": "https://news.google.com/articles/CBMieEFVX3lxTE45cHIxM2hsbUtOaEtjVGQ2aEROT2NHY0lmdVdRTUpLbnF6d0ZNdkZuR053VnpsR2J6a1lWSDdERFlqNl9MMHI0Nk5uWVJrbHBkNTdSRVFCdEc3ZlA4ZnpXTUdzY0pQRk5HVjQyZEVaN08wQm5rOGRvMA?oc=5",
       "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
@@ -1601,6 +1599,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "No Guts, No Glory – Tax and Regulation the Silent Killer of Competitiveness in Canada",
+      "link": "https://news.google.com/articles/CBMihgFBVV95cUxQT2JENU9WYzl6aTMxWUpKWDI1SENUVUx6djROck9Md09PZi1QczJweU1JSUVvTnp6U3BaYmtGWjVjUHRLd09ZY2w5Y2I2dXBScVIyN0RWSWx2N0gwdkJhQnhYbEs3RXhtN1pqSTJZRFpJNEJNZE02NXh1b3h2MzE5WEdWdWlMZw?oc=5",
+      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "TD Economics",
+      "_pubUrl": "https://economics.td.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Housing starts for September 2025",
+      "link": "https://news.google.com/articles/CBMilgFBVV95cUxPMEl2bEFkb1JXbURuZGp5OEF2NlZZajdNdHEzVDNPSWo3Q1FLc0FaSVZqT011Nm12STFMbnJUM1U2ZUdHalFRRU0xdnZOUU9BcFZiUHZLVFFmMWFiTTF1S0NUdTJPcDVjY25EWUJQd1AyRlVHVlVKVm4yY0VDTEhFU2JiaDV2T2VVcWhWVEt6bmxIZXRfcXc?oc=5",
+      "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "‘Housing is too heavily taxed and too heavily regulated’: How Carney’s Build Canada Homes plan misdiagnoses the housing crisis",
       "link": "https://news.google.com/articles/CBMi6wFBVV95cUxPbzJqUjR3ZXNFM2Rpd3FKRnE0MXVyUmJnTTJvOVc2Tm43bldNNmZlLWZvS0ZMWGY0dDd5MjdtNG5IQTNBRnAwbTBLdlNuX1Z1V1J0ZUl6OGN5WFl3WDFiT0NOTnRUX3hOTGF6d0VSY0VnQXM4MHVINmZsV1lxeXczRmh3TTM4NWlTa3g4X2xmR0ZYa0doVFJHMmctb01jcUoyLTMyWkU4TDI4YXAtZktoVmtISkJQY0VjdE1TaUQ5X1J1UHpidDZqcFJuUXllY1hDa3p5amx5MlRpX1c1azZlUUJFWmVjdEdVai0w?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
@@ -1610,6 +1632,30 @@
       "_src": "gnpolicy",
       "_publisher": "The Hub | More Signal. Less Noise.",
       "_pubUrl": "https://thehub.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country",
+      "link": "https://news.google.com/articles/CBMipgFBVV95cUxPOFZCZGdPU21jcEU3SVNsQ2pxLVBwUnJBeElUajlXRVlPbTl6Rm80d2tWSUtRRnpodmJHdHhURW84ajFUWURqNGtGSThQSXNpSzc0QkluX0NvVVFGVUtOYzh6S2R2NXRvRnUwU1BzZ3Z3RWI3UlVHVzM0LUJaY05BM0xhV2tzeE4zVnViQTR2S3JZOF9XSTdsM0pSaktlODZlZjZlTVpR?oc=5",
+      "pubDate": "Sun, 14 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "pm.gc.ca",
+      "_pubUrl": "https://www.pm.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Making Rent: The CCPA’s rental wage update 2024",
+      "link": "https://news.google.com/articles/CBMimgFBVV95cUxOZExJWUgxNnVpZjU5alNzT0t4dVk3Ymp0VmpOdlROMk53Y01IYWxGU1h1d25OeTFQVGwwMnJSNWFPSW5SOUM2eGZKY2tqZHdURUlLNUpVX1RWVnkzc3pLTUNMRXdVci1Lb2NiQndOcnBxVHVMT1RuNTJ4RkhObkJBc3RPam9ELXc3dHZKTUpEMElvU2JtaU1TcFhR?oc=5",
+      "pubDate": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Alternatives",
+      "_pubUrl": "https://www.policyalternatives.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1649,18 +1695,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Proposed zoning bylaw won't help Ottawa's housing goals, says advocate",
-      "link": "https://news.google.com/articles/CBMic0FVX3lxTE5vS0dTaG9kNHJBeHVuZWUtaF9GZ3B0a2ktTzc2Y3BoRFlPanVHY3QyQW8tRXctUFI2WHVrYi1FaDBNRTE0RWxOa29pbndpU25tcUc0a0lnQzZ1MXdYMS1qNzlwbGM1WUhObjRDY3VJQ3o5Qms?oc=5",
-      "pubDate": "Sat, 05 Jul 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Committee approves zoning for residential developments in Orléans, Barrhaven",
       "link": "https://news.google.com/articles/CBMiqwFBVV95cUxQbkg0b3UwUlgyN1JETXdqS3Y0aDFtVGE3X2pUanlYblR3cjlKVGVPanhUVExkQXptN21iNENyWW14ejJRdlZsVi0tMlZaWkh6RmI0QW8yWE9CVGlzSWZENjA4MW4xWV94MHlkU2pkNHhlWFI3dE53RDRxbXN5dGFvLV9NNTlYY1dhZWpSbTVMUExmVmRGVy1HVGhlQ1FqQWtjYkZ1aVNwZXh4cFU?oc=5",
       "pubDate": "Sun, 08 Jun 2025 07:00:00 GMT",
@@ -1670,18 +1704,6 @@
       "_src": "gnottdev",
       "_publisher": "CityNews Ottawa",
       "_pubUrl": "https://ottawa.citynews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Carney government’s housing plan poses major risks to taxpayers",
-      "link": "https://news.google.com/articles/CBMipAFBVV95cUxNV3QzSldIYWs2VkhBX2VINi1hYUpvQVJHanRxek5acGlCN3RMTkRydkpsaHRfcW9YeFo1bUR6SHVkM1M1WmJNXzExdWxSdE1lTnlrVjZCd3dZXzhlakpJOUM0YzFpaTI2d09QOXluN1JvQzR2MW51WXVBT0tNcV9lSzRnMUhXeWdlNkRjUFhtT1g4VWd6dzdBRDFHVzQ4TC1qYWFZdA?oc=5",
-      "pubDate": "Tue, 13 May 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Fraser Institute",
-      "_pubUrl": "https://www.fraserinstitute.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1697,30 +1719,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
-      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxQMEV1V2JkOHBnZFJwNkhQeTN1Q0MxMks1c3N5dG1mTTRHdEQ3MkdQcDNQUTh3cUJCSUZYRmJZcHVkRFREbmZUdVFSSThyeDBHdWJtZVNVcmJkc1NQWTRrelA4elI4LXJnVXNYNVZSU0VSMmoxaXVRc1NzUFprdW1NZG1NcFFWYlBYT0d4dmFoX19vTUlqdDJYUTY5NUExYTNPRmNQMGVESlllcHFBS3d4dlZsLTJMUDNsMUJN?oc=5",
-      "pubDate": "Fri, 11 Apr 2025 09:58:31 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "How To Fix Canada’s Housing Crisis",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE00N3JJZWpyMnRxcXNmdmdtRmFxSVF2RHd5NmtlczBZS0plbGRNOTlVcFhhaE42anJaalFSWnVHUkpqVWhSZ0JuU2pVVC01ZWJzLTc3VFJvNE1zelMwODJwYmZ1OTZua213cW1JV2VtTmtfdw?oc=5",
-      "pubDate": "Mon, 17 Mar 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Macleans.ca",
-      "_pubUrl": "https://macleans.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Only Doug Ford and the Ontario PCs Will Protect Ottawa’s Economy",
       "link": "https://news.google.com/articles/CBMinAFBVV95cUxPNDhDemdzY2tzVkFCb0VnVDlybzJMNzBfbmxkUWhSbU9mQXlQUXplRG5lMHc1eURpdjc3OW5RNGxZUHk5bl8wbVJrdjJqWTF6MlZPd1JqdkJKbXAtUmJkSWluYXpwd1BwVEVWWmNSTmM4aXQyYWlSdzUxeGV1Y1JqeWRXU1NCQWpaZFk1cTlVdXYta3YtdHdMZEctTjQ?oc=5",
       "pubDate": "Tue, 04 Feb 2025 08:00:00 GMT",
@@ -1730,18 +1728,6 @@
       "_src": "gnottlrt",
       "_publisher": "PC Party of Ontario",
       "_pubUrl": "https://ontariopc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Building Homes, Not Bureaucracy",
-      "link": "https://news.google.com/articles/CBMia0FVX3lxTE5kRy01Z0FSQWV2M3YzWFVndEVibmZudjB2OE9rRFE3eEFFVzgyZURRRlRlLXQxaFFYQU1zSE8wUnNQbElQRXZjbUVQWkRrYkI5bjdIV0g0b2pFRHA0TTV5YjBSQTkyT1JINkx3?oc=5",
-      "pubDate": "Thu, 14 Sep 2023 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Conservative Party of Canada",
-      "_pubUrl": "https://www.conservative.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
