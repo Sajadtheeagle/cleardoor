@@ -1,6 +1,6 @@
 {
-  "ts": 1776490169708,
-  "fetched": "2026-04-18T05:29:29.708Z",
+  "ts": 1776501468296,
+  "fetched": "2026-04-18T08:37:48.296Z",
   "sources": [
     {
       "id": "cmt",
@@ -385,18 +385,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "9 Bank of Canada rate cuts haven't touched your 20% credit card rate — here's why and what to do",
-      "link": "https://news.google.com/articles/CBMifEFVX3lxTE83YjBpa25vdXBXUDU3V0w4b2N6eHppQmN3NTJTZ2ZWOWtHWXhoZFVVekZHeE5iM24zbXdyMmE2bll1a0RKUHJsUTdtaU0yck1kd1FCRERKUkFlMHYxU2p6MEdNaWM5ZTdsSnA4OWQ0UXVoVDd5X3R6dFlSak0?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 11:30:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Yahoo! Finance Canada",
-      "_pubUrl": "https://ca.finance.yahoo.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "How this Atlantic city became one of Canada’s hottest markets",
       "link": "https://news.google.com/articles/CBMiyAFBVV95cUxNYnltY2pYZ25Lb0lYSHpZS1Z3Z0k4eTJwVlo2Z2I2d3QzNHMwTmVtWGRtWEJmTjZHMnVVS2F3VTlfemNoNTBxdGFQNHhGcGUyUDNpLU1IbzdGMjRFN0V0cVBobkxJNGdSbGt5d29qTzcwdTZVakRSU3dCMEFqc3c2UFJ6M0N5cTZnNndyYWtnbmJDZHRMNG9aSERCVzJ0WDllTHJYYkY0MHl1d1ZEMGZfUEhCYm1Qd2RPUlhjbURMdHA4X0I3aGxKdA?oc=5",
       "pubDate": "Fri, 17 Apr 2026 09:00:00 GMT",
@@ -406,6 +394,18 @@
       "_src": "gnre",
       "_publisher": "CTV News",
       "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Toronto’s condo market sets a new record: zero new projects launched in the first quarter",
+      "link": "https://news.google.com/articles/CBMigwJBVV95cUxQTHo5N2MxdDRKZ3ZwTEE4c09OOHI3VHVocmx0VWVfSkNRN3hIOEtIRkNHaUlvSEYxTWNwYVdNWldUdU44eExYY09SVUdPU2t4MkUxRW5DSEsxOXFWcVgyZ0ZKTUtWd2s3REk1UDg2b2wzejNlUG41SVpXWFdYWExBZDRLelVteEo1ZkVueUJhaUNpdjJQbEZOMEc2RGdkLXhnSW43S1Awc1ZKSTBQMU9SdE03eDBCQnNEbUlaMWI0WDE2TGthOURDZEVkUGtCRzZDUVZDbXBaQUFGcW5Oekp5bzR0YW5PbE55aWtFN2UxOHgwdjN3TUVfZUN2d3g5bGdFRjNj?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 09:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -431,18 +431,6 @@
       "_ogDesc": "While extra payments can reduce long-term interest costs, they may also limit liquidity, trigger penalties and crowd out other financial priorities"
     },
     {
-      "title": "Canadian Existing Home Sales (March 2026)",
-      "link": "https://news.google.com/articles/CBMiW0FVX3lxTE43aVpucXh2ZFZBRV9jd1VXRkFsajR2VTZoclJrbUlKWkdHbHQ2ZTlWTGthZ2ljdmdRMXZodF8xcVNvX3VzR1hiSmZyd29JV2xvMGZCWWdyLWZJaTA?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 20:33:02 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Toronto and Vancouver slump masks stronger housing markets across Canada",
       "link": "https://www.mpamag.com/ca/mortgage-industry/industry-trends/toronto-and-vancouver-slump-masks-stronger-housing-markets-across-canada/572033",
       "pubDate": "2026-04-16T19:27:31Z",
@@ -452,18 +440,6 @@
       "_src": "mpamag",
       "_ogDesc": "Sales and prices are expected to fall further in the country&#x2019;s two priciest cities, but prospects are better elsewhere",
       "body": "<p>It&rsquo;s no secret that Canada&rsquo;s spring housing market is off to a slow start as a host of factors &ndash; economic uncertainty, rising interest rates, affordability challenges and more &ndash; continue to weigh down the national outlook.</p>\n<p>But while the two largest markets, Toronto and Vancouver, are facing a gloomy few months ahead, they could be overshadowing other cities where prospects are markedly better.</p>\n<p>Home sales and prices are expected to continue sliding in the Greater Toronto Area (GTA) and Greater Vancouver Area (GVA) between now and the end of 2026, with their spiralling condo sectors likely to drive much of that decline.</p>\n<p>Still, <a href=\"https://www.newswire.ca/news-releases/long-winter-and-economic-uncertainty-delay-canada-s-spring-housing-market-879286580.html\">a new forecast by Royal LePage</a> shows 10 of 12 major metropolitan cities are expected to see average prices tick up by January, with only Toronto and Vancouver in the red on price growth.</p>\n<p>Some of those projected increases are noteworthy. Halifax, Winnipeg, and Regina are all expected to see average prices rise by 4%, with the Greater Montreal Area slated for 5% growth and Quebec City poised for a bumper 12% jump in prices.</p>\n<p>Edmonton, Calgary, and Ottawa are expected to see milder growth (2.0%, 1.5%, and 2.0% respectively) with declines in Toronto and Vancouver (-4.5% and -3.5%) dragging the national average down to a modest 1.0%.</p>\n<h2><strong>Buyers &lsquo;looking beyond geopolitical issues&rsquo; in less pricey markets: Soper</strong></h2>\n<p>For Royal LePage&rsquo;s president and chief executive officer Phil Soper (pictured top), those contrasting fortunes highlight the absence of a truly &ldquo;national&rdquo; Canadian housing market and the radical divergence at play between different cities.</p>\n<p>And while there&rsquo;s been plenty of discussion in recent weeks about homebuyers stepping to the sidelines because of the economic uncertainty caused by the war in Iran, Soper told <em>Canadian Mortgage Professional </em>he believes those geopolitical concerns are less of a factor for homebuyers in more affordable markets outside the notoriously overpriced Toronto and Vancouver regions.</p>\n<p>In less pricey northern Ontario markets, for instance, Soper said recent conversations with regional brokerages showed the main challenges facing homebuyers are the same as before <a href=\"https://www.mpamag.com/ca/mortgage-industry/market-updates/what-would-a-full-on-trade-war-mean-for-canadas-housing-market/524600\">the outbreak of the trade war</a> last year and <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/iran-war-stirs-new-rate-anxiety-as-scotiabank-sees-bank-of-canada-hikes-ahead/570108\">the Iran conflict in February</a>: handling multiple-offer situations, improving housing inventory, and &ldquo;lighting a fire&rdquo; under policymakers to boost construction.</p>\n<p>&ldquo;In parts of the country where home prices are moderate, people are looking beyond the geopolitical issues &ndash; America&rsquo;s war on Iran, the on-again, off-again trade threats from President Trump,&rdquo; he said.</p>\n<p>&ldquo;They&rsquo;re looking beyond that and saying, &lsquo;All right, let&rsquo;s get into this market. <a href=\"/ca/glossary/mortgage-rates/539796\">Mortgage rates</a> are reasonable, home prices have been flat, but they&rsquo;re likely to start rising again, so I should get into the market because my job&rsquo;s solid.&rsquo; And we&rsquo;re seeing that right across the country.&rdquo;</p>\n<p>The rosy forecast for Quebec City was spurred in part by a spectacular first quarter for the city&rsquo;s housing market, where aggregate prices jumped by 10.7% in the opening three months of the year.</p>\n<p>Single-family detached home prices hit $508,500, rising by 11.1%, a trend that Soper said reflected the lack of supply and rising demand for properties in that city.</p>\n<h2><strong>Toronto and Vancouver still much pricier than elsewhere &ndash; but the gap is narrowing</strong></h2>\n<p>Another trend that jumps off the page from the company&rsquo;s latest market report: the price gap between the Toronto and Vancouver markets and the rest of the country is slowly narrowing thanks to falling values in those two cities and climbing prices elsewhere.</p>\n<p>In 2022, the gap between aggregate home prices in Toronto and Montreal was around $800,000, Soper said. By the fourth quarter of last year it had dropped to $440,000 &ndash; and it fell further in 2026&rsquo;s first quarter, slipping to $375,000.</p>\n<p>Even when prices were sky-high in Toronto and Vancouver &ndash; for instance, in the period of rampant appreciation during the COVID-19 pandemic &ndash; many buyers still felt the time was right to jump into the market amid lower interest rates and higher savings trends.</p>\n<p>But while prices have fallen in those cities, they&rsquo;re still higher than in other Canadian markets and the economic uncertainty generated by the Iran war and tariff turmoil tends to be a bigger factor for buyers there than elsewhere, according to Soper.</p>\n<p>&ldquo;When people are super incented and sure that they need to get into the market, they&rsquo;ll look beyond affordability challenges and leap in,&rdquo; he said. &ldquo;When they&rsquo;re uncertain anyway and they feel that prices are stretched and too high, they&rsquo;ll easily use it as an excuse to sit tight for another month or two, another quarter. And that&rsquo;s what we&rsquo;ve been seeing in Toronto and Vancouver for sure.&rdquo;</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\" target=\"_blank\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/in-some-respects-i-think-its-worse-condo-crisis-draws-parallels-to-1990s-meltdown/572157\">&#x2018;In some respects I think it&#x2019;s worse&#x2019;: Condo crisis draws parallels to 1990s meltdown</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/bank-of-canadas-macklem-plays-down-inflation-scare/572197\">Bank of Canada&#x27;s Macklem plays down inflation scare</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/market-updates/gta-price-map-widens-as-luxury-enclaves-soar-and-condo-hubs-strain/572193\">GTA price map widens as luxury enclaves soar and condo hubs strain</a></h3>"
-    },
-    {
-      "title": "A rise in mortgage rates may ‘pull the rug' out from under the spring housing market, says CREA",
-      "link": "https://news.google.com/articles/CBMilgFBVV95cUxQWWxmcThDbERiSTFEVGcyMWZKX01SSkJOeXJsdTIxZ2dqZ213a2IyN2o1RlFDQ3dpeHl0eGUzZkx5QVlBcVIxRzRYYnNjYVE2VnkzU0kwTzBEMjdqZ0tIeUtHaVkzandpeXFVNHhxemNhQVI4UkZMejFORnpHRmllM3BCTWFPYmxpX1NJdTBXZGxBUUQwd2c?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 19:20:17 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Ten of 12 major Canadian markets to see price growth in 2026, says Royal LePage",
@@ -539,6 +515,18 @@
       "_src": "mpamag",
       "_ogDesc": "New data showed disciplined capital returning to income&#x2011;producing assets",
       "body": "<p>Canada&rsquo;s commercial real estate market has&nbsp;moved into 2026 with more capital on the sidelines than deals getting done, but institutional players started to move back in.</p>\n<p>A new <a href=\"https://www.avisonyoung.ca/canadian-cap-rate-and-investment-trends\">Q1 2026 cap rate and investment trends report</a> from Avison Young pointed to a market where pricing has&nbsp;reset, underwriting has&nbsp;tightened and investors are again willing to transact at the right number.</p>\n<p>&ldquo;Institutional investors are re‑entering the market with highly targeted portfolio strategies; prioritizing acquisitions focused on asset quality and income durability,&rdquo; Marie‑France Benoit, principal and director of market intelligence for Canada, said.</p>\n<p>&ldquo;While this approach heightens competition for institutional‑grade product, it leaves the field wide open for private acquirers, often local, to keep capitalizing on opportunistic value‑creation plays.&rdquo;</p>\n<p>That dynamic has&nbsp;already shown up in the numbers. Private buyers accounted for 51% of acquisitions across multifamily, industrial, office and retail in Q1 2026, compared with 23% for institutional investors and 4% for REITs, the report found.</p>\n<p>&ldquo;Investors are taking a disciplined yet opportunistic approach to capital deployment,&rdquo; the authors said, adding that demand was &ldquo;bifurcated by asset quality&rdquo; as buyers focused on stable income streams and strong tenant covenants.</p>\n<h2><strong>Rates on hold, but not off the table</strong></h2>\n<p>The Bank of Canada held its policy rate at 2.25% since October 2025, but inflation pressure, volatile bond yields and renewed trade tensions with the United States complicated the outlook for borrowers and lenders.</p>\n<p>&ldquo;We fully expected the Bank of Canada would hold the overnight rate on March 18th,&rdquo; Mark Fieder, principal and president for Canada, said.</p>\n<p>&ldquo;However, with current socioeconomic instability, there is recent question around whether the BoC could, in fact, hike interest rates at some point later in 2026.&rdquo;</p>\n<p>Any move higher would feed directly into commercial mortgage costs and cap‑rate expectations.</p>\n<h2><strong>Sector trends set the tone for lenders</strong></h2>\n<p>Across asset classes, the report described a market in which lenders still have&nbsp;capital to deploy but scrutinized risk more closely.</p>\n<p>&ldquo;The supply of capital remains strong,&rdquo; Ron Dezman, senior vice president for debt capital and advisory, said, even as consolidation among lenders and shifting credit‑union strategies reshaped the landscape.</p>\n<p>On the equity side, multifamily deals&nbsp;turned more price‑sensitive as vacancy edged up and new purpose‑built rental supply came on line.</p>\n<p>Industrial fundamentals were described as &ldquo;fundamentally healthy&rdquo; rather than overheated, with vacancy off record lows and construction tapering.</p>\n<p>Office investors focused on trophy and upgraded Class A product, while many Class B and C buildings trended toward obsolescence.</p>\n<p>Necessity‑based retail &ndash; especially grocery‑anchored centres &ndash; remained among the most resilient income plays.</p>\n<p>For mortgage professionals, funding is available, but deals increasingly work&nbsp;only where underwriting assumptions match&nbsp;a more conservative reality on rents, leasing risk and exit pricing.</p>\n<p>Those who understand&nbsp;the new cap‑rate regime and sector‑by‑sector fundamentals are best positioned to guide clients through a market that rewards&nbsp;patience and precision rather than exuberance.</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/in-some-respects-i-think-its-worse-condo-crisis-draws-parallels-to-1990s-meltdown/572157\">&#x2018;In some respects I think it&#x2019;s worse&#x2019;: Condo crisis draws parallels to 1990s meltdown</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/bank-of-canadas-macklem-plays-down-inflation-scare/572197\">Bank of Canada&#x27;s Macklem plays down inflation scare</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/market-updates/gta-price-map-widens-as-luxury-enclaves-soar-and-condo-hubs-strain/572193\">GTA price map widens as luxury enclaves soar and condo hubs strain</a></h3>"
+    },
+    {
+      "title": "Rising price of oil could add heat to Calgary's spring housing market",
+      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxPSlJXeXdjTEdEX00tYlJwSEpoZDFYRWxNV0kzNUJpbHczR0RuLTdScVdOYW1ZemtUMDlmUG1RZnAwYkN0OHo3OHd3ZEJjeDF1OE9ud0M3bkhBUi1NeE5ia1RLc1lYVzVIaTRXZ2VBbVFQV041Zk1xSFplYWRDcVdqRnNBUjlheUlsZUxHQldDeUxHUUl0UzRDdWpEUEFiZDNhVmtnXzQ5RFU?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 17:05:24 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Calgary Herald",
+      "_pubUrl": "https://calgaryherald.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Vancouver Seeks To Fast-Track Low-Rise Rentals And Hotels With New Zoning District",
@@ -801,6 +789,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Mortgage Rates Forecast Canada 2026-2030",
+      "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 17:59:03 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Zenterra Breaks Ground At Clayton Crest In Surrey",
       "link": "https://storeys.com/zenterra-surrey-clayton-crest/",
       "pubDate": "Fri, 10 Apr 2026 15:20:02 +0000",
@@ -865,14 +865,14 @@
     },
     {
       "title": "Report finds Victoria condo prices soared over past decade",
-      "link": "https://news.google.com/articles/CBMinwFBVV95cUxQSVZjRkg1aUJCdi1FUWFWWVJ3aGI3QnhBMVJlelFUaXNYRFBwTDl1WXF1NUFNeWxEeE55YXZrVjlTQVZMNmdzWkJBcjNfNG52OXlZamlLclZOMlZleTl1WmRrWGd4QUY0YTczbGY4OElSb2tnWE5YZlh4ZWlRTER6dmpCSEFYZmQ4VXVYMHJncVB3M2hNcGk4cEpYTEhPYmM?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 12:34:30 GMT",
+      "link": "https://news.google.com/articles/CBMiqwFBVV95cUxOQkJ1eGpSUTdKd184RmZHSHZnd3NKY1k5SS1zX1U4YkMteFIzUVlUTUlOQk5xdUNCdkRKanZmZzdIaEhVRWN1R2ZhMjN2U1ljWUtLeGxOV3RVYW5VRXYtbkcyX0ExYlBRcnl3a1BGZURMWXZkdmFrQkNtUElNZzVBX0daeURzQXplanZfUFNLSUQ5UGtrd05PZXZ3ZEdHWk1uQi1iMzVLUkhTNVE?oc=5",
+      "pubDate": "Thu, 09 Apr 2026 12:34:41 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "Sooke News Mirror",
-      "_pubUrl": "https://sookenewsmirror.com",
+      "_publisher": "Vancouver Island Free Daily",
+      "_pubUrl": "https://vancouverislandfreedaily.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -888,15 +888,39 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Canada Will Need To Increase Immigration Again Sooner Than Expected",
+      "link": "https://news.google.com/articles/CBMif0FVX3lxTFAydzB4R0JGZ2NEM20wQmkxaW5pNXNWdEtXNW9zQW5QY0JvN2ZTS251bE5QUFZfeVdEbmdrc215a3ZIYnJtQVprdXRfc1V1a0kyTW00ZEpoeW9MYlB2bWpYMjUyUVZkMlN2OW1RSFdyMTVMSnA1T2VVcnNvQ1JIY2c?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 14:36:17 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "INC News",
+      "_pubUrl": "https://immigrationnewscanada.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ontario’s housing market went bust as other provinces saw prices climb. What went wrong?",
+      "link": "https://news.google.com/articles/CBMijgJBVV95cUxQNWNsaVNoMElDMGJwSmJjdEQwQ0FWM3ZMNGtwWXNYNUZnalZFdFFmU0djSFlSRG5tbFl3SVRadk1zbENOYUxJcU1nQllhMUxnYnI5c1VkMXktZ1BQTGk5aWRWY3JYRkdWckxqVG1Nd0JjajNsTWFjV2R4V0ZvNTFFNlIwNUZhbjUyU0xJdUxhNGpMcmtGT253b1puWGhDYjB0RXFrRHpEMjFVdVhlWFVhTWlkYUh6bFZSZ0FYSWt4V0ZHbUtsZV9keDNsVmpGeUNVWXpkQmlhN0g0ZXFfX0FTZlMzbE5yNl9hNGdCMHg5MW10WGlUaU1sZUpMbW5NVEI3dHJRN0s2SkxZQzA3alE?oc=5",
+      "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Market conditions diverge for detached homes, condos in Calgary",
-      "link": "https://news.google.com/articles/CBMif0FVX3lxTE1tQXJkVFQ4RWN5MkN4YmQ1amFDZHpfVERQc3AtTlhQSFhBaGNtWUY3bFVBcjc0YnlIbGRmS2RMOHZBYkNfSzRMSnhTZWhNUnNrUFdmZU11ZzBRdGlpejFEMWNKeUZZaXlQdTl2U1FnV3k1dG1vVkFoVTI5X09Iblk?oc=5",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxOaGJUeTI0LXQ1cEZadk0wcG15cXNHblJOb3l2V3JvbkJyT20yRUt4UERuM3EwTGNmVWZoRTY5eUxHb2QtLU9nUXhNVnVBZ3M3OXR1T0gzeDdrMlVmVEQyTWxoenFKTlNjeURicDJZUDY1MDVOc3dQQXlzZnJLSnV6M0lXbDlOSV8y?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "Calgary Herald",
-      "_pubUrl": "https://calgaryherald.com",
+      "_publisher": "Yahoo News Canada",
+      "_pubUrl": "https://ca.news.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -909,18 +933,6 @@
       "_src": "gnboc",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ontario’s housing market went bust as other provinces saw prices climb. What went wrong?",
-      "link": "https://news.google.com/articles/CBMijgJBVV95cUxQNWNsaVNoMElDMGJwSmJjdEQwQ0FWM3ZMNGtwWXNYNUZnalZFdFFmU0djSFlSRG5tbFl3SVRadk1zbENOYUxJcU1nQllhMUxnYnI5c1VkMXktZ1BQTGk5aWRWY3JYRkdWckxqVG1Nd0JjajNsTWFjV2R4V0ZvNTFFNlIwNUZhbjUyU0xJdUxhNGpMcmtGT253b1puWGhDYjB0RXFrRHpEMjFVdVhlWFVhTWlkYUh6bFZSZ0FYSWt4V0ZHbUtsZV9keDNsVmpGeUNVWXpkQmlhN0g0ZXFfX0FTZlMzbE5yNl9hNGdCMHg5MW10WGlUaU1sZUpMbW5NVEI3dHJRN0s2SkxZQzA3alE?oc=5",
-      "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Toronto Star",
-      "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1032,6 +1044,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "TD slashes housing market forecast for 2026, now sees sales and prices falling",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxNdHFUME93R2U5VWg2TWZ1RzV3czdKR0J0OWlGUlNyVlBTdWhhXzg0bUJ4ekswVWdiRUJkUXROaTN3NEFFY0dPZlVwN2dYWXRqRFU4OXhwQTdVU3hJNkp6bGc2LUtZbXdnNklHTzd2NXFyYnVtLXhsLTN4eFk1R2dpRE1nZHNrRlMxb0VhUHpWakNDNkRHUXl3c1VkaWR2MkxKZmV2OE9LWGRkSTU2cmVZNlNUT3g?oc=5",
+      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Will the Bank of Canada Raise Rates This Year?",
       "link": "https://news.google.com/articles/CBMiiwFBVV95cUxQTC1xa1BIZ1ZobDR0dnNPSDI2MHI3THhicUVZQmhRMnRmM1NadV8zSWhoVzR5dGV5bWJqRjBaWnp6TXJrS0M1NVRDM09FTUV6aG5BUklKUDF4MHlMOGplMFFwV1NnZ2tMNG5ROTJub2NMZnBXeWpTZjVRQTJUWERBZHdkVjJjbFRaMllR?oc=5",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
@@ -1122,7 +1146,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
+      "_src": "gnontre",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -1272,18 +1296,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The numbers don’t lie: The housing crisis is not caused by a supply shortage",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQdlJfZUZFaHlaOU5DVnJTSGw4R0VDZFVITnljOHp3UjY0QkpQQ25QXzF2THRSc1hzQmRuRGxjejd2b1JHdnJ6MG84czFyOWgwNWdwNzJydEQ0bGdxelJmZGppVU5GR1cyMHhhVDBqdmEtMUcxcXdYR0V1SEJ1b1djTGFUR09XR0JGNGhCLTljc0xjT25hZ1VEMG1PNkhaLVdQZ1RGUU9GTUFSSm00c2xwQlJ4R21JSjZ0dW9ocXVOaVQ?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Opinion | Why the Ontario government’s proposal to pause affordable housing rule makes sense right now",
       "link": "https://news.google.com/articles/CBMikAJBVV95cUxNMDEtUDNKOHdjcE56S3NGUHhETEpLQ2ZGLVVBaTB2eHUzeGZyMXhCN0VNcFo4OXhOY1Rxbk03Wk1CQVFaOFcxLUxpbGIydUwzeERXRkd1QzRMVjNlZ2Q4Zmt3Rnlwb2pOTXozajBJZWp4Y0l4NzIzQk9QbnhpWGVMSmxvbDV5WlVYMVVieHNHNllBNUx0UXJEN0lheXRSc2dyTlFuZXVZUkI2TVg5THU5TVVOYmtSbkstbkJJaVdzSnhoY2Z0U1FyRU9SaWg4WFBJaGxhYUZIa29rcGUtdFFBWWVmOE5JNXYtSF9OVi1uU05MNlhSMEZwZTBJUC1ta2daUXRZMkN0SnNjSUs1ZllnZQ?oc=5",
       "pubDate": "Sat, 31 Jan 2026 08:00:00 GMT",
@@ -1356,18 +1368,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "“No New Condo Completions” In GTHA By Decade’s End: Urbanation",
-      "link": "https://news.google.com/articles/CBMibEFVX3lxTE5UeGZNSTNjWWZKNE43aFotT2x4VHhGbkVmQ1lWOGVlQ0c2MndTQlFKbTc2Rm9vWWduRUFYNDVJUmMxY1poWnR2QTJhaDFvQllpYU15dGhsVmdsdU5YeWJQN0NIYzUydzlGbjlyWQ?oc=5",
-      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Home prices are now dropping for all property types in Canada",
       "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
       "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -1413,18 +1413,6 @@
       "_src": "gnott",
       "_publisher": "Ottawa Citizen",
       "_pubUrl": "https://ottawacitizen.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "'Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal",
-      "link": "https://news.google.com/articles/CBMiWkFVX3lxTE5VTWVrZk02Mnl5dEN4S25jbW05dVktRmJTQWloRF9NY0xTMGx2NnNGQ2dGMDlHdG9KUEsyOEZzRmp1Sk9Pa0lQWExfeTRzMHNaN0p6eHVrMV9zUQ?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "BBC",
-      "_pubUrl": "https://www.bbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1713,6 +1701,18 @@
       "_src": "gnpolicy",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Housing lessons from Singapore",
+      "link": "https://news.google.com/articles/CBMidEFVX3lxTE5tcERVTlRLREJ6bmRIV3VQdFFaUHZYc2Y4OU0wdDMzd2xFMl9iSnloblJHSVBuUHg5TUdWZkFvWHk3YzZMWmp3SkhzSFgtWEVHNG4tbkRENEYtdGdGTVJFa2UyOHFzRXlza2Fvb1ROSk95aFpU?oc=5",
+      "pubDate": "Thu, 10 Aug 2023 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Alternatives",
+      "_pubUrl": "https://www.policyalternatives.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
