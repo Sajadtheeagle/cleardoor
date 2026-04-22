@@ -1,6 +1,6 @@
 {
-  "ts": 1776837355043,
-  "fetched": "2026-04-22T05:55:55.043Z",
+  "ts": 1776849117548,
+  "fetched": "2026-04-22T09:11:57.548Z",
   "sources": [
     {
       "id": "cmt",
@@ -88,6 +88,29 @@
     }
   ],
   "items": [
+    {
+      "title": "U.S. tariff refunds: What Canadian exporters should know",
+      "link": "https://www.bnnbloomberg.ca/business/2026/04/22/us-tariff-refunds-what-canadian-exporters-should-know/",
+      "pubDate": "Wed, 22 Apr 2026 09:00:00 -0400",
+      "description": "Some small Canadian exporters may now be able to get money back on U.S. tariffs they paid over the past year, but only if they meet specific conditions, and the process can be complicated.",
+      "content": "<media:description type=\"plain\"><![CDATA[Some small Canadian exporters may now be able to get money back on U.S. tariffs they paid over the past year. (Olia Danilevich/Pexels)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/25VKXDUWYBBKJJATIIPYQUT6BI.jpeg?auth=6999bf2ff6146cdfd0d5ec19d0a5bd7b131192048e0b56377714834ee6d7b3c4&amp;smart=true&amp;width=1920&amp;height=1080",
+      "_src": "bnn",
+      "_ogDesc": "Some small Canadian exporters may now be able to get money back on U.S. tariffs they paid over the past year, but only if they meet specific conditions, and the process can be complicated.",
+      "body": "<p>Some small Canadian exporters may now be able to get money back on U.S. tariffs they paid over the past year, but only if they meet specific conditions, and the process can be complicated.</p>\n<p><a href=\"https://www.cfib-fcei.ca/en/tools-resources/canadian-refunds-us-ieepa-tariffs\" rel=\"\">The guidance</a>, outlined by the Canadian Federation of Independent Business (CFIB), comes as the U.S. rolls out a new refund system following a court ruling.</p>\n<p>Here’s what you need to know:</p>\n<h2>Why are refunds being offered?</h2>\n<p>In February 2026, the U.S. Supreme Court struck down certain tariffs that had been imposed under the <a href=\"https://www.cbp.gov/trade/programs-administration/trade-remedies/ieepa-duty-refunds\" rel=\"\">International Emergency Economic Powers Act (IEEPA)</a>.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/trumps-tariffs/article/tariff-refund-system-launches-as-thousands-of-us-companies-file-claims/\" rel=\"\"><b>Tariff refund system launches as thousands of U.S. companies file claims</b></a></li></ul>\n<p>Those tariffs, often around 35 per cent, applied to goods that didn’t qualify under the Canada–United States–Mexico Agreement (CUSMA).</p>\n<p>Now, the U.S. government has launched a system to refund those duties.</p>\n<h2>Who is eligible?</h2>\n<p>You may qualify for a refund if:</p>\n<ul><li>You exported goods to the U.S. between Feb. 4, 2025, and Feb. 24, 2026</li><li>Those goods did not qualify under CUSMA</li><li>You paid the tariffs yourself as the “importer of record” (IOR), the party legally responsible for bringing goods into the U.S., and the one listed on U.S. customs paperwork</li></ul>\n<p>If your U.S. customer or distributor was listed as the importer of record, you cannot apply directly. They would need to file the claim.</p>\n<h2>Who is not eligible?</h2>\n<p>You likely won’t qualify if:</p>\n<ul><li>Your U.S. customer paid the tariffs</li><li>You lowered your prices or shared costs to offset tariffs</li><li>Your products were hit by sector-specific tariffs (like steel, aluminum, autos, softwood lumber or furniture). Those sectoral tariffs are still in place and are not part of this refund system</li></ul>\n<h2>How do you apply?</h2>\n<p>Refunds are being handled through a U.S. Customs system called the ACE Portal, using a new tool called CAPE.</p>\n<p>To apply, you (or your customs broker) must:</p>\n<ul><li>Have an <a href=\"https://ace.cbp.gov/s/login/\">ACE Portal account</a></li><li>Submit a CAPE declaration listing affected shipments</li><li>Provide U.S. bank account information to receive the refund</li></ul>\n<h2>Key things to know before applying</h2>\n<p>The system is being rolled out in phases. Right now (Phase 1), some claims are excluded, including older shipments that are fully finalized, more complex entries such as those under review or dispute, and shipments tied to anti-dumping or special duty rules. Some businesses may need to wait for later phases.</p>\n<p>If your claim is approved, refunds are expected within 60 to 90 days, although delays are possible if additional reviews are required.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/trumps-tariffs/article/some-canadian-exporters-could-get-refunds-after-liberation-day-tariffs-struck-down/\" rel=\"\"><b>Some Canadian exporters could get refunds after ‘Liberation Day’ tariffs struck down</b></a></li></ul>"
+    },
+    {
+      "title": "Tide Shifting in Canadian Office Real Estate Market: Colliers",
+      "link": "https://news.google.com/articles/CBMimwFBVV95cUxQb3JYM2ZDVXdVcEVIYk9QalJjcnlkOGFZVGo3alZpQzlUamdVbDNWQ3BQeTZDYmUzTS1leXpEZ0hVdWQzMUIxYmtLVWxBVXVzY05fTVJZeGhmMXdSS2o3S01QLUl1NVcyWnBHdk02ck5ybFlrNVp0OWlGRVBkd1pHTkxUcUtaUlNpT3l1aTFDSGxBUHBpa3lpZGtETQ?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 08:13:28 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Connect CRE Canada",
+      "_pubUrl": "https://www.connectcre.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
     {
       "title": "Canada’s trade negotiator says not all U.S. trade issues may be resolved by July 1",
       "link": "https://www.bnnbloomberg.ca/tariffs/2026/04/22/canadas-trade-negotiator-says-not-all-us-trade-issues-may-be-resolved-by-july-1/",
@@ -226,17 +249,6 @@
       "_src": "timescolonist"
     },
     {
-      "title": "'More bluster': Poilievre, LeBlanc downplay Lutnick's comments on Canada",
-      "link": "https://www.bnnbloomberg.ca/business/international/2026/04/21/more-bluster-poilievre-leblanc-downplay-lutnicks-comments-on-canada/",
-      "pubDate": "Tue, 21 Apr 2026 18:28:03 -0400",
-      "description": "Federal politicians are dismissing U.S. Commerce Secretary Howard Lutnick’s disparaging comments about Canada’s negotiating position heading into major trade talks with the U.S. and Mexico.",
-      "content": "<media:description type=\"plain\"><![CDATA[U.S. Secretary of Commerce Howard Lutnick speaks during a roundtable discussion with President Donald Trump on Wednesday, Dec. 10, 2025, in Washington. ]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Evan Vucci</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/FAET7JYPS3D7WNX3ASYFNKKYJI.jpg?auth=6752123bcdd9b635579d68fe67b38d72c1a1070ba45c2958c6b0a9c332ab1c10&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Federal politicians are dismissing U.S. Commerce Secretary Howard Lutnick’s disparaging comments about Canada’s negotiating position heading into major trade talks with the U.S. and Mexico.",
-      "body": "<p>OTTAWA — Top Conservative and Liberal MPs are downplaying U.S. Commerce Secretary Howard Lutnick’s comments dumping on Canada’s strategy heading into major trade talks with the U.S. and Mexico.</p>\n<p>But former Canadian diplomat Michael Kovrig insists that while Lutnick spoke crudely, he has a point about the risks posed by Ottawa’s outreach to China amid the crucial trade talks.</p>\n<p>Lutnick turned heads in Ottawa last week when he told a panel event it would be a bad strategy for Ottawa to wait out the clock to reach a good deal with the Donald Trump administration.</p>\n<p>“That is like the worst strategy I’ve ever heard. They suck,” Lutnick said on Friday, insisting the president views the Canada-U.S.-Mexico Agreement as a bad deal that must be “reimagined.”</p>\n<p>Asked by reporters Tuesday what he made of Lutnick’s comments, Conservative Leader Pierre Poilievre said it “sounds like more bluster to me.”</p>\n<p>Dominic LeBlanc, the minister responsible for Canada-U.S. trade, told reporters in French that he talked with Lutnick “at length” last week, but the commerce secretary didn’t make any such comments when the two spoke.</p>\n<p>Canada is primed for major talks with the Americans and Mexicans on a review of the continental free trade pact. But United States Trade Representative Jamieson Greer has said he doesn’t expect negotiations on the review to be resolved by July.</p>\n<p>Lutnick made his comments in reaction to Canada’s former top trade negotiator Steve Verheul saying “Canada is in a good position” and “time is on our side because I think the pressures on the U.S. are only going to increase over time.”</p>\n<p>“It’s really a question of Canada being prepared to wait this out a bit,” Verheul said during a Bank of Montreal panel on April 8.</p>\n<p>Lutnick also said it was a mistake for Prime Minister Mark Carney to travel to Beijing in January and make a deal on electric vehicle import tariffs.</p>\n<p>“Carney has a problem with us. He gets on a plane and he goes to China. Does he think the Chinese economy is going to buy his stuff? China is entirely an export-driven economy,” Lutnick asserted. “Is this nuts?”</p>\n<p>At a Chamber of Commerce event in Ottawa, Kovrig said Lutnick’s comments on Canada-China trade were abrasive and crude but “not wrong.”</p>\n<p>Kovrig said Ottawa is making a “risky play” by engaging with China at a crucial time for continental trade talks, since Canada remains economically dependent on the U.S.</p>\n<p>The former envoy, famously imprisoned by China for more than 1,000 days, now serves as a consultant on geopolitics.</p>\n<p>Kovrig said that while it might be tempting to play the Beijing card in negotiations with the Americans, that’s not likely to be helpful.</p>\n<p>“If anything, it makes Canada look unreliable to an already disgruntled party,” he said.</p>\n<p>“The risk is that Canada just becomes a footnote in the story that China is writing and they instrumentalize Canada to weaken Western alliances, to weaken the United States and ultimately achieve their own objectives.”</p>\n<p>Candace Laing, head of the Canadian Chamber of Commerce, said Lutnick’s comments were “frustrating” but they shouldn’t “rattle” Canadians.</p>\n<p>“We are engaged in the relationship and I think our opinion of that matters much more than the commerce secretary’s opinion,” she said.</p>\n<p>Poilievre criticized the prime minister for not explaining to Canadians how his government plans to go about renegotiating Canada’s most important trade pact.</p>\n<p>“If he wants it renegotiated, does he want a full overhaul? A few tweaks?” Poilievre asked reporters.</p>\n<p>“What are his demands? Has he waved the white flag on getting rid of the tariffs on aluminum, steel, autos and lumber, or is he still fighting that fight?”</p>\n<p>LeBlanc said in French that Canada has “already started” talks with the Trump administration on the free trade pact and that it’s “going well.”</p>\n<p>The minister noted Canada’s chief trade negotiator Janice Charette recently travelled to Washington, and Canada’s Ambassador to the U.S. Mark Wiseman was in Ottawa this week and met with him on Monday.</p>\n<p>He said officials from both sides text each other frequently and sometimes hold video meetings.</p>\n<p>LeBlanc took few questions and quickly fled the scrum area after he talked up the government’s newly announced Canada-U.S. trade council.</p>\n<p><i>This report by The Canadian Press was first published April 21, 2026</i></p>\n<p><i>-- With files from Catherine Morrison</i></p>"
-    },
-    {
       "title": "Government introduces bill to support space launches from Canadian territory",
       "link": "https://www.bnnbloomberg.ca/business/company-news/2026/04/21/government-introduces-bill-to-support-space-launches-from-canadian-territory/",
       "pubDate": "Tue, 21 Apr 2026 18:17:31 -0400",
@@ -257,18 +269,6 @@
       "_src": "gnre",
       "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "News of the day: Spring real estate, Toronto condo market, federal budget update, NorthStar valuation, vacation planning and more",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxQSEd6M1p2TUhYNEJWLU5yZ2xZVFhST3VLNTBLMnRDSUlvd1dCTktIQ1lDdy1oMHp3UVJnYjVTUXBGckY3dG5GX00yS2trdDBrTWtSWU9RVTRXY0dGbW5rbjAxeTh2eFFfUlBPZnZ4a2djMnFJUG16TnFZR1RfdVFWRHp3?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 21:30:04 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Yahoo! Finance Canada",
-      "_pubUrl": "https://ca.finance.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -422,7 +422,7 @@
       "thumbnail": "https://cdn-res.keymedia.com/cms/images/us/074/0343_639123111931166073.png",
       "_src": "mpamag",
       "_ogDesc": "Integration brings a unified platform, expanded products, and faster, more consistent underwriting",
-      "body": "<p>Alta West Mortgage Capital Corporation (Alta West Capital) and Premiere Home Mortgage Ltd. (Premiere) have been working closely together for the past few quarters to ensure that this moment will arrive. And now, the time has come for the two lenders to unite under the Alta West Capital banner.</p>\n<p>This decision was the natural next step for the two lenders, owing to their shared values of practical, common-sense lending, expediency, efficiency, and putting their investors and clients at the heart of what they do. We are looking at an evolving industry; expanding <a>compliance requirements</a>, cost of capital, scalability and service expectations demand that lenders consolidate their strengths to broaden their offerings for an ever-changing market.</p>\n<p>The moment has arrived for Premiere and Alta West Capital to unite into a singular, wide-reaching platform that will offer an unparalleled range of versatile products. Both teams will coalesce to bring together veteran lenders who share a common goal of unlocking possibilities for brokers, borrowers and investors alike.</p>\n<h2><strong><a name=\"_845uozcalcxs\"></a>A unified platform for brokers</strong></h2>\n<p>With Premiere fully integrated into the Alta West Capital platform, brokers familiar with either company will now <a name=\"_Int_3Gu7P5mJ\">benefit</a> from a streamlined, cohesive experience boasting a massively expanded product line and unified underwriting methodologies. All of this will serve to offer brokers more tools to close as many deals as possible through a single point of access and with the same gold standard service they have come to expect from both companies. Across all lending regions, the coalesced approvals team will reduce friction and increase clarity, providing speedier service for broker partners.</p>\n<p>The combined team also offers expanded coverage into more niche areas within BC, ON and AB, deeper expertise, and more robust support for brokers nationwide through expansive internal systems and institutionally backed liquidity. With a larger Business Development and underwriting team, brokers can expect faster answers, more creativity in deal structuring and a heightened capacity to review files that may previously have fallen between cracks of <a>two</a>&nbsp;separate ecosystems.</p>\n<p>Brokers familiar with Premier will now gain access to the full <a href=\"https://awcapital.ca/mortgage-products/\" target=\"_blank\">AWC product suite, including Express solutions, Flex products, advanced bundle programs, the Flexline HELOC, and lending on multi-residential and mixed-use properties.</a> Brokers familiar with Alta West Capital will receive Premiere&rsquo;s bespoke servicing with an equity first approach, allowing them to <a href=\"https://awcapital.ca/wp-content/uploads/2026/03/SmallTownAdvantage_Mar_2026.pdf\" target=\"_blank\">lend on rural properties and even on some mobile homes!</a> The unified <a>companies&nbsp;</a>under the Alta West Capital banner will now offer one of the most versatile and comprehensive private-lending product lineups in the country.</p>\n<p>Finally, brokers who only have experience with Premiere but not Alta West Capital, will <a name=\"_Int_8Vk8v3VX\">immediately</a> benefit from the acquisition by automatically qualifying for its <a href=\"https://awcapital.ca/broker-loyalty-program/\">Broker Loyalty Program</a> where they can earn up to 15 BPS every quarter. In addition to this, Alta West Capital pledges to donate <a>$100&nbsp;</a>to a designated charitable foundation for every deal that is funded. So, when you work with Alta West Capital, you are a part of its charitable giving back at the same time.&nbsp;</p>\n<p>The <a name=\"_Int_37BJ1lvH\">lenders&rsquo;</a> combined operational discipline further enhances the value of this integration. As a single, fully registered securities manager, Alta West Capital folds decades of experience together into the helm with Premiere. The newly broadened banner of Alta West Capital now maintains a diversified portfolio of over $400 million AUM. For investors, the strengths of both <a name=\"_Int_YyRVH0de\">companies&rsquo;</a> disciplined underwriting standards, management practices and investment philosophy have been interwoven, ensuring a smooth integration.</p>\n<h2><strong>Honouring Premiere&rsquo;s legacy</strong></h2>\n<p>Premiere has served brokers, borrowers and investors across Canada for over 40 years, establishing a reputation for fast answers, pragmatic underwriting, prudent risk-management and excellent service. This legacy is precisely why Alta West Capital has acquired Premiere: their shared values and standard of excellence aligns them.</p>\n<p>Premiere staff have been retained and now operate fully within the Alta West Capital network, ensuring that brokers and investors will continue to work with the professionals they know and trust. Premiere&rsquo;s identity will now be woven into the broader Alta West Capital fabric, allowing its voice to be projected through a larger national platform for years to come.</p>\n<h2><strong>Leadership commentary</strong></h2>\n<p>&ldquo;Our industry is changing, and this integration positions us to be a leader within that change.&rdquo; said George Botros, Chief Executive Officer of Alta West Capital. &ldquo;By uniting under one platform, we are joining together decades of experience, standards of discipline, and shared values. Premiere&rsquo;s legacy is strong, and we are honoured to be the co-author of its next chapter where brokers can expect more support, more clarity, and a broader range of solutions. We are better together.&rdquo;</p>\n<p>&ldquo;This is a win for the entire broker community,&rdquo; added Armando Diseri, Chief Sales Officer of Alta West Capital. &ldquo;Brokers will immediately benefit from faster service, enhanced creativity in deal structuring, and <a href=\"https://awcapital.ca/mortgage-products/\">direct access to a more expansive suite of products</a>. Premiere built exceptional relationships across Canada, and we are proud to welcome those relationships fully into the AWC family.&rdquo;</p>\n<h2><strong>&nbsp;A new era for brokers</strong></h2>\n<p>The integration arrives at a pivotal time. The Canadian private lending landscape is undergoing rapid transformation, and the industry is accelerating. Broker expectations are intensifying, and scale is becoming increasingly essential. The industry is reshaping itself, and lenders must adapt quickly to retain their competitive edge.</p>\n<p>Alta West Capital strives not just to adapt but to lead. At the time of release, all Premiere deals now flow through Alta West Capital. Updated product sheets, commitments, term sheets, and documentation are available, and all underwriting, approvals, funding, and servicing are centralized through Alta West Capital systems</p>\n<h2><strong>Want more information? Reach out today. </strong></h2>\n<p>Brokers: <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"87c6f5eae6e9e3e8c7e6f0e4e6f7eef3e6eba9e4e6\">[email&#160;protected]</a> | (647-915-1932)</p>\n<p>Investors: <a href=\"/cdn-cgi/l/email-protection#0e6760786b7d7a617c207c6b626f7a6761607d4e6f796d6f7e677a6f62206d6f\">[email&#160;protected]</a></p>\n<p>Media: <a href=\"/cdn-cgi/l/email-protection#450f242820366b08262e2c31372c262e0524322624352c3124296b2624\">[email&#160;protected]</a></p>\n<h2><em><strong>About Alta West Capital</strong></em></h2>\n<p><em>For more than 30 years, Alta West Capital has been unlocking possibilities across Alberta, British Columbia, and Ontario. Alta West Capital maintains a diversified portfolio of over 1,000 loans and has never produced a negative annual return since inception. The company is committed to prudent risk management, transparent investor reporting, and helping Canadians achieve financial freedom through accessible lending. Alta West Capital is also deeply engaged in community initiatives, including long-standing support for organizations such as Shelter Canada and Victory Outreach. </em></p>\n<p><em>Alta West Capital is registered as an Exempt Market Dealer (&ldquo;EMD&rdquo;), Restricted Portfolio Manager (&ldquo;RPM&rdquo;) and Investment Fund Manager (&ldquo;IFM&rdquo;) in the province of Alberta. The firm is also registered in the provinces of British Columbia, Ontario, Manitoba, Saskatchewan and Yukon as an EMD. The corporation is registered as a mortgage broker in the Provinces of British Columbia, Alberta, and Ontario and holds a mortgage administration license in Ontario as well.</em></p>\n<p>This article was provided by Alta West Capital</p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/quebec-premier-unveils-welcome-tax-rebate-in-bid-to-keep-first-time-buyers-in-the-market/572540\">Quebec premier unveils welcome tax rebate in bid to keep first-time buyers in the market</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/ex-boc-chief-puts-30-recession-odds-on-canada/572528\">Ex-BoC chief puts 30% recession odds on Canada</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/business-confidence-rebounds-before-iran-war-clouds-inflation-outlook/572523\">Business confidence rebounds before Iran war clouds inflation outlook</a></h3>"
+      "body": "<p>Alta West Mortgage Capital Corporation (Alta West Capital) and Premiere Home Mortgage Ltd. (Premiere) have been working closely together for the past few quarters to ensure that this moment will arrive. And now, the time has come for the two lenders to unite under the Alta West Capital banner.</p>\n<p>This decision was the natural next step for the two lenders, owing to their shared values of practical, common-sense lending, expediency, efficiency, and putting their investors and clients at the heart of what they do. We are looking at an evolving industry; expanding <a>compliance requirements</a>, cost of capital, scalability and service expectations demand that lenders consolidate their strengths to broaden their offerings for an ever-changing market.</p>\n<p>The moment has arrived for Premiere and Alta West Capital to unite into a singular, wide-reaching platform that will offer an unparalleled range of versatile products. Both teams will coalesce to bring together veteran lenders who share a common goal of unlocking possibilities for brokers, borrowers and investors alike.</p>\n<h2><strong><a name=\"_845uozcalcxs\"></a>A unified platform for brokers</strong></h2>\n<p>With Premiere fully integrated into the Alta West Capital platform, brokers familiar with either company will now <a name=\"_Int_3Gu7P5mJ\">benefit</a> from a streamlined, cohesive experience boasting a massively expanded product line and unified underwriting methodologies. All of this will serve to offer brokers more tools to close as many deals as possible through a single point of access and with the same gold standard service they have come to expect from both companies. Across all lending regions, the coalesced approvals team will reduce friction and increase clarity, providing speedier service for broker partners.</p>\n<p>The combined team also offers expanded coverage into more niche areas within BC, ON and AB, deeper expertise, and more robust support for brokers nationwide through expansive internal systems and institutionally backed liquidity. With a larger Business Development and underwriting team, brokers can expect faster answers, more creativity in deal structuring and a heightened capacity to review files that may previously have fallen between cracks of <a>two</a>&nbsp;separate ecosystems.</p>\n<p>Brokers familiar with Premier will now gain access to the full <a href=\"https://awcapital.ca/mortgage-products/\" target=\"_blank\">AWC product suite, including Express solutions, Flex products, advanced bundle programs, the Flexline HELOC, and lending on multi-residential and mixed-use properties.</a> Brokers familiar with Alta West Capital will receive Premiere&rsquo;s bespoke servicing with an equity first approach, allowing them to <a href=\"https://awcapital.ca/wp-content/uploads/2026/03/SmallTownAdvantage_Mar_2026.pdf\" target=\"_blank\">lend on rural properties and even on some mobile homes!</a> The unified <a>companies&nbsp;</a>under the Alta West Capital banner will now offer one of the most versatile and comprehensive private-lending product lineups in the country.</p>\n<p>Finally, brokers who only have experience with Premiere but not Alta West Capital, will <a name=\"_Int_8Vk8v3VX\">immediately</a> benefit from the acquisition by automatically qualifying for its <a href=\"https://awcapital.ca/broker-loyalty-program/\">Broker Loyalty Program</a> where they can earn up to 15 BPS every quarter. In addition to this, Alta West Capital pledges to donate <a>$100&nbsp;</a>to a designated charitable foundation for every deal that is funded. So, when you work with Alta West Capital, you are a part of its charitable giving back at the same time.&nbsp;</p>\n<p>The <a name=\"_Int_37BJ1lvH\">lenders&rsquo;</a> combined operational discipline further enhances the value of this integration. As a single, fully registered securities manager, Alta West Capital folds decades of experience together into the helm with Premiere. The newly broadened banner of Alta West Capital now maintains a diversified portfolio of over $400 million AUM. For investors, the strengths of both <a name=\"_Int_YyRVH0de\">companies&rsquo;</a> disciplined underwriting standards, management practices and investment philosophy have been interwoven, ensuring a smooth integration.</p>\n<h2><strong>Honouring Premiere&rsquo;s legacy</strong></h2>\n<p>Premiere has served brokers, borrowers and investors across Canada for over 40 years, establishing a reputation for fast answers, pragmatic underwriting, prudent risk-management and excellent service. This legacy is precisely why Alta West Capital has acquired Premiere: their shared values and standard of excellence aligns them.</p>\n<p>Premiere staff have been retained and now operate fully within the Alta West Capital network, ensuring that brokers and investors will continue to work with the professionals they know and trust. Premiere&rsquo;s identity will now be woven into the broader Alta West Capital fabric, allowing its voice to be projected through a larger national platform for years to come.</p>\n<h2><strong>Leadership commentary</strong></h2>\n<p>&ldquo;Our industry is changing, and this integration positions us to be a leader within that change.&rdquo; said George Botros, Chief Executive Officer of Alta West Capital. &ldquo;By uniting under one platform, we are joining together decades of experience, standards of discipline, and shared values. Premiere&rsquo;s legacy is strong, and we are honoured to be the co-author of its next chapter where brokers can expect more support, more clarity, and a broader range of solutions. We are better together.&rdquo;</p>\n<p>&ldquo;This is a win for the entire broker community,&rdquo; added Armando Diseri, Chief Sales Officer of Alta West Capital. &ldquo;Brokers will immediately benefit from faster service, enhanced creativity in deal structuring, and <a href=\"https://awcapital.ca/mortgage-products/\">direct access to a more expansive suite of products</a>. Premiere built exceptional relationships across Canada, and we are proud to welcome those relationships fully into the AWC family.&rdquo;</p>\n<h2><strong>&nbsp;A new era for brokers</strong></h2>\n<p>The integration arrives at a pivotal time. The Canadian private lending landscape is undergoing rapid transformation, and the industry is accelerating. Broker expectations are intensifying, and scale is becoming increasingly essential. The industry is reshaping itself, and lenders must adapt quickly to retain their competitive edge.</p>\n<p>Alta West Capital strives not just to adapt but to lead. At the time of release, all Premiere deals now flow through Alta West Capital. Updated product sheets, commitments, term sheets, and documentation are available, and all underwriting, approvals, funding, and servicing are centralized through Alta West Capital systems</p>\n<h2><strong>Want more information? Reach out today. </strong></h2>\n<p>Brokers: <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"5716253a363933381736203436273e23363b793436\">[email&#160;protected]</a> | (647-915-1932)</p>\n<p>Investors: <a href=\"/cdn-cgi/l/email-protection#dfb6b1a9baacabb0adf1adbab3beabb6b0b1ac9fbea8bcbeafb6abbeb3f1bcbe\">[email&#160;protected]</a></p>\n<p>Media: <a href=\"/cdn-cgi/l/email-protection#155f747870663b58767e7c61677c767e5574627674657c6174793b7674\">[email&#160;protected]</a></p>\n<h2><em><strong>About Alta West Capital</strong></em></h2>\n<p><em>For more than 30 years, Alta West Capital has been unlocking possibilities across Alberta, British Columbia, and Ontario. Alta West Capital maintains a diversified portfolio of over 1,000 loans and has never produced a negative annual return since inception. The company is committed to prudent risk management, transparent investor reporting, and helping Canadians achieve financial freedom through accessible lending. Alta West Capital is also deeply engaged in community initiatives, including long-standing support for organizations such as Shelter Canada and Victory Outreach. </em></p>\n<p><em>Alta West Capital is registered as an Exempt Market Dealer (&ldquo;EMD&rdquo;), Restricted Portfolio Manager (&ldquo;RPM&rdquo;) and Investment Fund Manager (&ldquo;IFM&rdquo;) in the province of Alberta. The firm is also registered in the provinces of British Columbia, Ontario, Manitoba, Saskatchewan and Yukon as an EMD. The corporation is registered as a mortgage broker in the Provinces of British Columbia, Alberta, and Ontario and holds a mortgage administration license in Ontario as well.</em></p>\n<p>This article was provided by Alta West Capital</p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/quebec-premier-unveils-welcome-tax-rebate-in-bid-to-keep-first-time-buyers-in-the-market/572540\">Quebec premier unveils welcome tax rebate in bid to keep first-time buyers in the market</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/ex-boc-chief-puts-30-recession-odds-on-canada/572528\">Ex-BoC chief puts 30% recession odds on Canada</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/business-confidence-rebounds-before-iran-war-clouds-inflation-outlook/572523\">Business confidence rebounds before Iran war clouds inflation outlook</a></h3>"
     },
     {
       "title": "Is the tide turning in Canada’s commercial property market?",
@@ -464,7 +464,7 @@
       "thumbnail": "https://cdn-res.keymedia.com/cms/images/us/074/0388_639123055185649138.png",
       "_src": "mpamag",
       "_ogDesc": "The mortgage carried a high rate of interest of 10% per month on a two&#x2011;month term",
-      "body": "<p>The Financial Services Regulatory Authority of Ontario (FSRA) has&nbsp;permanently shut down the mortgage activities of an unlicensed intermediary who helped arrange a high‑cost private loan and used an email address suggesting he worked for a licensed brokerage.</p>\n<p>In minutes of settlement released in March, FSRA said &ldquo;<a href=\"https://teao.fsrao.ca/en/enforcement/2881\">Iftikhar Ahmad Qadeer (&lsquo;Qadeer&rsquo;)</a> has never been licensed in the mortgage sector by the Financial Services Regulatory Authority of Ontario (&lsquo;FSRA&rsquo;) and is not currently licensed.&rdquo;</p>\n<p>The regulator said he &ldquo;acted as an intermediary, passing mortgage related documents and information between parties representing the borrower and lender&rdquo; and &ldquo;introduced the representing parties and attended meetings between them where details of the MJA Mortgage transaction were negotiated in order to facilitate and arrange the transaction.&rdquo;</p>\n<h2><strong>Case grew from complaint over costly private mortgage</strong></h2>\n<p>The case stemmed from a complaint about Ontario broker Rahman Mohammed and a mortgage for consumer MJA, according to the settlement.</p>\n<p>FSRA said &ldquo;Qadeer is a close friend of Mohammed and was involved in securing the MJA Mortgage&rdquo; and &ldquo;has referred a number of mortgage deals to Mohammed, usually making between $500 and $1000 per deal.&rdquo;</p>\n<p>Emails and documents for the deal were sent from &ldquo;<a href=\"/cdn-cgi/l/email-protection#ed80829f998a8c8a889e808c8988888c9e94dfdddcdbad8a808c8481c38e8280\" rel=\"noreferrer\" target=\"_self\">[email&#160;protected]</a>.&rdquo; FSRA said that address &ldquo;made it appear that he represented the Ottawa‑Carleton Mortgage Inc. o/a Mortgages Made Easy brokerage &hellip; but he has never been licensed as a mortgage agent or broker.&rdquo;</p>\n<p>The mortgage &ldquo;carried a high rate of interest of 10% per month on a two‑month term and included a consultant fee of 15% of the loan amount&rdquo; and the borrower defaulted, FSRA said.</p>\n<h2><strong>Permanent ban and small penalty, but wider warning</strong></h2>\n<p>By &ldquo;dealing in mortgages in Ontario for remuneration without a mortgage broker&rsquo;s or agent&rsquo;s licence&rdquo; and by using a description that might lead borrowers to believe he was licensed, Qadeer breached sections 2(3) and 11(6) of the Mortgage Brokerages, Lenders and Administrators Act, 2006, the settlement said.</p>\n<p>He agreed to administrative penalties totaling $3,500 and to a permanent compliance order requiring him to &ldquo;cease and desist from dealing in mortgages in Ontario&rdquo; and to stop using the &ldquo;<a href=\"/cdn-cgi/l/email-protection#15787a67617274727066787471707074666c27252423557278747c793b767a78\" rel=\"noreferrer\" target=\"_self\">[email&#160;protected]</a>&rdquo; address or any description suggesting he is licensed.</p>\n<p>FSRA recently <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/fsra-sanctions-ontario-broker-after-unlicensed-referrer-and-highcost-private-loan/561694\">also restricted Mohammed&rsquo;s own business</a> after finding he arranged an expensive private mortgage through an unlicensed referrer and failed to verify identity or suitability.</p>\n<p>In January, the regulator <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/ontario-regulator-takes-enforcement-action-against-former-broker-issues-75k-fine/561696\">pursued former broker Yashna Singh</a> over continued use of restricted titles and unlicensed dealing, securing a $75,000 penalty and a compliance order.</p>\n<p>That same month, FSRA proposed sanctions and licence downgrades for London‑area broker and agent duo <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/fsra-targets-ontario-broker-duo-in-alleged-deceptive-mortgage-scheme/562124\">Rhett Richard (Richard Rhett) McClenaghan and John (Johnny) Chehade</a> in an alleged deceptive mortgage scheme that pushed a family from a low‑rate bank loan into layered, expensive private mortgages.</p>\n<p>In February, FSRA <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/fsra-suspends-ontario-mortgage-agent-after-forged-insurance-applications/564089\">suspended agent Chanderkant Jindal</a> for six months over forged insurance applications and imposed strict conditions on his return to the broker channel.</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\" target=\"_blank\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/quebec-premier-unveils-welcome-tax-rebate-in-bid-to-keep-first-time-buyers-in-the-market/572540\">Quebec premier unveils welcome tax rebate in bid to keep first-time buyers in the market</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/ex-boc-chief-puts-30-recession-odds-on-canada/572528\">Ex-BoC chief puts 30% recession odds on Canada</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/business-confidence-rebounds-before-iran-war-clouds-inflation-outlook/572523\">Business confidence rebounds before Iran war clouds inflation outlook</a></h3>"
+      "body": "<p>The Financial Services Regulatory Authority of Ontario (FSRA) has&nbsp;permanently shut down the mortgage activities of an unlicensed intermediary who helped arrange a high‑cost private loan and used an email address suggesting he worked for a licensed brokerage.</p>\n<p>In minutes of settlement released in March, FSRA said &ldquo;<a href=\"https://teao.fsrao.ca/en/enforcement/2881\">Iftikhar Ahmad Qadeer (&lsquo;Qadeer&rsquo;)</a> has never been licensed in the mortgage sector by the Financial Services Regulatory Authority of Ontario (&lsquo;FSRA&rsquo;) and is not currently licensed.&rdquo;</p>\n<p>The regulator said he &ldquo;acted as an intermediary, passing mortgage related documents and information between parties representing the borrower and lender&rdquo; and &ldquo;introduced the representing parties and attended meetings between them where details of the MJA Mortgage transaction were negotiated in order to facilitate and arrange the transaction.&rdquo;</p>\n<h2><strong>Case grew from complaint over costly private mortgage</strong></h2>\n<p>The case stemmed from a complaint about Ontario broker Rahman Mohammed and a mortgage for consumer MJA, according to the settlement.</p>\n<p>FSRA said &ldquo;Qadeer is a close friend of Mohammed and was involved in securing the MJA Mortgage&rdquo; and &ldquo;has referred a number of mortgage deals to Mohammed, usually making between $500 and $1000 per deal.&rdquo;</p>\n<p>Emails and documents for the deal were sent from &ldquo;<a href=\"/cdn-cgi/l/email-protection#b0dddfc2c4d7d1d7d5c3ddd1d4d5d5d1c3c982808186f0d7ddd1d9dc9ed3dfdd\" rel=\"noreferrer\" target=\"_self\">[email&#160;protected]</a>.&rdquo; FSRA said that address &ldquo;made it appear that he represented the Ottawa‑Carleton Mortgage Inc. o/a Mortgages Made Easy brokerage &hellip; but he has never been licensed as a mortgage agent or broker.&rdquo;</p>\n<p>The mortgage &ldquo;carried a high rate of interest of 10% per month on a two‑month term and included a consultant fee of 15% of the loan amount&rdquo; and the borrower defaulted, FSRA said.</p>\n<h2><strong>Permanent ban and small penalty, but wider warning</strong></h2>\n<p>By &ldquo;dealing in mortgages in Ontario for remuneration without a mortgage broker&rsquo;s or agent&rsquo;s licence&rdquo; and by using a description that might lead borrowers to believe he was licensed, Qadeer breached sections 2(3) and 11(6) of the Mortgage Brokerages, Lenders and Administrators Act, 2006, the settlement said.</p>\n<p>He agreed to administrative penalties totaling $3,500 and to a permanent compliance order requiring him to &ldquo;cease and desist from dealing in mortgages in Ontario&rdquo; and to stop using the &ldquo;<a href=\"/cdn-cgi/l/email-protection#127f7d606675737577617f7376777773616b2022232452757f737b7e3c717d7f\" rel=\"noreferrer\" target=\"_self\">[email&#160;protected]</a>&rdquo; address or any description suggesting he is licensed.</p>\n<p>FSRA recently <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/fsra-sanctions-ontario-broker-after-unlicensed-referrer-and-highcost-private-loan/561694\">also restricted Mohammed&rsquo;s own business</a> after finding he arranged an expensive private mortgage through an unlicensed referrer and failed to verify identity or suitability.</p>\n<p>In January, the regulator <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/ontario-regulator-takes-enforcement-action-against-former-broker-issues-75k-fine/561696\">pursued former broker Yashna Singh</a> over continued use of restricted titles and unlicensed dealing, securing a $75,000 penalty and a compliance order.</p>\n<p>That same month, FSRA proposed sanctions and licence downgrades for London‑area broker and agent duo <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/fsra-targets-ontario-broker-duo-in-alleged-deceptive-mortgage-scheme/562124\">Rhett Richard (Richard Rhett) McClenaghan and John (Johnny) Chehade</a> in an alleged deceptive mortgage scheme that pushed a family from a low‑rate bank loan into layered, expensive private mortgages.</p>\n<p>In February, FSRA <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/fsra-suspends-ontario-mortgage-agent-after-forged-insurance-applications/564089\">suspended agent Chanderkant Jindal</a> for six months over forged insurance applications and imposed strict conditions on his return to the broker channel.</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\" target=\"_blank\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/quebec-premier-unveils-welcome-tax-rebate-in-bid-to-keep-first-time-buyers-in-the-market/572540\">Quebec premier unveils welcome tax rebate in bid to keep first-time buyers in the market</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/ex-boc-chief-puts-30-recession-odds-on-canada/572528\">Ex-BoC chief puts 30% recession odds on Canada</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/business-confidence-rebounds-before-iran-war-clouds-inflation-outlook/572523\">Business confidence rebounds before Iran war clouds inflation outlook</a></h3>"
     },
     {
       "title": "Bank of Canada surveys show war hitting inflation expectations",
@@ -699,18 +699,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ontario Housing Market | 2026 Home Prices",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 21:50:51 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada Housing Market | 2026 Home Prices",
       "link": "https://news.google.com/articles/CBMic0FVX3lxTE16YllabVZTN1J3R05GU20xLWJ2aTNvc1V5TnBfVG1FeTZ3ZENXT1QxWFJobnpKUHNJWTUtQWlEWmVHTVZmOWVZNzdrYlFLaWhwV1FiazVPcUFVamd3bEdqeUMxNEhPaEFuZmdhb3NsejJQSWs?oc=5",
       "pubDate": "Thu, 16 Apr 2026 21:01:03 GMT",
@@ -798,18 +786,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "CREA Downgrades Resale Housing Market Forecast",
-      "link": "https://news.google.com/articles/CBMizgFBVV95cUxQZjZYZzUtVjFHc2JDZ0NQN3ZwSjRqYTBWcEFvYk9IRUdlVVNydEl2c0NRaFgxQlpWaU9ILUgwbVhuNGJFLVl2dG9ZVXZFVzRhTWdKYkNQVVppUXZYM2R0N3psUHhVbmVmOUx5Tzg2NG0wLWJjYXBvamxHTHJYWFBKLWt1dnlrdnNJWVVPZ25HalhNQ3RkdGkwSWFSeG1VOUtmaEJ2QWVIY3BMYVJkX3ZxLXdzVE1aSllnZU9kNEJzSllCU1gxUXFDME1FdDJCQQ?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 08:59:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "crea.ca",
-      "_pubUrl": "https://www.crea.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "This Leslieville Home Gets Better Every Time You Look",
       "link": "https://storeys.com/30-coady-avenue-for-sale/",
       "pubDate": "Wed, 15 Apr 2026 20:12:07 +0000",
@@ -819,6 +795,18 @@
       "_src": "storeys"
     },
     {
+      "title": "CMHC economist warns untargeted buyer aid risks backfiring on affordability",
+      "link": "https://news.google.com/articles/CBMi2gFBVV95cUxORV9TRUNlTTFsUWRWTlZBV1Q0NFhnS1FoVllIWjVvLVB5R05MbEd3RC1Feno5dXhibGxhWWMxTnlMbUpSS05Fd1IzcDFwcjNWdkhzR3V4aEc0YlA3ZEZJOXN1cHJZQjVsX2h2TVZtSy1RNlloWW5aZjZmRE9kSEdtRkN6UVYzS1dBLThpUFpqVFVyTTNpUVdGaG0xYVhGVjM4Z1dKbVozM0xVaVlfSW9fOWtfZ3VwNjBFdVVTTlF3LWhLVnVkNDR5OVVKVEZtOU1fd3VYbklBNzVSZw?oc=5",
+      "pubDate": "Wed, 15 Apr 2026 19:29:44 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "B.C. home sales face major headwinds in March as transactions, prices both slide",
       "link": "https://www.timescolonist.com/national-business/bc-home-sales-face-major-headwinds-in-march-as-transactions-prices-both-slide-12145210",
       "pubDate": "Wed, 15 Apr 2026 15:24:00 GMT",
@@ -826,18 +814,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/a2d6dbc89eaed09a0f300f0d5b270b39529ee07f0306087fafbbc3bde373373a.jpg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "Why demand-side interventions need to be paired with housing supply",
-      "link": "https://news.google.com/articles/CBMivAFBVV95cUxPRDA4QUNkZ0QwZTVuamp2Q2Y5OU1rQ3I1TkZyZHF6aHJwR3RPZUdEYlJtbVJxRWR3bjdLdENWSEUxdkhFNEUxbjk3c3lXYWNsLUg4ME1sOWd2OWZlV243bUtnVGtSTWhjRDBfUFFVU0xpQWljb0ZQZDJWZnZfV1Zma3JlN2NWdU85N1dITmxlcjlmc0dwYklMSHpjbVgxbzdMTm5GdkxwR2JlRnMxTEwtOUY1WmVMWVl3dElSeA?oc=5",
-      "pubDate": "Wed, 15 Apr 2026 14:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Photos: Price cut for fifth time on castle-like Metro Vancouver mansion",
@@ -883,18 +859,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/sotheby-s-international-realty-canada.png?id=65514446&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "Mortgage Rates Forecast Canada 2026-2030",
-      "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Report finds Victoria condo prices soared over past decade",
@@ -969,18 +933,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "A look at the 7 most expensive homes and estates for sale in Ottawa",
-      "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQSkRBbkxJcHBZTHZEbjdEdHFENXltMF9lQ25vX2xIR1RUMTI2RkZWNnpBeVZ3VDlYRnhqQ0Y0VzFXbXZpeWFWckl1QWVUcFZZeWxhcjE4dTBDUzlETFZaaW9ZeVVQQTU2YlREanlrcEVpdUM1eks3dHY3Sy0zSGpDNklEMEg5SFhVWGhEczM3eklLTXJMVmpDU184ZnpYaTh1QWlOUEpkbDMwQQ?oc=5",
-      "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Calgary housing market splits as detached holds firm and condos feel the strain",
       "link": "https://news.google.com/articles/CBMi3gFBVV95cUxNZDd4eEdaRlI4QlU5UjZaVUdaeWprNV9lUUlqUy1BRS0yaURETjVuc2xXN3kxakRsNHc5Ykx6UjdCQ1A0Sld3dEJWZ0JHdXhQckVNQ2l6Q2RGSUtWUGtBMlVsOTVGZkR4V2FJSF9qaHdyYk5kOEtOSFN6UHNFM0JDSU9ncDZ6aGU4RW5EaXFzQ0tySXVMSjQ3U2MwUDd3SFhYVnhqdHAzTzlpZUdRVzN5YjNob0FnVnJkZmtTcEdjNmtaMWFpTllfOUhTa2dMMWY2Vkg3Z2ZVUmJWWmdFVlE?oc=5",
       "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
@@ -1014,6 +966,18 @@
       "_src": "gnhprice",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Sales slow as condo weakness weighs on Calgary market - CMT News",
+      "link": "https://news.google.com/articles/CBMiowFBVV95cUxNWF82ejE3Wk93eHIxNlpWNjcwTUFVb080enBOSElYcGpPMjcwZl9IYm5WUTRtS3M4a0E4ZFQ3VmtCQUZDZHBaUVRqVlhSenNKVlNOdzlYbHpOTTF2MTV3RXVyVmk3N19XRjhPOGlrYXlFcTVmR1k5WW96TmsyM0EyVUt5SUZsN242NG9kdWRhd19fLVdXdXRlakk0dXJFQjR0OTZ3?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1101,18 +1065,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Toronto home prices down 24% — history suggests the correction may not be over - CMT News",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNcVpsTE5pUVA2YnJWaFZJaEgxMklrb2xReXhndnk2RFJ6ckRSaXdkWG5GOWliM2s5WjZNaDBWVENUSldyQndFbnhKLXhmX0NsQzNCV2pOSjhYTDJNUkx4TWVtZWVqOTBFdEhvaWJNSWYwYnY4QktRdjg4LTZhbERPN2RFZ1VGdXpIZFZ2U2lyVFg3ZXJjc09kajhDUXc5WjZNcV92SjR0ODFsTEROQ3g2SDJYSGZYbDd4ZC1JcVBmTXg?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The Bank of Canada is holding its interest rate. For now",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxPZU53SUlrcFlZeHUzeXkwb2xtU19TMjZmcU01TXNCaTZacC1qSmpjM0tFaEtxM0VOMnhyZ19Gb254bzlzQzg2ZDRyRXhpdlBoek9STzJVX2piMS1mNkNYQ2pNNmpYTnZkWnRPQVl6ZF9JQUhPQkphZndHUlpFekFmSi13?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
@@ -1134,6 +1086,18 @@
       "_src": "gnboc",
       "_publisher": "Royal Bank",
       "_pubUrl": "https://www.rbcroyalbank.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada holds interest rates as Iran war rattles global economies",
+      "link": "https://news.google.com/articles/CBMihwFBVV95cUxORkI5bTU3X1BYNjFqYktya2Npa1ZyZUppNG9Ea3lkWXNwaUJxN3VtSDJTcTJUYUxhWmNxdFFLSENyODIxc0xmYzBsTk9NMVlwMEoxQXJfOTBzWmlFcTdORTJ3U1FZeVpWamM3T3A5b1hpc1lJRG9YNEJvUGdlWjVJaFk0Q2d2a0E?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1185,6 +1149,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Canada Housing Starts Rise In 2025, But Condo Pipeline Weakens: CMHC",
+      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1pcGpuYWRxMlJoQmtwV2QwVVVlYS1JbVFYc1dDLXNjajRLVHR1R1V3Q1N3eDV6RDA5ODZjRTU4LUo2NnJtR0Z0VWF4emFPX012bV9jZVUycWVJcjRlT0phNw?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Storeys",
+      "_pubUrl": "https://storeys.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Calgary home sales down 11 per cent in February as condo activity slips: board",
       "link": "https://news.google.com/articles/CBMi3AFBVV95cUxNOVpKMXZKY2R1VFVmZW5ubXNhT0w2MkRKOXpaNThyNEdMcHh5UjVxLU1vWjhKOHRCSDZwdUdzNGJzU2xpX1Z1d2lkbTlYT01iMDVqM0E1Z0ZucHNKblZoaUkyUjlXOGUyVkpMLTRWeF8wZFVvQTlVY3N0WW5sdzhnNUUyWGxmUHh1cTluS3ZpZVNOOG10bi1WR3Vzay1MRjlsdkUtY0NzMzlCaUdaZDItY0ZlQnJlTmNGY3lDZlFNd3ZUU1RfeU85Z3R6cnFBeVR6Ylo0cmJBeUhudGJW?oc=5",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
@@ -1206,6 +1182,30 @@
       "_src": "gnottdev",
       "_publisher": "Ontario Construction News",
       "_pubUrl": "https://ontarioconstructionnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Immigration could soon account for all of Canada's population growth: expert",
+      "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQSkxELVlJNEdNa01sM21uaTBhbkJsdTRGQi14RmFZWE9OSzMyNUFNZ3EyWnlTdXBmU2tubktodmNwSGJOVFZRbkdaZjJ5OW5pZTFKV3dBX0dQSFQxVzdGUDdLdGM1a045U0g5bXlsQkVHMm03OXUzampPb0w5VEZtZXFCeHhULWs2Si1TM0xlQnlKWnV0VWtRZ2N6YXhpLTZwX01DSHBPVmVkWTNPSks3YXUxWjRMQlJodUVUWkVWYjh1Mnc?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "Guelph News",
+      "_pubUrl": "https://www.guelphtoday.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Expert: An HST Holiday Could Be A Lifeline For Ontario’s Housing Market",
+      "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9KTHhqLU5HY3FfMGdKWkc2Q21VaThyYVNhTjBTcjBIU09lZnhUQ3NJUVZIS25kTFRZNmd2ZWpDS1AxR2ktSUtwS2VyaFRFa3FyRTJYLThGWF84X2lkSWlTZU1WM2JJdw?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Storeys",
+      "_pubUrl": "https://storeys.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1257,6 +1257,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa home prices drop 4.5% in January",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxNdU5PWVBJVTlkTUtOQ21ybUhHeEhQTExkTi1EcEJVZnh1RVZ6UlRWR3pjenlDNWtROWV4LTNhR1VCWlRUS1ZpYUU5MFFjQ3dpR2hjTmQ1MDNyYnBsaVhoMGZ3RjFrMmI4QUVMTEFsZGJQWXdkY3ZrUTl3UzlzaEJKd05B?oc=5",
+      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Mortgage renewal wave strains some regions and borrowers",
       "link": "https://news.google.com/articles/CBMimgFBVV95cUxQZS1nTDZVQVpnVFBWanhqT25qR3RTbFhrc1NtYXpCVlJsb2hQS0RHTkNMb0NZWTAtMnY0ZmlBVWUxSFdRTF84WE1tOWtzMFdmNGczNnp1SmNZaDl5R0poUmU1WVctWnRleTdUcmtNa0dmdU5VSmRCaEYzU2t5bllLOEhReHFzNllLM2VUb0tyaEh0MXR2bHdfb1B3?oc=5",
       "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
@@ -1266,6 +1278,18 @@
       "_src": "gnmort",
       "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
       "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Power-of-sale listings spike across Ontario, piling pressure on housing market",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxNdV9xZzhTcmF2cG90aU4tWGR3ZWtxS0Z6SFdhYWZaRGVxQjFSMWlPM08xNndyZXpXOXNOS293aFV6MEtHdE5RbGRzZ1ZMX05HNE01TlEtTEp4Z0taNWNobnUyN3FGQzZZQkhWQnM1b1Fhc18tME9pOUsyVy1RQTVHQ1lieEZuQjBnWGszWVB1ZW0weEROZWxGZVJkWHhFVUVPWFNyclpqaHktZGNSVi1iUzdBcHNUU1o0ci10YmRfQjh2TldU?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1302,6 +1326,18 @@
       "_src": "gnnewcon",
       "_publisher": "Connect CRE Canada",
       "_pubUrl": "https://www.connectcre.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Op-ed: Ottawa’s new zoning by-law sets the stage for growth of all types",
+      "link": "https://news.google.com/articles/CBMifkFVX3lxTE0xN1hRdU5ZT243UER1Z2pBb1dta3JsdUVXMm9mS0NyZ1J5clc0MTZTeTFZZ0dWekR6LUJNcUVXTHRIMzMyRlBYd3lFQWVDNUZvTXZJODlJTHpxMkdYemUwYjVnV3o2M2VrMW1odHhzOTR4dmt4cUlZVUJnNzVRUQ?oc=5",
+      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ottawa Business Journal",
+      "_pubUrl": "https://obj.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1389,27 +1425,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "'Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal",
-      "link": "https://news.google.com/articles/CBMiWkFVX3lxTE5VTWVrZk02Mnl5dEN4S25jbW05dVktRmJTQWloRF9NY0xTMGx2NnNGQ2dGMDlHdG9KUEsyOEZzRmp1Sk9Pa0lQWExfeTRzMHNaN0p6eHVrMV9zUQ?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "BBC",
-      "_pubUrl": "https://www.bbc.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Tariffs, immigration shifts, condo softness shape Canada’s housing outlook for 2026: Royal LePage CEO",
-      "link": "https://news.google.com/articles/CBMi7wFBVV95cUxQRjBna2VSSy1YeWJ3eTdNUUdMbGZMam5IZUw2Q1VURVV3MmZvZ1hMSXFQQUYyMUFVYkoxNkJVU253RGFLSmV5eXBsTkNKRExDMjFRTzYzX0JlZGpJTU5aSHZrUktPTkRMdFppOXN6QU5SQWN3UUxtTlk1dUJ2MnF0aUVhQURJMHpBZ3d6OFI5d2ZtYUU3UG11NHZBVEM1bG9teXVXQkVhbkFMdlB2LUE0VUFIa0NlUmw3dFlKaVdhUGhrek5mTU9GOEh3Mk95UzJ1U1EwVmY0OVVLaXRpRUpVLUFHMFMxbFlCb1FvQXM4QQ?oc=5",
+      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxOTU9HMVdvWFVtSlVGbk9ubzNfMFJ0aHByaEpNUk0tNXdjbnMtejNZdF8tX3ZJVm1wMDl0SHRZbS1HVkxaa2JuUElManJzOUVOTlRTRGNETmtORlZrNVQwWi1jaVh0SExELWNnN3o3RjB5ZXFUS25ROWdjWDctYTNuazRGd0s3REVmdk9qdWNVZlNyVDZqSVNCSHBRTXA5bHNBcU1wdnFwdGVHR2VFZExPN29DR28tRlQwMmpsSTRmVWcydTFvNUJlZWhVUmJBRU9SbU5aZw?oc=5",
       "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "BNN Bloomberg",
-      "_pubUrl": "https://www.bnnbloomberg.ca",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1449,18 +1473,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Construction launches on $98M Phase 1 of major rental development near Ottawa’s Experimental Farm",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPRWpCRWlrTnllbmlLSnBkUWJnbUNvanBoWEhCOVpzUkZFT2lVZnEwYjBCVXE0NzlZZGtmVWhtV25LZWlnY1ExU3I5US1aVDZTM0dldHJxQnpEUXNxT0RTTUliSmsxMG5FNWJVeGFiWFVDUUFhRHFFUERlbVlpbEtfcXk3VjB2b0ZmSVBKa0tqeFJWaEpNSVRDUFZFcDBneFRUMXloSmxFRDBhbUg0QnZweVpIZlZ6LU5QOUhrdzhlTVA5SlFia3VjcFBQdw?oc=5",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The housing burden of unchecked immigration: Peter Copeland in Commonplace",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxNMl9RT3ZHQUw2a0xMa3l1elFQeWlXS1dKRGt5RW5FYXRReEtiMGJ4SDN2TnNWS1NjMTRhX3hfVUgwT3JvVkpUQ1NWZmtiYXpNVTMyMFlXdnRjOXZvLWkwRjdLX2hGcGRiQUV3M2d6XzJHNzA1TTctVU5udGlwSUhMcW1QTmxBMF9iNm9YZ2RIS2YzOTlRWXN1VlM2QTRFaTBubXc?oc=5",
       "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -1482,6 +1494,18 @@
       "_src": "gnimmig",
       "_publisher": "Immigrant Services Society of BC (ISSofBC)",
       "_pubUrl": "https://issbc.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Here’s why city hall should save ‘blanket rezoning’ in Calgary",
+      "link": "https://news.google.com/articles/CBMioAFBVV95cUxNX3lmRHVYaUd2UVFBamFsNU53WTZwQ2RzeUZQZVhPUjQ1X250elkyOTd3WmNUSUhNU1ZPb0xxM0N3aFVpdGNwdUtRNTFiQ3F6UzM1N1diWlFnR2JCLTg4ajlQMW9aZlZ0VzJTbXUtdE43WDJFRTlXRGpkMWlmcTNNVmVpV0JSVlZJTk5lcDdHSFZDU2tRU3g2RjNtSjllbkZy?oc=5",
+      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Fraser Institute",
+      "_pubUrl": "https://www.fraserinstitute.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1533,18 +1557,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control",
-      "link": "https://news.google.com/articles/CBMitAFBVV95cUxPdWpUbU8xaU94VVNLUl9CQVY0N0RKanNEMzRkZHlrNlVYZVgtRHRrY2sxOEc5cktVTDl3MGZqNWlkTlZxRXZ5OXBPanE0WEtFNEw0cmRfa3Q2bXBUS3hKbTJMSkoyajR0SnQ4T0FldTduYzkzcXozRks2QkVwMXVfTGwyeVdEbGd4eVRkTmtUQjh0aDhXeEZKYUVUSkFpNVVkQVV6cmdmX01sN2U1dUV6V0dMZmM?oc=5",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Glen Gower",
-      "_pubUrl": "https://glengower.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa Housing Market Outlook (2026)",
       "link": "https://news.google.com/articles/CBMiYkFVX3lxTE45ejBRYTRzdVVQUWhvaGVYa1NFS291cU1pbmZleGQ4VXR4eG94UkpxR0dCclY3bzRxU3hZRGJ4QmpHNGliZnhQOXptazh1a3hqRHJhazIybjRoLVUyX3QzYVZR?oc=5",
       "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT",
@@ -1566,18 +1578,6 @@
       "_src": "gnpolicy",
       "_publisher": "Fraser Institute",
       "_pubUrl": "https://www.fraserinstitute.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa airport appeals city approval of homes under flight path",
-      "link": "https://news.google.com/articles/CBMic0FVX3lxTFBCWTM5ZzI5c2g2aWJlWDdOX3NWV1lsQWUteGY5WHhtM3JLc0VWV24xdThBOXdIU3A2dkttN0RhZDlhUTFZNjZfSVdHblVYWVh1aFFjR05BdUhJdFgzMnpNY2F2aHB0aHRGN1MySFVvZVZvYW8?oc=5",
-      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1653,18 +1653,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Latest CMHC Report Confirms What We Already Know — Toronto Is In Crisis",
-      "link": "https://news.google.com/articles/CBMiZEFVX3lxTE5oT1ZPX3JlS18yX1dSX19LeXBMOVVUb1NGdVJGVFhNVTU5LTQ1Q1pyRXV2am11T1NwazIybllLU2dFZERuZEpQYndQZVFZWF9PN0JPZHRDaXd5T2VJSXllZ2lLR18?oc=5",
-      "pubDate": "Tue, 09 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Housing Starts And Housing Supply in Canada",
       "link": "https://news.google.com/articles/CBMidkFVX3lxTE9KTk1JUlIxaWlFQzBKZGJ1VTdCbi1FMVR6cXp5eHdleUkzem1iSUdYeGVVbnZNbUtrZG1pdnBiY3lsdjR0Tnh4R3hpaGY0NHpPMTh0RmxmTEtOdW0xdmxLSG9DeE5vTG5QcGJ2cmdNdWQzem1lTGc?oc=5",
       "pubDate": "Fri, 05 Sep 2025 07:00:00 GMT",
@@ -1674,6 +1662,18 @@
       "_src": "gnnewcon",
       "_publisher": "nesto.ca",
       "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa could allow 3-storey buildings in all neighbourhoods under new zoning bylaw",
+      "link": "https://news.google.com/articles/CBMivgFBVV95cUxQeVRpTmZUeDIyeGptU2UtbW5ueVhtaEFWMGp4a1FQNHp6cm9icW5uQlhvNTRBWDFBdTJfTldmUXZsS3lPSmg0WXNIcjg2OEtfUEU5TUhRd3MwTDNBNVJ1M0g4d2RtRXNmWjZ4QWJwWlJCS3NtZHdxejJMWERvb1VkOXZyNG5lRGZPU00xUFB3SzlXNEtZdUUzSE9leUo5aXhTUjVKSURVNHN6RzBjOFoyeU9TZy1GazhKVXpFSGxR?oc=5",
+      "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1713,6 +1713,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "1412 Stittsville Main Street: Zoning By-law Amendment and Site Plan Control application",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxNX1hpVF9ZaVEzTnpzdkJEZzM4OGU1a28zNHQwWXhwTElrejAzM0paRmktd0lqRlpjX3pwRmFxOFNqZmxpMGtaWW1IRjkxTHlxenlfSy1iUDdBeG9HMVRUX0ZSbkVmWnRmQmhUVENvTThVaGRQNk56TzFVUHhBZkdDa1pweUg2cGZ6cGV5WlNiLU9QZGZXUmhrdDQ3TGdOU0RVWTVPVVdEOF9WTDA5YXhKME9RMU04clh4Y2p1NA?oc=5",
+      "pubDate": "Wed, 07 May 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Glen Gower",
+      "_pubUrl": "https://glengower.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Only Doug Ford and the Ontario PCs Will Protect Ottawa’s Economy",
       "link": "https://news.google.com/articles/CBMinAFBVV95cUxPNDhDemdzY2tzVkFCb0VnVDlybzJMNzBfbmxkUWhSbU9mQXlQUXplRG5lMHc1eURpdjc3OW5RNGxZUHk5bl8wbVJrdjJqWTF6MlZPd1JqdkJKbXAtUmJkSWluYXpwd1BwVEVWWmNSTmM4aXQyYWlSdzUxeGV1Y1JqeWRXU1NCQWpaZFk1cTlVdXYta3YtdHdMZEctTjQ?oc=5",
       "pubDate": "Tue, 04 Feb 2025 08:00:00 GMT",
@@ -1734,18 +1746,6 @@
       "_src": "gnottlrt",
       "_publisher": "AECOM",
       "_pubUrl": "https://aecom.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CMHC 2023: Housing Reports Retrospective",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxNeTVpVndac3I4dTE2eEgzR1hyaW9qVXNtWDM4WUl3SXNBenNCWTYtZld0eHZpRVktRDk1VlFyQndkTDJ5c2o3QUh1UkEtcW1RYkxYejZMbWJwTmFjTGtqUWlha2o2MXItNEdGamhGUTFibGVvMUJ6LW52RDZNVy0yLW1mLTB2WmJDY2hwRnA2VXJOWGR0?oc=5",
-      "pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
