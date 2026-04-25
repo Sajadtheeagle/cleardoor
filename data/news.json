@@ -1,6 +1,6 @@
 {
-  "ts": 1777062979154,
-  "fetched": "2026-04-24T20:36:19.154Z",
+  "ts": 1777079987321,
+  "fetched": "2026-04-25T01:19:47.321Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,15 +89,48 @@
   ],
   "items": [
     {
-      "title": "S&P/TSX composite ends week slightly negative",
+      "title": "Going on vacation? Here’s how the jet fuel crisis could affect your travel insurance",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/04/24/how-the-jet-fuel-crisis-impacts-travel-insurance/",
+      "pubDate": "Fri, 24 Apr 2026 23:40:11 -0400",
+      "description": "The jet fuel crisis that has scrubbed thousands of flights worldwide has travellers counting how much money they could lose and whether their insurance will protect their wallets. The answer to that is not entirely clear, and experts call this uncharted territory for the industry.",
+      "content": "<media:description type=\"plain\"><![CDATA[An Air Canada flight departing for Toronto, bottom, taxis to a runway as a WestJet flight bound for Palm Springs takes off at Vancouver International Airport, in Richmond, B.C., on Friday, March 20, 2020. THE CANADIAN PRESS/Darryl Dyck]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">DARRYL DYCK</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/BXDL2UELD4A3DNKUZILCHTDBGI.jpg?auth=aa5452eef2c7d6d0ab2fe086782b7af3f0731eea91281199eba299dc29323750&amp;smart=true&amp;width=1400&amp;height=950",
+      "_src": "bnn",
+      "_ogDesc": "The jet fuel crisis that has scrubbed thousands of flights worldwide has travellers counting how much money they could lose and whether their insurance will protect their wallets. The answer to that is not entirely clear, and experts call this uncharted territory for the industry.",
+      "body": "<p>MONTREAL — The jet fuel crisis that has scrubbed thousands of flights worldwide has travellers counting how much money they could lose and whether their insurance will protect their wallets. The answer to that is not entirely clear, and experts call this uncharted territory for the industry.</p>\n<p>“If you have travel insurance, call your company, call the insurer,” said CAA-Quebec travel insurance expert Nadia Goyette. “The policy wording is sometimes hard to understand. These are legal terms that are not always easy to understand.”</p>\n<p>Stephanie Hallot Lamoureux booked a dream European family vacation that included a Baltic cruise. Now the Kanata, Ont. resident is concerned she could be out thousands of dollars if her flight is cancelled and she misses the connection with her ship.</p>\n<p>“I know Air Canada will re-book us or give us our money back, but the cruise? No, they won’t,” said Lamoureux. “I have already been in touch with my credit card (company), they won’t cover my cancellation.”</p>\n<p>Airlines are responsible for rebooking passengers on a flight within 48 hours of a cancelled flight, or to offer a refund. But they’re not responsible for expenses like bus tours, hotels or cruises that are booked as part of a trip. Several travel insurance policies can generally cover these costs.</p>\n<p>“Once the flights are cancelled, if travellers don’t make their cruise or they don’t get to their Airbnb rental, they make a claim, they submit the receipts, they get reimbursed,” said Martin Firestone, president of Travel Secure Inc. “That’s now not going to be the way it’s going to go.”</p>\n<p>Firestone says the jet fuel crisis is now a known cause for cancellations, so travel insurance policies purchased from now on may not cover those costs. He says travellers must plan their trips carefully.</p>\n<p>“You have to be wise enough to figure out your schedule and itineraries to give yourself the days you’re going to need if your flight doesn’t leave on the day it was supposed to,” said Firestone. “So really, the knowledgeable person will be fine. The one who isn’t aware of what’s going on is going to be in for some very rude surprises.”</p>\n<p>Goyette says one option for travellers is to check whether their insurance has a clause that allows for cancellation or interruption of travel for any reason. That clause is relatively new to the market.</p>\n<p>“If you do have that extra guarantee of ‘cancel for any reason’ or ‘interrupt for any reason,’ then you will have some coverage. It’s not a 100 per cent of what you had prepaid, but it still it could be up to 50 to 80 per cent.”</p>\n<p>Those who booked prior to this unprecedented crisis could also hit cost coverage roadblocks. Most travel insurance policies include a war exclusion clause that voids claims linked to conflicts.</p>\n<p>While that generally doesn’t cover operating issues like fuel, some insurers could potentially consider the crisis as related to the war in the Middle East.</p>\n<p>Goyette says the key is to look closely at your policy, whether it is linked to private or group insurance, as well as credit card coverage. She also says that reviewing group and credit card policies frequently is important to spot any change in coverage.</p>\n<p>“You dream about a trip and you plan for a long time,” said Goyette. “You saved up to pay for that trip, and you don’t want to have all that ruined. You want to leave knowing everything was well taken care of.”</p>\n<p>Lamoureux says she had considered that a medical reason could surface and scrap the vacation, but she never imagined a jet fuel crisis could prevent her from getting to Europe, leaving her footing a bill for a cruise she can’t board.</p>\n<p>“All I can do now is hope and keep my fingers crossed that the flight will take off.”</p>"
+    },
+    {
+      "title": "Lawyers urge federal ban on U.S. forced labour imports, cars built by prisoners",
+      "link": "https://www.bnnbloomberg.ca/business/2026/04/24/lawyers-urge-federal-ban-on-us-forced-labour-imports-cars-built-by-prisoners/",
+      "pubDate": "Fri, 24 Apr 2026 21:59:02 -0400",
+      "description": "Human rights lawyers are calling on Ottawa to ban American imports that stem from forced labour, specifically auto imports from Alabama.",
+      "content": "<media:description type=\"plain\"><![CDATA[Canada Border Services Agency officers listen during an announcement about a seizure of opium, in Tsawwassen, B.C., Friday, Dec. 16, 2022. THE CANADIAN PRESS/Darryl Dyck]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">DARRYL DYCK</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/NJYOO3GS6FCO6WOJPBUNEK2T7Q.jpg?auth=fe0814686bb42b899ecf8ee74f3496f7dfaaa2e19f2fd469fafd378d52396e01&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Human rights lawyers are calling on Ottawa to ban American imports that stem from forced labour, specifically auto imports from Alabama.",
+      "body": "<p>OTTAWA — Human rights lawyers are calling on Ottawa to ban American imports that stem from forced labour linked to automotive firms using prisoner work in Alabama, under the same law meant to block products made through exploitative practices in China.</p>\n<p>“Forced or coercive labour can exist anywhere when people lack real choice protection or power,” said Sandra Wisner, director of the International Human Rights Program at the University of Toronto.</p>\n<p>“Discussions about forced labour tend to focus on global supply chains in the Global South, so in factories in Southeast Asia or agricultural fields in Latin America. But the use of forced or prison labour in the U.S., including under deeply coercive and abusive conditions, receives far less attention, especially here in Canada.”</p>\n<p>Wisner’s team submitted a detailed complaint this month to the Canada Border Services Agency asking it to block goods made with forced labour coming in from the United States.</p>\n<p>Nabila Khan, a researcher who co-authored the complaint, said her team of fellow lawyers examined reports from government and citizen groups in the U.S. about prisoners being coerced into working on parts for Hyundai and Genesis vehicles and Dorsey Trailer products. The also conducted interviews with currently and formerly incarcerated workers.</p>\n<p>Khan said they examined Alabama Department of Corrections records on prison labour and cross-referenced them with data from companies listed as suppliers to specific auto manufacturers. She said they then tracked vehicles from these work sites to Toronto dealerships, using vehicle identification numbers.</p>\n<p>“It shouldn’t be that hard to confirm what goods are getting into Canada, but there is an absence of that kind of data available,” said Khan.</p>\n<p>In a statement, Hyundai Motor Manufacturing Alabama insisted it does not use forced labour.</p>\n<p>“Consistent with the standard and values to which we hold ourselves as a company, we mandate that our suppliers strictly adhere to the law, and we have an established track record of acting when alleged violations occur,” wrote spokesman Scott Posey.</p>\n<p>The company in 2023 stopped using a subsidiary that had employed child refugees to operate heavy equipment.</p>\n<p>Posey provided a link to a code of conduct for suppliers which says it expects its suppliers to “support” its commitment to “ensuring that no products entering its supply chain are mined, produced, or manufactured, in whole or in part, with forced, imprisoned, indentured, or indentured child labour.”</p>\n<p>Public Safety Canada has referred questions from The Canadian Press to the CBSA. The U.S. Department of Labour did not respond to a request for comment, and neither did Dorsey Trailer and its Canadian vendor KID.</p>\n<p>The researchers said Ottawa must consistently block products that stem from slavery and prison labour, regardless of their countries of origin.</p>\n<p>“Canada’s credibility depends on enforcing its laws consistently, not selectively,” Wisner said. “Our everyday purchases like vehicles, trailers (and) building materials are tied to very complex supply chains.”</p>\n<p>Last fall, Wisner’s team issued a report that noted similar concerns about products from other American auto plants, food from prison farms across the U.S., balloons and playground equipment.</p>\n<p>They said the broader issue is a lack of transparency in Canada’s supply chains, particularly in sectors deeply integrated with the U.S.</p>\n<p>“This isn’t about consumer guilt,” Wisner said. “It’s about whether governments and companies are doing their jobs. Canadians expect that goods sold here comply with our laws and our values.<i>\"</i></p>\n<p>The U.S. Constitution bans slavery and involuntary servitude, except when used as punishment for a crime — leading to so-called chain gangs of shackled prisoners performing road construction.</p>\n<p>American academics have argued that using prisoners for labour is not appropriate when they are denied health and safety protections afforded to regular employees, and when private corporations running prisons punish and reward inmates based on the quality of their work output.</p>\n<p>Last fall’s report noted that the percentage of Alabama prisoners granted parole has dropped from more than half in 2018 to less than 10 per cent in 2023, amid an increase in prison labour.</p>\n<p>Khan noted that Canada bars all products made through prison labour, regardless of whether any foreign laws allow for it.</p>\n<p>For years, Washington has been pushing Canada to do more to weed out products of forced labour from countries such as China, and launched a probe in March that could be used to justify tariffs.</p>\n<p>The lawyers’ complaint to the CBSA cites regulations that came into force under commitments Ottawa agreed to in the Canada-United States-Mexico Agreement, the free trade deal brokered by Washington to replace NAFTA.</p>\n<p>“We’re worried that there’s a real risk that forced labour becomes a part of a tariff strategy and the danger is that enforcement becomes selective or politicized. The reality is that forced labour isn’t one-sided,” Wisner said.</p>\n<p>Earlier this month, a multi-party group of parliamentarians urged Ottawa to step up its efforts to stop Canadian companies from profiting from slavery in their operations abroad and through imports.</p>\n<p>Researchers have found that despite Canadian companies and government institutions being required to report annually on efforts to prevent or mitigate child labour or forced labour, these corporate filings offer little detail and Ottawa is not applying a 2023 law to entire industries.</p>\n<p>Ottawa has also faced sustained criticism for not appointing a new federal corporate watchdog, a position that has been vacant for nearly a year as complaints touching on multiple industries sit idle.</p>\n<p>Parliament passed the Supply Chains Act after the United Nations reported in 2022 that China had committed serious human rights violations in Xinjiang against its Uyghur minority. The report said those violations “may constitute international crimes, in particular crimes against humanity.” Beijing firmly rejects these claims.</p>\n<p>The issue of Xinjiang forced labour was at the centre of a heated exchange at a House committee last month, when Liberal MP Michael Ma asked a witness whether her evidence on forced labour in Chinese aluminum supply chains could be “hearsay.”</p>\n<p><i>This report by The Canadian Press was first published April 24, 2026.</i></p>\n<p><i>Dylan Robertson, The Canadian Press</i></p>"
+    },
+    {
+      "title": "S&P/TSX composite ends week slightly negative, while tech buoys U.S. markets",
       "link": "https://www.bnnbloomberg.ca/markets/tsx/2026/04/24/sptsx-composite-ends-week-slightly-negative/",
-      "pubDate": "Fri, 24 Apr 2026 20:27:30 -0400",
+      "pubDate": "Fri, 24 Apr 2026 21:01:50 -0400",
       "description": "Canada’s main stock index ended the week just a touch in negative territory, while strength in tech helped buoy U.S. markets.",
-      "content": "<media:description type=\"plain\"><![CDATA[A board above the trading floor of the New York Stock Exchange with stock symbols is shown in this image, Tuesday, July 1, 2025. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/YQH4JFEQMVZ36SEYQSWMAE6FHE.jpg?auth=d6add0404afb125c4d18583dda284dd968c51488836edb2d0a425b97dbb4a7e6&amp;smart=true&amp;width=1400&amp;height=933",
+      "content": "<media:description type=\"plain\"><![CDATA[The fading name on the building in Toronto that used to house the Toronto Stock Exchange is shown on Thursday, August 18 2011. THE CANADIAN PRESS/Aaron Vincent Elkaim]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/ZPJRMTWD4YNEGY4FATFMFFJ3CY.jpg?auth=98ea33632f461c17e3b772c423a477319509de62599805369e115982d9644d9d&amp;smart=true&amp;width=1400&amp;height=931",
       "_src": "bnn",
       "_ogDesc": "Canada’s main stock index ended the week just a touch in negative territory, while strength in tech helped buoy U.S. markets. ",
-      "body": "<p>TORONTO — Canada’s main stock index ended the week just a touch in negative territory, while strength in <a href=\"https://www.bnnbloomberg.ca/markets/2026/04/24/intels-best-day-since-1987-leads-the-us-stock-market-to-more-records/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/2026/04/24/intels-best-day-since-1987-leads-the-us-stock-market-to-more-records/\">tech helped buoy U.S. markets</a>.</p>\n<p>The <a href=\"https://www.bnnbloomberg.ca/markets/tsx/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/tsx/\">S&amp;P/TSX composite index</a> was down 8.82 points at 33,904.11.</p>\n<p>In New York, the <a href=\"https://www.bnnbloomberg.ca/markets/dow-jones/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/dow-jones/\">Dow Jones industrial average</a> was down 79.61 points at 49,230.71. The <a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/s-p-500/\">S&amp;P 500 index</a> was up 56.68 points at 7,165.08, while the Nasdaq composite rose 398.09 points at 24,836.60.</p>\n<p>The Canadian dollar traded for 73.11 cents US compared with 73.06 cents US on Thursday.</p>\n<p>The June crude oil contract was down US$1.45 at US$94.40 per barrel.</p>\n<p>The June gold contract was up US$16.90 at US$4,740.90 an ounce.</p>\n<p><i>This report by The Canadian Press was first published April 24, 2026.</i></p>"
+      "body": "<p>TORONTO — Canada’s main stock index ended the week just a touch in negative territory, while strength in <a href=\"https://www.bnnbloomberg.ca/markets/2026/04/24/intels-best-day-since-1987-leads-the-us-stock-market-to-more-records/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/2026/04/24/intels-best-day-since-1987-leads-the-us-stock-market-to-more-records/\">tech helped buoy U.S. markets</a>.</p>\n<p>The <a href=\"https://www.bnnbloomberg.ca/markets/tsx/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/tsx/\">S&amp;P/TSX composite index</a> finished down 8.82 points at 33,904.11, with energy one of the weaker sub-indexes.</p>\n<p>Kevin Burkett, portfolio manager at Victoria-based Burkett Asset Management, said headlines around the war in the Middle East, and its impact on global crude oil prices, was likely behind the slight dip on the Canadian market on Friday.</p>\n<p>“While the near-term contract has been very, very volatile on oil egress out of (the Strait of) Hormuz, the market continues to price in resolution on Iran — and I think fairly quickly,” Burkett said.</p>\n<p>About 20 per cent of the world’s crude oil supply normally moves from the Persian Gulf and through the strait on its way to destinations around the world. A ceasefire is tenuously in place between Iran and the U.S. but tensions between the two are still keeping oil tankers from passing through the narrow waterway.</p>\n<p>The June crude oil contract was down US$1.45 at US$94.40 per barrel, which is still more than 40 per cent higher than it was before the war began in late February. But contracts for delivery toward the latter part of the year are drifting closer to the US$70 mark, suggesting investors expect the oil supply shock to resolve before too long.</p>\n<p>“That explains why producers’ shares haven’t reacted to the degree that I think a lot would have expected if they were just looking at daily headlines on crude oil fluctuations,” Burkett said.</p>\n<p>Meanwhile in New York, the <a href=\"https://www.bnnbloomberg.ca/markets/dow-jones/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/dow-jones/\">Dow Jones industrial average</a> was down 79.61 points at 49,230.71. The <a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/s-p-500/\">S&amp;P 500 index</a> was up 56.68 points at 7,165.08, topping its prior all-time high, while the Nasdaq composite rose 398.09 points at 24,836.60.</p>\n<p>The big Wall Street story on Friday was a blockbuster earnings report and rosy outlook from Intel Corp.</p>\n<p>Intel shares soared 23.6 per cent for its best day since 1987 after reporting much stronger results for the first three months of the year than analysts expected. CEO Lip-Bu Tan said the next wave of artificial intelligence technology is increasing the need for Intel’s chips and products, and the company’s forecast for profit in the spring topped analysts’ estimates.</p>\n<p>While big AI bellwether names like chipmaker Nvidia have been huge drivers on U.S. markets, there’s little on the TSX that offers investors the same kind of leverage to the tech boom, said Burkett.</p>\n<p>“So much of the AI optimism has come into components, the physical infrastructure around AI ... Most of the Canadian business is software and oftentimes the wrong type of software,” he said.</p>\n<p>“I think Canada’s tech sector on days like today finds itself very out of step with global themes around AI.”</p>\n<p>The Canadian dollar traded for 73.11 cents US compared with 73.06 cents US on Thursday.</p>\n<p>The June gold contract was up US$16.90 at US$4,740.90 an ounce.</p>\n<p><i>This report by The Canadian Press was first published April 24, 2026.</i></p>\n<p><i>With files from The Associated Press</i></p>"
+    },
+    {
+      "title": "EU, U.S. sign critical minerals plan to counter China reliance",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/04/24/eu-us-sign-critical-minerals-plan-to-counter-china-reliance/",
+      "pubDate": "Fri, 24 Apr 2026 20:58:19 -0400",
+      "description": "The European Union and United States signed an agreement Friday to co-ordinate on the supply of critical minerals needed for key industries including defence, as China’s dominance becomes a growing concern.",
+      "content": "<media:description type=\"plain\"><![CDATA[U.S. Secretary of State Marco Rubio speaks to the press following a G7 Foreign Ministers' meeting with Partner Countries at the Bourget airport in Le Bourget, outside Paris, Friday, March 27, 2026. (Brendan Smialowski/Pool Photo via AP)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Brendan Smialowski</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/PXHGQKZ37CWN22774AXFIFHK24.jpg?auth=f5aadfc79b2633e89bb31c9eed908843b78db36a2e93e87f23abbe0189ff25a2&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "The European Union and United States signed an agreement Friday to co-ordinate on the supply of critical minerals needed for key industries including defence, as China’s dominance becomes a growing concern.",
+      "body": "<p>WASHINGTON - The European Union and United States signed an agreement Friday to coordinate on the supply of critical minerals needed for key industries including defence, as China’s dominance becomes a growing concern.</p>\n<p>The pact marks a rare embrace by U.S. President Donald Trump’s administration of the role of the EU, which it often berates as it instead champions right-wing populists within Europe.</p>\n<p>Flexing its muscle at times of tension, Beijing has restricted exports of critical minerals needed for products including semiconductors, electric vehicle batteries and weapons systems.</p>\n<p>“The overconcentration of these resources, the fact that they’re dominated by one or two places, is an unacceptable risk,” U.S. Secretary of State Marco Rubio said as he signed a memorandum of understanding with EU trade chief Maros Sefcovic.</p>\n<p>Sefcovic told a separate press briefing that the agreement “formalizes our partnership across the entire value chain, from exploration and extraction to processing, refining, recycling and recovery.”</p>\n<h2>Cost of dependency</h2>\n<p>On concerns that China could retaliate against a potential critical minerals deal involving multiple parties, Sefcovic said: “For us, it’s really a matter of economic security. It’s a matter of overcoming dependencies.”</p>\n<p>From recent experience, “we know how dependencies could be expensive, and we have a huge price tag for being dependent on the sources of our fossil fuels,” he added.</p>\n<p>“We simply want to learn from that experience and have a much more diversified portfolio of suppliers,” Sefcovic said.</p>\n<p>Rubio noted that the United States and the EU combined are “the largest customers and users” of critical minerals.</p>\n<p>“We have to make sure that these supplies and these minerals are available for our futures and in ways that are not monopolized in one place or concentrated heavily in one place,” Rubio added.</p>\n<p>An action plan said that the EU and United States would explore setting minimum prices on critical minerals -- effectively preventing China or other outside powers from flooding the market with inexpensive exports.</p>\n<p>They will also look at coordinating any subsidies and stockpiles of critical minerals, and could coordinate joint standards to ease trade across the Western world, and together invest in research.</p>\n<p>The U.S. Trade Representative’s office said this plan will be the main mechanism to “coordinate trade policies and measures on critical minerals supply chains with a view to concluding a binding plurilateral agreement on trade.”</p>\n<p>The Trump administration has previously called for a preferential trade zone among allies on critical minerals.</p>\n<p>Washington has also unveiled critical minerals action plans with Mexico and Japan, alongside a supply framework with Australia and others.</p>"
     },
     {
       "title": "Businesses dole out up to US$4 million to cross Panama Canal during Strait of Hormuz chokehold",
@@ -133,17 +166,6 @@
       "body": "<p>Select specialty retailers are standing out through product innovation, strong brand execution and growing consumer engagement.</p>\n<p>BNN Bloomberg spoke with Jonna Kim, vice-president and consumer research analyst at TD Cowen, who highlighted opportunities driven by adoption trends, global expansion and improving brand relevance.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Innovative products, including connected baby monitoring devices, are creating new growth categories within retail. </li><li>Adoption rates remain relatively low in some markets, leaving room for expansion through consumer awareness and word of mouth. </li><li>Strong product pipelines and social media-driven marketing are helping drive sustained growth and customer engagement. </li><li>International expansion remains a key growth lever, with companies targeting a larger share of revenue outside the U.S. </li><li>Improved brand execution and new product categories are supporting traffic growth and margin potential.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>ANDREW:</b> It’s time for Hot Picks. We’re looking at three ideas in specialty retail. The first company makes a sock that doubles as a baby monitor of sorts. Let’s get more from Jonna Kim, consumer research analyst at TD Cowen. Thanks very much indeed for joining us.</p>\n<p><b>JONNA:</b> Thanks, Andrew. Nice to be here.</p>\n<p><b>ANDREW:</b> Tell us about the company behind this baby sock, and how does it work as a sort of monitor?</p>\n<p><b>JONNA:</b> Yeah, it’s a unique company. It’s a disruptor in the baby monitoring category. There’s a Dream Sock, which monitors the baby’s heart and other biometrics, and they’re the only FDA-cleared baby monitoring device in the industry. So there’s substantial white space in the U.S. from both the hardware as well as the subscription perspective. They first rolled out the baby sock, and then they added an updated camera on top of that, and now there is a subscription that enables moms and dads to track the health of the baby. The baby can use this feature for up to 18 months. So it is in a very disrupted category, and they’re the leader. Valuation has also come in after the last earnings. It trades below one times FY2 EBITDA sales at this point. So we still think there’s a long-term story here. A lot of white space, as I mentioned, within the U.S., and internationally is also a growth story for them.</p>\n<p><b>ANDREW:</b> Sorry, did you say white space, Jonna?</p>\n<p><b>JONNA:</b> Yes, exactly.</p>\n<p><b>ANDREW:</b> What do you mean in that context there by white space?</p>\n<p><b>JONNA:</b> Yeah, adoption. So in a market that is very mature — I believe Utah is the most mature market — there’s about a 20 per cent adoption rate there, while across the U.S. it’s about 10 per cent adoption. So there is incremental adoption that you can get with parents. And this is very community-driven, sort of word-of-mouth type of product. Therefore, if new moms and dads come in and use this product and love it and recommend it to other parents, there’s a flywheel effect that comes with it. So there is a lot of opportunity for the company. And as I mentioned, they’re also venturing out to other international markets, but the key focus will be in the U.S.</p>\n<p><b>ANDREW:</b> That’s fascinating. So the Dream Sock is helping parents keep an eye on the baby. SharkNinja — I think they’re involved in blenders, coffee makers, juicers. What draws you to that stock?</p>\n<p><b>JONNA:</b> Yeah, as you mentioned, they’re in small appliances in the kitchen and broader home. They operate both the Shark and Ninja brands. I would say they’re a very unique story in consumer, where you don’t get a lot of low- to mid-teens growers. They are able to do that with their innovation pipeline. They go into two categories a year with 25 new products. And really the secret sauce is marrying that innovation with social media and community-driven word of mouth, where users post their experience and that attracts other users to look at the products online. So that has been the underpinning growth driver for them. The U.S. is the majority, but there’s a lot of growth happening internationally — about 30 per cent currently — and the plan is to grow that to about 50 per cent of the mix. So there are substantial opportunities to grow share within the U.S. and abroad as well.</p>\n<p><b>ANDREW:</b> The shares have come off their peak. Why is that?</p>\n<p><b>JONNA:</b> Yeah, it’s mostly on macro factors, I would say. And obviously they are exposed to freight and higher plastic and resin costs, but they use a lot of third parties — they don’t have manufacturing on their own — so there is not a direct impact in the near term. Consumer demand is something we are watching across the board, but they skew more towards higher-income consumers. And there is a virality to these products, and they have pricing power even in a tough market. So we still feel pretty constructive about their longevity here.</p>\n<p><b>ANDREW:</b> Your final idea is Gap. One of the attractions here, you think, is signs of health or recovery at their Athleta business. But broadly, what draws you to Gap?</p>\n<p><b>JONNA:</b> Yeah, I would say in specialty retail it’s tough to deliver consistent growth and execution. But Gap has four brands, as you know — Gap, Old Navy, Banana Republic and Athleta. Gap and Old Navy execution has really been strong, and I think it’s gaining mind share and wallet share and becoming more culturally relevant. Banana Republic and Athleta could be improving, so that is the next catalyst. But in the near term, the consistent execution at Gap and Old Navy is what gets me excited. They’re also rolling out beauty and accessories across the two major brands, which should boost traffic. It’s going to be a gradual rollout, but we feel good about that adding consistent comp growth for the concept.</p>\n<p><b>ANDREW:</b> That’s interesting. So they are going to be selling cosmetics and skincare products?</p>\n<p><b>JONNA:</b> It’s less skincare. There’s more of a fragrance component. Gap used to have fragrance, so they’re bringing that back. Old Navy will have shop-in-shop concepts in stores where they carry different brands as well as their own. So it’s about bringing traffic into the store and cross-selling across different products.</p>\n<p><b>ANDREW:</b> That’s interesting. As you say, they’re very diversified. Gap has been around for a long time, but you’re seeing signs of health there. Thank you very much. Jonna Kim joining us there, vice-president and consumer research analyst at TD Cowen.</p>\n<p><i>This BNN Bloomberg summary and transcript of the April 24, 2026 interview with Jonna Kim are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
     },
     {
-      "title": "Lawyers urge federal ban on U.S. forced labour imports, cars built by prisoners",
-      "link": "https://www.bnnbloomberg.ca/business/2026/04/24/lawyers-urge-federal-ban-on-us-forced-labour-imports-cars-built-by-prisoners/",
-      "pubDate": "Fri, 24 Apr 2026 20:06:41 -0400",
-      "description": "Human rights lawyers are calling on Ottawa to ban American imports that stem from forced labour, specifically auto imports from Alabama.",
-      "content": "<media:description type=\"plain\"><![CDATA[Canada Border Services Agency officers listen during an announcement about a seizure of opium, in Tsawwassen, B.C., Friday, Dec. 16, 2022. THE CANADIAN PRESS/Darryl Dyck]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">DARRYL DYCK</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/NJYOO3GS6FCO6WOJPBUNEK2T7Q.jpg?auth=fe0814686bb42b899ecf8ee74f3496f7dfaaa2e19f2fd469fafd378d52396e01&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Human rights lawyers are calling on Ottawa to ban American imports that stem from forced labour, specifically auto imports from Alabama.",
-      "body": "<p>OTTAWA — Human rights lawyers are calling on Ottawa to ban American imports that stem from forced labour, specifically auto imports from Alabama.</p>\n<p>The International Human Rights Program at the University of Toronto has submitted a detailed complaint to the Canada Border Services Agency asking it to block goods made with forced labour that are coming in from the United States.</p>\n<p>The lawyers examined reports from government and citizen groups within the U.S. about prisoners being coerced into working on Hyundai and Genesis vehicles, and tracked these vehicles to Toronto dealerships.</p>\n<p>The researchers say Ottawa must enforce its laws consistently to block products that stem from slavery and prison labour, regardless of their countries of origin.</p>\n<p>Hyundai’s Alabama branch insists it does not use forced labour and said in 2023 it stopped using a subsidiary that had employed child refugees to operate heavy equipment.</p>\n<p>Washington has been pushing Canada to do more to weed out products of forced labour from countries such as China, and launched a probe in March that could be used to justify tariffs.</p>\n<p><i>This report by The Canadian Press was first published April 24, 2026.</i></p>\n<p><i>Dylan Robertson, The Canadian Press</i></p>"
-    },
-    {
       "title": "Enbridge gets federal approval for $4B natural gas pipeline expansion in B.C.",
       "link": "https://www.bnnbloomberg.ca/business/2026/04/24/enbridge-gets-federal-approval-for-4b-natural-gas-pipeline-expansion-in-bc/",
       "pubDate": "Fri, 24 Apr 2026 20:05:32 -0400",
@@ -155,49 +177,14 @@
       "body": "<p>CALGARY &mdash; The federal government has approved a $4-billion plan by <a href=\"https://www.bnnbloomberg.ca/stock/ENB:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/ENB:CT/\">Enbridge Inc.</a> to expand an existing natural gas pipeline in British Columbia, a move one executive says demonstrates a greater “sense of purpose” from Ottawa toward bolstering Canada’s status as a global energy exporter.&nbsp;</p>\n<p>The Sunrise project would add 300 million cubic feet per day of transportation capacity on Enbridge’s 3.6-billion-cubic-feet-per-day Westcoast system, which connects gas fields in northeastern B.C. and northwestern Alberta to the Canada-U.S. border. The project involves adding almost 140 kilometres of new pipe by constructing 11 looping segments parallel to the existing line.&nbsp;</p>\n<p>The gas that would flow through the expanded line is not bound for any particular destination, but “some of the capacity will no doubt go offshore,” Matthew Akman, who leads Enbridge’s gas transmission and midstream business, told reporters Friday.&nbsp;</p>\n<p>Sunrise was not reviewed under federal legislation passed last year meant to speed along new infrastructure deemed in Canada’s national interest. Nonetheless, Akman said he appreciates the improved tone under Prime Minister Mark Carney’s Liberal government.&nbsp;</p>\n<p>“There’s more of a sense of purpose and an intent and a prioritization, which is what we need to see in Canada,” Akman said. &nbsp;</p>\n<p>“Going forward, though, I think we all need to work more closely together to make this even faster. And there are ways to have just as rigorous a consultation process, just as rigorous an environmental review process and community engagement process, but do it faster.&nbsp;</p>\n<p>“We’ve been at this project almost four years already and still don’t have a shovel in the ground.”</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/04/24/what-you-need-to-know-about-the-new-enbridge-lng-pipeline-approval/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/2026/04/24/what-you-need-to-know-about-the-new-enbridge-lng-pipeline-approval/\"><b>What you need to know about the new Enbridge LNG pipeline approval</b></a></li></ul>\n<p>The approval is part of the government’s effort to get more projects moving, faster, said Natural Resources Minister Tim Hodgson during a speech in Toronto on Friday.</p>\n<p>“For too long, we became accustomed to mistaking delay for seriousness. But seriousness is not measured by how long a country takes to make decisions, it is measured by whether those decisions are thoughtful, credible and made in a timeframe that actually matters.”</p>\n<p>He said the Sunrise project will provide more supply for heating buildings, provide gas for electric power generation and industrial and manufacturing processes as well as ensure enough supply of LNG.</p>\n<p>The project will add more than $3 billion to Canada’s GDP and create some 2,500 jobs at peak construction, said Hodgson.&nbsp;</p>\n<p>He said the government will be ushering more projects ahead to actually being built. By spring 2027, there will be not only more projects added to the major projects office, but at least five to 10 new projects reaching a final investment decision or broken ground.&nbsp;</p>\n<p>“Canada is building again.”</p>\n<p>B.C. Premier David Eby said the Sunrise expansion is good news for jobs in his province.&nbsp;</p>\n<p>“At a time of uncertainty and global instability, this is how we create the prosperity needed to pay for the public services that make us all better off,” he said in a news release.&nbsp;</p>\n<p>But Alex Walker, energy analytics program director with Environmental Defence Canada, called Ottawa’s approval “a disastrous climate decision that prioritizes fossil fuel industry growth over Canada’s climate commitments.”&nbsp;</p>\n<p>Construction on the pipeline is expected to begin this summer, with startup targeted for late 2028.</p>\n<p>All of the soon-to-be built space on the Sunrise project has been spoken for, Akman said, noting the company is also expanding gas infrastructure in the northern part of B.C.</p>\n<p>Last year, Enbridge inked a partnership with an alliance of three dozen First Nations in B.C. for a 12.5 ownership stake in the existing Westcoast pipeline. Akman said those groups are not obligated to take on equity of the pipeline expansion, but have the option to do so.&nbsp;</p>\n<p>Akman said there is opportunity to build even more gas pipeline capacity — from scratch or by expanding existing infrastructure — under the right conditions.&nbsp;</p>\n<p>One is to ensure a speedy review process “because we can’t tie capital up forever doing these things.”&nbsp;</p>\n<p>Another is to ensure Canadian investments can compete with projects being pursued in the United States, where Enbridge has a substantial presence and has been seeing better returns.&nbsp;</p>\n<p>“We’re a large company with investors all over the world,” Akman said. “So if we see competitive returns on capital in British Columbia, then we could do any of those types of investments.”</p>\n<p><i>This report by The Canadian Press was first published April 24, 2026.</i></p>\n<p><i>With files from Ian Bickis in Toronto.</i></p>"
     },
     {
-      "title": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
-      "link": "https://www.bnnbloomberg.ca/markets/oil/2026/04/24/trump-dispatches-witkoff-and-kushner-to-pakistan-for-new-talks-with-irans-foreign-minister/",
-      "pubDate": "Fri, 24 Apr 2026 19:17:44 -0400",
-      "description": "U.S. President Donald Trump is sending his envoys Steve Witkoff and Jared Kushner to Pakistan to meet with Iran’s foreign minister, the White House said Friday, as officials in the South Asian nation pushed to revive ceasefire talks between the U.S. and Iran.",
-      "content": "<media:description type=\"plain\"><![CDATA[Milad telecommunication tower is seen at left in a general view of a part of Tehran, Iran, Thursday, April 23, 2026. (AP Photo/Vahid Salemi)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Vahid Salemi</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/WJNCIQIM4Y74AYVK7NAL4P4NRU.jpg?auth=a12aa8ca96f85d898fbea4a161c65a2513a75a6c146b7defb9704d39577bd485&amp;smart=true&amp;width=1400&amp;height=759",
-      "_src": "bnn",
-      "_ogDesc": "U.S. President Donald Trump is sending his envoys Steve Witkoff and Jared Kushner to Pakistan to meet with Iran’s foreign minister, the White House said Friday, as officials in the South Asian nation pushed to revive ceasefire talks between the U.S. and Iran.",
-      "body": "<p>ISLAMABAD - U.S. President Donald Trump is sending his envoys Steve Witkoff and Jared Kushner to Pakistan to meet with Iran’s foreign minister, the White House said Friday, as officials in the South Asian nation pushed to revive ceasefire talks between the U.S. and Iran.</p>\n<p>The talks planned for Saturday come as much of the world is on edge over a war that has snarled crucial energy exports through the Strait of Hormuz, clouded the global economic picture and left thousands dead across the Middle East.</p>\n<p>Iranian Foreign Minister Abbas Araghchi arrived in Islamabad late Friday. Earlier on social media, he wrote that he was traveling to Pakistan on a trip focused on “bilateral matters and regional developments.” He didn’t specify who he would meet.</p>\n<blockquote>Embarking on timely tour of Islamabad, Muscat, and Moscow.<br><br>Purpose of my visits is to closely coordinate with our partners on bilateral matters and consult on regional developments.<br><br>Our neighbors are our priority.&mdash; Seyed Abbas Araghchi (@araghchi) <a href=\"https://twitter.com/araghchi/status/2047685407941296331?ref_src=twsrc%5Etfw\">April 24, 2026</a></blockquote>\n<p>White House press secretary Karoline Leavitt said in an interview on Fox News Channel that Witkoff and Kushner would meet with Araghchi.</p>\n<p>“We’re hopeful that it will be a productive conversation and hopefully move the ball forward to a deal,” Leavitt said.</p>\n<p>She said U.S. Vice President JD Vance would not travel but that he remains “deeply involved,” and would be willing to go to Pakistan “if we feel it’s a necessary use of his time.”</p>\n<p>Vance, U.S. Secretary of State Marco Rubio and the president’s national security team are on “standby” to fly to Pakistan if needed, Leavitt said.</p>\n<p>Araghchi and the two Trump envoys held hours of indirect talks in Geneva on Feb. 27 over Tehran’s nuclear program, but walked away without a deal. The next day, Israel and the United States started the war against Iran.</p>\n<p>Leavitt said the president decided to send Witkoff and Kushner to Pakistan “to hear the Iranians out.”</p>\n<p>“We’ve certainly seen some progress from the Iranian side in the last couple of days,” Leavitt said. She did not offer any details about what U.S. officials were hearing.</p>\n<p>Islamabad has sought to reinject momentum into the negotiations between Iran and the United States, which did not resume this week as had been expected.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/mideast-conflict/article/what-the-strait-of-hormuz-closure-means-for-food-supply/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/mideast-conflict/article/what-the-strait-of-hormuz-closure-means-for-food-supply/\"><b>How disruptions within Strait of Hormuz could reshape how much we pay for food</b></a></li><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/mideast-conflict/article/trump-orders-us-military-to-shoot-and-kill-iranian-small-boats-choking-strait-of-hormuz/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/mideast-conflict/article/trump-orders-us-military-to-shoot-and-kill-iranian-small-boats-choking-strait-of-hormuz/\"><b>Trump orders U.S. military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz</b></a></li></ul>\n<h2>Trump extends the Jones Act waiver for 90 days</h2>\n<p>Separately Friday, the White House said Trump issued a 90-day extension to the Jones Act waiver, making it easier for non-American vessels to transport oil and natural gas.</p>\n<p>He first announced a 60-day waiver in March in a move intended to stabilize energy prices and ease oil and gas shipments to the U.S. following the effective closure of the Strait of Hormuz.</p>\n<p>“New data compiled since the initial waiver was issued revealed that significantly more supply was able to reach U.S. ports faster,” the White House post on social media said.</p>\n<p>The price of Brent crude oil, the international standard, retreated on the news, vacillating between US$103 a barrel and more than US$107 -- still early 50 per cent higher than where it was on Feb. 28, when the war began.</p>\n<p>The squeeze on shipments through the strait has rippled through global maritime trade flows, including through the Panama Canal nearly halfway around the world.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/mideast-conflict/article/iran-fires-on-3-ships-in-the-strait-of-hormuz-as-trump-indefinitely-extends-ceasefire-with-iran/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/mideast-conflict/article/iran-fires-on-3-ships-in-the-strait-of-hormuz-as-trump-indefinitely-extends-ceasefire-with-iran/\"><b>Iran fires on 3 ships in the Strait of Hormuz</b></a></li><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/mideast-conflict/article/trump-says-us-extending-ceasefire-until-iran-presents-unified-proposal/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/mideast-conflict/article/trump-says-us-extending-ceasefire-until-iran-presents-unified-proposal/\"><b>Trump says U.S. will extend ceasefire with Iran at Pakistan’s request</b></a></li></ul>\n<h2>Pakistan forges ahead with diplomatic efforts</h2>\n<p>Pakistan has been trying to get U.S. and Iranian officials back to the table after Trump this week announced an indefinite extension of the ceasefire with Iran, honouring Islamabad’s request for more time for diplomatic outreach.</p>\n<p>That hasn’t lowered tensions in the strait, a strategic waterway through which a fifth of the world’s oil and natural gas is shipped during peacetime.</p>\n<p>Iran has kept its stranglehold on traffic through the strait, attacking three ships earlier this week, while the U.S. is maintaining a blockade on Iranian ports and Trump has ordered the military to “shoot and kill” small boats that could be placing mines.</p>\n<p>“Iran has an important choice, a chance to make a deal, a good deal, a wise deal,” U.S. Defence Secretary Pete Hegseth told reporters on Friday. He said a second U.S. aircraft carrier will join the blockade in a few days.</p>\n<p>Washington already has three aircraft carriers in the region; the USS George H.W. Bush in the Indian Ocean; the USS Abraham Lincoln in the Arabian Sea; and the USS Gerald R. Ford in the Red Sea.</p>\n<p>It is the first time since 2003 that three American carriers have been operating in the region simultaneously. The force includes 200 aircraft and 15,000 sailors and marines, U.S. Central Command said.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/russia-ukraine-war/article/a-longer-iran-conflict-could-boost-risk-for-ukraine-securing-missile-defenses-zelenskyy-says/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/russia-ukraine-war/article/a-longer-iran-conflict-could-boost-risk-for-ukraine-securing-missile-defenses-zelenskyy-says/\"><b>A longer Iran conflict could boost risk for Ukraine securing missile defences, Zelenskyy says</b></a></li><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/health/article/condom-maker-may-raise-prices-because-of-iran-war/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/health/article/condom-maker-may-raise-prices-because-of-iran-war/\"><b>Condom maker may raise prices because of Iran war</b></a></li></ul>\n<h2>A growing toll even as ceasefires hold</h2>\n<p>Since the war began, at least 3,375 people have been killed in Iran, and more than 2,490 people in Lebanon, where new fighting between Israel and the Iran-backed militant group Hezbollah broke out two days after the war started, according to authorities.</p>\n<p>Additionally, 23 people have died in Israel and more than a dozen in Gulf Arab states. Fifteen Israeli soldiers in Lebanon and 13 U.S. service members throughout the region have been killed.</p>\n<p>The UN peacekeeping force in southern Lebanon has also sustained casualties. UNIFIL said Friday that an Indonesian peacekeeper died of wounds sustained in an attack on his base on March 29, raising to six -- four Indonesians and two French -- the number of force members killed since the war erupted.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/business/article/slb-quarterly-profit-slips-as-iran-war-dents-middle-east-oilfield-activity/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/business/article/slb-quarterly-profit-slips-as-iran-war-dents-middle-east-oilfield-activity/\"><b>SLB quarterly profit slips as Iran war dents Middle East oilfield activity</b></a></li><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/politics/article/ottawa-has-boosted-monitoring-of-irans-threats-to-diaspora-in-canada-official-says/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/politics/article/ottawa-has-boosted-monitoring-of-irans-threats-to-diaspora-in-canada-official-says/\"><b>Ottawa has boosted monitoring of Iran’s threats to diaspora in Canada, official says</b></a></li></ul>\n<h2>Tensions linger in Lebanon despite extended truce</h2>\n<p>The situation in Lebanon remained tense a day after Trump announced Israel and Lebanon had agreed to extend a ceasefire between Israel and Hezbollah by three weeks. Hezbollah has not participated in the diplomacy brokered by Washington.</p>\n<p>Israeli Prime Minister Benjamin Netanyahu, in a video statement released by his office on Friday, hailed “a process to achieve a historic peace between Israel and Lebanon.”</p>\n<p>Earlier, the Israeli army asked residents of the southern Lebanese village of Deir Aames to evacuate, saying Hezbollah was using the village to launch attacks against Israel.</p>\n<p>Israel’s military said it downed a drone over Lebanon following the launch of a small surface-to-air missile by Hezbollah. The militant group, meanwhile, said it shot down an Israeli drone with a surface-to-air missile over the outskirts of the southern port city of Tyre.</p>\n<p><i>By Munir Ahmed, Jon Gambrell And Jamey Keaten.</i></p>\n<p><i>Gambrell reported from Dubai, United Arab Emirates, and Keaten from Geneva. Associated Press writers David Rising in Bangkok; Koral Saeed in Abu Snan, Israel; Bassem Mroue in Beirut; and Aamer Madhani and Josh Boak in Washington contributed.</i></p>"
-    },
-    {
-      "title": "Here’s who’s appearing on BNN Bloomberg Market Call April 27 to May 1",
-      "link": "https://www.bnnbloomberg.ca/faq/2025/10/24/heres-whos-appearing-on-bnn-bloomberg-market-call/",
-      "pubDate": "Fri, 24 Apr 2026 19:14:14 -0400",
-      "description": "Here&#x27;s a look at BNN Bloomberg&#x27;s guest schedule.",
-      "content": "",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SRWSMTWZKHKVGLH6BZHSBUW5JU.jpg?auth=9b3c218d7a354bedc747ad445581d38ee1103930b0b2c6fa1c609b2931ed756c&amp;smart=true&amp;width=980&amp;height=551",
-      "_src": "bnn",
-      "_ogDesc": "Here&#x27;s a look at BNN Bloomberg&#x27;s guest schedule.",
-      "body": "<p><a href=\"https://www.bnnbloomberg.ca/video/shows/market-call/\" rel=\"\" title=\"https://www.bnnbloomberg.ca/video/shows/market-call/\">Market Call</a> is Canada’s leading stock market call-in program. Every weekday, BNN Bloomberg hosts top fund managers and market analysts - professionals who handle billions in retail and institutional investments. Call toll-free at 1-855-326-6266 or email <a href=\"https://marketcall@bnnbloomberg.ca\" target=\"_self\" rel=\"\" title=\"https://marketcall@bnnbloomberg.ca\">marketcall@bnnbloomberg.ca</a>.</p>\n<h2>Monday, April. 27</h2>\n<p>Richard Fogler, Kingwest &amp; Company</p>\n<p><b>Focus:</b> North American Equities</p>\n<h2>Tuesday, April. 28</h2>\n<p>Andrew Moffs, Vision Capital</p>\n<p><b>Focus:</b> Real Estate Stocks</p>\n<h2>Wednesday, April. 29</h2>\n<p>Bruce Campbell, Stonecastle Investment Management</p>\n<p><b>Focus:</b> Canadian Stocks</p>\n<h2>Thursday, April. 30</h2>\n<p>Brianne Gardner Velocity Investment Partners, Raymond James</p>\n<p><b>Focus:</b> Canadian &amp; U.S. Large Caps</p>\n<h2>Friday, May 1</h2>\n<p>Barry Schwartz, Baskin Wealth Management</p>\n<p><b>Focus:</b> North American Large Caps</p>"
-    },
-    {
-      "title": "Investor Outlook: Intel rally driven by rising AI chip demand",
-      "link": "https://www.bnnbloomberg.ca/investing/investor-outlook/2026/04/24/investor-outlook-intel-rally-driven-by-rising-ai-chip-demand/",
-      "pubDate": "Fri, 24 Apr 2026 19:05:22 -0400",
-      "description": "Intel shares jump as AI-driven CPU demand accelerates, boosting earnings but leaving questions about long-term risks.",
-      "content": "<media:description type=\"plain\"><![CDATA[An Intel sign is shown at the chipmaker's global headquarters in Santa Clara, Calif. on Friday, Aug. 8, 2025. (AP Photo/Terry Chea]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/27COM53S3VBHGCYR6J36Q4F2LE.jpg?auth=ffd2ba469ff9c225a480bc6debecc9b3cc8c19698f1959706ecfb92107bec121&amp;smart=true&amp;width=1400&amp;height=932",
-      "_src": "bnn",
-      "_ogDesc": "Intel shares jump as AI-driven CPU demand accelerates, boosting earnings but leaving questions about long-term risks.",
-      "body": "<p>Intel shares are surging after strong earnings highlighted a sharp rise in demand for central processing units, as artificial intelligence workloads shift beyond training to real-world applications.</p>\n<p>BNN Bloomberg spoke with Gil Luria, head of technology research at D.A. Davidson, about how evolving AI use cases are driving CPU demand and what risks remain for Intel despite the rally.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Demand for CPUs is accelerating as AI shifts from training models to executing real-world tasks, increasing reliance on traditional processors. </li><li>The ratio of CPUs to GPUs is rising as AI agents require more compute for everyday operations, not just model development. </li><li>Intel is benefiting from a surge in demand, even selling previously written-down inventory amid supply shortages. </li><li>Despite strong results, the company faces ongoing risks tied to losses in its foundry business and uncertain future profitability. </li><li>Investor enthusiasm may be running ahead of fundamentals, with margins still lagging competitors and long-term execution uncertain.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>ANDREW:</b> Shares in Intel on fire today. I’m kind of confused as to why this is only coming up now, but it seems the central processing units for computers that’s long been Intel’s specialty are also important to AI. Let’s get more from Gil Luria, head of technology research at D.A. Davidson. Gil, maybe you can help me with this. So are investors only finding out now that these CPUs are so important?</p>\n<p><b>GIL:</b> Things are moving fast, and it’s really just over the last few weeks that we’ve realized how much more we need CPUs. And the math around this is that when you’re doing pre-training for AI, when you’re just preparing the models, you need about one CPU for every eight GPUs. By the time you’re doing agentic tasks for AI, it’s more of a one-to-one ratio. So if we’ve just needed a lot of GPUs up until now, now we also need a lot of CPUs to execute the tasks that we’re setting these AI agents to do, and that’s just really over the last few weeks. Let’s not forget the big revolution around agents really just started in December with some of the Anthropic models. But now, as that’s happening, the demand for CPU is going off the charts. The most interesting anecdote from Intel yesterday was that they were selling previously written-down CPUs, which is to say they took them out of the trash in order to sell them, and they were still able to do that. So that tells you how much the demand has picked up over a matter of a couple of months, a few weeks.</p>\n<p><b>ANDREW:</b> That’s interesting. So training the AI takes vast amounts of these graphics processing units, but actually running the programs you do need lots of CPUs.</p>\n<p><b>GIL:</b> Yes. Now that doesn’t mean you don’t need the GPU. It’s just that for the actual actions, to make the compute efficient, you want to use CPUs. Think about it this way: what does an agent do? The agent is doing cognitive tasks that a human would otherwise do, and most of those tasks right now happen on a CPU. When we work on a computer, we’re using the CPU. So if a computer is doing a task that otherwise we would have been doing, it’s using the CPU. That doesn’t mean you don’t need the GPU for the actual inference or the actual computations that tell you what task to do. It just means that to carry out the task, you now need a CPU.</p>\n<p><b>ANDREW:</b> You are hiking your target price on Intel to $77 from $45 US, but you’re maintaining a neutral rating. Walk us through your thinking there, please.</p>\n<p><b>GIL:</b> There’s still so much risk with Intel. We’re all valuing Intel based on its product business, in spite of the fact that the foundry business, the fab, is losing a tremendous amount of money. So that means that we’re all implicitly saying we believe that the fab will at some point stop losing money, maybe even make money, but that’s a really big if statement. But by their own account, for their next node to work, they still need to sign up new customers. Even the deal with Elon about the Terra fab may not be enough to decide to invest in the next generation of a node, the 14A node. And so we don’t even know that that business will stop losing money, and that’s what we’re all assuming in order to value Intel. So the point is, there’s a lot of risk. If the fab side doesn’t turn around, they’ll continue to lose a lot of money there, and then the overall company will still lose money. Just to give you context how badly Intel is underperforming, Intel’s margins were 39 per cent this quarter. That was a big positive surprise. AMD’s are 55 per cent. Nvidia, Broadcom, TSMC, 75 per cent. Intel is still a very big underperformer, and it’s not clear that they can get out of that. All that’s clear, the demand for CPUs is so high, the tide is rising so fast that it’s even lifting Intel’s boat.</p>\n<p><b>ANDREW:</b> So you mentioned Terra fab. So that is a giant semiconductor plant that is apparently scheduled for Texas. Elon Musk is involved, Tesla, xAI, SpaceX and Intel. Give us a bit of background there. So Intel is partnered with Elon Musk in this thing.</p>\n<p><b>GIL:</b> Yeah, it’s unclear what their role is. What we do know is that Tesla intends to use the 14A technology, the next node technology from Intel, for the Terra fab. But it’s going to be an Elon plant. It’s not going to be an Intel plant. That’s what it looks like. The details still haven’t been worked out. This may not even happen until 2028, or at least not open until 2028, so we don’t know a lot of details. We just know that this is Elon scale, right? So it’ll be the biggest plant ever, and he’ll probably build it faster than anybody’s ever built a plant, or at least that’s his intention. And it is a big deal that they picked Intel’s technology to do that, yeah, but again, it may not be enough, because Lip-Bu Tan clarified again yesterday they are still not committed to building out the fabs for 14A. They still need more customers. They’re in the process of having customers test out the technology, and they may be able to sign large customers. Again, the hope is an Nvidia or an Apple or something like that that’s big enough to commit to the technology, to commit to building fabs. The Terra fab itself will use the technology. It’s not clear that it’ll be an Intel plant. It may be an Elon plant.</p>\n<p><b>ANDREW:</b> Gil, thank you very much indeed. Great hearing from you. Gil Luria, head of technology research at D.A. Davidson.</p>\n<p><i>This BNN Bloomberg summary and transcript of the April 24, 2026 interview with Gil Luria are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
-    },
-    {
       "title": "Rate cuts seen as more likely next move for Bank of Canada: TD",
-      "link": "https://news.google.com/articles/CBMirgFBVV95cUxQdVhIaGlhUDU1a2tCS29kanpZSEpqNUp0MXhzeUgzbkJKU2VIWTRkUW13NEU3aWl1eGZwVEdCUHNDSzUyWUJPZlpzQi02S1JGd3dqWFJ6Y3loQ0l1bERyaDdrYmIxVU1WNVB2d2hOYmxjcVRzNkxNVEx5WkNITktnWlNsSmpma3JZV2wzdnQtTWtneGdycnppMjhiLWozVUtlT1Nqd3FFYkVzT1RFTkE?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 20:26:06 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "link": "https://www.canadianmortgagetrends.com/2026/04/rate-cuts-seen-as-more-likely-next-move-for-bank-of-canada-td/",
+      "pubDate": "Fri, 24 Apr 2026 20:26:06 +0000",
+      "description": "Resilient growth and contained inflation pressures suggest the Bank of Canada is more likely to ease than tighten if it moves, according to a TD economist.",
       "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/04/Rate-cut-prediction_med-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Resilient growth and contained inflation pressures suggest the Bank of Canada is more likely to ease than tighten if it moves, according to a TD economist."
     },
     {
       "title": "Retail sales tick up, but unlikely to take BoC off the sidelines",
@@ -307,6 +294,17 @@
       "body": "<p>The Bank of Canada looks&nbsp;set to keep its policy rate parked at 2.25% through the rest of 2026, leaving mortgage borrowers in a prolonged holding pattern while it watches&nbsp;how an oil shock and trade uncertainty play&nbsp;out.</p>\n<p>A <a href=\"https://www.reuters.com/world/americas/bank-canada-hold-interest-rates-this-year-show-patience-with-energy-inflation-2026-04-24/\">new Reuters poll of economists</a> suggests&nbsp;the central bank will&nbsp;tolerate somewhat higher inflation in the near term rather than risk choking off a fragile expansion.</p>\n<p>Financial markets have priced in a possible late‑year hike, but most forecasters judged that only a sustained surge in energy‑driven inflation would justify tighter policy.</p>\n<p>With growth already soft and the labour market loosening, they argued, the bar for another increase remains&nbsp;high.</p>\n<h2><strong>Economists see&nbsp;little case for near‑term hike</strong></h2>\n<p>All 41 economists in the April 21‑24 survey expect&nbsp;the Bank to leave its overnight rate unchanged at its April 29 decision, and more than 80% forecast no move at all this year.</p>\n<p>&ldquo;Because of softening core inflation, it does give the Bank of Canada a lot more room to be flexible and patient,&rdquo; said Claire Fan, senior economist at RBC.</p>\n<p>&ldquo;They can wait for actual concrete signs of risk of inflation climbing higher, broadening and persisting...as opposed to rushing to make a decision.&rdquo;</p>\n<p>Headline inflation in March stood at 2.4%, comfortably inside the Bank&rsquo;s 1%&ndash;3% control range. In a recent interview, governor Tiff Macklem played down the latest energy‑driven uptick, saying the Bank is &ldquo;not even that worried if we see near‑term inflation expectations go up&rdquo; so long as longer‑term expectations stay anchored near the 2% target.</p>\n<blockquote>Bank of Canada governor Tiff Macklem signalled he is prepared to look through a fresh burst of inflation in the months ahead, even as the war in Iran pushed energy prices higher and unsettled borrowers facing renewal.<a href=\"https://t.co/ptOwbexWBb\">https://t.co/ptOwbexWBb</a> &mdash; Canadian Mortgage Professional Magazine (@CMPmagazine) <a href=\"https://twitter.com/CMPmagazine/status/2046318482153758821?ref_src=twsrc%5Etfw\">April 20, 2026</a></blockquote>\n<p>Broader forecasts in the poll showed inflation averaging just under 3% over the next two quarters, about half a percentage point higher than economists projected in January.</p>\n<p>A significant minority, or 14 of 34 respondents, nonetheless predicted at least one rate increase by the end of March next year.</p>\n<p>Similarly,&nbsp;CPA Canada&rsquo;s chief economist, David‑Alexandre Brassard, said the case for another hike remains&nbsp;weak.</p>\n<p>&ldquo;There is little in the latest data to suggest that the Bank of Canada needs to act preemptively on interest rates to constrain inflation,&rdquo; <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/bank-of-canada-seen-holding-firm-despite-oil-driven-inflation-spike/572746\">he said</a>.</p>\n<p>&ldquo;With core inflation continuing to ease and demand softening, the current policy rate seems restrictive.&rdquo;</p>\n<h2><strong>Energy shock tests&nbsp;BoC&rsquo;s resolve</strong></h2>\n<p>In March, the Bank held its rate at 2.25% but said it is prepared to raise borrowing costs if elevated energy prices threaten&nbsp;to entrench inflation.</p>\n<p>Canada&rsquo;s status as a net energy exporter gave some cushion against the hit to consumers, but mortgage professionals faced the prospect that any further spike at the pumps could spill into funding costs.</p>\n<p>In December, Macklem&nbsp;described the 2.25% policy rate as &ldquo;about the right level to keep inflation close to 2% while helping the economy through this period of structural adjustment&rdquo; and stressed he was &ldquo;not going to put our policy on a timeline.&rdquo;</p>\n<h2><strong>Trade clouds linger&nbsp;over medium‑term outlook</strong></h2>\n<p>The poll highlighted trade as the other looming threat. With the US‑Mexico‑Canada Agreement (USMCA) heading into renegotiation this summer, economists warned that a bumpy process could sap export demand just as higher energy prices squeeze&nbsp;households.</p>\n<p>&ldquo;After energy prices settle down the focus is going to turn entirely to...where the USMCA is headed. And frankly, I&#39;m a bit concerned on that front. I am concerned trade is going to continue to be a drag on the Canadian economy,&rdquo; said Douglas Porter, chief economist at BMO Capital Markets.</p>\n<p>Poll respondents expect&nbsp;Canadian GDP growth to slow from 1.7% in 2025 to 1.2% in 2026, a downshift Porter described as an &ldquo;unfortunate combination&rdquo; with firmer inflation but not yet stagflation.</p>\n<p>The 2026 jobless rate was forecast at 6.6%, only slightly lower than January&rsquo;s 6.7% projection.</p>\n<p>&ldquo;We expected the labour market improvement to be very choppy,&rdquo; said Fan, pointing to sectors tied to US&nbsp;demand.</p>\n<p>&ldquo;As domestic demand picks up later this year, it&#39;s going to continue to support that improvement, balancing the trade weakness.&rdquo;</p>\n<p>Meanwhile, the Canadian Federation of Independent Business (CFIB) estimated that real GDP <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/smallbusiness-bounce-back-lifts-fragile-outlook-for-canadas-mortgage-market/572898\">grew 1.6% in the first quarter of 2026</a>. It expects&nbsp;growth to continue at the same pace in the second quarter. Q2 inflation is projected to track at around 2.9%.</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\" target=\"_blank\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/retail-sales-tick-up-but-unlikely-to-take-boc-off-the-sidelines/573052\">Retail sales tick up, but unlikely to take BoC off the sidelines</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/market-updates/wednesdays-boc-decision-a-slam-dunk-says-td-economist/573022\">Wednesday&#x27;s BoC decision a &#x2018;slam dunk,&#x2019; says TD economist</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/fsra-proposes-licence-renewal-refusal-compliance-order-for-alleged-off-book-deals/573034\">FSRA proposes licence renewal refusal, compliance order for alleged off-book deals</a></h3>"
     },
     {
+      "title": "12 stocks a top investor is sticking with: Jon Erlichman",
+      "link": "https://www.bnnbloomberg.ca/ticker-take/2026/04/24/bruised-but-built-to-last-12-stocks-a-top-investor-is-sticking-with-jon-erlichman/",
+      "pubDate": "Fri, 24 Apr 2026 10:00:01 -0400",
+      "description": "In the latest episode of Ticker Take on YouTube, Jon Erlichman spoke with Thomas Martin, Senior Portfolio Manager at Globalt Investments, about how market narratives shift",
+      "content": "<media:description type=\"plain\"><![CDATA[Spotify music streaming app. (AP Photo/Jenny Kane, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jenny Kane</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/ADLBBJR6MO4OTYMO35AH2CVH24.jpg?auth=97d4dfe5874f44ee49dcd595ee06ec14d6c1de14d5425e980e241aca7c0881f3&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "In the latest episode of Ticker Take on YouTube, Jon Erlichman spoke with Thomas Martin, Senior Portfolio Manager at Globalt Investments, about how market narratives shift",
+      "body": "<p>Investing often looks easy in hindsight.</p>\n<p>In real time, it rarely is.</p>\n<p>Even strong companies can take a hit. Market narratives shift, sentiment turns, and stocks that once led the way can suddenly look vulnerable. The question for investors is whether the business underneath the stock is still intact — and whether it has what it takes to get back up.</p>\n<p><a href=\"https://youtu.be/osQYwxNlT2Q?si=NnjL63UPn8-GT90h\" target=\"_blank\" rel=\"\" title=\"https://youtu.be/osQYwxNlT2Q?si=NnjL63UPn8-GT90h\">In the latest episode of Ticker Take on YouTube</a>, I spoke with Thomas Martin, Senior Portfolio Manager at Globalt Investments, about how he thinks about those moments. His strategy is built around owning a broad list of large-cap companies designed to outpace the S&amp;P 500 over time. But when you own a lot of names, some are going to get bruised along the way.</p>\n<p>Martin says his process starts with identifying companies that can sustainably do well. That means growing revenues, expanding margins, and delivering earnings per share that consistently come in ahead of Wall Street expectations. As he puts it, that is where the rubber meets the road.</p>\n<p>Sometimes a thesis comes into question. When that happens, Martin says investors have to decide whether the setback is temporary or whether it derails the long-term story. The discipline is in knowing the difference.</p>\n<p>For companies he views as truly built to last, Martin looks for a business model with something others do not have. Examples would be a clear leadership position, a durable competitive advantage, and a culture of innovation that keeps the company one step ahead of the market. When a stock gets bid up, takes a hit, and everyone starts to wonder if the story is over, that is when the work really begins.</p>\n<p>The goal is to separate the hiccups from the breakdowns.</p>\n<p>With that framework in mind, here are the 12 stocks Martin highlighted as names that have been bruised but that he believes are still built to last. As always, this is not financial advice.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/APP:UW/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/APP:UW/\">AppLovin (APP)</a></h3>\n<p>AppLovin has built a strong business in software-driven advertising and is now pushing into e-commerce, a space dominated by Meta and Google. Martin says even capturing a portion of that market could meaningfully lift its growth rate and earnings. Short reports have raised questions along the way, but he believes the company has addressed the concerns and is on its way to executing on the opportunity.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/CVNA:UN/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/CVNA:UN/\">Carvana (CVNA)</a></h3>\n<p>Carvana’s fully online model for buying cars may not sound unique, but Martin says execution has set it apart. After a difficult stretch, management made changes that brought the company closer to its customers, improved delivery, and built a better overall experience. With the economy uncertain and sales trends moderating, the question is whether Carvana still has what it takes. Martin believes it does.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/HOOD:UN/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/HOOD:UN/\">Robinhood (HOOD)</a></h3>\n<p>Robinhood has leaned into newer corners of investing, including crypto and event-based trading, serving an addressable market that continues to grow. The stock got bid up aggressively, and the crypto winter raised fresh concerns about the durability of the business. Martin says the growth opportunity is not going away, and he still sees it as a strong holding.</p>\n<h3>MongoDB (MDB)</h3>\n<p>MongoDB has been caught up in fears that artificial intelligence will disrupt traditional database companies. Martin says the earnings results tell a different story, with solid performance that suggests the worry is more about sentiment than fundamentals. He sees the disconnect as an opportunity.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/MSFT:UW/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/MSFT:UW/\">Microsoft (MSFT)</a></h3>\n<p>Microsoft remains one of the most powerful companies in the world, with its partnership with OpenAI, a fast-growing cloud business, and exposure across nearly every corner of enterprise technology. Questions about its growth rate and competition will always be part of the conversation. But Martin views Microsoft as one of the biggest long-term winners and says it needs to be a core position in a portfolio.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/ORCL:US/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/ORCL:US/\">Oracle (ORCL)</a></h3>\n<p>Oracle has moved well beyond its roots as a database company, going all in on data centers and artificial intelligence infrastructure. Martin calls it a poster child for the companies that have stretched themselves with heavy investment, and that have drawn some of the sharpest market skepticism about whether the spending will pay off. He believes Oracle has the ability to deliver on those commitments and is holding on.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/PANW:UN/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/PANW:UN/\">Palo Alto Networks (PANW)</a></h3>\n<p>Palo Alto Networks, along with the broader cybersecurity space, has come under pressure on concerns that AI could disrupt the industry. Martin says that question is a fair one for many companies, but he believes Palo Alto is far enough along in building its platform and integrating AI that it will come out as a winner.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/PLTR:UN/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/PLTR:UN/\">Palantir (PLTR)</a></h3>\n<p>Palantir has captured investor imagination with large contracts across governments and corporations, and a business model that can feel mysterious but is clearly in demand. The company keeps surprising on the upside with both earnings and revenue. Martin points to its culture of deploying forward-engineers directly into the markets it serves as a competitive advantage that supports continued growth.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/SPGI:UN/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/SPGI:UN/\">S&amp;P Global (SPGI)</a></h3>\n<p>S&amp;P Global has taken a hit amid broader AI-related fears, but Martin says its business is more defensible than the market is giving it credit for. The company’s data-gathering operation is proprietary, with boots on the ground collecting information that software alone cannot easily replicate. He sees that moat as accounting for most of its business and far less at risk than some investors assume.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/SPOT:US/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/SPOT:US/\">Spotify (SPOT)</a></h3>\n<p>Spotify got pulled into the AI trade and the broader questions about how the creation and consumption of music might change. Martin says no one has a definitive answer about where the industry is heading, but what matters is that Spotify is not standing still. Its culture is oriented toward adapting to what customers want, and he believes the company can execute on that shift.</p>\n<h3>Uber (UBER)</h3>\n<p>Uber is often thought of as a disruptor and a category leader, but Martin says its biggest advantage is less visible: the software and logistics engine that organizes millions of rides across jurisdictions. The key concern has been whether autonomous vehicles will undermine its business. He believes Uber can use its logistics strengths to strike the right partnerships and remain sustainable as the industry evolves.</p>\n<h3><a href=\"https://www.bnnbloomberg.ca/stock/V:UN/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/V:UN/\">Visa (V)</a></h3>\n<p>Visa faces disruption risks from multiple directions, including AI and the rise of crypto and stablecoins that could reshape the rails of global payments. Martin says Visa and Mastercard are not just entrenched — they are constantly evolving. He believes Visa’s deep relationships and market leadership position it to remain a payments processor of choice and a profitable business going forward.</p>\n<h3>The Ticker Take</h3>\n<p>Every portfolio has bruises.</p>\n<p>The harder question is whether the businesses behind those stocks still have what it takes to keep moving forward.</p>\n<p>Martin’s approach is not about avoiding the hits. It is about owning companies with the leadership, innovation, and culture needed to absorb them — and come out stronger on the other side.</p>\n<p>In a market full of shifting narratives and short-term noise, that willingness to stick with high-conviction names through the tough stretches may be one of the most underrated parts of long-term investing.</p>\n<p><b>Jon Erlichman is a BNN Bloomberg contributor and the </b><a href=\"https://www.youtube.com/@TickerTakewithJonErlichman\" target=\"_self\" rel=\"\" title=\"https://www.youtube.com/@TickerTakewithJonErlichman\"><b>host of Ticker Take on YouTube</b></a><b>.</b></p>"
+    },
+    {
       "title": "New hospital drives office real estate in Vancouver&#39;s False Creek Flats",
       "link": "https://www.timescolonist.com/real-estate/new-hospital-drives-office-real-estate-in-vancouvers-false-creek-flats-12160265",
       "pubDate": "Fri, 24 Apr 2026 14:00:00 GMT",
@@ -335,30 +333,6 @@
       "_src": "gnboc",
       "_publisher": "Nbsla.ca",
       "_pubUrl": "https://nbsla.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada to hold interest rates this year, show patience with energy inflation: Reuters poll",
-      "link": "https://news.google.com/articles/CBMixwFBVV95cUxQVHVoX25IUW5tcDl3RTVmdHBaaXFpbTlIdFdjMFE4ZjIyV0pwSGZpbElXOXlWSllraEFkcXZ5bDJWcGFtX01ibzBKSFp3eExxenk2NGF1bDJxRWMyMjA5TVVnZHJlNHRNUVc4Rjk5MDdyWEhiRGx1THR3Nks5czlGLTRocnF5TjMwTXV1NVBhN2UxR1FVV1B4TUo3anBJVkFEMnFXcDFFRzNKa2tnNjIteGVxdHQxRUNjMnhnWTlhLXdzYldfM2kw?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 12:53:36 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Reuters",
-      "_pubUrl": "https://www.reuters.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Why your home insurance is going up, how to live with grown kids, the Home of the Week and more top real estate stories",
-      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxOU1AzYzdEdXVEWHR2bnB6OGxzX1Y0SDRtTTR1ZU9XSnhHd1NFaER0YXVSSENIeEZzbUxpbTcyc3pScFBkMWVNNnJITS1nNlp3THpBYktsZTFVd3REc0JMcUdneWZlY0pnYzRzZWRkY1piZDFXcXRjQ0JMNHctZnZCY0Q1enhXU3luRE82LUJVT1R2R1pYZDdyaEpMXzJFUnRucUpKeTJkQ1YtU0ZzU3VjdlFTbTdBbTlL?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 12:30:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -586,6 +560,18 @@
       "_ogDesc": "When oil prices surge, the Canadian dollar usually strengthens — but that dynamic has shifted."
     },
     {
+      "title": "Ontario resort home sells $525,000 below 2022 purchase price",
+      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxNRy1tTmhUUHVxLTNGUnRqWE5UODIxa1pyclNzLUtYc3FEdlZWQUM5ai0zcDFMQU0tQUNhWGtRREJmSnhUS0J5X01lRFptX1p0RjZnWFZfQXNJYXJrRGszUUFqNDNNWU5IX1FILXMzZ0lTUkZveVJxSHE4RGdESk1LdUk2aDJOakJDOEg1Y25NT0dBR19HaElhM1JyQThIbnRtTTY4ckhjd1pVbGtSUW5Pam9NMW5zZFZ2ZExV?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 12:30:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Commercial real estate market at turning point as vacancies drop: report",
       "link": "https://news.google.com/articles/CBMizgFBVV95cUxPZFhpVjNCWWE2VDc3a2FlNjRRM2hKd05iSkc4SjBOWGE2ekNwYnhKNGZvX0lUQUNkV09LNVl0R0p5em5wRGxDOS1lQmxXb0Q5emJyMm90RG9fSmtsTkU0cnRjVDVNNHRPUXZfLUR5bExyeUVqazBST2tHSUVXMTJxN2xrdHUyNEthYVIwTENLMFNXaGhraFlNdzFzNGM3aWhnVF9OLTk3clBqYnFJQTZTaDlVb0RWMDFlUEF6dkFZYzFTb09sZzZJc3BKWExWdw?oc=5",
       "pubDate": "Wed, 22 Apr 2026 11:18:11 GMT",
@@ -616,16 +602,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/04/Canada-US-trade_sm-500x333.jpg",
       "_src": "cmt",
       "_ogDesc": "Canada’s new chief trade negotiator to the U.S. said she wants to see “some mutuality” from Washington in recognition of “significant” concessions it’s already made to address President Donald Trump’s grievances, as a review looms for the U.S.-Mexico-Canada Agreement."
-    },
-    {
-      "title": "Neo Financial taps capital markets with $150M securitization",
-      "link": "https://www.canadianmortgagetrends.com/2026/04/neo-financial-taps-capital-markets-with-150m-securitization/",
-      "pubDate": "Wed, 22 Apr 2026 02:05:06 +0000",
-      "description": "Inaugural deal marks fintech lender’s entry into institutional funding channels as it looks to support growth of its credit card portfolio",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/04/Capital-markets_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Inaugural deal marks fintech lender’s entry into institutional funding channels as it looks to support growth of its credit card portfolio"
     },
     {
       "title": "Photos: West Vancouver mansion price drops by $7 million",
@@ -703,15 +679,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Mortgage Rates Forecast Canada 2026-2030",
-      "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
-      "pubDate": "Mon, 20 Apr 2026 19:11:45 GMT",
+      "title": "CTV National News: Bank of Canada faces rate decision as inflation pressures mount",
+      "link": "https://news.google.com/articles/CBMizgFBVV95cUxQVVd4SmdwLU5xMllhSVVKZDZSZGs4SzFiLXVzRkpScWxoeklPemNRWWpucFVwb3haV0hadFhKSU9zckMzVmQ4aG90SVJFXzU4Ri0wdURkQVBDOVhkaVdsMkxyeEJzRmRtU0FaaEtXWl9teGp0Q1lhM2ZvTC1oM25xVGdDWV83aU5zMllLZGIzSE5LbFFSNDBCbnBVel9UbzB0cWlDdGJUcGh5ZkI3azk5N29IRjJrVWVXMlhDXzN2bS1lVndLQVN4VkJxR2V6dw?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 21:43:42 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
+      "_publisher": "BNN Bloomberg",
+      "_pubUrl": "https://www.bnnbloomberg.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -856,18 +832,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ontario Housing Market | 2026 Home Prices",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 21:50:51 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada Housing Market | 2026 Home Prices",
       "link": "https://news.google.com/articles/CBMic0FVX3lxTE16YllabVZTN1J3R05GU20xLWJ2aTNvc1V5TnBfVG1FeTZ3ZENXT1QxWFJobnpKUHNJWTUtQWlEWmVHTVZmOWVZNzdrYlFLaWhwV1FiazVPcUFVamd3bEdqeUMxNEhPaEFuZmdhb3NsejJQSWs?oc=5",
       "pubDate": "Thu, 16 Apr 2026 21:01:03 GMT",
@@ -922,6 +886,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Hamilton Housing Market Outlook 2026",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE1QY2MtTW1Yci10ZnlqemlDamtURFUxYV9LN0Ntd3dwazg2U05nWmxUcXh3dkVrcTRaREdsRWx1SEw4Q0RpNUhsWGt2UWNjc0xJbFpxWGo1dzIzZ0JaZ3hGR2VmWFQxemU1Um5xWEt4aTNZN0E?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "CMHC economist warns untargeted buyer aid risks backfiring on affordability",
+      "link": "https://news.google.com/articles/CBMi2gFBVV95cUxORV9TRUNlTTFsUWRWTlZBV1Q0NFhnS1FoVllIWjVvLVB5R05MbEd3RC1Feno5dXhibGxhWWMxTnlMbUpSS05Fd1IzcDFwcjNWdkhzR3V4aEc0YlA3ZEZJOXN1cHJZQjVsX2h2TVZtSy1RNlloWW5aZjZmRE9kSEdtRkN6UVYzS1dBLThpUFpqVFVyTTNpUVdGaG0xYVhGVjM4Z1dKbVozM0xVaVlfSW9fOWtfZ3VwNjBFdVVTTlF3LWhLVnVkNDR5OVVKVEZtOU1fd3VYbklBNzVSZw?oc=5",
+      "pubDate": "Wed, 15 Apr 2026 19:29:44 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "B.C. home sales face major headwinds in March as transactions, prices both slide",
       "link": "https://www.timescolonist.com/national-business/bc-home-sales-face-major-headwinds-in-march-as-transactions-prices-both-slide-12145210",
       "pubDate": "Wed, 15 Apr 2026 15:24:00 GMT",
@@ -940,30 +928,6 @@
       "_src": "gnontre",
       "_publisher": "NOW Toronto",
       "_pubUrl": "https://nowtoronto.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Seven Ottawa-area markets ranked in top 10 for affordable housing in Ontario",
-      "link": "https://news.google.com/articles/CBMifEFVX3lxTFB3NWZKUi1mYjI2eF9La01rTE0tdk45ckl4eGxVN3I3MDVUelYtNjJDWVhCbllyVUctUnlaUjlGUFlUVkQtWXhNckVWRjFWSUxGX1JoNzVLZ25kTVJiMkNOTkQ1WE92cFM5ektuMmhxVUpjY0Z4XzV2b3NZakY?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa housing market shows mixed trends across segments",
-      "link": "https://news.google.com/articles/CBMif0FVX3lxTE1tLUFmM09XVDUzeVVmTWZHb0UtT3ZnZnVVTFZCUnpGZWd3OEdRN1phTXpPWlI0QlZ1TTRObF91NjRIbjFkWFdrbmJyMExHdFlIdnF3X3RuT3JlbUtBaTZ1X0k1aUplREg2N2ZQbkxKZWlJODR3aXdoaWdaVnQ4Nmc?oc=5",
-      "pubDate": "Sat, 11 Apr 2026 08:17:44 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "PressReader",
-      "_pubUrl": "https://www.pressreader.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1048,18 +1012,6 @@
       "_src": "gnre",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Some Ottawa renters to see an automatic rent reduction in 2027",
-      "link": "https://news.google.com/articles/CBMipwFBVV95cUxOTkl1Z0VSTFROYkZOOHdoaG9xcjE4SXMtWnR6dXZHRGxSWDdxQ3V5TEdQbjFnMHBpWkFDaGJ0XzNWd1BGZ1lOQ0JmbTZ6ODctRXc4VGZsZV92bDBIZGVLSGVNclItWU5RcDVtZjB2VDJtUkktdVFBRVBZcXFER0Vwb0VJanpveGYtTHZySVpyOVBQaEFuUy1UYlhzRkFkdmpXNXJZeWthZw?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1171,6 +1123,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Will the Bank of Canada Raise Rates This Year?",
+      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxQTC1xa1BIZ1ZobDR0dnNPSDI2MHI3THhicUVZQmhRMnRmM1NadV8zSWhoVzR5dGV5bWJqRjBaWnp6TXJrS0M1NVRDM09FTUV6aG5BUklKUDF4MHlMOGplMFFwV1NnZ2tMNG5ROTJub2NMZnBXeWpTZjVRQTJUWERBZHdkVjJjbFRaMllR?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Morningstar",
+      "_pubUrl": "https://global.morningstar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Bank of Canada holds key interest rate at 2.25%, caught between inflation risks and growth amid war-driven oil spike",
       "link": "https://news.google.com/articles/CBMi7wFBVV95cUxPcm5iTHhzUzNEeEVjYWhwUU9reTRpOGNPbjF4cEhiaWZHNFVXb2EzWjRDX1RsYXdfd01zeWhBUTllaVRkeVNjTzFKNVJoMXR0bHUzOUowQVhtMHV3U0c4bTBJRE1CYm9STW11OXNxek40U291SC11MV93d010alpZTlpPemVqamdGd0xad0VfNnNtNlY5R0V2M0VtOXFUbVd1dVdRR0NOT1pKbkMyOHN5aEYwWTU2d0lpSDZjeXQ5T1V4QS1xTlBFbGRWMkl5MkRXMjM5Rld3U18xTExYTnBXY0E2NDVDemthWTdwYTJSNA?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
@@ -1243,15 +1207,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Immigration could soon account for all of Canada's population growth: expert",
-      "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQSkxELVlJNEdNa01sM21uaTBhbkJsdTRGQi14RmFZWE9OSzMyNUFNZ3EyWnlTdXBmU2tubktodmNwSGJOVFZRbkdaZjJ5OW5pZTFKV3dBX0dQSFQxVzdGUDdLdGM1a045U0g5bXlsQkVHMm03OXUzampPb0w5VEZtZXFCeHhULWs2Si1TM0xlQnlKWnV0VWtRZ2N6YXhpLTZwX01DSHBPVmVkWTNPSks3YXUxWjRMQlJodUVUWkVWYjh1Mnc?oc=5",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
+      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "Guelph News",
-      "_pubUrl": "https://www.guelphtoday.com",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1279,39 +1243,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Homebuilding slowdown threatens to negate any affordability gains",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxNTE5IX3V4LWNxTk1jM3JPWWQwaVVFa3pXQWVsSmx5UTlaQkdpWGo3dmg1R0Jxa1EzWUxQWjlObFdONjc3cVFxUS1BVDlDeWRqMVFMcHhBWEtYR0lSVWUwTm1DLWE0UDhaU05DLWlGLUx5ZjdqT1pGTWlRQ3NOc2hWcGl2UGZWYnpXR1ZuQXpyRThQcWpGb0xhTXFFMTNMR3R4ZWptZ2tTWm8?oc=5",
-      "pubDate": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "title": "Ottawa home prices drop 4.5% in January",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxNdU5PWVBJVTlkTUtOQ21ybUhHeEhQTExkTi1EcEJVZnh1RVZ6UlRWR3pjenlDNWtROWV4LTNhR1VCWlRUS1ZpYUU5MFFjQ3dpR2hjTmQ1MDNyYnBsaVhoMGZ3RjFrMmI4QUVMTEFsZGJQWXdkY3ZrUTl3UzlzaEJKd05B?oc=5",
+      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Fraser Institute",
-      "_pubUrl": "https://www.fraserinstitute.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Pro-housing policies paying off in Saskatchewan",
-      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxPZUV0SmpvTXhLZUlqVXNseHM5a1V0bXV4TndsNUVQY3AyYlhTbzBrY0p6SWhFa3E5VWMyUk1ybnFsNFp4YkVkY1BwLXJXMGZQWF9oNVd3SHRfTTB6S0hWSGtQTGNoTWhoX3BFTEhsLS1Td3ZZMGFHekttUHgyMU5MbUNPa0g2bThHdmg0?oc=5",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Fraser Institute",
-      "_pubUrl": "https://www.fraserinstitute.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Mortgage renewal wave strains some regions and borrowers",
-      "link": "https://news.google.com/articles/CBMimgFBVV95cUxQZS1nTDZVQVpnVFBWanhqT25qR3RTbFhrc1NtYXpCVlJsb2hQS0RHTkNMb0NZWTAtMnY0ZmlBVWUxSFdRTF84WE1tOWtzMFdmNGczNnp1SmNZaDl5R0poUmU1WVctWnRleTdUcmtNa0dmdU5VSmRCaEYzU2t5bllLOEhReHFzNllLM2VUb0tyaEh0MXR2bHdfb1B3?oc=5",
-      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_src": "gnott",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1447,6 +1387,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Where’s the housing market headed in 2026? Keep an eye on these seven charts",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxOdy1VRkk2RVV5bzAxZmlRdlVjT1VIY194azU0alN3YWE3ZXIxM1ZYbjNkMUR4Q2lRNVp3YjlFOFVjZFJ6WE83SmZlQ2VFbjNnaHdBSWNyQlNqV1RQXy1QMThUTmEzR1RMajJFQWtTbHhuY2hWc3Y0bGUtUXBVa3MzTmxzT19xd1Q4VndiNWIwUQ?oc=5",
+      "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Tariffs, immigration shifts, condo softness shape Canada’s housing outlook for 2026: Royal LePage CEO",
       "link": "https://news.google.com/articles/CBMi1AFBVV95cUxOTU9HMVdvWFVtSlVGbk9ubzNfMFJ0aHByaEpNUk0tNXdjbnMtejNZdF8tX3ZJVm1wMDl0SHRZbS1HVkxaa2JuUElManJzOUVOTlRTRGNETmtORlZrNVQwWi1jaVh0SExELWNnN3o3RjB5ZXFUS25ROWdjWDctYTNuazRGd0s3REVmdk9qdWNVZlNyVDZqSVNCSHBRTXA5bHNBcU1wdnFwdGVHR2VFZExPN29DR28tRlQwMmpsSTRmVWcydTFvNUJlZWhVUmJBRU9SbU5aZw?oc=5",
       "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
@@ -1483,6 +1435,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Construction launches on $98M Phase 1 of major rental development near Ottawa’s Experimental Farm",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPRWpCRWlrTnllbmlLSnBkUWJnbUNvanBoWEhCOVpzUkZFT2lVZnEwYjBCVXE0NzlZZGtmVWhtV25LZWlnY1ExU3I5US1aVDZTM0dldHJxQnpEUXNxT0RTTUliSmsxMG5FNWJVeGFiWFVDUUFhRHFFUERlbVlpbEtfcXk3VjB2b0ZmSVBKa0tqeFJWaEpNSVRDUFZFcDBneFRUMXloSmxFRDBhbUg0QnZweVpIZlZ6LU5QOUhrdzhlTVA5SlFia3VjcFBQdw?oc=5",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The housing burden of unchecked immigration: Peter Copeland in Commonplace",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxNMl9RT3ZHQUw2a0xMa3l1elFQeWlXS1dKRGt5RW5FYXRReEtiMGJ4SDN2TnNWS1NjMTRhX3hfVUgwT3JvVkpUQ1NWZmtiYXpNVTMyMFlXdnRjOXZvLWkwRjdLX2hGcGRiQUV3M2d6XzJHNzA1TTctVU5udGlwSUhMcW1QTmxBMF9iNm9YZ2RIS2YzOTlRWXN1VlM2QTRFaTBubXc?oc=5",
       "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -1504,6 +1468,18 @@
       "_src": "gnimmig",
       "_publisher": "Immigrant Services Society of BC (ISSofBC)",
       "_pubUrl": "https://issbc.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Here’s why city hall should save ‘blanket rezoning’ in Calgary",
+      "link": "https://news.google.com/articles/CBMioAFBVV95cUxNX3lmRHVYaUd2UVFBamFsNU53WTZwQ2RzeUZQZVhPUjQ1X250elkyOTd3WmNUSUhNU1ZPb0xxM0N3aFVpdGNwdUtRNTFiQ3F6UzM1N1diWlFnR2JCLTg4ajlQMW9aZlZ0VzJTbXUtdE43WDJFRTlXRGpkMWlmcTNNVmVpV0JSVlZJTk5lcDdHSFZDU2tRU3g2RjNtSjllbkZy?oc=5",
+      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Fraser Institute",
+      "_pubUrl": "https://www.fraserinstitute.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1555,6 +1531,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa Housing Market Outlook (2026)",
+      "link": "https://news.google.com/articles/CBMiYkFVX3lxTE45ejBRYTRzdVVQUWhvaGVYa1NFS291cU1pbmZleGQ4VXR4eG94UkpxR0dCclY3bzRxU3hZRGJ4QmpHNGliZnhQOXptazh1a3hqRHJhazIybjRoLVUyX3QzYVZR?oc=5",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Remax",
+      "_pubUrl": "https://blog.remax.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ontario’s housing affordability crisis extends far beyond Toronto",
       "link": "https://news.google.com/articles/CBMiqwFBVV95cUxNcHlqZnFVMkRWMGJlT0VvZTNOMlA0d3g3Uzdha05UMjlLRTkyUllCZFNWRFNUYVlKMWpyM3BfUDlnaFkxWGQ2eUI2NVJVeFpuZ2szYkx0a05tV1JMdUpSSDBKVzVqTm9mVmQ2NXlJWlhFdGdfWVNtZmIwVWhiMG5BaWtiaGFBSHNCSll0TENCRUE5ak1EUWJBTFg1LVhnc21FSGJ1VHR2clBBekk?oc=5",
       "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -1576,6 +1564,18 @@
       "_src": "gnpolicy",
       "_publisher": "Policy Alternatives",
       "_pubUrl": "https://www.policyalternatives.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa Real Estate Market Rebounds After Brief Slowdown",
+      "link": "https://news.google.com/articles/CBMiXEFVX3lxTFBvbGtJc3BKV2tXdWJRSlRJX3dYcXFYTXNGMEVCUXlqYkNGMUhrbUMwcXoyZ2hxRXNfc0pJMEZ4MEpxTy0ycDBKV2lEQ25UeU5DVllvRWlzeWRUNEpL?oc=5",
+      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Remax",
+      "_pubUrl": "https://blog.remax.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1675,18 +1675,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Canada’s O-Train Western Expansion Nears Completion: New Key Stations and Major Progress Ahead of 2027",
-      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxOY2dManJRak9CUm5JWUExTkc3WjByLVprNThVQnREWVEyNnBjSFN2UVlEMFV0dTVwNEx6Y1QyVkN2c1g4UnllWFo4WHB2MFVMMFF2dW9lbUNZNW5oMlNtTlgyV3ljM1JiNXczYmZzbm11dmVKNWo4WGNtOGFLdWR0Wlk3WmRhUF9PWU8zeThHSEZCWV9WRVNIYVBTYUM4Ymt1eko1d2VRYWpibGF2S0xKUUxiUlNzdnhvRVNRTWtBMkZDMVA3X01IVTdneGp3ZFg3allRMjdRV2plUGprTXk3MmhEQmYzbnN0S0NwNA?oc=5",
-      "pubDate": "Wed, 09 Jul 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Travel And Tour World",
-      "_pubUrl": "https://www.travelandtourworld.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Proposed zoning bylaw won't help Ottawa's housing goals, says advocate",
       "link": "https://news.google.com/articles/CBMic0FVX3lxTE5vS0dTaG9kNHJBeHVuZWUtaF9GZ3B0a2ktTzc2Y3BoRFlPanVHY3QyQW8tRXctUFI2WHVrYi1FaDBNRTE0RWxOa29pbndpU25tcUc0a0lnQzZ1MXdYMS1qNzlwbGM1WUhObjRDY3VJQ3o5Qms?oc=5",
       "pubDate": "Sat, 05 Jul 2025 07:00:00 GMT",
@@ -1711,27 +1699,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa home builders 'very happy' with promised development charges reform",
-      "link": "https://news.google.com/articles/CBMivAFBVV95cUxPclBtcTV6WThOYkFSZlhKdHdrNDg1elp2dkFUcFYxZkFrOG5tTzhyQW1iRXFkcS10TzRzamQ1bFpZTnZKQlBtS3c0bUVxVmlKS0RDV1dkQV9RQ0llbXd5alNMQ0tkc1hSWVFubUdzc0VKYVVSUnhFS2R5V0RDV3k1bTR1NU5SLVdsRmhPUGlQYmJ4Zi1Hc3RMVTZzbzctTFZwZ3VZOE8xeE5XNUx2NDRadmVNN0dadzNCdUlPZw?oc=5",
-      "pubDate": "Wed, 14 May 2025 07:00:00 GMT",
+      "title": "How To Fix Canada’s Housing Crisis",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE00N3JJZWpyMnRxcXNmdmdtRmFxSVF2RHd5NmtlczBZS0plbGRNOTlVcFhhaE42anJaalFSWnVHUkpqVWhSZ0JuU2pVVC01ZWJzLTc3VFJvNE1zelMwODJwYmZ1OTZua213cW1JV2VtTmtfdw?oc=5",
+      "pubDate": "Mon, 17 Mar 2025 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "1412 Stittsville Main Street: Zoning By-law Amendment and Site Plan Control application",
-      "link": "https://news.google.com/articles/CBMivAFBVV95cUxNX1hpVF9ZaVEzTnpzdkJEZzM4OGU1a28zNHQwWXhwTElrejAzM0paRmktd0lqRlpjX3pwRmFxOFNqZmxpMGtaWW1IRjkxTHlxenlfSy1iUDdBeG9HMVRUX0ZSbkVmWnRmQmhUVENvTThVaGRQNk56TzFVUHhBZkdDa1pweUg2cGZ6cGV5WlNiLU9QZGZXUmhrdDQ3TGdOU0RVWTVPVVdEOF9WTDA5YXhKME9RMU04clh4Y2p1NA?oc=5",
-      "pubDate": "Wed, 07 May 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Glen Gower",
-      "_pubUrl": "https://glengower.ca",
+      "_src": "gnpolicy",
+      "_publisher": "Macleans.ca",
+      "_pubUrl": "https://macleans.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1744,6 +1720,18 @@
       "_src": "gnottlrt",
       "_publisher": "PC Party of Ontario",
       "_pubUrl": "https://ontariopc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa Light Rail Transit",
+      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
+      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "AECOM",
+      "_pubUrl": "https://aecom.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1807,18 +1795,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Light Rail Transit System | Work | Société d’avocats Torys S.E.N.C.R.L.",
-      "link": "https://news.google.com/articles/CBMigwFBVV95cUxPaEJLd2ZSaXkzZENCNkd5cEw1VGFxVWFxY2daSE44UXlDZTZBTm92MTFvcFc5MTJuTzZsX3NJcVhjWERhM2NXWG5jNm5TRE9xYi1fT3JibTN6QnhqMXNtSmJ1LWNKc05fNjhlTFhCX3hPeXh4Tzl3dThYTTNoMTBIRV9sTQ?oc=5",
-      "pubDate": "Sat, 07 May 2022 15:49:37 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Torys LLP",
-      "_pubUrl": "https://www.torys.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa’s colossal LRT debacle: A brief-ish history",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5",
       "pubDate": "Fri, 14 Jan 2022 08:00:00 GMT",
@@ -1828,6 +1804,18 @@
       "_src": "gnottlrt",
       "_publisher": "TVO",
       "_pubUrl": "https://www.tvo.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa Light Rail Transit System",
+      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
+      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Torys LLP",
+      "_pubUrl": "https://www.torys.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
