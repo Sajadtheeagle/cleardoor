@@ -1,6 +1,6 @@
 {
-  "ts": 1777772850862,
-  "fetched": "2026-05-03T01:47:30.862Z",
+  "ts": 1777789284957,
+  "fetched": "2026-05-03T06:21:24.957Z",
   "sources": [
     {
       "id": "cmt",
@@ -206,6 +206,18 @@
       "_src": "gnboc",
       "_publisher": "ntv.ca",
       "_pubUrl": "https://ntv.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Rogers offers buyouts, BoC keeps interest rate on hold and Canada’s new sovereign wealth fund: Must-read business and investing stories",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxNbk13ekNnMEx5V0duQnhsakY4ZHBHSklGMWpPNWJOS2xsYmMxanFERDkxODRFRGdlMDdGd1UyaF9sanRjUW1fbkpxaDJSeV9XQktFNFFqUzRlams0eW10cDRsYzZHTHhJcXlVR3UyMWF5dlpQUlAydlpXYmpmZzQycTlVdllOUVFOMXJaeGtmNGRtb01pSVVRYzJWMWlIS0RrNzlYdXZCRVRqYl9MbU8w?oc=5",
+      "pubDate": "Sat, 02 May 2026 13:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -615,7 +627,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "Morningstar Canada",
+      "_publisher": "Morningstar",
       "_pubUrl": "https://global.morningstar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -628,18 +640,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/01/Federal-Reserve-building-2_sm-500x333.jpg",
       "_src": "cmt",
       "_ogDesc": "Federal Reserve officials left interest rates unchanged, but revealed a deepening division over the outlook for policy amid increased uncertainty caused by the conflict in the Middle East."
-    },
-    {
-      "title": "The Bank of Canada held its key interest rate and is warning of higher inflation. Here’s what you need to know.",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQeDQ0SF9NZkItTERXb3Q3QVZEYnI2VTdNTEVEa0dwclNIblJPclkwZF8talZNa0N0TXVrNUxKMVJPQ2xhaWlQUGJfN0xROTBtdnFWVkdnVXI4YTJyQmcxUUFIMVk4MFpXVzBtcm9EdjJ6ZkpraGhUVmp3V1hwajR1X0hJaXUzYkJtYkQzM2JiUENOUU14U1FXT1RnY0txSGtPNXBMOXc5R2xkVldWY2tyamJJa19hQXN2TnBUUzRiVjY?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 15:36:26 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "BNN Bloomberg",
-      "_pubUrl": "https://www.bnnbloomberg.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Bank Of Canada Holds Rate At 2.25% As Housing Activity Stays Muted",
@@ -732,7 +732,19 @@
       "thumbnail": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/04/web1_vka-duck-20796.jpg;w=960",
       "_src": "timescolonist",
       "_ogDesc": "The ambitious goal to build up to 20 new hotels would address a decline in rooms and keep the region competitive globally, says chief executive of Destination Greater Victoria.",
-      "body": "<p>The ambitious goal to build up to 20 new hotels and add 2,000 new rooms to the region over the next decade is gaining momentum with municipalities, First Nations and developers, says the chief executive of Destination Greater Victoria.</p>\n<p>Paul Nursey said that as new residential builds wane and the price of land stabilizes, the hotel space is emerging as a &ldquo;generational opportunity&rdquo; to address a 25% decline in rooms since 2016 and refresh the hotel landscape to remain competitive in the global tourism industry.</p>\n<p>The tourism marketing group assembled a working group of five municipalities, industry partners, builders and the Songhees First Nation last year to work together to bring more hotels to the planning phases.</p>\n<p>In 2025, hotel occupancy was at nearly 80% over the entire year and at one point during the summer, reached 94%.</p>\n<p>This season is shaping up to be the same or even better, said Nursey.</p>\n<p>The region has about 4,500 hotel rooms, but needs more after losing properties for social housing during the pandemic and redevelopment.</p>\n<p>The working group issued its first report this week with recommendations for local governments to kick-start new hotel plans by identifying potential sites and zoning, addressing complex permit processes, pursuing First Nations partnerships and supporting the renewal and expansion of existing hotels.</p>\n<p>The report notes that existing hotels are aging, with more than half built before 1975 and requiring significant renovations or replacement.</p>\n<p>Managers and chief administrative officers from Victoria, Colwood, Saanich, View Royal and Sooke are part of the working group and are taking the lead, said Nursey.</p>\n<p>&ldquo;The municipal partners are really rolling up their sleeves. They are taking this seriously,&rdquo; Nursey said.</p>\n<p>&ldquo;They see a sense of opportunity and a diversification of their tax base.&rdquo;</p>\n<p>View Royal, for example, doesn&rsquo;t have a hotel and wants one to attract a slice of the annual visitor pie.</p>\n<p>Colwood has recently approved two sites for hotels in the Royal Beach development along its waterfront. Sooke wants more hotels that highlight its waterfront and serve as a gateway to the trail system west of the town.</p>\n<p>Jocelyn Jenkins, manager for the City of Victoria, said the city is &ldquo;happy to collaborate&rdquo; with the working group on future hotel projects, adding the tourism economy is essential for businesses, the city and the conference centre it owns.</p>\n<p>Aryze Developments director Chris Quigley said interest in the hotel sector is gaining strength among developers. The company recently partnered with Victoria software developer Redbrick, which purchased the old Plaza Hotel property in downtown Victoria, to build a new hotel on the property.</p>\n<p>He said the working group sets out a road map for companies to &ldquo;navigate the permitting system and unlock projects&rdquo; that will strengthen the local economy.</p>\n<p>&ldquo;With several hotel projects in our pipeline, we&rsquo;re committed to working with local government and our business partners to make a new hotel development in Victoria a reality,&rdquo; said Quigley.</p>\n<p>Recent statistics show hotel demand is on the rise. Greater Victoria showed a jump in average daily room rates &mdash; a metric considered a key indicator of the health of the industry &mdash; from $200 a night in 2024 to $224 last year. Conferences increased by 20%, and arrivals at Victoria International Airport saw a 5% lift.</p>\n<p>In a recent hotel investment report, Colliers said the hotel asset class has seen a surge of activity nationally, with more than $2.2 billion in hotel transactions in 2025, an 11% increase over the previous year. The report cited the strength of domestic tourism and improved international inbound travel, both expected to increase in 2026.</p>\n<p>Municipal leaders identified several types of possible new hotels for the region.</p>\n<p>Outside of the need for full-service hotels in the downtown core, the group said there could be more affordable mid-scale hotels for sports tournaments and cultural events, boutique hotels connecting visitors to bike and hiking trails and transportation hubs, extended-stay hotels for major employment hubs like the naval base in Esquimalt and Victoria General Hospital in View Royal, and mixed-use developments that pair hotel and residential uses.</p>\n<p>The report said 2,000 new hotel rooms would generate more than $100 million in annual visitor spending, 1,180 direct jobs in hotel operations and 1,580 indirect jobs supporting operations.</p>\n<p>The 130-room TownPlace Suites by Marriott recently opened at Victoria International Airport, and the same brand is opening a 103-unit, six-storey hotel in Langford next spring.</p>\n<p>The first new hotel in Victoria in nearly two decades is under construction on Broad Street. The 167-room Hyatt-branded hotel is expected to open in 2028 at Broad and Johnson streets on the historic Duck&rsquo;s Building property, preserving the 1890s-era facade and back wall.</p>\n<p>Reliance Properties recently submitted new plans to the city for its project at 780 Blanshard St., the former B.C. Power Commission building.</p>\n<p>The new plans call for the rehabilitation of the existing building as a 124-room hotel with a public café.</p>\n<p>Recent hotel sales have also brought optimism for potential improvements.</p>\n<p>This month, Toronto-based InnVest, the country&rsquo;s largest hotel owner and operator, purchased the Hotel Grand Pacific on Belleville Street. The 304-room hotel, owned since 1996 by Pacific Sun, had been on the market for months. The property&rsquo;s value is close to $48 million.</p>\n<p>The Royal Scot Hotel on Quebec Street was sold this year to Vancouver-based Synvest Capital for about $41 million. Synvest&rsquo;s hotel management division, Roadside Hospitality, will run the hotel. It will also run the Bedford Regency Hotel, which Synvest purchased last year for $8.9 million.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ddb9b6b1b2aea9b8af9da9b4b0b8aebeb2b1b2b3b4aea9f3beb2b0\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12194584&amp;t=%27Generational+opportunity%27%3a+Industry+report+eyes+expansion+of+region%27s+hotel+properties&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#1d226e687f77787e69204e757c6f7879382f2d7b6f7270382f2d497470786e382f2d5e72717273746e69382e5c382f2d382f2a5a7873786f7c697472737c71382f2d726d6d726f696873746964382f2a382e5c382f2d547379686e696f64382f2d6f786d726f69382f2d7864786e382f2d78656d7c736e747273382f2d727b382f2d6f787a747273382f2a6e382f2d7572697871382f2d6d6f726d786f6974786e3b7c706d267f727964207569696d6e382e5c382f5b382f5b6a6a6a33697470786e7e72717273746e69337e7270382f5b71727e7c713073786a6e382f5b7a7873786f7c697472737c7130726d6d726f69687374696430747379686e696f64306f786d726f69307864786e3078656d7c736e74727330727b306f787a7472736e307572697871306d6f726d786f6974786e302c2f2c2429282529382e5b686970426e72686f7e78382e5958707c7471424e757c6f78382f2b68697042707879746870382e5958707c7471424e757c6f78382f2b686970427e7c706d7c747a73382e5958707c7471424e757c6f78382d59382d5c382d59382d5c5c716e72382e5c382f2d7f78382f2d6e686f78382f2d6972382f2d7e75787e76382f2d726869382f2d7c7171382f2d727b382f2d6972797c64382f2a6e382f2d717c69786e69382f2d73786a6e382f2d7c69382f2d7569696d6e382e5c382f5b382f5b6a6a6a33697470786e7e72717273746e69337e7270382d59382d5c382d59382d5c51747678382f2d7a78696974737a382f2d6472686f382f2d73786a6e382f2d7f64382f2d78707c7471382e5b382f2d4e747a73382f2d686d382f2d7b726f382f2d72686f382f2d73786a6e71786969786f382f2d7c69382f2d7569696d6e382e5c382f5b382f5b6a6a6a33697470786e7e72717273746e69337e7270382f5b797c747164\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-white ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=%27Generational+opportunity%27%3a+Industry+report+eyes+expansion+of+region%27s+hotel+properties&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=%27Generational%20opportunity%27%3A%20Industry%20report%20eyes%20expansion%20of%20region%27s%20hotel%20properties%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>"
+      "body": "<p>The ambitious goal to build up to 20 new hotels and add 2,000 new rooms to the region over the next decade is gaining momentum with municipalities, First Nations and developers, says the chief executive of Destination Greater Victoria.</p>\n<p>Paul Nursey said that as new residential builds wane and the price of land stabilizes, the hotel space is emerging as a &ldquo;generational opportunity&rdquo; to address a 25% decline in rooms since 2016 and refresh the hotel landscape to remain competitive in the global tourism industry.</p>\n<p>The tourism marketing group assembled a working group of five municipalities, industry partners, builders and the Songhees First Nation last year to work together to bring more hotels to the planning phases.</p>\n<p>In 2025, hotel occupancy was at nearly 80% over the entire year and at one point during the summer, reached 94%.</p>\n<p>This season is shaping up to be the same or even better, said Nursey.</p>\n<p>The region has about 4,500 hotel rooms, but needs more after losing properties for social housing during the pandemic and redevelopment.</p>\n<p>The working group issued its first report this week with recommendations for local governments to kick-start new hotel plans by identifying potential sites and zoning, addressing complex permit processes, pursuing First Nations partnerships and supporting the renewal and expansion of existing hotels.</p>\n<p>The report notes that existing hotels are aging, with more than half built before 1975 and requiring significant renovations or replacement.</p>\n<p>Managers and chief administrative officers from Victoria, Colwood, Saanich, View Royal and Sooke are part of the working group and are taking the lead, said Nursey.</p>\n<p>&ldquo;The municipal partners are really rolling up their sleeves. They are taking this seriously,&rdquo; Nursey said.</p>\n<p>&ldquo;They see a sense of opportunity and a diversification of their tax base.&rdquo;</p>\n<p>View Royal, for example, doesn&rsquo;t have a hotel and wants one to attract a slice of the annual visitor pie.</p>\n<p>Colwood has recently approved two sites for hotels in the Royal Beach development along its waterfront. Sooke wants more hotels that highlight its waterfront and serve as a gateway to the trail system west of the town.</p>\n<p>Jocelyn Jenkins, manager for the City of Victoria, said the city is &ldquo;happy to collaborate&rdquo; with the working group on future hotel projects, adding the tourism economy is essential for businesses, the city and the conference centre it owns.</p>\n<p>Aryze Developments director Chris Quigley said interest in the hotel sector is gaining strength among developers. The company recently partnered with Victoria software developer Redbrick, which purchased the old Plaza Hotel property in downtown Victoria, to build a new hotel on the property.</p>\n<p>He said the working group sets out a road map for companies to &ldquo;navigate the permitting system and unlock projects&rdquo; that will strengthen the local economy.</p>\n<p>&ldquo;With several hotel projects in our pipeline, we&rsquo;re committed to working with local government and our business partners to make a new hotel development in Victoria a reality,&rdquo; said Quigley.</p>\n<p>Recent statistics show hotel demand is on the rise. Greater Victoria showed a jump in average daily room rates &mdash; a metric considered a key indicator of the health of the industry &mdash; from $200 a night in 2024 to $224 last year. Conferences increased by 20%, and arrivals at Victoria International Airport saw a 5% lift.</p>\n<p>In a recent hotel investment report, Colliers said the hotel asset class has seen a surge of activity nationally, with more than $2.2 billion in hotel transactions in 2025, an 11% increase over the previous year. The report cited the strength of domestic tourism and improved international inbound travel, both expected to increase in 2026.</p>\n<p>Municipal leaders identified several types of possible new hotels for the region.</p>\n<p>Outside of the need for full-service hotels in the downtown core, the group said there could be more affordable mid-scale hotels for sports tournaments and cultural events, boutique hotels connecting visitors to bike and hiking trails and transportation hubs, extended-stay hotels for major employment hubs like the naval base in Esquimalt and Victoria General Hospital in View Royal, and mixed-use developments that pair hotel and residential uses.</p>\n<p>The report said 2,000 new hotel rooms would generate more than $100 million in annual visitor spending, 1,180 direct jobs in hotel operations and 1,580 indirect jobs supporting operations.</p>\n<p>The 130-room TownPlace Suites by Marriott recently opened at Victoria International Airport, and the same brand is opening a 103-unit, six-storey hotel in Langford next spring.</p>\n<p>The first new hotel in Victoria in nearly two decades is under construction on Broad Street. The 167-room Hyatt-branded hotel is expected to open in 2028 at Broad and Johnson streets on the historic Duck&rsquo;s Building property, preserving the 1890s-era facade and back wall.</p>\n<p>Reliance Properties recently submitted new plans to the city for its project at 780 Blanshard St., the former B.C. Power Commission building.</p>\n<p>The new plans call for the rehabilitation of the existing building as a 124-room hotel with a public café.</p>\n<p>Recent hotel sales have also brought optimism for potential improvements.</p>\n<p>This month, Toronto-based InnVest, the country&rsquo;s largest hotel owner and operator, purchased the Hotel Grand Pacific on Belleville Street. The 304-room hotel, owned since 1996 by Pacific Sun, had been on the market for months. The property&rsquo;s value is close to $48 million.</p>\n<p>The Royal Scot Hotel on Quebec Street was sold this year to Vancouver-based Synvest Capital for about $41 million. Synvest&rsquo;s hotel management division, Roadside Hospitality, will run the hotel. It will also run the Bedford Regency Hotel, which Synvest purchased last year for $8.9 million.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e1858a8d8e92958493a195888c8492828e8d8e8f889295cf828e8c\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12194584&amp;t=%27Generational+opportunity%27%3a+Industry+report+eyes+expansion+of+region%27s+hotel+properties&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#99a6eaecfbf3fcfaeda4caf1f8ebfcfdbcaba9ffebf6f4bcaba9cdf0f4fceabcaba9daf6f5f6f7f0eaedbcaad8bcaba9bcabaedefcf7fcebf8edf0f6f7f8f5bcaba9f6e9e9f6ebedecf7f0ede0bcabaebcaad8bcaba9d0f7fdeceaedebe0bcaba9ebfce9f6ebedbcaba9fce0fceabcaba9fce1e9f8f7eaf0f6f7bcaba9f6ffbcaba9ebfcfef0f6f7bcabaeeabcaba9f1f6edfcf5bcaba9e9ebf6e9fcebedf0fceabff8f4e9a2fbf6fde0a4f1edede9eabcaad8bcabdfbcabdfeeeeeeb7edf0f4fceafaf6f5f6f7f0eaedb7faf6f4bcabdff5f6faf8f5b4f7fceeeabcabdffefcf7fcebf8edf0f6f7f8f5b4f6e9e9f6ebedecf7f0ede0b4f0f7fdeceaedebe0b4ebfce9f6ebedb4fce0fceab4fce1e9f8f7eaf0f6f7b4f6ffb4ebfcfef0f6f7eab4f1f6edfcf5b4e9ebf6e9fcebedf0fceab4a8aba8a0adaca1adbcaadfecedf4c6eaf6ecebfafcbcaadddcf4f8f0f5c6caf1f8ebfcbcabafecedf4c6f4fcfdf0ecf4bcaadddcf4f8f0f5c6caf1f8ebfcbcabafecedf4c6faf8f4e9f8f0fef7bcaadddcf4f8f0f5c6caf1f8ebfcbca9ddbca9d8bca9ddbca9d8d8f5eaf6bcaad8bcaba9fbfcbcaba9eaecebfcbcaba9edf6bcaba9faf1fcfaf2bcaba9f6ecedbcaba9f8f5f5bcaba9f6ffbcaba9edf6fdf8e0bcabaeeabcaba9f5f8edfceaedbcaba9f7fceeeabcaba9f8edbcaba9f1edede9eabcaad8bcabdfbcabdfeeeeeeb7edf0f4fceafaf6f5f6f7f0eaedb7faf6f4bca9ddbca9d8bca9ddbca9d8d5f0f2fcbcaba9fefcededf0f7febcaba9e0f6ecebbcaba9f7fceeeabcaba9fbe0bcaba9fcf4f8f0f5bcaadfbcaba9caf0fef7bcaba9ece9bcaba9fff6ebbcaba9f6ecebbcaba9f7fceeeaf5fcededfcebbcaba9f8edbcaba9f1edede9eabcaad8bcabdfbcabdfeeeeeeb7edf0f4fceafaf6f5f6f7f0eaedb7faf6f4bcabdffdf8f0f5e0\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-white ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=%27Generational+opportunity%27%3a+Industry+report+eyes+expansion+of+region%27s+hotel+properties&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=%27Generational%20opportunity%27%3A%20Industry%20report%20eyes%20expansion%20of%20region%27s%20hotel%20properties%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fgenerational-opportunity-industry-report-eyes-expansion-of-regions-hotel-properties-12194584\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>"
+    },
+    {
+      "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 10:24:19 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Reuters",
+      "_pubUrl": "https://www.reuters.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Real Brokerage To Purchase REMAX In $880M Deal",
@@ -879,30 +891,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "B.C. population drops by 41,000 residents, first decline in 151 years cools housing demand",
-      "link": "https://news.google.com/articles/CBMihAFBVV95cUxORF9FcTU0TG5JYkNQamxFNVpyZUd1ZmsxRkNQekJMUjBHd3IzUEV0dTNneFo5UmJkb0VLSlowWWpsUmJiTXhUcjU5a0FwcDBHSWg0aWE1dE9XZWU3OHd3RGdpVHdGNEw3Z3UybXh6OXA4cGZkY1kyS2x1Wk9GdDJzTmdFSHM?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "Daily Hive",
-      "_pubUrl": "https://dailyhive.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
-      "link": "https://news.google.com/articles/CBMihAFBVV95cUxPWDJsTjJtR1lQa3N3VWFiRDVsdVJub2lZWERKV2VZOTNRb0Q3cG8yT05UUlQzWDM4ZEZqUFo4dnhVOGRoWHpXbS1TRFZBaVM3bFdMdENFRVhMcERCckh3Q2lVVHdQbm5jZ1pKeTFNaFp5SDZJOWNYZ0VEbjZrOElRN2JKNWY?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Here’s what the CREA now estimates the average Canadian home will sell for",
       "link": "https://news.google.com/articles/CBMi0AFBVV95cUxOd2dZTGY2QWJPOWN1NlBSeVdzMGE3Z1plZEtDWGl4NEsybzNMVGt2UzV1bEJxc0pZX05YajFIbDM5Zkxscl8tNUFzcWRRZEJoa2ZJMFpXTUsxTmpKRXVZNWNncExDX0pXWm4wU2NpQkpDMnJZUy1pa0RrQlRqS2N0NXBFMktnSFE1OVhEM0taZXhxMkJXQmtMc3BaRFJyVTRZZE4zM3FCWmtzNnVUamcydDJEU2l6WlRJY0R6WnVaYlVtY2g2cU5pNm40eFZSVFdO?oc=5",
       "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
@@ -912,18 +900,6 @@
       "_src": "gnre",
       "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "March marks four years of declining home prices in Canada",
-      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxPOGZOX29FNThMN3YyWUs5LWlMTWdJQWhnbm9jUzhWc3BsQW1xVmZGVGYzZXBWR09JMVlNSkhSd0ZOdEljb2FrNWlYbkRYR2VDdHRUM3VJRnBQSnRkTHFJNDZMLS1lLU8xbktXVTI4cnVUSWZQMXFWM0lFdHktLU90Z2I0YUgyMUg3TWtpeGY0RWctdVBOZ09sUko2Vk41OE5uRU8wNHkyd2ZHVEdlUzZlSl8tWkpxZnN0bHlCSk9DRUFDRXlHd0hlWHFMUGZmQW1zdDd0VzhTSXRBY2VTa2xqZU5ILUhwcTVxNVJxdQ?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -975,6 +951,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
+      "link": "https://news.google.com/articles/CBMihAFBVV95cUxPWDJsTjJtR1lQa3N3VWFiRDVsdVJub2lZWERKV2VZOTNRb0Q3cG8yT05UUlQzWDM4ZEZqUFo4dnhVOGRoWHpXbS1TRFZBaVM3bFdMdENFRVhMcERCckh3Q2lVVHdQbm5jZ1pKeTFNaFp5SDZJOWNYZ0VEbjZrOElRN2JKNWY?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "CMHC economist warns untargeted buyer aid risks backfiring on affordability",
       "link": "https://news.google.com/articles/CBMi2gFBVV95cUxORV9TRUNlTTFsUWRWTlZBV1Q0NFhnS1FoVllIWjVvLVB5R05MbEd3RC1Feno5dXhibGxhWWMxTnlMbUpSS05Fd1IzcDFwcjNWdkhzR3V4aEc0YlA3ZEZJOXN1cHJZQjVsX2h2TVZtSy1RNlloWW5aZjZmRE9kSEdtRkN6UVYzS1dBLThpUFpqVFVyTTNpUVdGaG0xYVhGVjM4Z1dKbVozM0xVaVlfSW9fOWtfZ3VwNjBFdVVTTlF3LWhLVnVkNDR5OVVKVEZtOU1fd3VYbklBNzVSZw?oc=5",
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -1011,6 +999,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Canada slashed migration and housing costs dropped. There may be lessons for Australia",
+      "link": "https://news.google.com/articles/CBMiogFBVV95cUxNa25ZNnFTM0RqckMwQmwtbnhVd3QwVFV5N2x2YVpBMEhtWmpyZWpoTjZLdTNLU3hxdWpJSDVWdE9PWWdiektkLXJ6MlMyMnA2dEJQT1ZyUm80SDRsMTlQTHluN3kxaUU3RDd6VTFYbWRMSUk0Q25RUU81emNSaHk5TWM3Mk5YYlFnclgxM1hZbkxRZXJuZnNDaktDQUNSdm9ZVUE?oc=5",
+      "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "The Guardian",
+      "_pubUrl": "https://www.theguardian.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Tackling the housing hurdle: Ottawa looks to slash GST on new builds nationwide",
       "link": "https://news.google.com/articles/CBMicEFVX3lxTE1hU3dfZldCYjBnMEtmWFR3Q0dDWENPaTJBakxCbThjQjNzbnZtWTN6dDFkNksyNW1qa2pfNkNFbldDZEotMEhteThZVE5yYWk2ejh2Tk1ReVhzdWJPdjFZNzhESktFYm05S3g0UGl4V2E?oc=5",
       "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT",
@@ -1035,15 +1035,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canada Will Need To Increase Immigration Again Sooner Than Expected",
-      "link": "https://news.google.com/articles/CBMif0FVX3lxTFAydzB4R0JGZ2NEM20wQmkxaW5pNXNWdEtXNW9zQW5QY0JvN2ZTS251bE5QUFZfeVdEbmdrc215a3ZIYnJtQVprdXRfc1V1a0kyTW00ZEpoeW9MYlB2bWpYMjUyUVZkMlN2OW1RSFdyMTVMSnA1T2VVcnNvQ1JIY2c?oc=5",
+      "title": "Mixed start to Canada’s housing markets’ busiest season",
+      "link": "https://news.google.com/articles/CBMi4gFBVV95cUxON1dHcWVvUHRPZ2hSQ2dUdjNFR3NJWlNpVUtjeUtpM1dEQmFIay1MN3B2TlhOSldwZ21QM3lONFFlZ2ZKOXpJREdBMGJ1UG1KWVpISUEwdFlLUGFjVXlYaXV5LUJpUDh3RHliazhCNEFtQ18yaEpsSlpQbEIxYnBnVHJvUTF6Z0E0Q0ZsQUp1TUJZSXBfQmxZYkM3R0lUSzd2YVczenlyWGpkSGxHenhJUnNPT01RYnNhRzBhWF9JeVBZazVJM1J2TUxKeW8yWVJfa3ZSWU81X3pzUEEtZDBrSFZ3?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "House prices dropping in Canada's most expensive cities, but still out of reach for many",
+      "link": "https://news.google.com/articles/CBMihwFBVV95cUxObUc1MjJ2bksxZGxDRGVYbU1rOVI2MkxNUFQxUklsdVctWjV3NzhXOWtsZlkyN2tfVEVQMG1Fc1VvMF95WEtpQ3lPYmhoaGdRRnhaRkhhWVB5R0tJV0F2SUFrM0Noem9NUWFvMjlnd0pzbWg4LVlqdnFnNm94Yk1yZ1B0M3lueXM?oc=5",
       "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "INC News",
-      "_pubUrl": "https://immigrationnewscanada.ca",
+      "_src": "gnre",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1102,7 +1114,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "newswire.com",
+      "_publisher": "Newswire.com",
       "_pubUrl": "https://www.newswire.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1119,15 +1131,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Provincial Housing Market Outlook: Steep Downgrades Amid Persistent Housing Headwinds",
-      "link": "https://news.google.com/articles/CBMiZEFVX3lxTE13RTFlSWJnZ2l3S0Vob3o3TjctTUo4WnlFb3dNbFhBYS1VaHgwOFZlLV9aal9zY2hzX3d5OU1tQVlvUG5mRFBtZUM4N0YyOEdNaXY2M21zSmMyNGxHd1ZRLXIzajk?oc=5",
+      "title": "Ontario’s fragmented housing market: What buyers and sellers need to know in 2026",
+      "link": "https://news.google.com/articles/CBMiygFBVV95cUxOUFd6bjQ5U2JNS2M1cW9oYjdyNW13ZGxPeDRUV3pIdWp6UDdENXQ2bHIzU19HMlJpb2ZSX2JfZFEtLXNUaDMyY1lLVVctSDdpeHhLMkJ2Y1p3QjhHOUZsNjZJZTRkdV9pZDZzdGZVOEh3QlNVdTJTdTFyekk4ak56SXJQampRaUQtaVBJSEpVSV9saHBaQUtPallvZVFvUnh1TDU3dV9pNVB2dlNsQXJwcGx3UEd2UFVrZ05vMklYMzA4OUFZQUgyazV3?oc=5",
       "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnontre",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com",
+      "_publisher": "DurhamRegion.com",
+      "_pubUrl": "https://www.durhamregion.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1239,15 +1251,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Immigration could soon account for all of Canada’s population growth: expert",
-      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQYVhIZnBkdk5nTUx4NEZMTUJFcEc5ZVVYOHVHUGk0cDVJWHJDWHpaNmZJWUh2MjNzcVBGd3NFYllrNTFBdDVQa2ltdHdwWDRnQ2hWUTRUQllxWk1xMHViX1VacGtPcWh6ZnNEMVh4NDVHdjlDelEzbk5sRUs4UThuQVN4MjNUT180QUpfMlIxOEg4Vk9lSDhGN0t6MnVvTmJTZVNhdmdra1NpdTV1MVBBdEhPOGE?oc=5",
+      "title": "Immigration could soon account for all of Canada's population growth: expert",
+      "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQSkxELVlJNEdNa01sM21uaTBhbkJsdTRGQi14RmFZWE9OSzMyNUFNZ3EyWnlTdXBmU2tubktodmNwSGJOVFZRbkdaZjJ5OW5pZTFKV3dBX0dQSFQxVzdGUDdLdGM1a045U0g5bXlsQkVHMm03OXUzampPb0w5VEZtZXFCeHhULWs2Si1TM0xlQnlKWnV0VWtRZ2N6YXhpLTZwX01DSHBPVmVkWTNPSks3YXUxWjRMQlJodUVUWkVWYjh1Mnc?oc=5",
       "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "CityNews Halifax",
-      "_pubUrl": "https://halifax.citynews.ca",
+      "_publisher": "Guelph News",
+      "_pubUrl": "https://www.guelphtoday.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1287,6 +1299,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "National housing starts to slow even further, says CMHC",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxQVGthbDYyMkZYMDZMQm9zUUNxX1NxaTd1c2RHQ3J5LWp4UHBwME5nM2dyT2RKLVZ5cWl4dmFlZW5tUFlpMDB6WGJENW5wR2kyZGVoLU9vMm1wSWlTR19vOWtZRnltYTQxbkhycWd2WmpGZktQMzROUWl0UktHTDMyWjBwU29MWlN2ZjI2b0dwQ2dhYmNVSVZPN252eUlqVlhoRTYxY0RaNEtEMGNLNXZUcHk1V2hrNDRJWGtVNQ?oc=5",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Mortgage renewal wave strains some regions and borrowers",
       "link": "https://news.google.com/articles/CBMimgFBVV95cUxQZS1nTDZVQVpnVFBWanhqT25qR3RTbFhrc1NtYXpCVlJsb2hQS0RHTkNMb0NZWTAtMnY0ZmlBVWUxSFdRTF84WE1tOWtzMFdmNGczNnp1SmNZaDl5R0poUmU1WVctWnRleTdUcmtNa0dmdU5VSmRCaEYzU2t5bllLOEhReHFzNllLM2VUb0tyaEh0MXR2bHdfb1B3?oc=5",
       "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
@@ -1308,18 +1332,6 @@
       "_src": "gnontre",
       "_publisher": "Yahoo! Finance Canada",
       "_pubUrl": "https://ca.finance.yahoo.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Opinion: One grand bargain to fight Canada’s housing crisis",
-      "link": "https://news.google.com/articles/CBMirwFBVV95cUxPSFE3VDR1RXltakZ2aVRsVklTa3RnNUZyZ0hvalNhcmxnSGZZUXE5dXBSVGVmd0dSZ2FBZlNQcE0wOGF3NFViOFZ0bkRRNEI2OF9sMzJrXzI5VklwNlFhaVhCdGt6bG5jSWF3MHVwTTc2dE5NSHB3NEtWRTlpRk5qTVYzWU42SjJCMEJGSGZFVkdfNGhqZXFMMW9DTXJZWmZtV1IwV3luOVRaRXlWS24w?oc=5",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1383,18 +1395,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "“No New Condo Completions” In GTHA By Decade’s End: Urbanation",
-      "link": "https://news.google.com/articles/CBMibEFVX3lxTE5UeGZNSTNjWWZKNE43aFotT2x4VHhGbkVmQ1lWOGVlQ0c2MndTQlFKbTc2Rm9vWWduRUFYNDVJUmMxY1poWnR2QTJhaDFvQllpYU15dGhsVmdsdU5YeWJQN0NIYzUydzlGbjlyWQ?oc=5",
-      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Home prices are now dropping for all property types in Canada",
       "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
       "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -1443,6 +1443,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "How the new zoning bylaw will reshape Ottawa's neighbourhoods",
+      "link": "https://news.google.com/articles/CBMiakFVX3lxTFBhQWgyNXkyQmVxQzZIRjV3bFVjd0JQeVJGNW16MWk2OUlmaEE0WlVOR1IxTFAwSFVBSVctVUhrbmlMMXRFVU5ZdDJFbHozMEQyZzZFdm1felNwS3B5eEdiZGkxdnVWd0dNSGc?oc=5",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "In-House Podcast: 2025 Year-In-Review",
       "link": "https://news.google.com/articles/CBMibkFVX3lxTE1TUEFmYlFLWUdzTmxmV1NkNzh2Wk9IQVV2S0JSaVBUM3NjeG9LRVFDSkROdGtWMU5FTEZPTFFhTVR2TnR0eGt4cUNrRXMyV0Y2V3RpV0lDS1diemZ0R09FNGRVNmNXbWNaaVJvZk93?oc=5",
       "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
@@ -1452,6 +1464,18 @@
       "_src": "gnmort",
       "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
       "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Where’s the housing market headed in 2026? Keep an eye on these seven charts",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxOdy1VRkk2RVV5bzAxZmlRdlVjT1VIY194azU0alN3YWE3ZXIxM1ZYbjNkMUR4Q2lRNVp3YjlFOFVjZFJ6WE83SmZlQ2VFbjNnaHdBSWNyQlNqV1RQXy1QMThUTmEzR1RMajJFQWtTbHhuY2hWc3Y0bGUtUXBVa3MzTmxzT19xd1Q4VndiNWIwUQ?oc=5",
+      "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1503,18 +1527,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Housing starts for November 2025",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxNckhCSGZJaVRoTWYtVHRfdXpuZ2FRb2RQX2J5ZlBaRE9NTWw1SWZwUHd6dXlIY3o4bXcyQlFuSzJMRHgyNGN1alBYWGtWempEM0czM09PdnJ3MUtVQmNiUlpmWjAxYVRlWnY5a3hleV9OQnlJV0ozc1hqSDlWdlBVV0J0Y2tDSm92d09FTUtEM2kwUUJB?oc=5",
-      "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The housing burden of unchecked immigration: Peter Copeland in Commonplace",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxNMl9RT3ZHQUw2a0xMa3l1elFQeWlXS1dKRGt5RW5FYXRReEtiMGJ4SDN2TnNWS1NjMTRhX3hfVUgwT3JvVkpUQ1NWZmtiYXpNVTMyMFlXdnRjOXZvLWkwRjdLX2hGcGRiQUV3M2d6XzJHNzA1TTctVU5udGlwSUhMcW1QTmxBMF9iNm9YZ2RIS2YzOTlRWXN1VlM2QTRFaTBubXc?oc=5",
       "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -1539,18 +1551,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Here’s why city hall should save ‘blanket rezoning’ in Calgary",
-      "link": "https://news.google.com/articles/CBMioAFBVV95cUxNX3lmRHVYaUd2UVFBamFsNU53WTZwQ2RzeUZQZVhPUjQ1X250elkyOTd3WmNUSUhNU1ZPb0xxM0N3aFVpdGNwdUtRNTFiQ3F6UzM1N1diWlFnR2JCLTg4ajlQMW9aZlZ0VzJTbXUtdE43WDJFRTlXRGpkMWlmcTNNVmVpV0JSVlZJTk5lcDdHSFZDU2tRU3g2RjNtSjllbkZy?oc=5",
-      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Fraser Institute",
-      "_pubUrl": "https://www.fraserinstitute.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Non-permanent residents in the homeownership market",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxNQ29jcGlNWDVzd3pmUEQxRXUxZnNJWXlNWElEcjlIeVlNZE54clpkTFEyeGlyTkxRdGFaZmxzMXViRUotQzhWOWFoclpSaGFFWnc3OFZnaVJmSU5qV24wdWg0VFd2NGxOdEtJTjJZMWtGRTZ4NjNaSTlidG1zSTA4Vnl3?oc=5",
       "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
@@ -1560,6 +1560,30 @@
       "_src": "gnimmig",
       "_publisher": "Statistique Canada",
       "_pubUrl": "https://www150.statcan.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Affordable housing out of reach everywhere in Canada",
+      "link": "https://news.google.com/articles/CBMikwFBVV95cUxORFN2U1BsaXJJVVFrQlN5d2g5X0xJZmhYRDBWV1hTUElGRlktY1dqQTZwNDRtYW1Lall0U3B1N05oVFRzdHNGaHdSUVA4WkpLcjhVc0wwblBiazRmMjRwVGN2eVBZQ2xEdGVfalZmYWcwcWRnTjB2c3V0cmFoZ1FyVDJ5VjFyTkJKQndBLWxlQVRsUG8?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Fraser Institute",
+      "_pubUrl": "https://www.fraserinstitute.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "City of Ottawa, feds launch $400 million investment to build homes in Ottawa",
+      "link": "https://news.google.com/articles/CBMiswFBVV95cUxQNkVvckN2MGJYRzV3eXl6d3NOTTVfY1dNWVVNYTEyZmJ0SHNiTW9IYzhiRnB6bzZOYm9mQzRySXVmR0lQNnozNGY3LWZyQy1udHJWOFE2d3FNclAtaVdJYjd6eHhyU29NOTR0WVpZQzAxcnlQV2VLNUZFSkx3RUxNd21wSF9DZUtRRnBzdnJ6WXFpM1VncUozb0QyZmpwa2ZYZWNHM203V0ZnOGxPUEZkQ2dwWQ?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1599,30 +1623,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control",
-      "link": "https://news.google.com/articles/CBMitAFBVV95cUxPdWpUbU8xaU94VVNLUl9CQVY0N0RKanNEMzRkZHlrNlVYZVgtRHRrY2sxOEc5cktVTDl3MGZqNWlkTlZxRXZ5OXBPanE0WEtFNEw0cmRfa3Q2bXBUS3hKbTJMSkoyajR0SnQ4T0FldTduYzkzcXozRks2QkVwMXVfTGwyeVdEbGd4eVRkTmtUQjh0aDhXeEZKYUVUSkFpNVVkQVV6cmdmX01sN2U1dUV6V0dMZmM?oc=5",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Glen Gower",
-      "_pubUrl": "https://glengower.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ontario’s housing affordability crisis extends far beyond Toronto",
-      "link": "https://news.google.com/articles/CBMiqwFBVV95cUxNcHlqZnFVMkRWMGJlT0VvZTNOMlA0d3g3Uzdha05UMjlLRTkyUllCZFNWRFNUYVlKMWpyM3BfUDlnaFkxWGQ2eUI2NVJVeFpuZ2szYkx0a05tV1JMdUpSSDBKVzVqTm9mVmQ2NXlJWlhFdGdfWVNtZmIwVWhiMG5BaWtiaGFBSHNCSll0TENCRUE5ak1EUWJBTFg1LVhnc21FSGJ1VHR2clBBekk?oc=5",
-      "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Fraser Institute",
-      "_pubUrl": "https://www.fraserinstitute.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Alternative federal budget 2026: Affordable housing and homelessness",
       "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
       "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
@@ -1659,18 +1659,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "560 Hazeldean: Zoning By-law Amendment and Plan of Subdivision application",
-      "link": "https://news.google.com/articles/CBMiqwFBVV95cUxNaV9XazZtdlB1ZFk2OER2YnhKV3QxRUNSbUFjbXpTLVZ1RV9NRlFtZVBQLU9yQzVReFg0NDRTajBzX0djR3Y2dER5c3BMOXhRR1dMM2VwM2ZEWHJnVG9DQUZDMzJmUDM4TGV3RE5BNHg2SDVFZXhHeERMdFNJRHgxYzhfSU9VZnFXbXBuSWtIZUNjMGoxRnV1UTV6UExJSzVORXZKeXJPcFdGTDg?oc=5",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Glen Gower",
-      "_pubUrl": "https://glengower.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "‘Housing is too heavily taxed and too heavily regulated’: How Carney’s Build Canada Homes plan misdiagnoses the housing crisis",
       "link": "https://news.google.com/articles/CBMi6wFBVV95cUxPbzJqUjR3ZXNFM2Rpd3FKRnE0MXVyUmJnTTJvOVc2Tm43bldNNmZlLWZvS0ZMWGY0dDd5MjdtNG5IQTNBRnAwbTBLdlNuX1Z1V1J0ZUl6OGN5WFl3WDFiT0NOTnRUX3hOTGF6d0VSY0VnQXM4MHVINmZsV1lxeXczRmh3TTM4NWlTa3g4X2xmR0ZYa0doVFJHMmctb01jcUoyLTMyWkU4TDI4YXAtZktoVmtISkJQY0VjdE1TaUQ5X1J1UHpidDZqcFJuUXllY1hDa3p5amx5MlRpX1c1azZlUUJFWmVjdEdVai0w?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
@@ -1683,6 +1671,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa could allow 3-storey buildings in all neighbourhoods under new zoning bylaw",
+      "link": "https://news.google.com/articles/CBMivgFBVV95cUxQeVRpTmZUeDIyeGptU2UtbW5ueVhtaEFWMGp4a1FQNHp6cm9icW5uQlhvNTRBWDFBdTJfTldmUXZsS3lPSmg0WXNIcjg2OEtfUEU5TUhRd3MwTDNBNVJ1M0g4d2RtRXNmWjZ4QWJwWlJCS3NtZHdxejJMWERvb1VkOXZyNG5lRGZPU00xUFB3SzlXNEtZdUUzSE9leUo5aXhTUjVKSURVNHN6RzBjOFoyeU9TZy1GazhKVXpFSGxR?oc=5",
+      "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Government, not greed, is behind Canada’s housing problem: Anthony De Luca-Baratta for Inside Policy",
       "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQcWRiUUc2c1VTVXR5eUVidDhnODBvSS1SLVdIUTRmS2M5b0FVOHVkTy13X1Z6Wlo3ZHBjSnlmZ21pV0xlX3hvQ1pka2pGSldjbUJ6WXBrbGw4bTNOZjJBdk9zOFhpTVZTV01wbmxyaE01RXNoeHVjaWU3UlpIVDV6OERidlFmUjJUaHFGdHNxUUM4ZUpvVkdxS0V5cV9OVW9ucDlQWE9vWVh4bnRzb3RCQU5vOURPM2dmN2V4bm9takJXWDA?oc=5",
       "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT",
@@ -1692,18 +1692,6 @@
       "_src": "gnpolicy",
       "_publisher": "The Macdonald-Laurier Institute",
       "_pubUrl": "https://macdonaldlaurier.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa Canada’s O-Train Western Expansion Nears Completion: New Key Stations and Major Progress Ahead of 2027",
-      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxOY2dManJRak9CUm5JWUExTkc3WjByLVprNThVQnREWVEyNnBjSFN2UVlEMFV0dTVwNEx6Y1QyVkN2c1g4UnllWFo4WHB2MFVMMFF2dW9lbUNZNW5oMlNtTlgyV3ljM1JiNXczYmZzbm11dmVKNWo4WGNtOGFLdWR0Wlk3WmRhUF9PWU8zeThHSEZCWV9WRVNIYVBTYUM4Ymt1eko1d2VRYWpibGF2S0xKUUxiUlNzdnhvRVNRTWtBMkZDMVA3X01IVTdneGp3ZFg3allRMjdRV2plUGprTXk3MmhEQmYzbnN0S0NwNA?oc=5",
-      "pubDate": "Wed, 09 Jul 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Travel And Tour World",
-      "_pubUrl": "https://www.travelandtourworld.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1731,15 +1719,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The City of Ottawa Needs More Family-Friendly Housing. Instead They're Contemplating Downzoning.",
-      "link": "https://news.google.com/articles/CBMigwFBVV95cUxOVUpUVEttc3IxSFZ6cHY2YTd0V0ktcFR6NG9Eek5PQ2FPcElZQ1JNVnlEWXBURHpJYTdpemJ4aWhEby1XdEltbnRLOHlqN0Z2TWJWYV9zLVRGYTYxZF93Zl9LSGU4LVAwNndGbXlYalpaUXRBdTg4NnlULXlqTlVab2F4MA?oc=5",
-      "pubDate": "Tue, 06 May 2025 07:00:00 GMT",
+      "title": "1412 Stittsville Main Street: Zoning By-law Amendment and Site Plan Control application",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxNX1hpVF9ZaVEzTnpzdkJEZzM4OGU1a28zNHQwWXhwTElrejAzM0paRmktd0lqRlpjX3pwRmFxOFNqZmxpMGtaWW1IRjkxTHlxenlfSy1iUDdBeG9HMVRUX0ZSbkVmWnRmQmhUVENvTThVaGRQNk56TzFVUHhBZkdDa1pweUg2cGZ6cGV5WlNiLU9QZGZXUmhrdDQ3TGdOU0RVWTVPVVdEOF9WTDA5YXhKME9RMU04clh4Y2p1NA?oc=5",
+      "pubDate": "Wed, 07 May 2025 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "missingmiddleinitiative.ca",
-      "_pubUrl": "https://www.missingmiddleinitiative.ca",
+      "_publisher": "Glen Gower",
+      "_pubUrl": "https://glengower.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1764,6 +1752,42 @@
       "_src": "gnottlrt",
       "_publisher": "PC Party of Ontario",
       "_pubUrl": "https://ontariopc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Dreams and Realities on the Home Front: Canadians’ Call for Government Action on Housing Affordability",
+      "link": "https://news.google.com/articles/CBMif0FVX3lxTE0wVFNDdG0zX1M2SERVYjlpcjVyUlBFd0ZkN3hDV1dKMk1sTElmVlQwSjZfdVRIQkxLSUlfT3F2QmJFQUstWC04Wmh2d3ljeURkT3U4MnFFdnhmWFZRMVdoaUZyeUJjR1FlOXc1cUxMNUkyd2YxUGVYdE9ldUdwcE0?oc=5",
+      "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Broadbent Institute",
+      "_pubUrl": "https://broadbentinstitute.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa Light Rail Transit",
+      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
+      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "AECOM",
+      "_pubUrl": "https://aecom.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "2024Unpacking the Affordable Housing Crisis",
+      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQaGw0U0RiOGlvUGE3LURJTXllNTVFRTdLQmxtM2JPLW1RRGZObGotSzllR0JPVjU5M3JNVkdhdzVwMVk4ZDF5S19UbWJNLTdZZExhNHl5ajMtWW0yZGhYUFJNMmtPVGNVT054VndvU1RGbG9TTG9QNkE4dHlBUEttYlhseGVmQ2EySkJLUWRTZngtZ1Qzdkl0R2UzNnFyWXBKQ0tkTVlENVpaT3E5YVV0bmZwb2lLa2gzRGhNb1ExZDM?oc=5",
+      "pubDate": "Wed, 14 Feb 2024 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Mount Royal University",
+      "_pubUrl": "https://www.mtroyal.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
