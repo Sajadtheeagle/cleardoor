@@ -1,6 +1,6 @@
 {
-  "ts": 1779115931515,
-  "fetched": "2026-05-18T14:52:11.515Z",
+  "ts": 1779126739418,
+  "fetched": "2026-05-18T17:52:19.418Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,15 +89,37 @@
   ],
   "items": [
     {
-      "title": "A reversal in oil prices helps stock markets worldwide to steady",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/05/18/a-reversal-in-oil-prices-helps-stock-markets-worldwide-to-steady/",
-      "pubDate": "Mon, 18 May 2026 13:59:46 -0400",
-      "description": "Oil prices eased Monday after a scare overnight where prices popped and then moderated. That helped steady stock markets worldwide as trading headed from Asia through Europe to Wall Street.",
+      "title": "Elon Musk loses lawsuit against OpenAI",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/05/18/elon-musk-loses-lawsuit-against-openai/",
+      "pubDate": "Mon, 18 May 2026 17:44:48 -0400",
+      "description": "A U.S. jury on Monday ruled against Elon Musk in his lawsuit against OpenAI, finding the artificial intelligence company not liable to the world’s richest person for having allegedly strayed from its original mission to benefit humanity.",
+      "content": "<media:description type=\"plain\"><![CDATA[Elon Musk arrives at the U.S. District Court in Oakland, Calif., Tuesday, April 28, 2026. (AP Photo/Godofredo A. Vásquez)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/LZRIZQP6ROT26IP74EO4DCYNDA.jpg?auth=2aac690f4558d5511544ec32aa2799cf72ecab1f928635cf07815ff33ecd5d1a&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "A U.S. jury on Monday ruled against Elon Musk in his lawsuit against OpenAI, finding the artificial intelligence company not liable to the world’s richest person for having allegedly strayed from its original mission to benefit humanity.",
+      "body": "<p>OAKLAND, Calif. -- A U.S. jury on Monday ruled against Elon Musk in his lawsuit against OpenAI, finding the artificial intelligence company not liable to the world’s richest person for having allegedly strayed from its original mission to benefit humanity.</p>\n<p>In a unanimous verdict, the jury in Oakland, Calif., federal court said Musk had brought his case too late.</p>\n<p>The trial began on April 28. It has widely been seen as a critical moment for the future of OpenAI and artificial intelligence generally, both in how it should be used and who should benefit from it, including financially.</p>\n<p>People use AI for myriad purposes such as education, facial recognition, financial advice, journalism, legal research, medical diagnoses, and harmful deep-fakes.</p>\n<p>Many people express distrust of the technology and worry it could displace people from their jobs.</p>\n<p>The verdict followed 11 days of testimony and arguments where Musk’s and Altman’s credibility came under repeated attack.</p>\n<p>Each side accused the other of being more interested in money than serving the public.</p>\n<p>In his closing argument, Musk’s lawyer Steven Molo reminded jurors that several witnesses questioned Altman’s candor or branded him a liar, and that Musk did not give an unqualified yes when asked during the trial if he was completely trustworthy.</p>\n<p>“Sam Altman’s credibility is directly at issue,” Molo said. “If you don’t believe him, they cannot win.”</p>\n<p>Musk accused OpenAI of wrongfully trying to enrich investors and insiders at the non-profit’s expense, and failing to prioritize AI’s safety. He also contended that Microsoft knew all along that OpenAI cared more about money than being altruistic.</p>\n<p>OpenAI countered that it was Musk who saw dollar signs, and that he waited too long to claim OpenAI breached its founding agreement to build safe artificial intelligence to benefit humanity.</p>\n<p>“Mr. Musk may have the Midas touch in some areas, but not in AI,” William Savitt, a lawyer for OpenAI, said in his closing argument.</p>\n<p>OpenAI competes with AI companies such as Anthropic and xAI, and is preparing for a possible initial public offering that could value the business at US$1 trillion.</p>\n<p>Microsoft has spent more than $100 billion on its partnership with OpenAI, a Microsoft executive testified.</p>\n<p>Musk’s xAI is now part of his space and rocket company SpaceX, which is preparing a IPO that could exceed OpenAI’s in size.</p>\n<p><i>By Kenrick Cai and Deepa Seetharaman</i></p>\n<p><i>(Reporting by Kenrick Cai and Deepa Seetharaman in Oakland, Calif. Additional reporting by Jonathan Stempel and Luc Cohen in New York)</i></p>"
+    },
+    {
+      "title": "Oil prices keep swinging up and down, and so do stocks worldwide",
+      "link": "https://www.bnnbloomberg.ca/markets/2026/05/18/oil-prices-keep-swinging-up-and-down-and-so-do-stocks-worldwide/",
+      "pubDate": "Mon, 18 May 2026 16:58:14 -0400",
+      "description": "Oil prices swung Monday after a scare overnight where prices popped and then moderated, and the yo-yo moves kept stock markets worldwide unsettled.",
       "content": "<media:description type=\"plain\"><![CDATA[Trader Michael Capolino works on the floor of the New York Stock Exchange, Wednesday, May 13, 2026. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/RT4UDFBINRBUXGJD7H7XVJ6D2M.jpg?auth=d5b599265cb719a7ba404ae3640d6d9cabe05bf14f454a4a9ae5ce334a8fb6df&amp;smart=true&amp;width=3854&amp;height=2569",
       "_src": "bnn",
-      "_ogDesc": "Oil prices eased Monday after a scare overnight where prices popped and then moderated. That helped steady stock markets worldwide as trading headed from Asia through Europe to Wall Street.",
-      "body": "<p>NEW YORK — Oil prices eased Monday after a scare overnight where prices popped and then moderated. That helped steady stock markets worldwide as trading headed from Asia through Europe to Wall Street.</p>\n<p>The S&amp;P 500 edged down by 0.1% in early trading, after European stocks reversed losses and most Asian markets finished lower. The Dow Jones Industrial Average was down 64 points, or 0.1%, as of 9:35 a.m. Eastern time, and the Nasdaq composite was up 0.1% and remained near its all-time high set last week like the S&amp;P 500.</p>\n<p>The center of the action recently has been the world’s bond markets, where climbing yields have cranked up the pressure on economies and stock markets worldwide. Higher yields make it more expensive for households and businesses to borrow, which U.S. homebuyers are all too familiar with because of higher mortgage rates.</p>\n<p>Higher interest rates could also make it more difficult for companies to borrow to build huge data centers for artificial-intelligence technology, which has been driving much of the U.S. economy’s growth.</p>\n<p>Yields have been climbing for several reasons, and at the top of them have been oil prices. The war with Iran has trapped many oil tankers in the Persian Gulf instead of delivering crude to customers worldwide, which in turn has driven up crude’s price.</p>\n<p>The price for a barrel of Brent crude oil, the international standard, got as high as $112 overnight after President Donald Trump told Iran on his social-media platform Sunday that “the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them.”</p>\n<p>But prices eased later in the morning, continuing their yo-yo ways since the war began, with hopes still remaining that the two sides can reach a deal to get oil flowing again. The price for a barrel of Brent crude fell back to $107.84, down 1.3% from Friday. That’s still well above its roughly $70 price from before the war.</p>\n<p>That drop in oil prices helped buoy stock markets that hadn’t finished trading yet, and France’s CAC 40 index went from a loss of 1.2% to a gain of 0.3%. By that point, Japan’s Nikkei 225 had already finished 1% lower, with Hong Kong’s Hang Seng down 1.1%.</p>\n<p>On Wall Street, Dominion Energy pushed upward on the U.S. stock market after NextEra Energy agreed to buy it in an all-stock deal to create the world’s largest regulated electric utility by market value. Dominion rallied 10.5%, and NextEra fell 4.4%.</p>\n<p>Boston Scientific climbed 2% after saying it would spend $2 billion on its previously announced stock buyback program of $5 billion by the end of June. Such purchases send cash directly to investors and boost the company’s per-share earnings.</p>\n<p>Delta Air Lines rose 2.1%, aided by lower oil prices and news that Berkshire Hathaway bought more than $2.6 billion of the airline’s stock. Berkshire Hathaway built a reputation as a value investor able to buy stocks at low prices under its former leader, Warren Buffett.</p>\n<p>This upcoming week will offer little in terms of data on the U.S. economy, but a heavily anticipated report on Nvidia’s latest quarterly results will arrive Wednesday. The chip company has routinely blown past analysts’ expectations each quarter, while forecasting even bigger growth than Wall Street had thought. It will likely need to keep up such momentum to keep AI stocks driving the market to more records.</p>\n<p>Target, Home Depot and Walmart will all also report their latest quarterly results this week.</p>\n<p>In the bond market, the yield on the 10-year Treasury edged down to 4.58% from 4.59% late Friday and from 4.63% overnight when oil prices were at their heights.</p>\n<p>The yield on the 10-year Japanese government bond rallied toward its highest level since the late 1990s.</p>\n<p>Yields worldwide have been climbing on fears about higher inflation caused by higher oil prices, which in turn could push central banks not only to abandon the thought of cutting interest rates but also consider hiking rates. Higher rates would slow inflation but at the cost of hurting the economy and dragging on prices for stocks and other investments.</p>\n<p>Several solid reports on the U.S. economy recently, along with worries about the U.S. government’s huge and growing debt problem, are also pushing upward on yields.</p>\n<p><i>AP Business Writers Chan Ho-him and Matt Ott contributed to this report.</i></p>"
+      "_ogDesc": "Oil prices swung Monday after a scare overnight where prices popped and then moderated, and the yo-yo moves kept stock markets worldwide unsettled.",
+      "body": "<p>NEW YORK -- Oil prices swung Monday after a scare overnight where prices popped and then moderated, and the yo-yo moves kept stock markets worldwide unsettled.</p>\n<p>The S&amp;P 500 was down 0.3% after flipping between modest gains and losses. The Dow Jones Industrial Average fell 19 points, or less than 0.1%, as of 11:47 a.m. Eastern time. The Nasdaq composite was down 0.7%, but remained near its all-time high set last week like the S&amp;P 500.</p>\n<p>The centre of the action recently has been the world’s bond markets, where climbing yields have cranked up the pressure on economies and stock markets worldwide. Higher yields make it more expensive for households and businesses to borrow, which U.S. homebuyers are all too familiar with because of higher mortgage rates.</p>\n<p>Higher interest rates could also make it more difficult for companies to borrow to build huge data centers for artificial-intelligence technology, which has been driving much of the U.S. economy’s growth.</p>\n<p>Yields have been climbing for several reasons, and at the top of them have been oil prices. The war with Iran has trapped many oil tankers in the Persian Gulf instead of delivering crude to customers worldwide, which in turn has driven up crude’s price.</p>\n<p>The price for a barrel of Brent crude oil, the international standard, got as high as US$112 overnight after U.S. President Donald Trump told Iran on his social-media platform Sunday that “the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them.”</p>\n<p>Prices eased briefly from there on hopes the two sides can reach a deal that would get oil flowing worldwide again. The price for a barrel of Brent crude was at $111.12, up 1.7% from Friday. That’s well above its roughly $70 price from before the war.</p>\n<p>That drop in oil prices helped boost stock markets that hadn’t finished trading yet, and France’s CAC 40 index went from a loss of 1.2% to a gain of 0.3%. By that point, Japan’s Nikkei 225 had already finished 1% lower, with Hong Kong’s Hang Seng down 1.1%.</p>\n<p>On Wall Street, Dominion Energy pushed upward on the U.S. stock market after NextEra Energy agreed to buy it in an all-stock deal to create the world’s largest regulated electric utility by market value. Dominion rallied 9.7%, and NextEra fell 5.3%.</p>\n<p>Boston Scientific climbed 3.6% after saying it would spend $2 billion on its previously announced stock buyback program of $5 billion by the end of June. Such purchases send cash directly to investors and boost the company’s per-share earnings.</p>\n<p>Delta Air Lines rose 1.3%, aided by lower oil prices and news that Berkshire Hathaway bought more than $2.6 billion of the airline’s stock. Berkshire Hathaway built a reputation as a value investor able to buy stocks at low prices under its former leader, Warren Buffett.</p>\n<p>Pulling downward on Wall Street was Regeneron Pharmaceuticals. It dropped 10.2% after reporting discouraging data from a trial of a treatment for melanoma.</p>\n<p>This upcoming week will offer little in terms of data on the U.S. economy, but a heavily anticipated report on Nvidia’s latest quarterly results will arrive Wednesday. The chip company has routinely blown past analysts’ expectations each quarter, while forecasting even bigger growth than Wall Street had thought. It will likely need to keep up such momentum to keep AI stocks driving the market to more records.</p>\n<p>Target, Home Depot and Walmart will also report their latest quarterly results this week.</p>\n<p>In the bond market, the yield on the 10-year Treasury was at 4.6%, up from 4.59% late Friday. It climbed as high as 4.63% overnight when oil prices were at their heights.</p>\n<p>The yield on the 10-year Japanese government bond rallied toward its highest level since the late 1990s.</p>\n<p>Yields worldwide have been climbing on fears about higher inflation caused by higher oil prices, which in turn could push central banks not only to abandon the thought of cutting interest rates but also consider hiking rates. Higher rates would slow inflation but at the cost of hurting the economy and dragging on prices for stocks and other investments.</p>\n<p>Several solid reports on the U.S. economy recently, along with worries about the U.S. government’s huge and growing debt problem, are also pushing upward on yields.</p>\n<p><i>AP Business Writers Chan Ho-him and Matt Ott contributed to this report.</i></p>"
+    },
+    {
+      "title": "Mixed reaction in Alberta after Carney, Smith sign pipeline agreement",
+      "link": "https://www.bnnbloomberg.ca/business/politics/2026/05/18/mixed-reaction-in-alberta-after-carney-smith-sign-pipeline-agreement/",
+      "pubDate": "Mon, 18 May 2026 14:50:56 -0400",
+      "description": "A proposed new oil pipeline to Canada’s West Coast is drawing mixed reaction in Alberta, where some see the agreement between Ottawa and Alberta as a long-awaited economic boost while others remain skeptical the project will ever be built.",
+      "content": "<media:description type=\"plain\"><![CDATA[Workers position pipe during construction of the Trans Mountain pipeline expansion in Abbotsford, B.C., on Wednesday, May 3, 2023. THE CANADIAN PRESS/Darryl Dyck]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">DARRYL DYCK</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/PSARNJJSCIYHMTWFAAJPROTFMU.jpg?auth=5e0127e8238e0ed216302c15338bbcb35a09ebec578754cb2a73ff5d4b2e4b43&amp;smart=true&amp;width=1400&amp;height=937",
+      "_src": "bnn",
+      "_ogDesc": "A proposed new oil pipeline to Canada’s West Coast is drawing mixed reaction in Alberta, where some see the agreement between Ottawa and Alberta as a long-awaited economic boost while others remain skeptical the project will ever be built.",
+      "body": "<p>A proposed new oil pipeline to Canada’s West Coast is drawing mixed reaction in Alberta, where some see the agreement between Ottawa and Alberta as a long-awaited economic boost while others remain skeptical the project will ever be built.</p>\n<p><a href=\"https://www.ctvnews.ca/canada/article/ottawa-plans-to-greenlight-alberta-oil-pipeline-construction-by-fall-2027-no-private-proponent-yet/\" rel=\"\">Prime Minister Mark Carney and Alberta Premier Danielle Smith signed an agreement</a> Friday that could see construction on a new pipeline begin as early as September 2027, with oil potentially flowing by 2033 or 2034.</p>\n<p>In northern Alberta, oil and gas worker Mike Bull-Perry said he believes the project could create more jobs, though he remains cautious after years of delays surrounding other pipeline projects.</p>\n<p>“It’s really hard to say until pen gets put to paper,” Bull-Perry said. “I hope for it, but I know the struggles that we had with Trans Mountain, getting those approvals in and how many stops we had.”</p>\n<ul><li><a href=\"https://www.ctvnews.ca/calgary/article/legal-political-battles-escalating-around-alberta-separation-petition-as-pipeline-timeline-enters-debate/\"><b>Legal, political battles escalating around Alberta separation petition as pipeline timeline enters debate</b></a></li><li><a href=\"https://www.ctvnews.ca/calgary/article/you-have-to-work-it-out-premier-danielle-smith-says-signing-mou-shows-that-she-is-pro-federalist/\"><b>‘You have to work it out’: Premier Danielle Smith says signing MOU shows that she is pro-federalist</b></a></li><li><a href=\"https://www.ctvnews.ca/opinion/article/sharan-kaur-ottawa-and-alberta-just-struck-a-carbon-deal-that-could-actually-move-the-needle/\"><b>Sharan Kaur: Ottawa and Alberta just struck a carbon deal that could actually move the needle</b></a></li></ul>\n<p>The agreement commits Alberta to submitting a proposal to the federal government’s Major Projects Office by July 1. Ottawa would then move to designate the pipeline a project of national interest by Oct. 1.</p>\n<p>But major details remain unresolved, including who would build the pipeline, where it would run, and how consultations with Indigenous communities and British Columbia would proceed.</p>\n<p>On CTV’s Question Period Sunday, <a href=\"https://www.ctvnews.ca/politics/article/alberta-premier-smith-open-to-southern-route-for-potential-pipeline-to-west-coast/\" rel=\"\">Smith said Alberta has already been exploring possible routes and export terminals</a>.</p>\n<p>“We’ve been working on the route for some time, and I did share with the prime minister that we would let him know what our options are,” she said.</p>\n<p>“We had five different ports that we were looking at. And there are some that just emerge as being a bit more economic than the other.”</p>\n<h2>‘When the economy is thriving, people thrive’</h2>\n<p>The agreement ties the proposed pipeline to Pathways, a major carbon capture project. The deal would also slow the rise of Alberta’s industrial carbon price, reaching an effective price of $130 per tonne by 2040 instead of 2030.</p>\n<p><a href=\"https://www.ctvnews.ca/canada/article/ottawa-plans-to-greenlight-alberta-oil-pipeline-construction-by-fall-2027-no-private-proponent-yet/\" rel=\"\">Some climate groups have criticized the deal</a>, arguing it weakens Canada’s emissions targets while expanding fossil fuel infrastructure.</p>\n<p>Still, many Albertans say they hope the project will revive economic momentum in a province still recovering from years of instability in the energy sector.</p>\n<p>Michael Noble, owner of The Nash and Off Cut Bar in Calgary, remembers the last major oil boom more than a decade ago, when high oil prices fuelled spending across the province.</p>\n<p>“It was amazing. When the economy is thriving, people thrive,” Noble said. “It makes them want to go out. It makes them want to celebrate.”</p>\n<p>Noble said a new pipeline could create ripple effects far beyond the oilpatch.</p>\n<p>“I think there would be such a trickle-down effect not only for the restaurant industry, but society in general,” he said.</p>\n<p>He added that meaningful consultation would be critical moving forward.</p>\n<p>“The listening needs to happen on both sides of that coin,” Noble said. “But it’s all about integrity, fairness, and let’s think about really what is going to benefit Canada over the long run.”</p>\n<p>Not everyone supports the proposal.</p>\n<p>Jeffrey Rath, a lawyer affiliated with the <a href=\"https://www.ctvnews.ca/calgary/article/stay-free-alberta-files-appeal-court-of-kings-bench-decision-striking-down-separation-petition/\" rel=\"\">separatist group Stay Free Alberta</a>, questioned whether Alberta is making too many climate concessions without certainty the pipeline will move forward.</p>\n<p>He added the agreement does little to ease frustrations among some Albertans pushing for sovereignty.</p>\n<p>“The fact that Danielle’s trying to sell this as something that’s good for Alberta, I think, is galvanizing our movement to understand that the only way forward is to get out of Canada,” Rath said.</p>"
     },
     {
       "title": "EV sales jump in March as federal rebates return, though market share up slightly",
@@ -111,19 +133,28 @@
       "body": "<p>OTTAWA — Sales of new electric vehicles jumped in March as Canadians took advantage of the long-awaited return of federal government subsidies.</p>\n<p>Data released by Statistics Canada on Thursday shows 21,547 new EVs were purchased in March, the highest since December 2024 — just before the government paused the rebate program.</p>\n<p>Ottawa brought back subsidies for new EVs on Feb. 16, after pausing them in January 2025 when money from the previous program ran out.</p>\n<p>March sales represented an 83 per cent jump from the month before, and 75 per cent from the same time a year ago.</p>\n<p>“I think it’s not only that, of course anybody would want to get $5,000 off of a new car, but I think that there was a lot of pent up demand as well,” said Joanna Kyriazis, the director of policy and strategy at Clean Energy Canada.</p>\n<p>“The average price of an electric vehicle right now is pretty close to the average price of all new cars. So we’re getting to that upfront price parity point, and that’s a real tipping point.”</p>\n<p>But market share for EVs is still lagging at just more than 12 per cent of all new vehicles sold.</p>\n<p>Prime Minister Mark Carney paused the electric vehicle sales mandate last fall, following pressure from provinces and automakers. The mandate, which was supposed to take effect this year, set a target of having EVs account for at least 20 per cent of new auto sales across Canada this year. The target was to increase to 100 per cent by 2035.</p>\n<p>March also saw a jump for all vehicles, with sales overall jumping 42 per cent month-over-month.</p>\n<p>It’s unclear though which EVs dominated the market in March, as Transport Canada has yet to publish its data on subsidies, despite dealerships having been able to submit claims for almost two months.</p>\n<p>“Transport Canada is currently preparing and validating the data submitted through the portal,” Transport Canada spokesperson Flavio Nienow wrote in an email.</p>\n<p>“The first set of monthly statistics will be published on the Open Government Portal in the coming weeks and will be updated regularly thereafter.”</p>\n<p>Ottawa is offering $5,000 toward the cost of a new EV and $2,500 toward plug-in hybrids, but the rebates will decrease every year until they’re phased out after 2030 — or until the money for the program runs out.</p>\n<p>The government earmarked $2.3 billion for the program over five years and has set a target of putting 840,000 new EVs on the road.</p>\n<p>The rebates will only apply to vehicles that cost less than $50,000 and are imported from a country with a free-trade agreement with Canada — meaning the Chinese EVs Ottawa is allowing into the country won’t be eligible for the rebates.</p>\n<p>Canadian-made EVs, which right now include only the Dodge Charger and the Chrysler Pacifica, are exempt from the $50,000 cap.</p>\n<p>This report from The Canadian Press was first published May 17, 2026</p>\n<p>Nick Murray, The Canadian Press</p>"
     },
     {
-      "title": "Here’s who’s appearing on BNN Bloomberg Market Call on Tuesday",
-      "link": "https://www.bnnbloomberg.ca/faq/2025/10/24/heres-whos-appearing-on-bnn-bloomberg-market-call/",
-      "pubDate": "Mon, 18 May 2026 13:28:03 -0400",
-      "description": "Here&#x27;s a look at BNN Bloomberg&#x27;s guest schedule.",
+      "title": "Renting out your home short-term can mean extra cash, but it&#8217;s not always worth it",
+      "link": "https://www.canadianmortgagetrends.com/2026/05/renting-out-your-home-short-term-can-mean-extra-cash-but-its-not-always-worth-it/",
+      "pubDate": "Mon, 18 May 2026 17:31:33 +0000",
+      "description": "If you search “Airbnb how to get started” you’ll reach their splash page with a big number. As of May in Toronto, Airbnb says you can make more than $4,000 per month during the FIFA World Cup.",
       "content": "",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SRWSMTWZKHKVGLH6BZHSBUW5JU.jpg?auth=9b3c218d7a354bedc747ad445581d38ee1103930b0b2c6fa1c609b2931ed756c&amp;smart=true&amp;width=980&amp;height=551",
-      "_src": "bnn",
-      "_ogDesc": "Here&#x27;s a look at BNN Bloomberg&#x27;s guest schedule.",
-      "body": "<p><a href=\"https://www.bnnbloomberg.ca/video/shows/market-call/\" rel=\"\" title=\"https://www.bnnbloomberg.ca/video/shows/market-call/\">Market Call</a> is Canada’s leading stock market call-in program. Every weekday, BNN Bloomberg hosts top fund managers and market analysts - professionals who handle billions in retail and institutional investments. Call toll-free at 1-855-326-6266 or email <a href=\"https://marketcall@bnnbloomberg.ca\" target=\"_self\" rel=\"\" title=\"https://marketcall@bnnbloomberg.ca\">marketcall@bnnbloomberg.ca</a>.</p>\n<h2>Monday, May 18</h2>\n<p>No show - Victoria Day</p>\n<h2>Tuesday, May 19</h2>\n<p>Rebecca Teltscher, Newhaven Asset Management</p>\n<p><b>Focus:</b> Canadian Stocks</p>\n<h2>Wednesday, May 20</h2>\n<p>Javed Mirza, Raymond James</p>\n<p><b>Focus:</b> Technical Analysis</p>\n<h2>Thursday, May 21</h2>\n<p>Gordon Reid, Goodreid Investment Counsel</p>\n<p><b>Focus:</b> U.S. Equities</p>\n<h2>Friday, May 22</h2>\n<p>Martin Cobb, Lorne Steinberg Wealth Management</p>\n<p><b>Focus:</b> Global &amp; North American Equities</p>"
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/Laura-Whiteland-500x290.png",
+      "_src": "cmt",
+      "_ogDesc": "If you search “Airbnb how to get started” you’ll reach their splash page with a big number. As of May in Toronto, Airbnb says you can make more than $4,000 per month during the FIFA World Cup."
     },
     {
-      "title": "Ford set to launch 7 European models as it seeks to grow sales and fend off China",
-      "link": "https://www.bnnbloomberg.ca/business/international/2026/05/18/ford-set-to-launch-7-european-models-as-it-seeks-to-grow-sales-and-fend-off-china/",
+      "title": "Ottawa still pledging to double construction pace despite home building headwinds",
+      "link": "https://www.canadianmortgagetrends.com/2026/05/ottawa-still-pledging-to-double-construction-pace-despite-home-building-headwinds/",
+      "pubDate": "Mon, 18 May 2026 17:25:04 +0000",
+      "description": "The federal Liberal government is sticking to its pledge to double the pace of home building even as headwinds buffet the construction industry.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/Prime-Minister-Mark-Carney-left-waits-with-Housing-and-Infrastructure-Minister-Gregor-Robertson-500x345.jpg",
+      "_src": "cmt",
+      "_ogDesc": "The federal Liberal government is sticking to its pledge to double the pace of home building even as headwinds buffet the construction industry."
+    },
+    {
+      "title": "Ford to launch 7 European models as it tries to compete against China",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/05/18/ford-to-launch-7-european-models-as-it-tries-to-compete-against-china/",
       "pubDate": "Mon, 18 May 2026 13:21:17 -0400",
       "description": "Ford will launch seven new models in Europe by 2029, it said on Monday, as it seeks to grow its flagging passenger car sales, fight off fierce competition from Chinese rivals and maintain an edge in the continent’s commercial vehicle market.",
       "content": "<media:description type=\"plain\"><![CDATA[Picture of the Ford sign with their logo on their car dealership in New Belgrade, taken at sunset. Ford Motor Company is an American multinational automaker selling automobiles and commercial vehicles]]></media:description>",
@@ -133,19 +164,18 @@
       "body": "<p>LONDON -- Ford will launch seven new models in Europe by 2029, it said on Monday, as it seeks to grow its flagging passenger car sales, fight off fierce competition from Chinese rivals and maintain an edge in the continent’s commercial vehicle market.</p>\n<p>“Our plan is to actually grow our market share... in a marketplace that is almost fracturing in terms of the number of competitors,” Jim Baumbick, Ford’s European president, told Reuters. “We need to stand out in a crowd.”</p>\n<p>Five of Ford’s new models will be passenger cars, including a small electric car and a small electric SUV that will be built at a Renault plant in northern France using the French automaker’s technology, and three SUVs that will come as hybrids as well as fully electric models.</p>\n<p>The No. 2 U.S. automaker also criticized Europe’s push towards electric vehicles, saying “CO2 targets must reflect actual consumer demand” and that legislation should support plug-in hybrids and extended-range electric vehicles instead of just fully electric cars.</p>\n<h2>Restructuring in Europe</h2>\n<p>As it restructures in Europe, Ford has in Germany closed its Saarlouis plant and is shedding jobs at its factory in Cologne.</p>\n<p>Just a decade ago Ford was Europe’s No. 4 automaker, selling more than 1 million cars across the continent, according to data from industry lobby group ACEA.</p>\n<p>Last year, the company sold just over 426,000 cars and fell to eighth place behind Mercedes-Benz.</p>\n<p>Ford is trying to revive its fortunes when Chinese automakers, including BYD and Chery, are expanding into Europe with rapidly growing sales.</p>\n<p>As Ford managed sales growth of 0.1% in Europe last year, BYD’s sales grew almost 270%.</p>\n<p>In the commercial vehicle sector, Ford has remained one of Europe’s biggest brands - though Stellantis sells more through a combination of several brands.</p>\n<p>The company said on Monday it will immediately launch sales of its Ranger Super Duty pickup truck in Europe for use in emergency services, forestry, mining and the military.</p>\n<p>Ford said it will also launch sales later this year of a fully electric transit van designed for urban areas.</p>\n<p><i>(Reporting By Nick Carey; Editing by Barbara Lewis)</i></p>"
     },
     {
-      "title": "China Evergrande liquidators seek US$8.4B from accounting firm PwC in Hong Kong lawsuit",
-      "link": "https://www.bnnbloomberg.ca/business/international/2026/05/18/china-evergrande-liquidators-seek-us84b-from-accounting-firm-pwc-in-hong-kong-lawsuit/",
-      "pubDate": "Mon, 18 May 2026 12:55:34 -0400",
-      "description": "Liquidators of the failed Chinese property developer China Evergrande are seeking 57 billion yuan (US$8.4 billion) from accounting firm PwC over its auditing work, a Hong Kong court heard on Monday.",
-      "content": "<media:description type=\"plain\"><![CDATA[A woman walks by a map showing Evergrande development projects in China, as she heads to an Evergrande city plaza in Beijing on Sept. 18, 2023. (AP Photo/Andy Wong, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Andy Wong</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VAGOHAX7KNM4NFBOXXXXJNVX7A.jpg?auth=0df119c459edae37478238a8a48873640806a3e6f7966cb7a070038907111a7a&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Liquidators of the failed Chinese property developer China Evergrande are seeking 57 billion yuan (US$8.4 billion) from accounting firm PwC over its auditing work, a Hong Kong court heard on Monday.",
-      "body": "<p>HONG KONG — Liquidators of the failed Chinese property developer China Evergrande are seeking 57 billion yuan (US$8.4 billion) from accounting firm PwC over its auditing work, a Hong Kong court heard on Monday.</p>\n<p>The hefty amount was claimed against PwC International, PwC Hong Kong and PwC’s mainland Chinese entity, the court was told. A court decision has not yet been made on the claims.</p>\n<p>China Evergrande, once one of China’s largest real estate developers, first defaulted in 2021, and with more than $300 billion in liabilities became the world’s most indebted developer.</p>\n<p>Its downfall triggered a liquidity crunch in China’s property sector, which faced a slump in sales and prices and still has not fully recovered.</p>\n<p>After a Hong Kong judge ordered China Evergrande’s liquidation in early 2024, its court-appointed liquidators launched legal proceedings against PwC over alleged “negligence” in its work for Evergrande as they attempted to recover what they could for creditors.</p>\n<p>Last month, Hong Kong regulators said PwC was paying HK$1.3 billion ($166 million) in fines and compensation over its role in auditing Evergrande’s financial statements before its collapse, as they said there were breaches of professional duties by PwC.</p>\n<p>PwC said last month that they acknowledged the work on the Evergrande audits “fell well below our high expectations and the expectations of our stakeholders” and that it had taken “accountability and remediation measures” over the past months.</p>\n<p>That came after mainland Chinese authorities in September 2024 separately fined PwC 441 million yuan ($62 million) over its Evergrande audits, and said the Chinese developer had inflated its revenues by roughly $80 billion in its 2019 and 2020 financial results.</p>\n<p>Evergrande founder Hui Ka Yan, once one of Asia’s richest people, in April pleaded guilty to charges in mainland China including fraud and bribery.</p>\n<p><i>Chan Ho-him, The Associated Press</i></p>"
+      "title": "Stocks fall, oil rises as Hormuz deal hopes fade: Markets wrap",
+      "link": "https://www.canadianmortgagetrends.com/2026/05/stocks-fall-oil-rises-as-hormuz-deal-hopes-fade-markets-wrap/",
+      "pubDate": "Mon, 18 May 2026 17:00:00 +0000",
+      "description": "Wall Street’s rebound attempt failed, with stocks falling as oil climbed after doubts resurfaced about an imminent U.S.-Iran deal that would revive energy flows through the key Strait of Hormuz.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/03/Stock-trading-desk_sm-500x334.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Wall Street’s rebound attempt failed, with stocks falling as oil climbed after doubts resurfaced about an imminent U.S.-Iran deal that would revive energy flows through the key Strait of Hormuz."
     },
     {
-      "title": "Is the extra crash worth it to rent out your home? Here’s what some experts say.",
-      "link": "https://www.bnnbloomberg.ca/investing/personal-finance/2026/05/18/is-the-extra-crash-worth-it-to-rent-out-your-home-heres-what-some-experts-say/",
+      "title": "Is the extra cash worth it to rent out your home? Here’s what some experts say.",
+      "link": "https://www.bnnbloomberg.ca/investing/personal-finance/2026/05/18/is-the-extra-cash-worth-it-to-rent-out-your-home-heres-what-some-experts-say/",
       "pubDate": "Mon, 18 May 2026 12:18:43 -0400",
       "description": "If you search “Airbnb how to get started” you’ll reach their splash page with a big number. As of May in Toronto, Airbnb says you can make more than $4,000 per month during the FIFA World Cup.",
       "content": "<media:description type=\"plain\"><![CDATA[Kevin Makra is pictured preparing for guests in his Toronto Airbnb rental apartment, on Saturday, December 2, 2017. THE CANADIAN PRESS/Chris Young]]></media:description>",
@@ -153,6 +183,18 @@
       "_src": "bnn",
       "_ogDesc": "If you search “Airbnb how to get started” you’ll reach their splash page with a big number. As of May in Toronto, Airbnb says you can make more than $4,000 per month during the FIFA World Cup.",
       "body": "<p>If you search “Airbnb how to get started” you’ll reach their splash page with a big number. As of May in Toronto, Airbnb says you can make more than $4,000 per month during the FIFA World Cup.</p>\n<p>It’s a powerful lure for someone who needs help with their rent or mortgage, and has a spare room to offer. But whether it’s Airbnb, Vrbo, booking.com or another home rental platform, Laura Whiteland, financial planner and owner of Inclusive Financial Planning in Truro, N.S., says prospective short-term landlords should go into the business agreement with open eyes.</p>\n<p>“[Airbnb’s] product is not what you’re selling — they’re selling the services of the website, so they’re not in the same business you are going into,” Whiteland said.</p>\n<p>“You’re the product in that scenario, because they need accommodations. That’s how they generate their revenue. So you’re being sold and you need to be honest with yourself about that too.”</p>\n<p>In her experience working with clients who have any kind of rental business, it’s always more challenging than they expected. First of all, you have to follow the law, so you need to research your municipality’s regulations on short-term rentals. If you live in an apartment or condo, there may be restrictions there as well — check your lease agreement and condo bylaws.</p>\n<p>The next major consideration is income and tax implications. Short-term rental income could bump you up into a higher tax bracket.</p>\n<p>“Like any business, all the money you bring in is not all yours,” Whiteland said. “It’s usually the most dangerous thing to not understand.”</p>\n<p>If your roommate is gone for the summer and you want to rent out their room for a few months, you might assume some home expenses can be business write-offs. But expense write-offs will be minimal, Whiteland said. In this scenario, the vast majority of the unit is still for personal use.</p>\n<p>“[You need] a certain amount of understanding of what the tax impact is going to be, because it’s all going to be based on your exact situation,” she said. “Even just understanding the difference between renting a room in a small house versus renting in an apartment — it’s going to look different. And what you can claim is going to look different.”</p>\n<p>First-timers might forget they have to hold back some of their short-term rental income to pay taxes the following year, said Kelly Ho, financial planner and partner at DLD Financial Group in Vancouver. If you own the unit with someone else, you might be able to split the income at tax time.</p>\n<p>Short-term rentals should be considered a formal business, Ho pointed out, not a casual arrangement. This is not the same as family staying overnight.</p>\n<p>In Vancouver, you need a business licence to operate an Airbnb, she said. You should research liability issues and contact your insurance broker to see how short-term rentals could impact your coverage. Will you clean the place, or hire cleaners? How will you impress your guests?</p>\n<p>“You are now effectively a hotel owner, if that makes sense,” Ho said. “If the homeowner decides to run it themselves, then they need to put a value on what their time is worth. A lot of people underestimate the amount of time it takes to maintain.”</p>\n<p>“You need to have a very good reputation,” she added. “All it takes is a few bad reviews and now your income is volatile.”</p>\n<p>You are also at the mercy of changing regulations. Ho said she knows of people who — in the Airbnb “heydey” — repurposed their home for short-term rentals. They hired property managers and cleaners to run the operation for them.</p>\n<p>“I think there’s a little bit of remorse because obviously now there are restrictions in terms of the number of nights, which is municipality dependent,” Ho said. “So now they’re banking on really, really high nightly rates to be able to make up for that.”</p>\n<p>There will be a lifestyle cost as well, shifting your routines at home to accommodate strangers. Walking around in pajamas, late night snacking, noise from kids — Ho said her own family life would have to change if she were to rent out part of her home. And electricity costs will definitely go up, as guests likely won’t be as keen to conserve energy.</p>\n<p>“But the biggest one I would say is time,” Ho said. “What is your time worth? Their value of time will dictate whether this is worthwhile for them.”</p>\n<p>If you want to proceed, you can’t skim past the terms and conditions on the rental platform like every other website or app you are interacting with, Whiteland said. You’re on the hook for those legal requirements. And even with damage protection promises from the platform — which have their own disgruntled Reddit threads — there will be wear and tear on your home from additional use.</p>\n<p>“It’s work. It’s effort. Even one Airbnb unit in your house is a job, and I think you need to approach it that way,” Whiteland said. “Like any type of self-employment, hopefully it pays off, but it’s not a guarantee.”</p>\n<p><i>This report by The Canadian Press was first published May 18, 2026.</i></p>\n<p><i>Nina Dragicevic, The Canadian Press</i></p>"
+    },
+    {
+      "title": "New Brunswick cities rank among Canada’s best places to buy real estate",
+      "link": "https://news.google.com/articles/CBMinAFBVV95cUxObzY4ZzRJMElvNXNSMmQxa2dnSmM2Ykd2aS1iQzhQSVdJZ2dWX1JwTnVuVFM5THluTXJtdVV6b2c1WmZiVlZMeW40QS1Dd2h6VXEyaXo1Um50dG9YSVhoMVlYcmRYd1kwLTZpZGZrY2F4LXZfQ2EzeVhHTmQ1UHAtZEZHbVpYNFRDU0hLRkp3bzJfTnV5T2ZsU1h1ZzQ?oc=5",
+      "pubDate": "Mon, 18 May 2026 15:46:59 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Your Saint John",
+      "_pubUrl": "https://yoursaintjohn.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "CMHC expands mortgage loan insurance options for prefabricated, modular homes",
@@ -164,18 +206,6 @@
       "_src": "gnmort",
       "_publisher": "constructconnect.com",
       "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa still pledging to double construction pace despite home building headwinds",
-      "link": "https://news.google.com/articles/CBMiswFBVV95cUxObXZPeF9TVXhHZXpWdlZCRFluMmRDSXpJVU9CcVNFWkk4cC04aUFwMlIzbmh1YlpHSlJ3N0ZfTDFfamJCbXhkMjlybmtLWGlQSlNTU2VvNnJrZXZadzNpSGRXZWM1UnotclpDN2FPa2J2RDdEcEkwdEUzYks0b0tUTEVJUFNkWVlKZ2ZWU1ZBZTBMbnE2bi1EbWprb0NUdDhleXM1XzZUMFQ4eE1pdm50QTdLVQ?oc=5",
-      "pubDate": "Mon, 18 May 2026 10:29:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "AM 800 CKLW",
-      "_pubUrl": "https://www.am800cklw.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -256,18 +286,6 @@
       "_src": "bnn",
       "_ogDesc": "Here&#x27;s a look at what investors will be watching for in the week ahead. ",
       "body": "<h2>Monday, May 18</h2>\n<p>CANADIAN MARKETS CLOSED (VICTORIA DAY HOLIDAY)</p>\n<p>G7 Finance Ministers’ Meeting in Paris begins (May 18 to May 19)</p>\n<h2></h2>\n<h2>Tuesday, May 19</h2>\n<p>8:30am: CAD Consumer Price Index (Apr)</p>\n<p>8:30am: Building Permits (Mar)</p>\n<p>G7 Finance Ministers’ Meeting in Paris ends</p>\n<ul><li>Home Depot - Bef mkt </li></ul>\n<h2>Wednesday, May 20</h2>\n<p>2:00pm: FOMC Minutes</p>\n<ul><li>TJX - Bef mkt</li><li>Target - Bef mkt</li><li>Lowe’s - Bef mkt</li><li>Nvidia Corp - Aft mkt </li></ul>\n<h2>Thursday, May 21</h2>\n<ul><li>Lightspeed Commerce - Bef mkt</li><li>CAE - Aft mkt</li></ul>\n<ul><li>Deere & Co - Bef mkt</li><li>Walmart - Bef mkt</li><li>Take-Two Interactive Software - Aft mkt</li><li>Deckers Outdoor - Aft mkt</li><li>Zoom Communications - Aft mkt </li></ul>\n<h2>Friday, May 22</h2>\n<p>8:30am: CAD Retail Sales (Mar)</p>\n<ul><li>Allied Gold</li></ul>"
-    },
-    {
-      "title": "Alignvest to buy newly renovated Ottawa student residence",
-      "link": "https://news.google.com/articles/CBMigwFBVV95cUxPNGhZSWdkN09Ea2dkZ0U5LWwxZ3IxemxaWUxibUxJRF9TVGk3S1ZXSGJiQUpIOHRkSllSczNlS0QweGNlNFppelJKMkZWeGxoR29yY2xvSmtSWlVLRnhVd3BjRTZyMnRBWDFwNmxzSFpvWFBvODdianhSaVRQSE9FZXJIZw?oc=5",
-      "pubDate": "Sat, 16 May 2026 13:51:25 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "RENX",
-      "_pubUrl": "https://www.renx.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "The only thing driving Canada’s housing market? Supply and demand",
@@ -356,6 +374,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Fiera Real Estate partners with TCU on Ottawa SOUL apt. tower",
+      "link": "https://news.google.com/articles/CBMihwFBVV95cUxOcHdGSDZuZjVGdm53SUFUQU1UUl8tSEZ6Q3ZRX2NKOURtclFCeWNaNTJyN2w3MUxNZnRnRXdVdUdVUFNxenVodldKc3hHZFAzcnBTQVgtY3JlYXVJMlAwU1E4bzhLamZsMG1qd2N2NUpPQlRybVd1ZTlfZmpxY0NiTXptM3F5VHc?oc=5",
+      "pubDate": "Fri, 15 May 2026 14:44:44 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "RENX",
+      "_pubUrl": "https://www.renx.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "CMHC reports annual pace of housing starts in April up from March",
       "link": "https://www.timescolonist.com/national-business/cmhc-reports-annual-pace-of-housing-starts-in-april-up-from-march-12286634",
       "pubDate": "Fri, 15 May 2026 14:19:00 GMT",
@@ -363,18 +393,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/25a865587feea4562c554c23468c3ef3814376b33f95ad12ef5a34c23f785641.jpg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "Ontario’s Development Charge Reform Is Here. What Happens Next?",
-      "link": "https://news.google.com/articles/CBMigAFBVV95cUxNTF9VQWlHOXZoQ1g0aXEtTzhhTzVBTWpRd0REdS04d2RncjZ3c2ExYkI4MkltQVFlRVd3dGI3MlJVcnpXV200bVBPRXRDNGNrVElvek4yQnd5aXNnQmw5Z1hVQXFwNEtWME9mVzhjYlhWLVRlT1F5MVdTNzVWOHRZOQ?oc=5",
-      "pubDate": "Fri, 15 May 2026 13:17:52 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "missingmiddleinitiative.ca",
-      "_pubUrl": "https://www.missingmiddleinitiative.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Housing starts for April 2026",
@@ -401,19 +419,7 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The straight line running from Hormuz to Canada's housing market",
-      "link": "https://news.google.com/articles/CBMinwFBVV95cUxOLVMwb3JEMTNpZGJqNjhiN3lQRGo0V29aRmtJaExvS1dacmo5UFgwaTNNdjRHaHBYZHRuWVU1ZXBVSjN3NEZEZTRZWERJME44RmpPZWpmeC1vaERaSFJsc2ZQU3FTWi12Zi1fRHpKeHJmTXpnbXRaRFpMU0lYVlVjd1B0cVBKNFVpdEp0YkVBWUtManFSSzFKUUZDZEM5dW8?oc=5",
-      "pubDate": "Fri, 15 May 2026 10:07:27 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Headline inflation in Canada to jump but core pressures to stay contained - RBC Economics",
+      "title": "Headline inflation in Canada to jump but core pressures to stay contained",
       "link": "https://news.google.com/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -529,28 +535,6 @@
       "_ogDesc": "Residential mortgages now account for nearly two-thirds of Desjardins’ loan book, while impaired mortgage loans remained relatively stable despite ongoing economic uncertainty."
     },
     {
-      "title": "CREA reports April home sales down as spring market still hasn&#8217;t thawed",
-      "link": "https://www.canadianmortgagetrends.com/2026/05/crea-reports-april-home-sales-down-four-per-cent-from-year-earlier/",
-      "pubDate": "Thu, 14 May 2026 12:11:37 +0000",
-      "description": "The Canadian Real Estate Association says home sales in April fell compared with a year ago as the average sale price climbed.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/01/CREA-December-2024-home-sales-500x375.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The Canadian Real Estate Association says home sales in April fell compared with a year ago as the average sale price climbed."
-    },
-    {
-      "title": "Canadian housing market inches forward despite tariff headwinds and rate pressure",
-      "link": "https://news.google.com/articles/CBMi2AFBVV95cUxNbV83M2hYM0FNRGpQNEY3Vkh2TldfeHg1bU41X3VUVDB1bGExa0MzVmFiTlFtTzlTbkQtak00aXF0bkdhYmRpX1pNWUZ4UTFEblk5RmVkaFg1VlhCeEVmcW9KWTZMcHhFUlBsRmlJRjZYWkxJUzNQTTVCRjBkX3B5YndZY1p2NWVfTjZxZ2JFempNQ282djZWUjJjVC1zNGM1NEZZUDkxa3FseFNkbkZMcnBRZ2VieVVQS1RtdTd5QWtnelNJMUNCc2FSODA2Y0ozYkU4ckFUUmc?oc=5",
-      "pubDate": "Thu, 14 May 2026 10:08:30 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Wealth Professional Canada",
-      "_pubUrl": "https://www.wealthprofessional.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canadian Home Sales Edge Higher in April",
       "link": "https://news.google.com/articles/CBMilAFBVV95cUxOQ01mZG1laFp4QmpKeTh4SmNFNUhBRkM2S1ZKYmYyZE9TUWY3RERwbTFwaE83dFRIb0V2V01QSWZvd1hBaU1CcWhqbWx4Qmg5Y1pJVE9wRTk2aFozX1owREtQc2k2Wk5HWDRCLWlZbGV6akFYMkJxbjJuWmxkQjJ1V2l2US1QTE9keTY1eXNBT1RhSWx2?oc=5",
       "pubDate": "Thu, 14 May 2026 09:00:00 GMT",
@@ -560,6 +544,18 @@
       "_src": "gnre",
       "_publisher": "crea.ca",
       "_pubUrl": "https://www.crea.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canadian Existing Home Sales (April 2026)",
+      "link": "https://news.google.com/articles/CBMiW0FVX3lxTE43aVpucXh2ZFZBRV9jd1VXRkFsajR2VTZoclJrbUlKWkdHbHQ2ZTlWTGthZ2ljdmdRMXZodF8xcVNvX3VzR1hiSmZyd29JV2xvMGZCWWdyLWZJaTA?oc=5",
+      "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "TD Economics",
+      "_pubUrl": "https://economics.td.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -602,26 +598,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada sees no clear rate path amid tariff and oil risks",
-      "link": "https://www.canadianmortgagetrends.com/2026/05/bank-of-canada-sees-no-clear-rate-path-amid-tariff-and-oil-risks/",
-      "pubDate": "Wed, 13 May 2026 18:14:00 +0000",
-      "description": "Bank of Canada officials discussed a “range of views” on the most likely path for interest rates last month, weighing various possible outcomes of the Iran war and a review of the North American trade agreement.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/Macklem-and-Rogers2_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Bank of Canada officials discussed a “range of views” on the most likely path for interest rates last month, weighing various possible outcomes of the Iran war and a review of the North American trade agreement."
-    },
-    {
-      "title": "Bank of Canada sees AI as possible productivity salve",
-      "link": "https://www.canadianmortgagetrends.com/2026/05/bank-of-canada-sees-ai-as-possible-productivity-salve/",
-      "pubDate": "Wed, 13 May 2026 18:10:00 +0000",
-      "description": "The Bank of Canada struck an optimistic tone on the economic impact of artificial intelligence, arguing that widespread adoption of the technology will boost the country’s ailing productivity without significant job losses.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/BoC-on-AI_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The Bank of Canada struck an optimistic tone on the economic impact of artificial intelligence, arguing that widespread adoption of the technology will boost the country’s ailing productivity without significant job losses."
-    },
-    {
       "title": "Chartwell Pays $382.M For 30% Stake In Fengate's Seasons Senior Housing Portfolio",
       "link": "https://storeys.com/chartwell-stake-fengates-senior-housing/",
       "pubDate": "Wed, 13 May 2026 15:31:11 +0000",
@@ -653,14 +629,26 @@
     },
     {
       "title": "CMHC says housing financing support remained strong amid economic uncertainty",
-      "link": "https://news.google.com/articles/CBMitwFBVV95cUxObnhGbE5JOG9nb2hCY0FMOWxVQ1JpT1lLWmI2dUFzQ1dNcXN2ZHFJNVFvTzBLZFVlQWZkdzNsWnhYVG5TRUh0LW9HYXJ3LWtLNUtyYUR0OFd3R1Uydl9NX0xjT3liby1UUXhmX0RaYXlSZFByMjE0VC1tdmUzMHM1cU5qX3d4V2tvX1VjUGxacVpzRTN4ME43UzBudm1uaWxOdTNmdDZWWjNkY0FhNHB4elZOV0s4VlE?oc=5",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxOWFFzUm9iUUs2a3lKS1JGSnp5aUJYeEZqOWwxRkdRVnZRTmJsMTdEUVRrUWFESzExV0QxSEN4aTZFM3Q4ZVVHWEl3NkdDMEVKQjlGOVJWYzVrb1JEUjFkRzdDNXZWMkdLdjBTeTlBblRBdVhLZDB1Mm9nWTJDaUxyb2VUMTVacTR6ZmRmSlZlNEhKZF9RamtZdVk0cHJmNW5oazlScmdoRWlIXzlNS3h2ZVI4QkI1bndrOThzTA?oc=5",
       "pubDate": "Tue, 12 May 2026 22:05:12 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
       "_publisher": "WestCentralOnline",
-      "_pubUrl": "https://westcentralonline.com",
+      "_pubUrl": "https://www.westcentralonline.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada's mortgage debt hits record high as delinquency rate creeps up",
+      "link": "https://news.google.com/articles/CBMijgFBVV95cUxOYjNsa3BfMFNGZGwyYkFvcTZrRnFMQTZNU3Z1S0QwZWVvVlZCQ21ocFJuMDFsMDEtTHEyVThWN1d0b1hfelloVzhTYVJQaml1ejlfT3Z2UWpqYXQyR185R2piQllkbWVFb2ZUQmQ1RTd0cU9qRWpDa3VrYkR2TUxwVmI0SURlUXgtLXdETWp3?oc=5",
+      "pubDate": "Tue, 12 May 2026 19:27:19 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Financial Post",
+      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -733,6 +721,18 @@
       "_src": "timescolonist"
     },
     {
+      "title": "Public transit in Canada urgently needs an upgrade",
+      "link": "https://news.google.com/articles/CBMihwFBVV95cUxPWk44Y2F1cllaTk9XSDdLZXd6S1dkWmJrb1B2bk5wMk1iS2wwLVdwcms2a1AxeG1BbnRuSmhqNEhZcTBycHo1SXBjQkdCTU9rdVZGUENYYlhNemlEeXFHWk9nMXY5c1ctUWI5Ul9YYzQ3ZURhbUVYaWJjYUZjMFRjTGxPQXB5VmM?oc=5",
+      "pubDate": "Mon, 11 May 2026 18:00:23 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Rabble.ca",
+      "_pubUrl": "https://rabble.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Mortgage Rates Forecast Canada 2026-2030",
       "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
       "pubDate": "Mon, 11 May 2026 17:50:40 GMT",
@@ -775,6 +775,18 @@
       "_src": "storeys"
     },
     {
+      "title": "CMHC expands insurance to support prefab and modular housing",
+      "link": "https://news.google.com/articles/CBMirAFBVV95cUxQX3FmVElpSzNMZlNDRjluWW95X0JxWDlXb0xUUmRNbzd6Z0RYa0g3eERsVzZ4cUlDVk05bVZPVVV1RDVQN2NpYURxRS13Wkk5UjRxLWNDYzBLN1FVYjNGak5Iem85Qm9GRVVraFBSVjkwVnk2dEVTZlViN2xwTWJnc1Jzd1YtVjFUZ0JxbUgwQjlpOFp6VDFHSjJ0aDlWRElPcTY4UnJnd1ozRWo5?oc=5",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "B.C. developer claims it was victim of domain spoofing, sues to recover funds",
       "link": "https://www.timescolonist.com/real-estate/bc-developer-claims-it-was-victim-of-domain-spoofing-sues-to-recover-funds-12246456",
       "pubDate": "Thu, 07 May 2026 17:55:00 GMT",
@@ -793,30 +805,6 @@
       "_src": "gnott",
       "_publisher": "weknowottawa.com",
       "_pubUrl": "https://www.weknowottawa.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "2025 Annual Report and advancing Canada’s housing system",
-      "link": "https://news.google.com/articles/CBMinwFBVV95cUxOTEFUeU00Q0UxbG5zSTREMlAyQjVTZ2hBOUdPaFBaaGl5dllLX04xRVBpa2trNGl4emxjempKY003eGhldlRLb1d0TUFqNk04M0JySG9WaVhyS0libzRuYXZ5TzdYeVJDZmFMSWRVVHR3U3B4b1NlTHBWSXE2SEJYVE05MnQ4RG1XVVpDYVluU0h6ZXUxczUtODNvM21EeGs?oc=5",
-      "pubDate": "Wed, 06 May 2026 15:02:22 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CMHC Releases Annual Report for 2025",
-      "link": "https://news.google.com/articles/CBMikwFBVV95cUxQWmljcWpEMy1rc0RZeWVhUVNUbktrb2dhUkxpeXVCRnVFUk5faUo2bkI1LU9BQmRNSzdlV2ptUWlDWF9XcTdOMGUyRlNmZmY3TGxBWnlOV0JjUkdrSngwYXZmYWlGNGh6LVRyanZMVjNJd2ZFZ3lYWlExMmVjb0pWcGY5OEltTlozcjRudnZMc1NHaEU?oc=5",
-      "pubDate": "Wed, 06 May 2026 15:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "PR Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -952,18 +940,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Housing Starts for March 2026",
-      "link": "https://news.google.com/articles/CBMikAFBVV95cUxPajB3ZnJsZDR0dVZQUG42OTZITUloNWtOa0JJMVZXVUV3TmRqTVMzMkhLQUg0REVYWktfNUo2R1NXU29JczVSSUd0TmdUb29YUFBFaDBXOWJpc0pZd0c5ekVzRzA2RDNmQkswU0Nvb3VYXzZwSkFtbzFQcFRLdEx5OGVzOXB0NnNscFdvcmhSMmE?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Toronto’s condo market sets a new record: zero new projects launched in the first quarter",
       "link": "https://news.google.com/articles/CBMigwJBVV95cUxQTHo5N2MxdDRKZ3ZwTEE4c09OOHI3VHVocmx0VWVfSkNRN3hIOEtIRkNHaUlvSEYxTWNwYVdNWldUdU44eExYY09SVUdPU2t4MkUxRW5DSEsxOXFWcVgyZ0ZKTUtWd2s3REk1UDg2b2wzejNlUG41SVpXWFdYWExBZDRLelVteEo1ZkVueUJhaUNpdjJQbEZOMEc2RGdkLXhnSW43S1Awc1ZKSTBQMU9SdE03eDBCQnNEbUlaMWI0WDE2TGthOURDZEVkUGtCRzZDUVZDbXBaQUFGcW5Oekp5bzR0YW5PbE55aWtFN2UxOHgwdjN3TUVfZUN2d3g5bGdFRjNj?oc=5",
       "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
@@ -1021,6 +997,18 @@
       "_src": "gnontre",
       "_publisher": "crea.ca",
       "_pubUrl": "https://www.crea.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ontario Housing Market | 2026 Home Prices",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1144,18 +1132,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ask an Expert: What CMHC’s housing affordability index is and why it matters",
-      "link": "https://news.google.com/articles/CBMipAFBVV95cUxQb3hWVjZWSTZiU1RsN043RGZYYkhFbDV0WDFmdHh2YW1RbU12czhfZ2FrSE1vVkxHWGN6OHRRdlBwc3VxRFJsODZZNkRfVWZLbHpLcXF0WWJ0U3M2WWV0SFZpTVVXYndRYVNyajVXRUhXQ09KbG1iODAwZHM4SjA1OWZSQTRtVFBiVUVLQTQtUTgzN3A2d0RscU5VcTVuRW9ORzEzcQ?oc=5",
-      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ontario’s fragmented housing market: What buyers and sellers need to know in 2026",
       "link": "https://news.google.com/articles/CBMiygFBVV95cUxOUFd6bjQ5U2JNS2M1cW9oYjdyNW13ZGxPeDRUV3pIdWp6UDdENXQ2bHIzU19HMlJpb2ZSX2JfZFEtLXNUaDMyY1lLVVctSDdpeHhLMkJ2Y1p3QjhHOUZsNjZJZTRkdV9pZDZzdGZVOEh3QlNVdTJTdTFyekk4ak56SXJQampRaUQtaVBJSEpVSV9saHBaQUtPallvZVFvUnh1TDU3dV9pNVB2dlNsQXJwcGx3UEd2UFVrZ05vMklYMzA4OUFZQUgyazV3?oc=5",
       "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -1249,18 +1225,6 @@
       "_src": "gnhprice",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
-      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1396,6 +1360,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Zonda Urban: Townhouses Lead the GTHA New Home Market as Buyer Options Shift",
+      "link": "https://news.google.com/articles/CBMijgFBVV95cUxOOTY5QXpBb2ctY2dORFdLNnJsZHdpSjdnRElEQmRRcmduc29kdElXTG1RTFdvMkdCNkJMaGN4QmlldEJLa2pfZ3lWLXROWmsyRF85QnAyUGpWaUk5SC15RXg5OWNCVGxXSlViR3Z1djFHVEQ5NTNoOU8ybkRQNEVEU011S0lEUTV6YVlxNWtR?oc=5",
+      "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Livabl",
+      "_pubUrl": "https://www.livabl.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Home prices are now dropping for all property types in Canada",
       "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
       "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -1405,18 +1381,6 @@
       "_src": "gnhprice",
       "_publisher": "INsauga",
       "_pubUrl": "https://www.insauga.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Nowhere to stay: How Canada’s housing crisis is failing international students",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQLW92b3pNeVRkeGZLZXl1a293V1R1WEFRc0FTa3RGcDRTdG9pdmcxLWpwUUJDVTJrTVl1NEZJWVJXWTVibmJUZVRJWjVWM2FiTFR1NW9wYjMtX041bnlOelJYTUZfZHBOSjI3dnBHdGNTMkE5YmJRd0NhMTdrb1FaSi01TjcxTGtMRVMxai1naU1jVVpTamptcTF2UXJZbXEzRFRZdUE3YW96dWN1c2hkR1E4bXZ4c01YTXVzNUI0RHg?oc=5",
-      "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Canadian Immigrant",
-      "_pubUrl": "https://canadianimmigrant.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1465,6 +1429,18 @@
       "_src": "gnnewcon",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Construction starts on Metro Vancouver condo tower defying market headwinds",
+      "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQOGFzRVZQNHZYdVBEM2dJSEU4UjBPUUZMQV9Ka3hybENadnNGdHg0Q3BYaGN1RWRTclpwLXNwR0ZQQnNQS2UxOEhVU0dXSng1dWUzWXI5b3NLZ0k1MDJJc0laZ0Z4QjVNRkRwQVllZkV1OGg0RXFEeHBJZ29IT3VDUEdLVURkYWZsNnBpS19hZl9jSDhEeXJySThFb0VCQzlBRjdvOXlPcmsxZw?oc=5",
+      "pubDate": "Sat, 27 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Daily Hive",
+      "_pubUrl": "https://dailyhive.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1564,6 +1540,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa airport appeals city approval of homes under flight path",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTFBCWTM5ZzI5c2g2aWJlWDdOX3NWV1lsQWUteGY5WHhtM3JLc0VWV24xdThBOXdIU3A2dkttN0RhZDlhUTFZNjZfSVdHblVYWVh1aFFjR05BdUhJdFgzMnpNY2F2aHB0aHRGN1MySFVvZVZvYW8?oc=5",
+      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Alternative federal budget 2026: Affordable housing and homelessness",
       "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
       "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
@@ -1573,30 +1561,6 @@
       "_src": "gnpolicy",
       "_publisher": "Policy Alternatives",
       "_pubUrl": "https://www.policyalternatives.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxPOFZCZGdPU21jcEU3SVNsQ2pxLVBwUnJBeElUajlXRVlPbTl6Rm80d2tWSUtRRnpodmJHdHhURW84ajFUWURqNGtGSThQSXNpSzc0QkluX0NvVVFGVUtOYzh6S2R2NXRvRnUwU1BzZ3Z3RWI3UlVHVzM0LUJaY05BM0xhV2tzeE4zVnViQTR2S3JZOF9XSTdsM0pSaktlODZlZjZlTVpR?oc=5",
-      "pubDate": "Sun, 14 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "pm.gc.ca",
-      "_pubUrl": "https://www.pm.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Housing Starts And Housing Supply in Canada",
-      "link": "https://news.google.com/articles/CBMidkFVX3lxTE9KTk1JUlIxaWlFQzBKZGJ1VTdCbi1FMVR6cXp5eHdleUkzem1iSUdYeGVVbnZNbUtrZG1pdnBiY3lsdjR0Tnh4R3hpaGY0NHpPMTh0RmxmTEtOdW0xdmxLSG9DeE5vTG5QcGJ2cmdNdWQzem1lTGc?oc=5",
-      "pubDate": "Fri, 05 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1696,6 +1660,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Building Homes, Not Bureaucracy",
+      "link": "https://news.google.com/articles/CBMia0FVX3lxTE5kRy01Z0FSQWV2M3YzWFVndEVibmZudjB2OE9rRFE3eEFFVzgyZURRRlRlLXQxaFFYQU1zSE8wUnNQbElQRXZjbUVQWkRrYkI5bjdIV0g0b2pFRHA0TTV5YjBSQTkyT1JINkx3?oc=5",
+      "pubDate": "Thu, 14 Sep 2023 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Conservative Party of Canada",
+      "_pubUrl": "https://www.conservative.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects",
       "link": "https://news.google.com/articles/CBMiggJBVV95cUxQU3YydHVDZWRxMi1Tc1ZjZUZORS01Nl9xd1VLNVl0LVE3dVJtZDNLRTF0RElhSG9xSEF5RU1rS3BMOXdZX1dzbHVZZmI1WHdNUG9yRDJ0X1lad29sb2QzVTR6ak9aMnVBZXZPYl9KZ3Q3LWVyV0E3V3czZXJhYXBDeDRsMG1YRURJdXRCT2Jrdkx4azB2RFZObzB1UlpSMWIyeWlUcFU5cFk2ZjIya0lVZDhfWXdLQW43RUs1M1ZvenRoblZrYUZsZGJ2S1BLa3FyQVhhTHFXeDhCNkVCYjU3R2ZJZ0tLSFNha3dveWtZeVhfS19OV2ZfX00wbmVodGpKaXc?oc=5",
       "pubDate": "Mon, 28 Nov 2022 08:00:00 GMT",
@@ -1729,18 +1705,6 @@
       "_src": "gnottlrt",
       "_publisher": "Ottawa International Airport Authority",
       "_pubUrl": "https://www.yow.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Prime Minister announces significant funding to extend Ottawa’s Light Rail Transit system",
-      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxOcUJkVDdzbHU0NVBKemVYU2stUEM5UFBQUDkxQ0lhTTZfQnBRV1lEeGlERG1yekpGLVFOelhJZUFDVWxKc1NJQkQ5eGtLemtadk1INFRveUkwS2lJajdVdnlfSDBYZ2tKZ3Nmb1NTeUE3cHdOUjVQZzVmTjhxSDhzQnFSVm5lU3VnVkdXdXl1cmlsNTN6VVRRdGRlY25fYy01OG56NVpKcVQ1NDBkLWNoWlFURFMwRTFFTUEw?oc=5",
-      "pubDate": "Fri, 16 Jun 2017 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "pm.gc.ca",
-      "_pubUrl": "https://www.pm.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
