@@ -1,6 +1,6 @@
 {
-  "ts": 1779349284165,
-  "fetched": "2026-05-21T07:41:24.165Z",
+  "ts": 1779361081053,
+  "fetched": "2026-05-21T10:58:01.053Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,6 +89,62 @@
   ],
   "items": [
     {
+      "title": "SpaceX reveals plans for what could be the biggest-ever initial public offering",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/05/20/spacex-reveals-plans-for-what-could-be-the-biggest-ever-initial-public-offering/",
+      "pubDate": "Thu, 21 May 2026 10:49:40 -0400",
+      "description": "Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars year.",
+      "content": "<media:description type=\"plain\"><![CDATA[SpaceX's latest version of it's mega rocket Starship is prepared for a test flight from Starbase, Texas, Wednesday, May 20, 2026. ]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Eric Gay</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/AYYMHJU6TLVNUMJUXJU6IKZULY.jpg?auth=a85a65849a311e3f754367fb75e455e80c6a135b7d26117dd95619d04491bcf5&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars year.",
+      "body": "<p>NEW YORK — Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars a year.</p>\n<p>A filing shows that his SpaceX lost US$2.6 billion from operations last year on $18.7 billion in revenue, and the losses kept piling up at the start of this year, too.</p>\n<p>The prospectus did not put a dollar figure on the amount Musk hopes to raise, but various reports have put it at $75 billion or so. An offering of that size would easily surpass the current title holder, Saudi Aramco, the oil giant that went public seven years ago and raised $26 billion.</p>\n<p>SpaceX, formally known as Space Exploration Technologies Corp., has said the money will help finance projects to put people on the moon and Mars in its quest to make humans an intergalactic species as they face existential threats that could wipe out civilization.</p>\n<p>“We do not want humans to have the same fate as dinosaurs,” the filing states.</p>\n<p>The prospectus reads in part like a Hollywood fantasy version of the future, detailing in one section how part of Musk’s compensation will be granted only if he maintains “a permanent human colony on Mars with at least one million inhabitants.”</p>\n<p>Short of that, the stock sale alone could make Musk, a major owner who founded SpaceX in 2002, the world’s first trillionaire. Forbes currently puts his net worth at $839 billion.</p>\n<p>In addition to making reusable rockets to hurl astronauts into orbit, SpaceX has other businesses, some successful, some struggling -- and with plenty of questions marks.</p>\n<p>The document shows that Starlink, the world’s largest satellite communications company, is a big source of cash for the company, generating $4.4 billion in operating income last year. The business uses 10,000 satellites in low orbit to provide internet service to 10 million people in 150 countries and territories.</p>\n<p>Among the struggling businesses are two Musk units that were recently acquired by SpaceX -- his social media platform X, formerly Twitter, and his artificial intelligence business, xAI. Those purchases were blasted by some SpaceX investors as bailouts because they are big money losers.</p>\n<p>The prospectus said its AI business lost $6.4 billion in operations last year.</p>\n<p>The original SpaceX business, making rockets and staging launches, has been helped by massive government contracts, which raises questions that could come back to haunt the company. Given Musk’s close relation to the Trump administration, government ethics lawyers and watchdogs have asked if he has gotten special treatment to win taxpayer money and whether that good luck will run out once President Donald Trump is out office.</p>\n<p>SpaceX has won contracts worth $6 billion from NASA and the U.S. Defense Department and other government agencies in the past five years, according to USAspending.gov. The company noted in its filing that a fifth of its revenue last year was from the federal government.</p>\n<p>Musk was the biggest donor to Trump’s presidential campaign and is still a big backer despite their sometimes rocky relationship after his stewardship of the government cost-cutting effort called DOGE early last year.</p>\n<p>Like many corporate CEOs, Musk’s compensation will go far beyond his annual salary, which was $54,080 in 2025 and has remained unchanged since 2019, according to the filing.</p>\n<p>The prospectus says stock grants for him would be sliced into 15 nearly equal amounts -- 67 million shares each -- and would vest only as the company achieves preset market cap goals. In addition to the Martian colony, SpaceX’s stock market value would have to reach $7.5 trillion for him to receive the full award.</p>\n<p>He would get even more stock awards if SpaceX manages to get giant data centers the size of football fields in space.</p>\n<p>The document shows Musk will be able to exert big control over the business.</p>\n<p>It says he and certain other shareholders will receive shares in a special class of stock that gives them 10 votes for each share they hold. Those shareholders will be able, among other things, to elect a majority of the company’s board of directors.</p>\n<p>“This will limit or preclude your ability to influence corporate matters and the election of our directors,” SpaceX said in a warning to prospective investors.</p>\n<p>SpaceX will be able to pitch the offering to investors -- in what’s known in Wall Street parlance as a “road show” -- 15 days after making its prospectus public. In this case, that works out to June 4.</p>\n<p><i>Associated Press writer Alex Veiga in Los Angeles contributed.</i></p>"
+    },
+    {
+      "title": "Energy shock from Iran war to weigh on Europe's growth, boost inflation",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/05/21/energy-shock-from-iran-war-to-weigh-on-europes-growth-boost-inflation/",
+      "pubDate": "Thu, 21 May 2026 10:42:48 -0400",
+      "description": "The European Union’s executive commission cut its growth outlook and predicted higher inflation due to sharply higher energy prices from the war in Iran — but said the economy will avoid an outright recession.",
+      "content": "<media:description type=\"plain\"><![CDATA[FILE -The Euro currency symbol is seen prior to a press conference after an ECB's governing council meeting in Frankfurt, Germany, Dec. 18, 2025. (AP Photo/Michael Probst, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Michael Probst</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KQIWYJ64W36LIQCYKQAXMQETUI.jpg?auth=41f0371afc2a82f74fd0e4b0534eccf369f29e5dfbba07f26d85f99c0bc393ce&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "The European Union’s executive commission cut its growth outlook and predicted higher inflation due to sharply higher energy prices from the war in Iran — but said the economy will avoid an outright recession. ",
+      "body": "<p>FRANKFURT, Germany — The European Union’s executive commission cut its growth outlook and predicted higher inflation due to sharply higher energy prices from the war in Iran — but said the economy will avoid an outright recession.</p>\n<p>“As a net energy importer, the EU’s economy is highly susceptible to the energy shock caused by the conflict in the Middle East,” the commission said in a statement Thursday. The rising cost of fuel “means higher household bills and surging business costs that reduce profits for many industries.”</p>\n<p>The commission’s spring forecast lowered the outlook for growth in the 21 countries that use the euro to 0.9% for this year, from 1.2% in its autumn forecast, and to 1.2% from 1.4% for 2027. Inflation is now expected to reach 3.0% for 2026, up from the earlier forecast of 1.9%.</p>\n<p>The new inflation figure exceeds the inflation goal of 2% set by the European Central Bank, and higher inflation expectations have led to predictions the ECB will raise its interest rate benchmarks this year to combat inflation.</p>\n<p>Oil prices rose sharply after risk of Iranian drone and speedboat attacks closed off most ship traffic through the Strait of Hormuz, the sea passage for about a fifth of the world’s oil and natural gas. On top of that, news of the war has shaken consumer confidence, which fell to a 40-month low amid mounting fears of job losses and higher inflation.</p>\n<p>Still, the commission said the economy will continue to show modest growth and avoid an outright recession.</p>\n<p>It warned however that a downside scenario of a prolonged period of higher energy prices would push growth lower and inflation higher.</p>\n<p>The new inflation figure exceeds the inflation goal of 2% set by the European Central Bank, and higher inflation expectations have led to predictions the ECB will raise its interest rate benchmarks this year to combat inflation.</p>\n<p><i>The Associated Press</i></p>"
+    },
+    {
+      "title": "World shares are mixed, Kospi gains 8.4%, as tech-led rally fades",
+      "link": "https://www.bnnbloomberg.ca/markets/2026/05/21/world-shares-are-mixed-kospi-gains-84-as-tech-led-rally-fades/",
+      "pubDate": "Thu, 21 May 2026 09:46:59 -0400",
+      "description": "Shares opened lower in Europe on Thursday after a mixed session in Asia, where a rebound in oil prices eclipsed another broad rally on Wall Street.",
+      "content": "<media:description type=\"plain\"><![CDATA[A currency trader talks on the phone near a screen showing the Korea Composite Stock Price Index (KOSPI) and the foreign exchange rate between U.S. dollar and South Korean won, left, at the foreign exchange dealing room of the Hana Bank headquarters in Seoul, South Korea, Wednesday, May 20, 2026. (AP Photo/Ahn Young-joon)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Ahn Young-joon</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KF5UYIZFD6J6ISB2DG43KA2JVE.jpg?auth=3f3aad58a3513f293576f60493b76760c7f812a4512ee4e1d2d386aa2fa20589&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Shares opened lower in Europe on Thursday after a mixed session in Asia, where a rebound in oil prices eclipsed another broad rally on Wall Street.\n",
+      "body": "<p>Shares opened lower in Europe on Thursday after a mixed session in Asia, where a rebound in oil prices eclipsed another broad rally on Wall Street.</p>\n<p>South Korea’s Kospi soared 8.4% to 7,815.59, helped by strong buying of technology shares such as Samsung Electronics, which gained 8.5% after its labor union and management reached an agreement late Wednesday that averted a potentially costly strike. Shares in SK Hynix, a computer chipmaker partnering with Nvidia, surged 11.2%.</p>\n<p>The advance was partly powered by a stronger-than-expected quarterly report from chipmaker Nvidia, whose profit rocketed more than 200% higher in the February-April quarter from a year earlier, while revenue jumped 85%.</p>\n<p>Nvidia has been one of the biggest beneficiaries from the boom in artificial intelligence, thanks to powerful demand for its high-end AI chips. Its shares rose 1.3% on Wednesday before its earnings report was released, but they fell 1.3% in afterhours trading after the announcement.</p>\n<p>The Kospi has been breaching records, recently exceeding 8,000 for the first time.</p>\n<p>U.S. futures slipped, with the contract for the S&amp;P 500 down 0.3%, while that for the Dow Jones Industrial Average lost 0.2%.</p>\n<p>In early European trading, Germany’s DAX gave up 0.3% to 24,669.59, while the CAC 40 in Paris lost 0.2% to 8,102.25. Britain’s FTSE 100 shed 0.4% to 10,393.56.</p>\n<p>In other Asian trading, Tokyo’s Nikkei 225 jumped 3.1% to 61,684.14 after the government reported that Japan’s exports rose nearly 15% in April from a year earlier, despite shocks from the Iran war.</p>\n<p>Technology-related shares were among the biggest winners, with Tokyo Electron gaining 5.9% and Advantest up 4.4%.</p>\n<p>Taiwan’s Taiex, also heavily weighted toward technology shares, gained 3.9% as major chipmaker TSMC’s stock gained 3%.</p>\n<p>Chinese markets declined, with Hong Kong’s Hang Seng losing 1.2% to 25,352.82. The Shanghai Composite index dropped 2% to 4,077.28.</p>\n<p>Indonesia’s share benchmark dropped 3.3% as the market absorbed the impact of a government decision to put strategic natural resource exports such as coal under state control.</p>\n<p>Australia’s S&amp;P/ASX 200 picked up 1.5% to 8,621.70.</p>\n<p>Oil prices pushed higher early Thursday, a day after Brent crude had dropped 5%. Brent, the international standard, gained $1.46 to $106.48 per barrel, while U.S. benchmark crude added $1.53 to $99.79 per barrel.</p>\n<p>Brent remains well above its roughly $70 level from before the war with Iran. Prices have been yo-yoing on rising and falling hopes that the United States and Iran can reach an agreement to allow oil deliveries to fully resume from the Persian Gulf to customers worldwide.</p>\n<p>On Wednesday, U.S. stocks bounced back, with the S&amp;P 500 gaining 1.1% for its first rise in four days. The Dow Jones Industrial Average added 1.3% and the Nasdaq composite rallied 1.5%.</p>\n<p>Stocks got a lift from easing yields in the bond market, as the yield on the 10-year Treasury fell to 4.57% from 4.67% late Tuesday. That’s a significant move for a market that measures things in hundredths of a percentage point.</p>\n<p>The 10-year Treasury yield had been rising from less than 4% before the war with Iran began, along with other government bond yields around the world, because of worries that the fighting will keep oil prices high, among other factors</p>\n<p>High yields slow economies and weigh on prices for stocks, cryptocurrencies and all kinds of other investments. Besides driving up rates for mortgages, they could also curtail companies’ borrowing to build the artificial-intelligence data centers that have been supporting the U.S. economy’s growth recently.</p>\n<p>With the easing of yields, technology stocks helped lead Wall Street higher. Advanced Micro Devices jumped 8.1%, while Intel gained 7.4%.</p>\n<p>Smaller companies can feel even bigger relief from lower yields than their bigger rivals because many need to borrow to grow. The Russell 2000 index of the smallest U.S. stocks jumped 2.6%, more than double the gain of the S&amp;P 500, which measures the biggest U.S. stocks.</p>\n<p>Most big U.S. companies have reported better profits for the start of 2026 than analysts expected, which has helped stocks run to records. Stock prices tend to follow the path of corporate profits over the long term.</p>\n<p>In other dealings early Thursday, the U.S. dollar rose to 159.05 Japanese yen from 158.92 yen. The euro slipped to $1.1601 from $1.1624.</p>\n<p><i>Elaine Kurtenbach, The Associated Press</i></p>"
+    },
+    {
+      "title": "Canada’s major projects: How a geologist discovered a deposit of what ‘everybody wanted to sell’",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/21/canadas-major-projects-how-a-geologist-discovered-a-deposit-of-what-everybody-wanted-to-sell/",
+      "pubDate": "Thu, 21 May 2026 09:00:00 -0400",
+      "description": "Matawinie’s graphite deposits are just a five-minute drive from the Saint-Michel-des-Saints village centre. The property covers about 9,200 hectares, about 80 per cent of the size of Vancouver.",
+      "content": "<media:description type=\"plain\"><![CDATA[A worker holds a clump of product inside Nouveau Monde Graphite’s demonstration plant.]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/EQN7UE6WSJDHTOCB4CWSVNLN3Y.jpg?auth=062e6ae001264f97727e9d7092be18f53655602b8f60a85fc8b23c673d695c3f&amp;smart=true&amp;width=1999&amp;height=1255",
+      "_src": "bnn",
+      "_ogDesc": "Matawinie’s graphite deposits are just a five-minute drive from the Saint-Michel-des-Saints village centre. The property covers about 9,200 hectares, about 80 per cent of the size of Vancouver.",
+      "body": "<p><i>Lu Fan is a 2025 Sachedina / CTV News fellow. This is part two of a two-part series on the graphite mine in Saint-Michel-des-Saints, Que. </i><a href=\"https://www.ctvnews.ca/canada/article/our-economy-needs-a-huge-kick-in-the-butt-inside-a-quebec-village-at-the-centre-of-a-nation-building-project/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/our-economy-needs-a-huge-kick-in-the-butt-inside-a-quebec-village-at-the-centre-of-a-nation-building-project/\"><i>Find part one here</i></a><i>. </i></p>\n<p>SAINT-MICHEL-DES-SAINTS, Que. - It’s been more than a decade since geologist Antoine Cloutier made the discovery of his career. It happened in Saint-Michel-des-Saints, Que., and as he tells the story, his eyes still gleam with excitement.</p>\n<p>“In 2014, we went to the field. (We) shovelled the ground and checked what the bedrock was. Our metal detectors were beeping through a fairly large area,” said Cloutier, the lead geologist for Nouveau Monde Graphite. “I called my boss and said I think we found something here. I’m going to need a bigger budget.”</p>\n<p>What Cloutier found was a major graphite deposit. “From that point on,” he said with an easy smile, “it became our main focus of continuous exploration work.”</p>\n<p>After years of drilling and gathering information, the company proposed an open pit mine — Matawinie Graphite Mine. “The pit measures about three kilometres long by 400 metres wide at a maximum depth of 185 metres,” said Cloutier. It would have a 25-year mine life.</p>\n<p>Graphite, a mineral essential for electric vehicle batteries, is one of six critical minerals the federal government considers a priority for investment and development.</p>\n<p>In November, Prime Minister Mark Carney announced his second tranche of nation-building plans which included the Matawinie Mine.</p>\n<p>Matawinie’s graphite deposits are just a five-minute drive from the village centre. The property covers about 9,200 hectares, about 80 per cent of the size of Vancouver. It lies within the Canadian Shield, one of the oldest geological formations on Earth.</p>\n<p>Eric Desaulniers, the company’s founder and CEO, says in 2014, he saw Elon Musk’s early investments in large-scale EV production as a sign that the time was right to get into this business.</p>\n<p>“Everybody wanted to sell graphite to the Gigafactory in Nevada. That’s why I started the company,” said Desaulniers. Global electric vehicle sales skyrocketed not long after: statistics from the International Energy Agency show that in the decade that followed sales rose from a few hundred thousand vehicles to around 17 million.</p>\n<p>In 2018, Nouveau Monde leased part of a long-shuttered wood panel mill in the village and built a demonstration plant to produce battery material samples.</p>\n<p>In this electric vehicle competition, China controls the supply chain. It refines over 90 per cent of the battery-grade graphite in the world. The U.S. has vowed to break China’s grip by digging deeper at home and sourcing minerals from around the world.</p>\n<p>In 2020, Desaulniers received a long-awaited email from Panasonic Energy, which produces batteries for Tesla: “We see you as a potential supplier of graphite in North America and we would like to receive a sample.”</p>\n<p>He says customers are looking for an alternative.</p>\n<p>“(Companies such as Panasonic Energy) are a bit stuck in the geopolitics between the U.S. and China,” Desaulniers said.</p>\n<p>Nouveau Monde Graphite has been growing because of the rising electric vehicle market and the trade conflicts between China and the U.S. It is listed on the Toronto and New York stock exchanges and has attracted international investors.</p>\n<p>As the project advances, Desaulniers believes the Matawinie Mine could become “the largest graphite mine in the G7.”</p>\n<h2>Challenges ahead</h2>\n<p>Disappointing demand for EV sales last year in North America, partially from the end of tax credits and subsidies, prompted some of Nouveau Monde Graphite’s customers to reassess their plans. Panasonic Energy reduced its orders for battery materials from Nouveau Monde by almost one third, while General Motors, which had a deal with the company, is not listed as a buyer anymore.</p>\n<p>The federal government has stepped in to help, agreeing to purchase graphite concentrate from the company at a guaranteed minimum price.</p>\n<p>Desaulniers believes that will do a lot to ease investors’ worries. “That’s the most important thing to do with western critical minerals projects — to comfort (investors),” he said.</p>\n<p>He thinks the military application of critical minerals is also why governments are pushing for resilient critical mineral supply chains. Desaulniers says the company is ready to work with large defence contractors on stealth materials, batteries, and foil for thermal management.</p>\n<p>Competition in the industry is fierce and not only from China. Andrew Stewart is the U.S. Geological Survey’s mineral commodity specialist in graphite and nickel. “Though the U.S. is not currently mining graphite,” he said in an email, “there are five graphite mining projects moving forward: two in Alabama, one in Alaska, one in Montana and one in New York.”</p>\n<p>Another challenge in the industry comes from synthetic graphite. Graphite can be mined from rocks; it can also be manufactured from oil refinery byproducts.</p>\n<p>Synthetic graphite has better purity and batch-to-batch consistency. It has always been more expensive. But in recent years, for some applications, synthetic graphite prices have dipped below natural graphite and some experts see more of the market shifting in that direction.</p>\n<h2>Debate over public funding for critical minerals</h2>\n<p>At the Metro Toronto Convention Centre in March, over 30,000 people from the world’s mining industry attended a mining convention. People exchanged business cards and spoke about projects often located in remote corners of the world.</p>\n<p>Nouveau Monde Graphite had a booth among the more than 1,300 exhibitors. Visitors stopped by to ask questions. Antoine Cloutier, the company’s geologist, said that construction of the mine could be in the spring.</p>\n<p>The company has recently raised over US$600 million through loans and equity investments. Its news release shows US$335 million in loans are provided by two federal Crown corporations (Export Development Canada and Canada Infrastructure Bank). US$309.5 million in equity investments come from the Canada Growth Fund, part of another Crown corporation, Investment Quebec, the Italian energy company Eni and an equity public offering.</p>\n<p>Eni is also a potential customer for Nouveau Monde Graphite. It says graphite from Canada could support its energy storage battery manufacturing initiative in southern Italy.</p>\n<p>At a panel discussion about mining finance, some raised concerns about governments using public dollars to help fund critical mineral projects in general.</p>\n<p>“When I look at governments putting hard dollars into properties, I get a little afraid,” Nawojka Wachowiak, a portfolio manager specializing in the metals and mining sector, told the audience. “I’m wondering whether they are picking the best of the best.” Wachowiak argues that tax incentives from the government would be a better option.</p>\n<p>Another panelist, Ilan Bahar, a global metals and mining investment banker at the Bank of Montreal, was more supportive of government involvement. “If you … allow economic balances across the world to determine what projects get invested in, you’ll never invest in North America,” he said. “Projects here won’t get built. They just won’t.”</p>\n<p>At the village of Saint-Michel-des-Saints, construction of the Matawinie Graphite Mine has begun. Cloutier, who first discovered the graphite, is excited to get started. “It’s truly a unique opportunity from… a discovery where you’re in a fully wooded area and you find something that might present some potential, right up to having companies from all over the world looking for the product that you’ve found,” he said. “It’s the dream of every exploration geologist, working towards a full-fledged mining operation.”</p>"
+    },
+    {
+      "title": "Permanent HST relief, single-stair codes and shorter approvals are the fixes Ontario's housing market needs",
+      "link": "https://news.google.com/articles/CBMi0gFBVV95cUxPeWlEZzVYNG51ZThOZFpMak85cG90Y3dCeVoySTdvczB2NDlEVXdWdzlhQl9iV2pZUTFJcHgwYjc4R0gzUjBRaFdnanZSNk1ONElJdlBhS2FPMEJBR0FLZkdvajB4TkViSVVhM3hWZkNJUjlPaGpac0RfSjVXMm83VlpnWmI5ejBJR3dUQ1FPdzBONWI1YzBYdHlUeFBaRlpZVnZId1VyczJJb2pCS0ttdHBCVS0yZUFfNVp1SlNTbmhybVVkTnhMdkkxVHNQbGpyVnc?oc=5",
+      "pubDate": "Thu, 21 May 2026 09:05:35 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Real Estate Magazine Canada",
+      "_pubUrl": "https://realestatemagazine.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Officials warn thousands of Canadian devices tied to BadBox infections",
       "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/21/officials-warn-thousands-of-canadian-devices-tied-to-badbox-infections/",
       "pubDate": "Thu, 21 May 2026 00:04:27 -0400",
@@ -100,25 +156,14 @@
       "body": "<p>Canadians are being urged to think twice before plugging in cheap internet-connected devices, as cyber officials warn a growing number of smart products may already be compromised and helping criminals hide their activities online.</p>\n<p>The threat, known as “BadBox,” is a botnet – a network of infected internet-connected devices controlled by cyber criminals – that can turn everyday household electronics into tools for fraud, scams and other cybercrime.</p>\n<p>Bridget Walsh, associate head of the Canadian Centre for Cyber Security, said the issue affects so-called “internet of things” devices, including smart thermostats, refrigerators, lighting controllers and other products connected to home or business networks.</p>\n<p>“Those are products that bring a lot of convenience, but are products that come with risk,” Walsh said in an interview with CTV News Channel Wednesday. “ Last year, when (we saw) the BadBox really spiking, there were up to 60,000 infections in Canada.”</p>\n<p>Walsh said officials have already identified at least 30,000 infections in Canada so far this month, though she noted authorities are still counting.</p>\n<h2>What is a botnet?</h2>\n<p>A botnet is a collection of compromised devices that hackers use to conceal their identity and activities online.</p>\n<p>Walsh said cyber criminals often gain access to devices through weak passwords, outdated software or vulnerabilities built into poorly secured products.</p>\n<p>“They log into the device, they access it, and they use it to pretend and to make what they’re doing look like it’s coming from that home network or that small business network,” she said.</p>\n<p>The tactic can make it harder for authorities to trace criminal activity back to the perpetrators.</p>\n<p>“These sorts of actors online are conducting harm, they’re conducting criminal activities,” Walsh said. “They might be sending fraudulent messages to dupe people into scams, they might be stealing information from others.”</p>\n<h2>What should consumers do?</h2>\n<p>Walsh said consumers should be cautious when buying low-cost smart devices online, particularly products from unfamiliar sellers or manufacturers.</p>\n<p>“You might be thinking you’re getting a great deal if you’re buying a device that seems too good to be true,” she said. “Maybe it is.”</p>\n<p>She encouraged consumers to research products before purchasing them and ask whether devices receive software updates and ongoing support.</p>\n<p>Experts also recommend changing default passwords, enabling security updates and reviewing online product reviews before connecting devices to home networks.</p>\n<h2>What if your device is infected?</h2>\n<p>Walsh said internet providers or law enforcement may sometimes notify households or businesses if a device on their network appears to be linked to a botnet.</p>\n<p>“If you are ever contacted by your telecommunications company … do engage with the telco, take the device offline, bring it down,” she said.</p>\n<p>Walsh said removing infected devices from networks can help reduce the size and effectiveness of botnets.</p>\n<p>She added that cybersecurity risks are not limited to smart appliances alone and can also stem from weak passwords or poor network security practices more broadly.</p>\n<p>“Think about when you buy these things, not just about ‘is this the right thing to buy?’ but ‘how do I set it up?’” Walsh said.</p>\n<p>The <a href=\"https://www.cyber.gc.ca/en\" rel=\"\">Canadian Centre for Cyber Security</a> provides advice for securing smart devices and home networks through its <a href=\"https://www.getcybersafe.gc.ca/en\" rel=\"\">Get Cyber Safe</a> program.</p>"
     },
     {
-      "title": "SpaceX reveals plans for what could be the biggest-ever initial public offering",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/05/20/spacex-reveals-plans-for-what-could-be-the-biggest-ever-initial-public-offering/",
-      "pubDate": "Wed, 20 May 2026 23:44:39 -0400",
-      "description": "Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars year.",
-      "content": "<media:description type=\"plain\"><![CDATA[SpaceX's latest version of it's mega rocket Starship is prepared for a test flight from Starbase, Texas, Wednesday, May 20, 2026. ]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Eric Gay</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/AYYMHJU6TLVNUMJUXJU6IKZULY.jpg?auth=a85a65849a311e3f754367fb75e455e80c6a135b7d26117dd95619d04491bcf5&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a space company that is currently losing billions of dollars year.",
-      "body": "<p>NEW YORK —&nbsp;Elon Musk announced plans Wednesday for one of the biggest stock sales ever by taking public a&nbsp;space&nbsp;company that is currently losing billions of dollars year.</p>\n<p>A filing shows that his SpaceX lost US$2.6 billion from operations last year on $18.7 billion in revenue, and the losses kept piling up at the start of this year, too.</p>\n<p>The prospectus did not put a dollar figure on the amount Musk hopes to raise, but various reports have put it at $75 billion or so. An offering of that size would easily surpass the current title holder, Saudi Aramco, the oil giant that went public seven years ago and raised $26 billion.</p>\n<p>SpaceX, formally known as&nbsp;Space&nbsp;Exploration Technologies Corp., has said the money will help finance projects to put people on the moon and Mars in its quest to make humans an intergalactic species as they face existential threats that could wipe out civilization.</p>\n<p>“We do not want humans to have the same fate as dinosaurs,” the filing states.</p>\n<p>The prospectus reads in part like a Hollywood fantasy version of the future, detailing in one section how part of Musk’s compensation will be granted only if he maintains “a permanent human colony on Mars with at least one million inhabitants.”</p>\n<p>Short of that, the stock sale alone could make Musk, a major owner who founded SpaceX in 2002, the&nbsp;world’s first trillionaire. Forbes currently puts his net worth at $839 billion.</p>\n<p>In addition to making reusable rockets to hurl astronauts into orbit, SpaceX has other businesses, some successful, some struggling — and with plenty of questions marks.</p>\n<p>The document shows that Starlink, the world’s largest satellite communications company, is a big source of cash for the company, generating $4.4 billion in operating income last year. The business uses 10,000 satellites in low orbit to provide internet service to 10 million people in 150 countries and territories.</p>\n<p>Among the struggling businesses are two Musk units that were recently acquired by SpaceX — his social media platform X, formerly Twitter, and his artificial intelligence business, xAI. Those purchases were blasted by some SpaceX investors as bailouts because they are big money losers.</p>\n<p>The prospectus said its AI business lost $6.4 billion in operations last year.</p>\n<p>The original SpaceX business, making rockets and staging launches, has been helped by massive government contracts, which raises questions that could come back to haunt the company. Given Musk’s close relation to the Trump administration, government ethics lawyers and watchdogs have asked if he has gotten special treatment to win taxpayer money and whether that good luck will run out once U.S. President Donald Trump is out office.</p>\n<p>SpaceX has won contracts worth $6 billion from NASA and the Defense Department and other government agencies in the past five years, according to USAspending.gov. The company noted in its filing that a fifth of its revenue last year was from the federal government.</p>\n<p>Musk was the biggest donor to Trump’s presidential campaign and is still a big backer despite their sometimes rocky relationship after his stewardship of the government cost-cutting effort called DOGE early last year.</p>\n<p>Like many corporate CEOs, Musk’s compensation will go far beyond his annual salary, which was $54,080 in 2025 and has remained unchanged since 2019, according to the filing.</p>\n<p>The prospectus says stock grants for him would be sliced into 15 nearly equal amounts — 67 million shares each — and would vest only as the company achieves preset market cap goals. In addition to the Martian colony, SpaceX’s stock market value would have to reach $7.5 trillion for him to receive the full award.</p>\n<p>He would get even more stock awards if SpaceX manages to get giant data centres the size of football fields in&nbsp;space.</p>\n<p>The document shows Musk will be able to exert big control over the business.</p>\n<p>It says he and certain other shareholders will receive shares in a special class of stock that gives them 10 votes for each share they hold. Those shareholders will be able, among other things, to elect a majority of the company’s board of directors.</p>\n<p>“This will limit or preclude your ability to influence corporate matters and the election of our directors,” SpaceX said in a warning to prospective investors.</p>\n<p>SpaceX will be able to pitch the offering to investors — in what’s known in Wall Street parlance as a “road show” — 15 days after making its prospectus public. In this case, that works out to June 4.</p>\n<p><i>Associated Press writer Alex Veiga in Los Angeles contributed.</i></p>"
-    },
-    {
       "title": "Trump’s tariff threats inspired Canadians to buy local. But a new problem has emerged",
       "link": "https://www.bnnbloomberg.ca/business/2026/05/20/trumps-tariff-threats-inspired-canadians-to-buy-local-but-a-new-problem-has-emerged/",
       "pubDate": "Wed, 20 May 2026 21:57:40 -0400",
-      "description": "Customers have lodged an increasing number of complaints over alleged 'maple washing' against grocers, resulting in investigations and thousands of dollars in fines, according to the CFIA.",
+      "description": "Customers have lodged an increasing number of complaints over alleged \"maple washing\" against grocers, resulting in investigations and thousands of dollars in fines, according to the Canadian Food Inspection Agency.",
       "content": "<media:description type=\"plain\"><![CDATA[A sign advising that products from the U.S. affected by a tariff will be marked with a symbol at the shelf, with a QR code linking to a Government of Canada website, is seen in a grocery store in Ottawa, on Wednesday, April 2, 2025. THE CANADIAN PRESS/Justin Tang]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Justin Tang</media:credit>",
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/Q2G34NLIJO3RGPJMC73W4X7P6U.jpg?auth=bdcc0053ba02db6571b3edcd8d4094837489af4baf4d3cc421d911314b9c602d&amp;smart=true&amp;width=1400&amp;height=933",
       "_src": "bnn",
-      "_ogDesc": "Customers have lodged an increasing number of complaints over alleged &#x27;maple washing&#x27; against grocers, resulting in investigations and thousands of dollars in fines, according to the CFIA.  ",
+      "_ogDesc": "Customers have lodged an increasing number of complaints over alleged \"maple washing\" against grocers, resulting in investigations and thousands of dollars in fines, according to the Canadian Food Inspection Agency.",
       "body": "<p>Customers have lodged an increasing number of complaints over alleged “maple washing” against grocers, resulting in investigations and thousands of dollars in fines, according to the Canadian Food Inspection Agency.</p>\n<p><a href=\"https://consumerscouncil.com/the-rise-of-maple-washing/\" rel=\"\">“Maple washing”</a> refers to the practice of retailers and producers making their products “appear to be as Canadian as possible,” to take advantage of consumers’ preference for domestic products, according to the Consumers Council of Canada. The complaints were largely made after the “Buy Canadian” movement took off, according to the data Canadian Food Inspection Agency (CFIA) shared with CTVNews.ca.</p>\n<p>As a result of the movement sparked by trade tensions with the United States, some Canadians favoured domestic products – <a href=\"https://www.ctvnews.ca/atlantic/article/shoppers-willing-to-pay-more-for-canadian-grown-goods-amid-trade-war/\" rel=\"\">even if they were pricier</a> – over those made south of the border.</p>\n<p>“The CFIA takes labelling issues seriously and wants to know about products that consumers think are labelled in a misleading manner,” a spokesperson from the CFIA told CTVNews.ca in an email, Friday.</p>\n<p>According to the oldest data provided by the CFIA, the federal agency only received one and two complaints in November and December 2024, respectively. The number climbed to 25 in February 2025 and 33 the following month, when the “<a href=\"https://www.bankofcanada.ca/2026/02/sparks-at-bank-article-2026-6/\" rel=\"\">Buy Canadian” movement</a> started to gain steam amid escalating trade tensions.</p>\n<p>While the number dipped during some months, it surged to a peak 78 complaints in March. As of May 11, the CFIA has received 17 complaints.</p>\n<p>The CFIA said it follows up on all complaints about the misrepresentation of products, and has <a href=\"https://inspection.canada.ca/en/food-labels/labelling/notice-industry-2025-03-14\" rel=\"\">previously reminded businesses</a> to ensure product labels are “accurate and not misleading consumers.”</p>\n<p>Despite the actions addressing maple washing, the CFIA data showed “there’s a big problem out there,” consumer advocate Jay Jackson told CTVNews.ca in a Zoom interview on Wednesday.</p>\n<p>Jackson, a member of the Consumers Council of Canada, said it’s “unconscionable” that some grocery stores “misrepresent products” and take advantage of the demand to “buy Canadian,” amid <a href=\"https://www.ctvnews.ca/atlantic/article/high-grocery-prices-force-canadians-to-choose-between-affordability-and-sustainability-survey/\" rel=\"\">high food inflation and affordability</a> challenges.</p>\n<h2>What happens to maple-washing violators?</h2>\n<p>The CFIA said that it received a total of 403 complaints between Nov. 1, 2024, and May 11, 2026, adding that it had evaluated 345 complaints as of May 11. The federal agency determined “non-compliance” for 119 complaints from those evaluated, with most related to country-of-origin labelling or advertising for produce at retail. Canadian content claims applied to 96 of the “non-compliance” cases.</p>\n<p>For non-compliance cases, the CFIA said it would address the problems, including reviewing the labelling processes and checking if “corrective actions” have been done, adding that more “<a href=\"https://inspection.canada.ca/en/inspection-and-enforcement/actions-taken/amps#dataset-filter\" rel=\"\">enforcement actions</a>” would be taken if businesses still don’t meet requirements. These actions, which are posted on its <a href=\"https://inspection.canada.ca/en/inspection-and-enforcement/actions-taken\" rel=\"\">website</a> and <a href=\"https://x.com/InspectionCan\" rel=\"\">on X</a>, include suspending and cancelling food business licences and imposing monetary penalties.</p>\n<h2>Some companies accused of maple washing</h2>\n<p>On March 16, the CFIA announced that it had <a href=\"https://www.canada.ca/en/food-inspection-agency/news/2026/03/food-businesses-face-penalties-for-mislabelling-products-as-canadian.html\" rel=\"\">levied $47,000 in fines</a> on food businesses since April 2025 for misrepresenting products as Canadian. Among them, <a href=\"https://www.ctvnews.ca/toronto/article/2-grocery-stores-in-ontario-fined-10k-each-for-mislabelling-some-food-items-as-canadian/\" rel=\"\">two Loblaw-owned grocers in Ontario</a> were fined $10,000 each. The federal agency also <a href=\"https://inspection.canada.ca/en/inspection-and-enforcement/actions-taken/amps#dataset-filter\" rel=\"\">issued warnings to two Loblaw stores</a> in the Atlantic region on Feb. 20 over similar concerns.</p>\n<p>In an email to CTVNews.ca on Wednesday, a spokesperson for Loblaw called the incidents “isolated situations.” Rachel Siekanowicz, director of communications at Loblaw, said the retail giant “acted immediately” to address the issues.</p>\n<p>“We believe customers want visibility into where products come from, and we continue to provide that information in accordance with CFIA guidance,” Siekanowicz wrote. “This can be challenging with a constantly changing assortment of products sourced from different regions of the country and different times of the year. While we work hard to maintain accuracy, occasional errors can happen.”</p>\n<p>A spokesperson from Sobeys suggested that it was challenging to place Canadian flag labels on thousands of products at the grocer’s 1,600 stores across the country.</p>\n<p>“While we aim to avoid errors of any kind, we know that this highly manual process led to some isolated incidents,” the spokesperson wrote in an email to CTVNews.ca on Wednesday. “When identified we moved as quickly as possible to correct. Any suggestion that errors identified in shelf labelling were made willfully is simply not true.”</p>\n<p>Sobeys is not among the retailers that faced consequences from the CFIA, based on the information the agency posted online and shared with CTVNews.ca, and the agency didn’t respond by deadline when asked whether the company has been involved in any investigations.</p>\n<p>However, Sobeys is among the <a href=\"https://www.ctvnews.ca/toronto/consumer-alert/article/are-you-really-buying-canadian-products-some-grocery-stores-are-being-accused-of-maple-washing/\" rel=\"\">grocers named in a proposed class action</a>.</p>\n<h2>Class action against grocers</h2>\n<p>As Canada deals with cases of alleged maple washing, this class action against <a href=\"https://www.ctvnews.ca/toronto/consumer-alert/article/are-you-really-buying-canadian-products-some-grocery-stores-are-being-accused-of-maple-washing/\" rel=\"\">grocers accused of “false advertising”</a> is in its early stages. A hearing to authorize the class action is expected in the fall, said Joey Zukran, a lawyer with LPC Avocats in a Zoom interview with CTVNews.ca on Friday. LPC Avocats and Renno Vathilakis are the Montreal-based law firms that launched the class action.</p>\n<p>He said the class action aims to hold the businesses “accountable and to get some form of compensation for the public.”</p>\n<p><i>With files from CTV News’ Abigail Bimman</i></p>"
     },
     {
@@ -145,28 +190,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "TSX rises more than 400 points in Wednesday trading, U.S. markets also up",
-      "link": "https://www.bnnbloomberg.ca/business/2026/05/20/sptsx-up-more-than-300-points-in-late-morning-trade-us-markets-also-up/",
-      "pubDate": "Wed, 20 May 2026 20:42:37 -0400",
-      "description": "Markets in Toronto and New York were given a jolt Wednesday as oil prices fell after President Donald Trump said the U.S. and Iran could be nearing a deal to end the current war.",
-      "content": "<media:description type=\"plain\"><![CDATA[The Bay Street financial district is shown next to the CN Tower in Toronto. THE CANADIAN PRESS/Nathan Denette]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Nathan Denette</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VC7U7NI4W5E2NPPVY7OPCW6XFU.JPG?auth=3b7af6bc900d54596200454aa66904ae03b2ff02e82dd3d53561c7297ebe74f1&amp;smart=true&amp;width=4200&amp;height=2747",
-      "_src": "bnn",
-      "_ogDesc": "Markets in Toronto and New York were given a jolt Wednesday as oil prices fell after President Donald Trump said the U.S. and Iran could be nearing a deal to end the current war.",
-      "body": "<p>Markets in Toronto and New York were given a jolt Wednesday as oil prices fell after President Donald Trump said the U.S. and Iran could be nearing a deal to end the current war.</p>\n<p>The S&amp;P/TSX composite index was up 420.58 points at 34,161.82.</p>\n<p>In New York, the Dow Jones industrial average was up 645.47 points at 50,009.35. The S&amp;P 500 index was up 79.36 points at 7,432.97, while the Nasdaq composite was up 399.65 points at 26,270.36.</p>\n<p>Those gains erased losses from Monday and Tuesday, as the market seems to be “taking (Trump) on his word,” said Michael Currie, senior investment adviser at TD Wealth.</p>\n<p>“Sometimes they really believe him, sometimes they don’t believe him, sometimes they kind of just ignore him,” he said.</p>\n<p>The president said Wednesday that talks with Iran were “in the final stages.”</p>\n<p>“Do we go ahead and finish it up or are they going to be signing a document? Let’s see what happens,” Trump said during an address to the U.S. Coast Guard Academy’s graduates.</p>\n<p>The president had threatened to launch renewed strikes on Iran this week as talks with Tehran seemed to have stalled and a fragile ceasefire appeared to be teetering. But Trump on Monday said he was giving Iran a few more days because “serious negotiations” were underway.</p>\n<p>Earlier Wednesday, he told reporters that he’s “in no hurry” to strike a deal to wrap up the war because of political concerns and the November midterm elections.</p>\n<p>While the timeline for a potential resolution remains vague, Currie said the market had a “pretty big reaction” to the latest update.</p>\n<p>“Does that mean tomorrow, next week, three months? It’s a matter of opinion, but they seem to be staking a lot on it,” he said.</p>\n<p>“Some of it is based on the fact that we just had two down days, so it’s a bit of a recovery from that. I think if we’d been relatively flat the last couple of days, we wouldn’t have seen as big a move today.”</p>\n<p>The sluggish start to the week was driven mostly by concerns about inflation dragging on longer and pushing yields up, said Currie, adding Wednesday’s rally was “very spread out” across various sectors, indicating a more “optimistic” market overall.</p>\n<p>Interest rates and inflation talk have had a heavy influence on markets on both sides of the border lately, said Currie.</p>\n<p>Statistics Canada said Tuesday that higher gas prices driven mainly by the war in Iran pushed Canada’s inflation rate to 2.8 per cent in April, a jump from March’s rate of 2.4 per cent. The cost of gasoline was 28.6 per cent higher year-over-year last month as conflict in the Middle East disrupted global oil shipments, sending prices soaring at the gas pumps.</p>\n<p>“For the last few days it’s definitely about, ‘How long is this going to drag on, the conflict?’” Currie said.</p>\n<p>“The market has been saying for a while and is still saying this is probably going to be short-lived and oil prices, if you look three, six months out, are much lower than they are today.”</p>\n<p>The July crude oil contract was down US$5.89 at US$98.26 per barrel.</p>\n<p>The June gold contract was up US$24.10 at US$4,535.30 an ounce.</p>\n<p>The Canadian dollar traded for 72.72 cents US, compared with 72.69 cents US on Tuesday.</p>\n<p><i>This report by The Canadian Press was first published May 20, 2026.</i></p>\n<p><i>Sammy Hudes, The Canadian Press. With files from The Associated Press</i></p>"
-    },
-    {
-      "title": "U.S. stocks rally after pressure eases from the bond market and oil prices fall",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/05/20/us-stocks-rally-as-pressure-eases-from-the-bond-market-and-oil-prices-fall/",
-      "pubDate": "Wed, 20 May 2026 20:40:55 -0400",
-      "description": "The U.S. stock market bounced back Wednesday after pressure eased on Wall Street from the bond market and oil prices gave back some of their big gains.",
-      "content": "<media:description type=\"plain\"><![CDATA[John Bishop, left, and others work on the floor at the New York Stock Exchange in New York. (AP Photo/Seth Wenig)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Seth Wenig</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/3677KLVJ6ALPTRGLJJEBZQMP7I.jpg?auth=1877f792a470e42193c40861ba1bf68166681a7b94a53df67ae227b69e256ae4&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "The U.S. stock market bounced back Wednesday after pressure eased on Wall Street from the bond market and oil prices gave back some of their big gains.",
-      "body": "<p>NEW YORK (AP) — The U.S. stock market bounced back Wednesday after pressure eased on Wall Street from the bond market and oil prices gave back some of their big gains.</p>\n<p>The S&amp;P 500 climbed 1.1 per cent for its first rise in four days&nbsp; and pulled closer to its all-time&nbsp; high set last week. The Dow Jones Industrial Average added 645 points, or 1.3 per cent, and the Nasdaq composite rallied 1.5 per cent.</p>\n<p>Stocks got a lift from easing yields in the bond market, which offered relief following rapid climbs that had rattled stock markets worldwide recently. The yield on the 10-year Treasury fell to 4.57 per cent from 4.67 per cent late Tuesday, which is a significant move for a market that measures things in hundredths of a percentage point.</p>\n<p>The 10-year Treasury yield had been rising from less than 4 per cent before the war with Iran began, along with other yields around the world, because of worries that the fighting will keep oil prices high, among other factors. The inflation concerns not only seemed to eliminate the chances for a cut to interest rates by the Federal Reserve this year, they also heightened the risk that central banks may have to raise rates in 2026.</p>\n<p>High yields slow economies and weigh on prices for stocks, cryptocurrencies and all kinds of other investments. Besides driving up rates for mortgages, they could also curtail companies’ borrowing to build the artificial-intelligence&nbsp; data centers that have been supporting the U.S. economy’s growth&nbsp; recently.</p>\n<p>Yields eased Wednesday as oil prices pulled back some more. The price for a barrel of Brent crude fell 5.6 per cent to settle at US$105.02, though it remains well above its roughly US$70 level from before the war. Prices have been yo-yoing on rising and falling hopes that the United States and Iran can reach an agreement to allow oil deliveries to fully resume from the Persian Gulf to customers worldwide.</p>\n<p>A report showing less bad inflation in the United Kingdom than economists expected also helped calm yields worldwide.</p>\n<p>With the easing of yields, technology stocks helped lead Wall Street higher.</p>\n<p>Nvidia rose 1.3 per cent ahead of its latest profit report, which arrived after trading ended for the day, and was the strongest force lifting the S&amp;P 500. The chip company reported another quarter of bigger growth in profit and revenue than analysts expected, while it also gave a better-than-expected forecast for revenue in the current quarter.</p>\n<p>Other tech stocks leading the market included Advanced Micro Devices, up 8.1 per cent, and Intel, up 7.4 per cent.</p>\n<p>Smaller companies can feel even bigger relief from lower yields than their bigger rivals because many need to borrow to grow. The Russell 2000 index of the smallest U.S. stocks jumped 2.6 per cent, more than double the gain of the S&amp;P 500, which measures the biggest U.S. stocks.</p>\n<p>Also helping to drive the market was the company behind TJ Maxx, Marshalls and other stores, which climbed 5.7 per cent after delivering stronger profit and revenue for the latest quarter than analysts expected. TJX’s CEO, Ernie Herrman, said the current quarter is off to a good start, and the off-price retailer raised its forecasts for revenue and profit this year.</p>\n<p>Red Robin Gourmet Burgers jumped 18.2 per cent, and Cava Group rose 3.1 per cent following their own better-than-expected profit reports. Such results raise hopes that households can keep spending and supporting the economy, even though they’re contending with high gasoline prices&nbsp; and widespread discouragement&nbsp; about economic conditions.</p>\n<p>Most big U.S. companies have likewise reported better profits for the start of 2026 than analysts expected, which has helped stocks run to records. Stock prices tend to follow the path of corporate profits over the long term.</p>\n<p>On the losing side of Wall Street was Target, which fell 3.9 per cent even though the retailer reported better profit&nbsp; and revenue for the latest quarter than analysts expected. A new CEO, Michael Fiddelke, is trying to turn around the company and boost its revenue.</p>\n<p>Expectations were high for the company’s performance after Target’s stock came into the day with a gain of more than 30 per cent for the year so far, quadruple the S&amp;P 500’s gain.</p>\n<p>All told, the S&amp;P 500 rose 79.36 points to 7,432.97. The Dow Jones Industrial Averae jumped 645.47 to 50,009.35, and the Nasdaq composite rallied 399.65 to 26,270.36.</p>\n<p>In stock markets abroad, indexes climbed in Europe following weaker finishes across Asia.</p>\n<p>Tokyo’s Nikkei 225 fell 1.2 per cent as the yield on the 10-year Japanese government bond slipped but remained near its highest level since 1997.</p>\n<p><i>Stan Choe, The Associated Press. AP Business Writers Matt Ott and Elaine Kurtenbach contributed.</i></p>"
-    },
-    {
       "title": "Airbnb expands into hotels, cars, groceries",
       "link": "https://www.bnnbloomberg.ca/business/company-news/2026/05/20/airbnb-expands-into-hotels-cars-groceries/",
       "pubDate": "Wed, 20 May 2026 19:20:48 -0400",
@@ -187,17 +210,6 @@
       "_src": "bnn",
       "_ogDesc": "Prime Minister Mark Carney has laid out prerequisites for a possible new oil pipeline from Alberta to the British Columbia coast after B.C. Premier David Eby warned the project would reward separatist behaviour.\n",
       "body": "<p>VANCOUVER -- Prime Minister Mark Carney and British Columbia Premier David Eby have agreed to enter negotiations on B.C.’s economic priorities and Ottawa’s role in national development projects.</p>\n<p>Carney met with Eby in a closed-door meeting in Vancouver Wednesday, shortly after the prime minister spoke to B.C. business leaders at a separate event where he outlined prerequisites for a possible pipeline championed by Alberta.</p>\n<p>At the event hosted by the Greater Vancouver Board of Trade, Carney noted that the pipeline would only go ahead with the creation of the Pathways carbon capture project as well as substantial economic benefits for B.C. and “non-negotiable” consultation with First Nations.</p>\n<p>“One of the benefits of actually sitting down and talking about these things, as opposed to litigating about these things across federal government and provinces, is that it develops a shared understanding, a recognition of what needs to be done, an understanding of why this is the right thing to do,” Carney told the Board of Trade before entering talks with Eby.</p>\n<p>“And that’s where we’re moving between the two governments.”</p>\n<p>The Eby-Carney meeting came after Ottawa’s handling of the national development file was repeatedly criticized by the premier, who has said Alberta should not be rewarded for “bad behaviour,” and that Canada cannot work if “separatist premiers” get all the attention of the federal government.</p>\n<p>Eby said Wednesday ahead of his meeting with Carney that part of friendship is telling each other the truth, including that developing the economy must be in line with protecting the environment.</p>\n<p>He said that includes the moratorium on oil tanker traffic off B.C.’s north coast, that has been raised as a potential impediment to any new pipeline from Alberta to the B.C. coast.</p>\n<p>“Part of the truth for British Columbia is that development work that we’re doing, developing our economy, has to go hand in hand with environmental protection for the next generation, including the north coast tanker ban,” Eby said.</p>\n<p>“That is crucially important for British Columbians, protecting our pristine north coast, as well as ensuring we have that balance, and I know the prime minister shares those values too.”</p>\n<p>Eby has been critical of the federal government after Carney and Alberta Premier Danielle Smith last week signed an agreement that could see pipeline construction begin next year.</p>\n<p>The proposed project has no agreed route or private proponent.</p>\n<p>Eby has urged the prime minister to focus more on projects being advanced by B.C., a point he reiterated Wednesday.</p>\n<p>”When I think about what I’m hoping for out of this meeting, it’s a fair share for British Columbia of federal investment that the prime minister is committed to for this country and a fair share of federal enthusiasm for the projects that we’re bringing forward,\" Eby said. “And that’s why I’m glad that the prime minister and I have agreed to enter into negotiations on B.C.’s priorities going forward.”</p>\n<p>Carney said it’s important to build in the right way, in partnership with First Nations and with an emphasis on sustainability, and the priorities of British Columbians.</p>\n<p>He told the Board of Trade earlier that British Columbians should share substantial economic and financial benefits from the project and that Ottawa must consult First Nations under section 35 of the Constitution Act.</p>\n<p>But Carney said that while Ottawa will “adjust to what people want” based on discussions similar to the one with Eby, it is essential that a resolution is found in a timely manner on topics such as the pipeline and others.</p>\n<p>“Look, we’re the federal government,” he told the board of trade. “It’s a big country. There’s lots of things going on. Life’s about time management.</p>\n<p>“But if things get stalled here, we’re going to be spending more time elsewhere in the country because we need to move forward. We need to invest at scale in the country.”</p>\n<p><i>This report by The Canadian Press was first published May 20, 2026.</i></p>\n<p><i>Chuck Chiang and Brieanna Charlebois, The Canadian Press</i></p>"
-    },
-    {
-      "title": "Inside the village that could host the G7’s largest graphite mine",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/20/our-economy-needs-a-huge-kick-in-the-butt-inside-a-quebec-village-at-the-centre-of-a-nation-building-project/",
-      "pubDate": "Wed, 20 May 2026 18:13:08 -0400",
-      "description": "After more than a decade of exploration and searching for financing, the Matawinie Graphite Mine has begun construction.",
-      "content": "<media:description type=\"plain\"><![CDATA[Left: The main street of Saint-Michel-des-Saints in January. Right: Graphite samples displayed at Nouveau Monde Graphite’s head office.]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/INRIDHI3BND5NHX2VKBWP4EGWA.png?auth=0ef0ffbe07c68ecbc68aff641e9f7a608d27b7a46bb7ebc3c8078d140a116c8b&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "After more than a decade of exploration and searching for financing, the Matawinie Graphite Mine has begun construction.",
-      "body": "<p><i>Lu Fan is a 2025 Sachedina / CTV News fellow. This is part one of a two-part series on the graphite mine in Saint-Michel-des-Saints, Que. </i></p>\n<p>SAINT-MICHEL-DES-SAINTS, Que. - The small village of Saint-Michel-des-Saints is situated on the southern border of an immense boreal forest, about two hours north of Montreal. The Matawin River runs around it.</p>\n<p>Fewer than 3,000 people live here, but it is also home to a project on Canada’s nation-building list. After more than a decade of exploration and searching for financing, <a href=\"https://www.pm.gc.ca/en/news/news-releases/2026/05/19/prime-minister-carney-breaks-ground-nouveau-monde-graphites-matawinie\" target=\"_self\" rel=\"\" title=\"https://www.pm.gc.ca/en/news/news-releases/2026/05/19/prime-minister-carney-breaks-ground-nouveau-monde-graphites-matawinie\">the Matawinie Graphite Mine has begun construction</a>. Like many rural communities, Saint-Michel-des-Saints is grappling with an aging population and shrinking job opportunities. People here are banking on the mine to bring back prosperity.</p>\n<p>“I was born here and I’ll die here,” said Mélanie Charette, the manager of a hotel in the village. “We need (a stronger) economy.”</p>\n<p>But whether this major project will succeed will not only depend on the resources beneath the land, but on larger forces beyond the control of the village.</p>\n<p>Speaking to us in French and before the construction started, Mario Venne, the mayor, said his village is privileged to have resources such as graphite, a mineral essential for the modern economy and used in electric vehicle batteries.</p>\n<p>Venne, 60, was elected in November. He wears a grey sweater with the village logo on it. “I got 73 per cent of the vote,” he said proudly.</p>\n<p>An oil painting on his office wall — a sawmill with logs floating by in the foreground — speaks to the community’s first industry.</p>\n<p>“Forestry was what populated the village. Then tourist attractions. The potential of thousands of lakes with thousands of kilometres of roads.”</p>\n<p>Micheline Charette, a cheerful 70-year-old resident, visited the project site on a tour. She welcomes it as long as it strictly respects environmental regulations. She said the village’s best times were about 30 years ago. “The whole village was working in (forestry), three shifts.”</p>\n<p>In 2006, a wood panel mill closed. More than 300 jobs were lost at the time. The mayor said the local sawmill still provides economic<b> </b>security for the village. But it runs at a slower pace now because of U.S. tariffs. “Mr. Trump, sorry to mention his name. But he’s the person that is messing things up.”</p>\n<p>The Prime Minister’s Office says the Matawinie Mine “will create more than 1,000 new jobs from engineering to the skilled trades” and attract nearly $2 billion in investment into the economy.</p>\n<p>It’s also expected to have a role in defence applications along with battery supply chains. Around the world, countries are fighting to secure critical minerals to power their economies and militaries. They are widely used in cellphones, electric vehicles, AI data centres and even fighter jets.</p>\n<p>Graphite has long been used in steelmaking. Now it’s also used to make the anode — the negative side of a battery that stores and releases energy. Battery anode materials now account for almost half of global graphite consumption.</p>\n<p>In Saint-Michel-des-Saints, a signpost with a battery on it indicates the head office of Nouveau Monde Graphite, the developer of the Matawinie Mine project and owner of the graphite deposits in the area. It’s headquartered on the village’s main street, along with a church, the municipal office, and a few stores.</p>\n<p>Resident Philippe Joyal said he heard some villagers bought the company’s shares. He is also thinking about it as he believes the project is going well.</p>\n<p>Mayor Venne had been in office for about two weeks when the major projects announcement came. “It was huge hearing we’re one of the six national projects,” said Venne. “I was at my first MRC (regional county municipality) meeting. The media called nonstop. It put Saint-Michel-des-Saints on the map.”</p>\n<p>Most villagers I spoke to support the mine and the jobs it could bring to the community, while some cottage owners in the area oppose the project over environmental concerns.</p>\n<p>Dmitri Kharitidi is a cottager and one of the founders of the Coalition of Opponents to a Mining Project in Haute-Matawinie. He said he understands the economy is important, but “it’s a lack of vision of the potential impact of the mine.”</p>\n<p>Kharitidi said the economic driver in the past decades for the village is actually the cottagers. Attracted by this wild nature, they’ve been buying land and building houses. “The region grew because of that,” he said. “It’s a significant inflow of money.”</p>\n<p>But because of the mining project, Kharitidi said some of his neighbours have left the region. He said his parents bought the property about 15 years ago. They planned to spend their retirement in the village. “Selling is a hard conversation that we will have to have,” said Kharitidi. “I don’t know if we want to move… because my family loves the place.”</p>\n<p>Mayor Venne has been supporting the project. He said he will “get hit over the head” if there are environmental issues.</p>\n<p>For now, he’s more focused on the potential benefits than potential risks. He hopes the project could bring a larger population and attract more businesses. “We are going to tell them there is a lot of demand. (Maybe) for a sushi buffet, or a McDonald’s.”</p>\n<p>Like some of his friends, the mayor has children studying away from home. “We all dream that they will return to the village in the future,” he said. “They are going to be able to settle… in the village if there are all the services that they need. That’s what is important.”</p>\n<p>Nouveau Monde Graphite has also built a bike trail. “I went to walk it myself. It’s a trail that others will envy,” said the mayor. He hopes the bike trail could attract tourists and even international competitions.</p>\n<p>“Even if Nouveau Monde disappears, (the bike trail) will not go away,” he said. “And I hope the mine is built to stay too.”</p>"
     },
     {
       "title": "Far fewer Canadians now concerned about defaulting on mortgages: CMHC",
@@ -444,18 +456,6 @@
       "_ogDesc": "Wall Street’s rebound attempt failed, with stocks falling as oil climbed after doubts resurfaced about an imminent U.S.-Iran deal that would revive energy flows through the key Strait of Hormuz."
     },
     {
-      "title": "CMHC expands mortgage loan insurance options for prefabricated, modular homes",
-      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxQaTRTOWJ4Y09ITHlGWE9wcjV5cGt4cXBGa2JHalE4V1VhR1VOVjR5Mk9oeXVURm8tT2lqWmowQ0Y0OF9ZRTVYUDFDQXBEQ0VicFd4RjZueVdMQnR6ZzdMN0hWTGtoeTZmNzNGekNDRnBndGF0N0NYb3lOMlRzSEJlbkNHNWthUktWNWtvQ0pDSzhzMFRaclFvXy1KZWZOZWIzdm9XUXNPWEF3OGYzQXBvazczb1Nlb05wRHBXNGlNM0s1Q2Q4ZXI0TWZ3MWZOVE0yZ3RtRQ?oc=5",
-      "pubDate": "Mon, 18 May 2026 10:35:09 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Immigration levels linked to housing demand as Canada adds more than 80,000 homes for new arrivals",
       "link": "https://news.google.com/articles/CBMi2AFBVV95cUxPbWVxbTdtNzJ2d1JPMWFqOVdaelItZlpISFcxbWV0azFYaEU5SWhkQkhKcUVYWmNudUxpbmpuNVFmMDkzRVl4ZnB1ZEdESy1XN2dGY1RITkNjTXlsOHB6cVF3MWlMcWRmZGxGMlJxN3h6RUtpUWtjN25mdHlNakxwb3lLUGRwVTdGLV9SYU9pemxIaXNVTWFIZzJCYlh0OFFsZDZrY0hmWm1UY0p4UldkY0xsdndlV05fQ3NXNVVDVFpfN0dqN01GN0M2Vld0cHVpSndyb0MtNUc?oc=5",
       "pubDate": "Sun, 17 May 2026 20:00:00 GMT",
@@ -577,6 +577,18 @@
       "_src": "storeys"
     },
     {
+      "title": "Posthaste: Why the chances of a Canadian housing market rebound in 2026 have 'slipped away'",
+      "link": "https://news.google.com/articles/CBMie0FVX3lxTE5tR3l0MTFzMWtraFlvSERnVzl5S2hvNWpZdk41TUlGYVBMMnFSQThianJWVGtYS1Z1MGxMZ05GRzdIVUNUdkg2U3o1NldPcUtFQ2M3Q2VWUUZZcWIzaVJwNlJRVk0zSnNvN0p0QTc3X1B3R0FmV21IelNYQQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 14:58:27 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Financial Post",
+      "_pubUrl": "https://financialpost.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Housing starts for April 2026",
       "link": "https://news.google.com/articles/CBMikAFBVV95cUxPdmR4Y1cyQmh0dFZLeXVFNDlzS002MlA0N2dTQWFYUTJ3VFZmbTl6dFFBanJUMDU0WWRETE50Z25hVGdweHFfN05XZVYtREVIQm9KRXlfcmloMEI2U1J0WUdNWFVCQVdYTnFYUEllUm5MVm92aVA5Z3ZmVHRwbW9QZ1VobVdmNTlNaS12aW8xOTk?oc=5",
       "pubDate": "Fri, 15 May 2026 12:15:46 GMT",
@@ -601,18 +613,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "What’s the Cheapest City in Canada to Buy a House in 2026?",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxNa1NraVpLSXlxaEZTalNPMmdNZUVXWVV1RWs1VHlmODZXN2xPX19JeTdnaDBLNHNmRWRKS2NEWmxnRkZKRFFzd19tY3dKMV9RQmt2QW1JTkM5UERJRmJyRjFCdFZyb0JRVzFGdUlyNm11Q2lmNkFrSUdsYzhlel9lZzZ3?oc=5",
-      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Remax",
-      "_pubUrl": "https://blog.remax.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Headline inflation in Canada to jump but core pressures to stay contained",
       "link": "https://news.google.com/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
@@ -622,6 +622,18 @@
       "_src": "gnboc",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "What’s the Cheapest City in Canada to Buy a House in 2026?",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxNa1NraVpLSXlxaEZTalNPMmdNZUVXWVV1RWs1VHlmODZXN2xPX19JeTdnaDBLNHNmRWRKS2NEWmxnRkZKRFFzd19tY3dKMV9RQmt2QW1JTkM5UERJRmJyRjFCdFZyb0JRVzFGdUlyNm11Q2lmNkFrSUdsYzhlel9lZzZ3?oc=5",
+      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Remax",
+      "_pubUrl": "https://blog.remax.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -674,18 +686,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/a85e1a904b50a652ad33aeefa2105bf413fa32d080e68f476d8b509917da6e75.jpg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "Canadian Existing Home Sales (April 2026)",
-      "link": "https://news.google.com/articles/CBMiW0FVX3lxTE43aVpucXh2ZFZBRV9jd1VXRkFsajR2VTZoclJrbUlKWkdHbHQ2ZTlWTGthZ2ljdmdRMXZodF8xcVNvX3VzR1hiSmZyd29JV2xvMGZCWWdyLWZJaTA?oc=5",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Oil shock bleeding through to B.C. construction costs, says expert",
@@ -745,6 +745,18 @@
       "_src": "gnre",
       "_publisher": "Altus Group",
       "_pubUrl": "https://www.altusgroup.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "CMHC says housing financing support remained strong amid economic uncertainty",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxOWFFzUm9iUUs2a3lKS1JGSnp5aUJYeEZqOWwxRkdRVnZRTmJsMTdEUVRrUWFESzExV0QxSEN4aTZFM3Q4ZVVHWEl3NkdDMEVKQjlGOVJWYzVrb1JEUjFkRzdDNXZWMkdLdjBTeTlBblRBdVhLZDB1Mm9nWTJDaUxyb2VUMTVacTR6ZmRmSlZlNEhKZF9RamtZdVk0cHJmNW5oazlScmdoRWlIXzlNS3h2ZVI4QkI1bndrOThzTA?oc=5",
+      "pubDate": "Tue, 12 May 2026 22:05:12 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "WestCentralOnline",
+      "_pubUrl": "https://www.westcentralonline.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -811,6 +823,30 @@
       "_src": "storeys"
     },
     {
+      "title": "Mortgage Rates Forecast Canada 2026-2030",
+      "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
+      "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "KLEIN: The truth behind Canada’s housing collapse and causes",
+      "link": "https://news.google.com/articles/CBMi2AFBVV95cUxNcU5wblBCZ2FwN0JvREVPa1NCbWFuRmo2Nm56RTcxN0VUNUo5Z01zakJ5ZEtUQmpldWVoMkhCSmRRYXFkLXVPMTJ1VEQ1dldmR2RWVEVGVE54d1QtcWI4NXl3MFlDZzdoeFlMVUJ1bTlqOUNSWWUzOVA4QXh6WFhDUGpOWnBQZENueDBHNlFuTk1JOGdTZXVYV0xDMzFtY1VnXzhSVkhseWtnTldua25mcFp5dGtsMEpybkJPRTFwaUo1U0doUHFBbV9UVVNNazB3LUV4NFFVNVc?oc=5",
+      "pubDate": "Sat, 09 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Winnipeg Sun",
+      "_pubUrl": "https://www.winnipegsun.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Canada Housing Demand Framework Reveals Immigration Impact",
       "link": "https://news.google.com/articles/CBMiiwFBVV95cUxOYUJ6N180MkxaM3lfRlk1OWF6UFNEa2JzblR2aC1zOXVqNUd6ckJ2VDR4aWpURGpwTW9mLTdjUUk4bDZ1UEZabktwNzN6S2NoVFdyQVhKbG8ycDJZbkdNUThYMEhmZ0NJdnFQcEVDVERvMy04bjNCU1hkRU54R2U0QzhOSTROU25RMTZr?oc=5",
       "pubDate": "Sat, 09 May 2026 07:00:00 GMT",
@@ -823,6 +859,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Has Toronto's condo market hit its bottom?",
+      "link": "https://news.google.com/articles/CBMiekFVX3lxTFAzMWJfMWI5VzdXcUxTOGY2c2poRUt5ekMyN25PNU5fb29fRWNlTU15dnExMUM4czBCVk55dWZHaXdsa1RFcno0Q1Zkbl9rd2p4OUdVQW40X2ROelA4Q3FrMGZLX1NZaGNBOWcwVktqbHExT0RUQnJsZVVn?oc=5",
+      "pubDate": "Sat, 09 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Multigenerational Living In Ottawa",
       "link": "https://news.google.com/articles/CBMieEFVX3lxTFAyaG9zSUpPbVk5cDNvRU5yU0dIMWRmVnRDT0J5RmJiWnE5UmhBR2pDSU9CWVpiRmRmdkx2OVNYcW1QazhINkQ0TW9JZXhmaHhrNGtiVU40blFabktsdk5NWks5VjVSa0V2cFh0Qk1MRzQxU1ltcTd6bg?oc=5",
       "pubDate": "Fri, 08 May 2026 20:19:45 GMT",
@@ -832,18 +880,6 @@
       "_src": "gnott",
       "_publisher": "weknowottawa.com",
       "_pubUrl": "https://www.weknowottawa.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CMHC expands insurance to support prefab and modular housing",
-      "link": "https://news.google.com/articles/CBMirAFBVV95cUxQX3FmVElpSzNMZlNDRjluWW95X0JxWDlXb0xUUmRNbzd6Z0RYa0g3eERsVzZ4cUlDVk05bVZPVVV1RDVQN2NpYURxRS13Wkk5UjRxLWNDYzBLN1FVYjNGak5Iem85Qm9GRVVraFBSVjkwVnk2dEVTZlViN2xwTWJnc1Jzd1YtVjFUZ0JxbUgwQjlpOFp6VDFHSjJ0aDlWRElPcTY4UnJnd1ozRWo5?oc=5",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -874,30 +910,6 @@
       "title": "GTA home sales up 7% in April as prices shrink: real estate board",
       "link": "https://news.google.com/articles/CBMid0FVX3lxTE81bXYtUFpuMlZnc1RjRFVKUk12WHJNNU1KSXFGd3l4Z1diUW45Y29MM1A3akJ6VUdfYWZqYl9NbnpCdGcyOFg1RldxdDlCZVNfWmZlUzR2OS1PSUF5akRxUVE0MDFpbjVBVXlacFVuRFpITHdCay04?oc=5",
       "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "The Bank of Canada is holding the interest rate at 2.25%, here’s what that means for the housing market",
-      "link": "https://news.google.com/articles/CBMi0gFBVV95cUxQSm9VMUpfeXZPNm5aMi00SXhBaUZaQ1ZxaXVRTkpaUkVPbWN1a0hLTGtuTGhsUGRwMDZ0YS1DZGd3VjhsOEYxYXE4VXY4ZDNja21yTWNlQVFidWh1ak5Sbjd2LVdXTG5rZGkwaVdKM1F1VUtsdVN3VWE2VEhudkRBZUE1dWlwVmhNSjFtSFZ4LUI2ZWpmai13cmhzQjRLOWhiYWxjei05UDVvY1NCWDZPMTZCekpPZEdIZDgtYnRSY0xLMG1HZHNSU1ZzbjNvbmRMemc?oc=5",
-      "pubDate": "Sun, 03 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "NOW Toronto",
-      "_pubUrl": "https://nowtoronto.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Calgary home sales fall 5.7% in April, board cites less urgency among buyers",
-      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxQMjN3TUxGWGF2TnlDdWhueXRyajNYenlDMmF6c3VNcmVzMTRmZTNrNDQ2ZzBSdS10MUlwY1ZpYWlnWjl0dFIzN1dYaW93SkVBbGNFVXhET0EzWlNIZFpZeWMtbmhFTUctdnZHellxb3h2Z1hyQ0VuckVKU2Z3czZwaUtGNnJadjU0OVBn?oc=5",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -1003,18 +1015,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "From where the deals are to where prices dropped most, 5 key things to know about the spring real estate market",
-      "link": "https://news.google.com/articles/CBMiigFBVV95cUxOYl90VDQ2Y05GUURCRU9rYVB5M1lNR2pDaXFhVnZGNzRfc2xZejg4ZDlIQ1hDWnpCMlA2REZPWmQ3LXN0X0RrVDdJWkRxWUZYZ3RnSkI4NEdWeUFJdFlHQzlXYzlGUHlPR0hCOXdvRV85a0pqSDVFUTkzbVpCQzl1WUwyaDNmTE5VLUE?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canadian housing starts fall 6% in March as momentum wanes",
       "link": "https://news.google.com/articles/CBMi8AFBVV95cUxObzNMeFo0dHhaeGl5YUNwRXFweDRXV0NGX20xRERoT3NmLXpab3BfQnhZaXYyd1BDVkJqWkx2N1N4QUtiWURfaEdVWC1ya1F2bmJQbW90MkFYejl4eXZVMTNuQ0h5THc5TGoyR3poRjVzUi1tYm9zMHVBb2UyblNnUVhfcHdtOUFVYkJ4NDJSUzZNbkNvOEt6MEFlejA2Y0sxTzdGQWZYazNOYTVuZndCZVVFcElQdWY0SmE3TFlaV3JONEN2Vk9tQzI1WDA5cU8tQmRtdGVjNno0bTNYZ0VKbzFGMFQ2dVp4ZjBLWE53M08?oc=5",
       "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
@@ -1087,18 +1087,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
-      "link": "https://news.google.com/articles/CBMihAFBVV95cUxPWDJsTjJtR1lQa3N3VWFiRDVsdVJub2lZWERKV2VZOTNRb0Q3cG8yT05UUlQzWDM4ZEZqUFo4dnhVOGRoWHpXbS1TRFZBaVM3bFdMdENFRVhMcERCckh3Q2lVVHdQbm5jZ1pKeTFNaFp5SDZJOWNYZ0VEbjZrOElRN2JKNWY?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ontario Housing Market | 2026 Home Prices",
       "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
       "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
@@ -1108,18 +1096,6 @@
       "_src": "gnontre",
       "_publisher": "nesto.ca",
       "_pubUrl": "https://www.nesto.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Seven Ottawa-area markets ranked in top 10 for affordable housing in Ontario",
-      "link": "https://news.google.com/articles/CBMifEFVX3lxTFB3NWZKUi1mYjI2eF9La01rTE0tdk45ckl4eGxVN3I3MDVUelYtNjJDWVhCbllyVUctUnlaUjlGUFlUVkQtWXhNckVWRjFWSUxGX1JoNzVLZ25kTVJiMkNOTkQ1WE92cFM5ektuMmhxVUpjY0Z4XzV2b3NZakY?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1144,18 +1120,6 @@
       "_src": "gnhprice",
       "_publisher": "Victoria News",
       "_pubUrl": "https://vicnews.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Housing in Action",
-      "link": "https://news.google.com/articles/CBMiYkFVX3lxTE5TWGVvTktTTGh3ak44enBuMFFCQWpBRzhGSGFQVGYySHlWTXFid2dNWEd5cWwzQ00zeG53QTFKRFItY0dzc0hBN29kVGp3WnN6LVVRdmpNOWR0T291LXJ3ajJn?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Canadian Architect",
-      "_pubUrl": "https://www.canadianarchitect.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1279,6 +1243,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Calgary home sales down 11 per cent in February as condo activity slips: board",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxNOVpKMXZKY2R1VFVmZW5ubXNhT0w2MkRKOXpaNThyNEdMcHh5UjVxLU1vWjhKOHRCSDZwdUdzNGJzU2xpX1Z1d2lkbTlYT01iMDVqM0E1Z0ZucHNKblZoaUkyUjlXOGUyVkpMLTRWeF8wZFVvQTlVY3N0WW5sdzhnNUUyWGxmUHh1cTluS3ZpZVNOOG10bi1WR3Vzay1MRjlsdkUtY0NzMzlCaUdaZDItY0ZlQnJlTmNGY3lDZlFNd3ZUU1RfeU85Z3R6cnFBeVR6Ylo0cmJBeUhudGJW?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "constructconnect.com",
+      "_pubUrl": "https://canada.constructconnect.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "What's next for Calgary's housing market as detached home sales tighten?",
       "link": "https://news.google.com/articles/CBMi0AFBVV95cUxQTTgyTGpqMmN1R1hoQ203VUpGUndUYmRZWFZCMGZMTmlNWlF0cEJaaHdMWmoycGN6dnNiajJrcUdmbEt4MnRpSEJnS0JscHJ3U3MzdFR0N2c3ZmVQWHNLdXlaNkJ2VkdpRWJQUDlWTU1Kd016bE4tLTA2RFFjQ1lTeHFoYlJUck85OF96MFZfOVlVNTZZM1NZQXBIckR6Z0N4ZllQajdRVml4ZlBFNmRaanFKMVJ4SHQ3ZHBBTTZiWVViVVo4dkpNaDRxWGNENFZi?oc=5",
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -1324,6 +1300,18 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Homebuilding slowdown threatens to negate any affordability gains",
+      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxNTE5IX3V4LWNxTk1jM3JPWWQwaVVFa3pXQWVsSmx5UTlaQkdpWGo3dmg1R0Jxa1EzWUxQWjlObFdONjc3cVFxUS1BVDlDeWRqMVFMcHhBWEtYR0lSVWUwTm1DLWE0UDhaU05DLWlGLUx5ZjdqT1pGTWlRQ3NOc2hWcGl2UGZWYnpXR1ZuQXpyRThQcWpGb0xhTXFFMTNMR3R4ZWptZ2tTWm8?oc=5",
+      "pubDate": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Fraser Institute",
+      "_pubUrl": "https://www.fraserinstitute.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1399,15 +1387,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Nowhere to stay: How Canada’s housing crisis is failing international students",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQLW92b3pNeVRkeGZLZXl1a293V1R1WEFRc0FTa3RGcDRTdG9pdmcxLWpwUUJDVTJrTVl1NEZJWVJXWTVibmJUZVRJWjVWM2FiTFR1NW9wYjMtX041bnlOelJYTUZfZHBOSjI3dnBHdGNTMkE5YmJRd0NhMTdrb1FaSi01TjcxTGtMRVMxai1naU1jVVpTamptcTF2UXJZbXEzRFRZdUE3YW96dWN1c2hkR1E4bXZ4c01YTXVzNUI0RHg?oc=5",
-      "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "title": "Homes market will need time to recover",
+      "link": "https://news.google.com/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Canadian Immigrant",
-      "_pubUrl": "https://canadianimmigrant.ca",
+      "_src": "gnott",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1483,6 +1471,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Building the future of transit and transportation across Ontario",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxOYWFhQ18wREVaSV9nWldpLVlrcUV2Z1h6Q05HYWRSRnRpMU42TkdsenJiOWRBdTItQlNwYWNJaHNhOHZKcE5jYXlTRmtMSFNPVDlpeENLc21FbERmYS10RWhiY2ktMWp1OVp1OVNxcGFrSERPVnR6Q0xueWtBYlV6UkhLbXlEckVvVnhRb24wa3hweEhtSlZTMnR0dHRXWThISF9uWWo1QlYtekpyajg3bjJMOTlyczFxaGV4RWN4MVZhNVV5SjIxOUFSaw?oc=5",
+      "pubDate": "Wed, 10 Dec 2025 14:26:36 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Infrastructure Ontario",
+      "_pubUrl": "https://www.infrastructureontario.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
       "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
       "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
@@ -1531,15 +1531,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Alternative federal budget 2026: Affordable housing and homelessness",
-      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
-      "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "title": "The unintended consequences of Canada’s rising housing costs and delays",
+      "link": "https://news.google.com/articles/CBMijgFBVV95cUxNZWZvRGlMMkl2ZzZ4VWc3bGY1Q18xMTJqb1lIUkN2cVEwM19RTnB6VUZ6ZkxxRzBiT3BOVlIwMjVYQU45RzkzdDJWMm5BZVdVd0JreEJzNHR0M2RubjJqVG5VMFVTb0liSmxsc1dNT2Y0elBPaE9TaTFfMmtmRzhJaUxuRy0zX1BXUnVyb053?oc=5",
+      "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca",
+      "_publisher": "Altus Group",
+      "_pubUrl": "https://www.altusgroup.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1579,6 +1579,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa Canada’s O-Train Western Expansion Nears Completion: New Key Stations and Major Progress Ahead of 2027",
+      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxOY2dManJRak9CUm5JWUExTkc3WjByLVprNThVQnREWVEyNnBjSFN2UVlEMFV0dTVwNEx6Y1QyVkN2c1g4UnllWFo4WHB2MFVMMFF2dW9lbUNZNW5oMlNtTlgyV3ljM1JiNXczYmZzbm11dmVKNWo4WGNtOGFLdWR0Wlk3WmRhUF9PWU8zeThHSEZCWV9WRVNIYVBTYUM4Ymt1eko1d2VRYWpibGF2S0xKUUxiUlNzdnhvRVNRTWtBMkZDMVA3X01IVTdneGp3ZFg3allRMjdRV2plUGprTXk3MmhEQmYzbnN0S0NwNA?oc=5",
+      "pubDate": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Travel And Tour World",
+      "_pubUrl": "https://www.travelandtourworld.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Proposed zoning bylaw won't help Ottawa's housing goals, says advocate",
       "link": "https://news.google.com/articles/CBMic0FVX3lxTE5vS0dTaG9kNHJBeHVuZWUtaF9GZ3B0a2ktTzc2Y3BoRFlPanVHY3QyQW8tRXctUFI2WHVrYi1FaDBNRTE0RWxOa29pbndpU25tcUc0a0lnQzZ1MXdYMS1qNzlwbGM1WUhObjRDY3VJQ3o5Qms?oc=5",
       "pubDate": "Sat, 05 Jul 2025 07:00:00 GMT",
@@ -1600,6 +1612,18 @@
       "_src": "gnottdev",
       "_publisher": "CityNews Ottawa",
       "_pubUrl": "https://ottawa.citynews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
+      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxQMEV1V2JkOHBnZFJwNkhQeTN1Q0MxMks1c3N5dG1mTTRHdEQ3MkdQcDNQUTh3cUJCSUZYRmJZcHVkRFREbmZUdVFSSThyeDBHdWJtZVNVcmJkc1NQWTRrelA4elI4LXJnVXNYNVZSU0VSMmoxaXVRc1NzUFprdW1NZG1NcFFWYlBYT0d4dmFoX19vTUlqdDJYUTY5NUExYTNPRmNQMGVESlllcHFBS3d4dlZsLTJMUDNsMUJN?oc=5",
+      "pubDate": "Fri, 11 Apr 2025 09:58:31 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Alternatives",
+      "_pubUrl": "https://www.policyalternatives.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1627,39 +1651,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Dreams and Realities on the Home Front: Canadians’ Call for Government Action on Housing Affordability",
-      "link": "https://news.google.com/articles/CBMif0FVX3lxTE0wVFNDdG0zX1M2SERVYjlpcjVyUlBFd0ZkN3hDV1dKMk1sTElmVlQwSjZfdVRIQkxLSUlfT3F2QmJFQUstWC04Wmh2d3ljeURkT3U4MnFFdnhmWFZRMVdoaUZyeUJjR1FlOXc1cUxMNUkyd2YxUGVYdE9ldUdwcE0?oc=5",
-      "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+      "title": "The Great Rebuild Seven ways to fix Canada’s housing shortage",
+      "link": "https://news.google.com/articles/CBMi6AFBVV95cUxPLTFlMm1PUjVUaVFfSGRqbW5IZ0tCOVRhcWNtSHEyU3BsR1dneGstNFF5bDN5RWdTOFlVSEk2YnE4SGt0bGVmZDU0NWxsSWpGTFcyMVBuSXdaVGFId0ZBWnZfVXJHLVNaeUJReDRNTTBaWWxUQ29jSmx2VW1VN2RmWXlxOWNSYkJRR3hZM1BKR1lRNkVaVF9qTkpBNGxvdmhCNkxfYld2cEZvMGRMaHhkak9CR2ZEUDl2Rm13SEVfOUdUU3BYaV9qbExGQ3VkUWtFeWZlNDctTUh5NXRBZDVKVDRnQnUyOEF1?oc=5",
+      "pubDate": "Mon, 08 Apr 2024 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Broadbent Institute",
-      "_pubUrl": "https://broadbentinstitute.ca",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Light Rail Transit",
-      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
-      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "AECOM",
-      "_pubUrl": "https://aecom.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "A toolkit for understanding housing supply",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxPU3dRX0dSMnpXdEJYVUttYlBPRXgyRUVCbXFkS2lBTHMxbFJydkhINXlxSDBTbzZ5V2pUSzA4d0FrT1pSdTlGbFFaUVdPNWwtcnoyQTZjSktiMF9LRnVOMHMzYmNDNGhWNS1mYV81M2RSc2NFMjhhc3Z3S2JUZ2xIV2d3?oc=5",
-      "pubDate": "Wed, 25 Oct 2023 07:00:00 GMT",
+      "title": "CMHC 2023: Housing Reports Retrospective",
+      "link": "https://news.google.com/articles/CBMilAFBVV95cUxNeTVpVndac3I4dTE2eEgzR1hyaW9qVXNtWDM4WUl3SXNBenNCWTYtZld0eHZpRVktRDk1VlFyQndkTDJ5c2o3QUh1UkEtcW1RYkxYejZMbWJwTmFjTGtqUWlha2o2MXItNEdGamhGUTFibGVvMUJ6LW52RDZNVy0yLW1mLTB2WmJDY2hwRnA2VXJOWGR0?oc=5",
+      "pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Statistique Canada",
-      "_pubUrl": "https://www150.statcan.gc.ca",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1672,6 +1684,18 @@
       "_src": "gnpolicy",
       "_publisher": "Conservative Party of Canada",
       "_pubUrl": "https://www.conservative.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa LRT and the Future of P3s: Public (interest), Private (collaboration) &amp; (meaningful) Partnerships",
+      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxOanhhcXcwQWI5SWlraEtrUGZLYlNISVd0cUd2eWhNb283dlRseFY1UGNyNUFnN3RLZGppYXpfbzlLdDVqUFRIVWZ4RkZ1Njd0TjJ2VHpYWUw4dG9qc3VDdkRIQWxtYl9XLS1xalRZTmxhMkpBQkNtZ296SGpFZGlsYmljOERhU25IcW04b3hFMkRrWWJNOS1nRVR3U293UUlVNUE2ZVRFMG83bC10ZVluZzdrMi1OY0xNajNLYUVtMmlfdw?oc=5",
+      "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "McMillan LLP",
+      "_pubUrl": "https://mcmillan.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1699,18 +1723,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Light Rail Transit System",
-      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
-      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Torys LLP",
-      "_pubUrl": "https://www.torys.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Government of Canada…",
       "link": "https://news.google.com/articles/CBMiwgFBVV95cUxORWdtVzhzY0VySzZxSFJRT01JVXJyNEZENTJnOUZrZDhGQlpVanlLMXZvRW02ZHk2QzI2SUhhUVkxdDE1ZkJRNW5KcnJmYlJkdnp2UlYtektEckF3NHo4c3BCbmV4T0k1YkhlUkFTbUtzTkd1dkduV0t3OEFyT0FWVGFSejYwOEJRazh6YjVTY2U0MGJaMmJPc19CVVpGUUUyVnVreHdYM0pUaWQxRE5BZU9SMTN4TzZYSFZWLWFXejk4dw?oc=5",
       "pubDate": "Wed, 16 Jun 2021 07:00:00 GMT",
@@ -1720,18 +1732,6 @@
       "_src": "gnottlrt",
       "_publisher": "Ottawa International Airport Authority",
       "_pubUrl": "https://www.yow.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
-      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
