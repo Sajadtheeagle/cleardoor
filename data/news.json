@@ -1,6 +1,6 @@
 {
-  "ts": 1779641488629,
-  "fetched": "2026-05-24T16:51:28.629Z",
+  "ts": 1779655362289,
+  "fetched": "2026-05-24T20:42:42.289Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,9 +89,42 @@
   ],
   "items": [
     {
-      "title": "‘The perfect storm’: Why food experts don’t think the price of beef is coming back down anytime soon",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/24/the-perfect-storm-why-food-experts-dont-think-the-price-of-beef-is-coming-back-down-anytime-soon/",
-      "pubDate": "Sun, 24 May 2026 14:50:53 -0400",
+      "title": "Carney going to New York this week to meet with business leaders, court investment",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/24/carney-going-to-new-york-this-week-to-meet-with-business-leaders-court-investment/",
+      "pubDate": "Sun, 24 May 2026 19:07:59 -0400",
+      "description": "Prime Minister Mark Carney is going to New York City on Wednesday and Thursday to meet with business leaders and try to court more investment, a running theme of his time in office.",
+      "content": "<media:description type=\"plain\"><![CDATA[Prime Minister Mark Carney speaks as FIFA president Gianni Infantino looks on, during a FIFA World Cup trophy tour event at Lansdowne Park's Aberdeen Pavilion, in Ottawa, on Sunday, May 24, 2026. THE CANADIAN PRESS/Justin Tang]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Justin Tang</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/7PQCYNHDHNOUF5BT5UFXANTTJA.jpg?auth=f6350aa7abdf023ca5ed4c4afd9341c74c17bfc7f9fbadb29fb0ecf56a1c008d&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Prime Minister Mark Carney is going to New York City on Wednesday and Thursday to meet with business leaders and try to court more investment, a running theme of his time in office. ",
+      "body": "<p>OTTAWA — Prime Minister Mark Carney is going to New York City on Wednesday and Thursday to meet with business leaders and try to court more investment, a running theme of his time in office.</p>\n<p>The Prime Minister’s Office made the announcement Sunday, one day before Parliament reconvenes for the round of sitting days before the summer break.</p>\n<p>The PMO announcement says that Carney will meet with unspecified CEOs, entrepreneurs, business leaders and money managers to pitch Canada as an investment destination.</p>\n<p>This comes just weeks before the Canada-United States-Mexico agreement on free trade enters its mandatory review period amid U.S. tariffs triggering a trade war with Canada.</p>\n<p>Carney is also scheduled to deliver remarks at the Economic Club of New York on Thursday.</p>\n<p>The trip announcement says that this address will focus on “Canada’s new economic strategy” and how it is progressing.</p>\n<p><i>This report by The Canadian Press was first published May 24, 2026.</i></p>\n<p><i>The Canadian Press Staff</i></p>"
+    },
+    {
+      "title": "Here’s who’s appearing on BNN Bloomberg Market Call on Monday",
+      "link": "https://www.bnnbloomberg.ca/faq/2025/10/24/heres-whos-appearing-on-bnn-bloomberg-market-call/",
+      "pubDate": "Sun, 24 May 2026 18:38:52 -0400",
+      "description": "Here&#x27;s a look at BNN Bloomberg&#x27;s guest schedule.",
+      "content": "",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SRWSMTWZKHKVGLH6BZHSBUW5JU.jpg?auth=9b3c218d7a354bedc747ad445581d38ee1103930b0b2c6fa1c609b2931ed756c&amp;smart=true&amp;width=980&amp;height=551",
+      "_src": "bnn",
+      "_ogDesc": "Here&#x27;s a look at BNN Bloomberg&#x27;s guest schedule.",
+      "body": "<p><a href=\"https://www.bnnbloomberg.ca/video/shows/market-call/\" rel=\"\" title=\"https://www.bnnbloomberg.ca/video/shows/market-call/\">Market Call</a> is Canada’s leading stock market call-in program. Every weekday, BNN Bloomberg hosts top fund managers and market analysts - professionals who handle billions in retail and institutional investments. Call toll-free at 1-855-326-6266 or email <a href=\"https://marketcall@bnnbloomberg.ca\" target=\"_self\" rel=\"\" title=\"https://marketcall@bnnbloomberg.ca\">marketcall@bnnbloomberg.ca</a>.</p>\n<h2>Monday, May 25</h2>\n<p>Jamie Murray, Murray Wealth Group</p>\n<p><b>Focus: </b>North American Equities</p>\n<h2>Tuesday, May 26</h2>\n<p>Ryan Modesto, i2i Capital Management</p>\n<p><b>Focus: </b>North American Stocks</p>\n<h2>Wednesday, May 27</h2>\n<p>Mike Philbrick, ReSolve Asset Management</p>\n<h2>Thursday, May 28</h2>\n<p>Greg Newman, Newman Group, ScotiaMcLeod</p>\n<p><b>Focus: </b>North American Equities</p>\n<h2>Friday, May 29</h2>\n<p>Brianne Gardner, Velocity Investment Partners, Raymond James</p>\n<p><b>Focus: </b>Canadian &amp; U.S. Large Caps</p>"
+    },
+    {
+      "title": "Oil and gas prices to remain high in Europe at least until the end of 2027, officials say",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/05/24/oil-and-gas-prices-to-remain-high-in-europe-at-least-until-the-end-of-2027-officials-say/",
+      "pubDate": "Sun, 24 May 2026 17:48:27 -0400",
+      "description": "European Union officials said Friday that Europeans can expect oil and gas prices to remain above what they were before the Iran war for at least until the end of 2027, with prices of other goods also following an upward trajectory.",
+      "content": "<media:description type=\"plain\"><![CDATA[From left to right, European Commissioner for Economy and Productivity, Implementation and Simplification Valdis Dombrovskis, European Central Bank President Christine Lagarde, President of the Eurogroup Kyriakos Pierrakakis, Managing Director and the European Stability Mechanism Pierre Gramegna talk to the media during the Eurogroup finance ministers meeting in capital Nicosia, Cyprus, Friday, May 22, 2026. (AP Photo/Petros Karadjias)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Petros Karadjias</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/2K66O6I4KGNLVU4XM2NMCNE47M.jpg?auth=cca1eeb604793af452328f9949890f3204f5618a7096f680a3300cd251c3c5aa&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "European Union officials said Friday that Europeans can expect oil and gas prices to remain above what they were before the Iran war for at least until the end of 2027, with prices of other goods also following an upward trajectory.",
+      "body": "<p>NICOSIA, Cyprus — European Union officials said Friday that Europeans can expect oil and gas prices to remain above what they were before the Iran war for at least until the end of 2027, with prices of other goods also following an upward trajectory.</p>\n<p>EU Economy Commissioner Valdis Dombrovskis said that higher energy prices are primarily responsible for driving inflation to a forecast 3.1 per cent for this year and 2.4 per cent for 2027. That’s significantly higher than the earlier forecast for this year of 1.9 per cent.</p>\n<p>“We expect that this energy inflation will gradually also trickle down to different sectors of the economy,” Dombrovskis said after a meeting of the 21-member eurozone’s finance ministers, who make up the Eurogroup.</p>\n<p>European Central Bank President Christine Lagarde said that even if the conflict in the Middle East ended now, “lagging effects” would keep the prices of goods elevated.</p>\n<p>“And it’s probably a fact that price levels will be higher at the end of this crisis, when we see the end of the crisis,” Lagarde said.</p>\n<p>She said that the ECB would take “all the necessary measures” to keep price stability at 2% by paying close attention to the aftereffects of the initial economic shock brought on by the energy price hike. She also pointed to how much oil the EU holds in reserve to meet possible demand.</p>\n<p>Eurogroup President Kyriakos Pierrakakis said that for the EU, an end to the crisis would mean a return to free navigation without the imposition of any tolls through the Strait of Hormuz, from which roughly a fifth of the world’s oil and gas passes.</p>\n<p>Pierrakakis affirmed that economic growth within the eurozone would reach 0.9% this year and 1.2 per cent in 2027, lower than the previous forecast, “but clearly far from a recession scenario.”</p>\n<p>Although higher inflation projections have led to predictions that the ECB would raise its interest rate benchmarks to combat inflation, Lagarde didn’t offer any indication of how the bank would act.</p>\n<p>“We will continue to follow a data-dependent and meeting-by-meeting approach in order to determine the most appropriate monetary policy stance in order to deliver on our 2 per cent medium-term target,” Lagarde said.</p>\n<p><i>Menelaos Hadjicostis, The Associated Press</i></p>"
+    },
+    {
+      "title": "‘Reduced my beef intake’: How Canadians are limiting the meats they buy this BBQ season",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/24/reduced-my-beef-intake-how-canadians-are-limiting-the-meats-they-buy-this-bbq-season/",
+      "pubDate": "Sun, 24 May 2026 17:14:38 -0400",
       "description": "Throwing a steak on the grill is something Anastasia Ginou considers a 'treat' these days. As she’s looking through the selection of options at her local butcher shop, she’s now looking more at the price than the type of cut, eventually choosing one that’s much cheaper than the rest.",
       "content": "<media:description type=\"plain\"><![CDATA[Canadians cutting back on beef as prices continue to soar. (CTV News)]]></media:description>",
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/732D4QIMMFCGBKK5EZCYL4P3JE.jpg?auth=f83073579e6c72da6c0f7490b089b506935481f54c8d2b8329ae40f6cd44e1a8&amp;smart=true&amp;width=1920&amp;height=1080",
@@ -108,6 +141,18 @@
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SRWSMTWZKHKVGLH6BZHSBUW5JU.jpg?auth=9b3c218d7a354bedc747ad445581d38ee1103930b0b2c6fa1c609b2931ed756c&amp;smart=true&amp;width=980&amp;height=551",
       "_src": "bnn",
       "body": "<h2>Monday, May 25</h2>\n<p>U.S. MARKETS CLOSED (MEMORIAL DAY HOLIDAY)</p>\n<p>*No notable TSX earnings*</p>\n<h2>Tuesday, May 26</h2>\n<p>*No notable earnings*</p>\n<h2>Wednesday, May 27</h2>\n<ul><li>Bank of Nova Scotia - Bef mkt</li><li>National Bank of Canada - Bef mkt</li><li>Bank of Montreal - Bef mkt</li><li>EQB - Aft mkt</li></ul>\n<ul><li>HP Inc - Aft mkt</li><li>Salesforce - Aft mkt</li><li>Synopsys - Aft mkt</li></ul>\n<h2>Thursday, May 28</h2>\n<p>10:00am: BOC Financial Stability Report</p>\n<p>8:30am: U.S. Real GDP (Q1)</p>\n<ul><li>CIBC - Bef mkt</li><li>TD Bank - Bef mkt</li><li>Royal Bank of Canada - Bef mkt</li><li>BRP Inc</li></ul>\n<ul><li>Best Buy - Bef mkt</li><li>Dollar Tree - Bef mkt</li><li>Dell Technologies - Aft mkt</li><li>Costco Wholesale - Aft mkt</li><li>MongoDB - Aft mkt</li><li>The Gap - Aft mkt</li></ul>\n<h2></h2>\n<h2>Friday, May 29</h2>\n<p>8:30am: CAD Real GDP (Q1)</p>\n<p>8:30am: CAD Monthly Real GDP (Mar)</p>\n<p>Ottawa’s Fiscal Monitor (Mar)</p>\n<ul><li>Laurentian Bank of Canada - Bef mkt</li></ul>"
+    },
+    {
+      "title": "Mastering MLS Ottawa: Your Expert Guide to Finding the Perfect Home in 2026",
+      "link": "https://news.google.com/articles/CBMirgFBVV95cUxNUnFlOHJHUk10V0VmSlFseE9lbGVNOVNMUkdDWTgyc2xRaFBfdjk5VEMwb1ZPM2JQMzdrc3J2aFU4TEVlM3J1WkdSS2dyNzZvM0JDR2FPNWVfXzRCYXVaSzlOMWtVSVpDc20zSFpLRnhpRTk4QUhRYkt0Qld5ZEFLWksyNF9sU3RpMVd4SEpMTHZyQk1TaWVPa25pbnVjQ0RqZlI5V0JsUGhqbVctQnc?oc=5",
+      "pubDate": "Sun, 24 May 2026 12:22:01 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "weknowottawa.com",
+      "_pubUrl": "https://www.weknowottawa.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Woman in need of kidney turns to unorthodox advertising",
@@ -235,6 +280,18 @@
       "_ogDesc": "Canadian stocks jumped to a record on Friday, hitting the highest mark since early March."
     },
     {
+      "title": "Canada’s GDP growth likely turned positive in Q1 after Q4 contraction",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
+      "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Poilievre demands Ottawa protect private property during North Vancouver stop",
       "link": "https://news.google.com/articles/CBMizwFBVV95cUxPbWExVF95V3ByNnY4VThIRzhMcFZmbnQ2OE8zeV9QQU9WN18wTEV6QjRLSFZldjczR0lYal92Z2lvVlV0dEtxaU1zSDV4X1lJTHpHQzBYcnZJU3pVLXJtNkRpMGNCelpfakI3TFNseXRCUm9Kci1sZmJMNGVSQks0el9QNGhiWjZ3ZVdfNVJERm1ITkhvUUxkdVo3UGRQVERTRG9pOVJpVHdzQVQxcUV5bHZNZzQ1ckVBcTY3dGpzSVFpTE1pYlFkaXBsNWhXX1k?oc=5",
       "pubDate": "Thu, 21 May 2026 21:30:00 GMT",
@@ -318,7 +375,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
+      "_src": "gnre",
       "_publisher": "nesto.ca",
       "_pubUrl": "https://www.nesto.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -330,7 +387,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
+      "_src": "gnontre",
       "_publisher": "nesto.ca",
       "_pubUrl": "https://www.nesto.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -343,29 +400,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/realtor-ca.png?id=66776687&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "Quebec Housing Market Outlook 2026",
-      "link": "https://news.google.com/articles/CBMidkFVX3lxTE1Jd0F4Y3cycFhrSG1pc0s4WVljRF92Q0hadFI5aTlHSm5Xd0dkeXJJTEwyVVBvcFdQQV94QmdPbTg5UnlSc25jNVJScFdLUEU4dU9ybjdoYk16VkJyajhabXZCNXM0SGh3ODdpTVZTVmhlTVpGT2c?oc=5",
-      "pubDate": "Thu, 21 May 2026 15:48:39 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "nesto.ca",
-      "_pubUrl": "https://www.nesto.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "EXCLUSIVE: Air Canada employee accused in Canada’s largest gold heist had been on police radar for years",
-      "link": "https://www.bnnbloomberg.ca/business/2026/05/21/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/",
-      "pubDate": "Thu, 21 May 2026 09:00:00 -0400",
-      "description": "An investigation by CTV News’ investigative unit, W5, reveals court records, intelligence documents and insider accounts that raise questions about how employees flagged in major investigations kept their security clearance at Canada’s busiest airport.",
-      "content": "",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/HBKHBJBJHNBABIBE7VNF73DZFA.jpg?auth=f976482b24dedf7675b9687399d23e8795ebacc61399c234fb8a4f9f8c55b065&amp;smart=true&amp;width=1494&amp;height=841",
-      "_src": "bnn",
-      "_ogDesc": "An investigation by CTV News’ investigative unit, W5, reveals court records, intelligence documents and insider accounts that raise questions about how employees flagged in major investigations kept their security clearance at Canada’s busiest airport.",
-      "body": "<p><i>This is part three of a four-part investigative series exposing corruption at Canadian airports by CTV News’ investigative unit, W5. </i></p>\n<p>An Air Canada employee accused in Canada’s largest gold heist had been on police radar for years before millions in gold vanished from Toronto Pearson International Airport.</p>\n<p>A W5 investigation has uncovered intelligence reports, court records and exclusive data that raise troubling questions about how airport employees with alleged links to organized crime, drug trafficking and violence were able to retain access to restricted areas at Canada’s busiest airport.</p>\n<p>Parmpal Sidhu is one of two Air Canada employees accused in the gold heist that saw more than $22 million in gold and foreign currency stolen from a cargo facility at Pearson airport in 2023.</p>\n<p>Police sources tell W5 that Sidhu’s name surfaced in three separate airport drug investigations dating back to 2008.</p>\n<p>W5 also obtained a sensitive 2012 intelligence document alleging that Sidhu was the leader of an international drug trafficking ring moving large quantities of narcotics through Pearson and infiltrating “legitimate government organizations for the purpose of carrying out their criminal activities.”</p>\n<p>W5 could not determine whether the intelligence document was ever shared with Air Canada.</p>\n<p>But Sidhu kept both his job and his airport security clearance until after the gold heist.</p>\n<p>His case is one of several uncovered by W5 involving airport employees who retained access to restricted areas despite serious allegations, criminal investigations or repeated security concerns.</p>\n<h3>W5 EXCLUSIVES</h3>\n<ul><li><b>Part one</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\">Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty</a></li><li><b>Part two</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\">Investigation reveals security gaps and organized crime at Toronto airport: ‘You could walk out carrying a cruise missile’</a></li><li><b>Part three</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/\">Air Canada employee accused in Canada’s largest gold heist had been on police radar for years</a></li><li><b>Part four</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-toronto-woman-wrongly-accused-of-drug-smuggling-now-photographs-her-luggage-before-every-flight/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-toronto-woman-wrongly-accused-of-drug-smuggling-now-photographs-her-luggage-before-every-flight/\">Whistleblowers say organized crime has infiltrated Canada’s largest airport</a></li></ul>\n<h2>Employees tied to major investigations kept airport access</h2>\n<p>In another case uncovered by W5, Air Canada baggage handler Levi Davis was charged in 2025 after an innocent elderly Canadian was detained in Bermuda when drugs were linked to luggage travelling under his name. The passenger was released after it became clear he was the victim of bag-tag switching.</p>\n<p>The charges against Davis were later withdrawn for reasons that remain unclear.</p>\n<p>But W5 learned Davis had also been implicated in a separate cocaine smuggling investigation dating back to 2010 that involved allegations of bag-tag switching at Pearson airport. He was never charged in that investigation and he kept both his job and his security clearance.</p>\n<ul><li><i><b>If you have information on airport corruption or a story idea, send a confidential email to </b></i><a href=\"mailto:avery.haines@bellmedia.ca\"><i><b>avery.haines@bellmedia.ca</b></i></a><i><b> or </b></i><a href=\"mailto:joseph.loiero@bellmedia.ca\"><i><b>joseph.loiero@bellmedia.ca</b></i></a></li></ul>\n<h2>Pearson employee arrested in massive drug bust</h2>\n<p>In Australia in 2025, Canadian Mani Dhaliwal was arrested in one of that country’s largest drug smuggling busts.</p>\n<p>Dhaliwal was employed at Pearson airport at the time of his arrest and worked in a security office that liaised with the RCMP on criminal investigations, including drug trafficking cases.</p>\n<p>Police sources tell W5 that, despite what they described as multiple red flags in his background, Dhaliwal still obtained the sensitive airport position prior to the bust.</p>\n<p>According to those sources, Dhaliwal had previously been kidnapped over an alleged drug debt, was shot at during a violent home invasion, and his sister-in-law was arrested in a drug, fraud and theft investigation.</p>\n<p>W5 was told information linking Dhaliwal to the drug trade existed before he was hired into the security role.</p>\n<p>When asked about Dhaliwal’s employment at the airport’s security office, Toronto Pearson responded that; “As a matter of policy, airport workers in security-sensitive roles are required to obtain and maintain a valid Transportation Security Clearance issued by Transport Canada. We are not in a position to comment on individual employment matters.”</p>\n<p>Then there is the case of Devon Lloyd McLean, a Pearson jet fueler later convicted in a major cocaine trafficking conspiracy connected to the airport.</p>\n<p>Before his 2018 conviction, McLean had twice been charged with drug offences. He had also been caught attempting to pass through Pearson security carrying an empty ammunition magazine and had been a victim in a shooting incident that left his girlfriend dead.</p>\n<p>Despite all of that, he retained both his job and his airport security clearance.</p>\n<p>W5 asked Transport Canada, which is ultimately responsible for approving and revoking security clearances at Canadian airports, about employees with questionable histories and ties to organized crime being able to possess and maintain their clearances.</p>\n<p>In a statement, they said: “Individuals are approved only when Transport Canada is satisfied that the applicant does not present a risk to transportation security. Decisions must be evidence-based, proportionate, and legally sound. They are based on information that partners can provide to Transport Canada and can meet the disclosure requirement to the applicant.</p>\n<p>“Decisions to grant, suspend, cancel or deny are made within the parameters for which Transport Canada can make these decisions, assessing for risks to transportation security. Further, they are based on the information that law enforcement partners can share with Transport Canada.”</p>\n<h2>‘Enablers of organized crime’</h2>\n<p>Ulisses Botelho says none of these cases surprise him.</p>\n<p>The retired RCMP organized crime investigator recently worked inside the Security Intelligence Background Section, known as SIBS, the unit responsible for investigating airport employees and advising Transport Canada on whether security clearances should be revoked.</p>\n<p>“Our job is to identify those potential corrupt employees that are enabling organized crime groups,” Botelho said.</p>\n<p>He says employees flagged by investigators were often still permitted to maintain access to restricted airport areas.</p>\n<p>“When they get to us, at our level, they’re deemed as being potentially a risk to those prohibited areas,” he said.</p>\n<p>Botelho says SIBS investigators would prepare detailed reports outlining concerns and pass them to Transport Canada, which ultimately decides whether airport employees keep their restricted access cards.</p>\n<p>Botelho says there was a “concerning” number of employees who maintained clearance despite serious concerns raised by investigators.</p>\n<p>“I was still seeing people there who were targets from when I was investigating organized crime back in 2007, 2008, that still had passes and access to prohibited areas in critical infrastructure,” he said.</p>\n<p>When asked directly whether Transport Canada sometimes allowed airport workers with organized crime connections to keep security clearance, Botelho answered bluntly.</p>\n<p>“It happens,” he said.</p>\n<p>“If you want to associate with organized crime, if you want to engage in illicit activity, if you are violent, you can do many other things without having that restricted airside card. If even one person associated to organized crime is enabling them behind the scenes in these prohibited areas, that’s one too many.”</p>\n<h2>Thousands flagged, but approved anyway</h2>\n<p>W5 has collected exclusive data from Transport Canada showing how widespread the issue may be.</p>\n<p>Over a five-year period, more than 125,000 security clearances were approved across Canada’s four largest airports.</p>\n<p>More than 7,500 of those employees were flagged for some type of security concern but still received clearance allowing access to restricted airport areas.</p>\n<p>Transport Canada would not disclose how many of those flagged employees were considered high-risk or had alleged links to organized crime.</p>\n<p>In a statement provided to W5, they did note that “adverse information is broad” and that “it refers to any information that domestic or foreign security partners provide to Transport Canada on any applicant. Not all adverse information necessarily leads to a refusal, suspension or cancellation (for instance, a driving-related offence from over 20 years ago).”</p>\n<p>Botelho says even while working inside the system, he could not get answers about how many employees were categorized as the most serious threats but granted security clearance anyway.</p>\n<p>“I asked, how many of those numbers were ... mission critical, in other words, enablers of organized crime. Nobody can give me a straight answer,” he said.</p>\n<p>Botelho says insider corruption is essential to organized crime operations moving drugs through airports.</p>\n<p>“Without it, it doesn’t exist,” he said.</p>\n<p>Asked how serious the problem is at Canadian airports, Botelho does not hesitate.</p>\n<p>“It’s huge,” he said.</p>\n<p><b>Read parts one and two:</b></p>\n<ul><li><a href=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\"><b>Exclusive investigation reveals security gaps and organized crime at Toronto airport: ‘You could walk out carrying a cruise missile’</b></a></li><li><a href=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\"><b>Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty</b></a></li></ul>"
     },
     {
       "title": "TD launches agentic AI for mortgage and HELOC applications",
@@ -455,17 +489,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Exclusive investigation reveals security gaps and organized crime at Toronto airport: ‘You could walk out carrying a cruise missile’",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/20/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/",
-      "pubDate": "Wed, 20 May 2026 12:25:28 -0400",
-      "description": "This exclusive report from CTV News’ investigative unit W5 reveals the inner workings of international drug smuggling operations involving Canada’s largest airport.",
-      "content": "<media:description type=\"plain\"><![CDATA[Part two of a W5 investigation reveals the inner workings of international drug smuggling operations involving Canada’s largest airport (W5)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/BD3VUUHP2FG7DPQGDT4VLZGNCU.jpg?auth=90dd5cd270e3ad64cbf14364afc24fcf1a77cf079fb2019fc3819224c1c218d9&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "This exclusive report from CTV News’ investigative unit W5 reveals the inner workings of international drug smuggling operations involving Canada’s largest airport.",
-      "body": "<p><i>This is part two of a four-part investigative series exposing corruption at Canadian airports. </i><a href=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\"><i>Read part one here</i></a><i>.</i></p>\n<p>Passengers travelling through Toronto Pearson International Airport face layers of security designed to stop dangerous people and dangerous goods from boarding planes.</p>\n<p>Carry-on bags are X-rayed. Water bottles are confiscated. Travellers are scanned, searched and monitored by cameras throughout the terminals.</p>\n<p>But exclusive reporting from CTV News’ investigative unit W5 into how organized crime groups exploit airport insiders to move drugs has uncovered troubling gaps in the security systems meant to monitor employees with direct access to restricted areas of Canada’s busiest airport, including luggage and aircraft.</p>\n<p>“When I finish work, I walk right out through the terminal doors, right out to go get the train to go to a parking lot. Nobody checks you,” said Charles, a Pearson ramp worker whose identity we are concealing to protect his job.</p>\n<p>Charles has spent 20 years working airside at Pearson. He says a corrupt employee can easily get a suitcase of drugs off a plane and walk out of the airport.</p>\n<p>“If somebody gets a hold of something, they’re gone with it,” he said. “We joke that you could walk out carrying a cruise missile and they wouldn’t even stop you.”</p>\n<p>Charles says in his two decades working in high-security areas of Pearson, he has only been searched once while leaving the airport.</p>\n<ul><li><i>If you have information on airport corruption or a story idea, send a confidential email to </i><a href=\"mailto:avery.haines@bellmedia.ca\"><i><b>avery.haines@bellmedia.ca</b></i></a><i> or </i><a href=\"mailto:joseph.loiero@bellmedia.ca\"><i><b>joseph.loiero@bellmedia.ca</b></i></a></li></ul>\n<p>Charles says the<b> </b>reason he has only been searched once is because, as W5 has learned, it is no one’s mandate at the airport to routinely search employees as they leave the premises. Searches are only conducted if a specific incident is believed to have occurred.</p>\n<p>This security gap, according to police, is one that is open for organized crime to exploit.</p>\n<h3>W5 EXCLUSIVES</h3>\n<ul><li><b>Part one</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\">Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty</a></li><li><b>Part two</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\">Investigation reveals security gaps and organized crime at Toronto airport: ‘You could walk out carrying a cruise missile’</a></li><li><b>Part three</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/\">Air Canada employee accused in Canada’s largest gold heist had been on police radar for years</a></li><li><b>Part four</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-toronto-woman-wrongly-accused-of-drug-smuggling-now-photographs-her-luggage-before-every-flight/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-toronto-woman-wrongly-accused-of-drug-smuggling-now-photographs-her-luggage-before-every-flight/\">Whistleblowers say organized crime has infiltrated Canada’s largest airport</a></li></ul>\n<h2>‘The back door of the airport’</h2>\n<p>Retired York Regional Police Insp. Dieter Boeheim investigated airport corruption as part of Toronto’s Airport Intelligence Unit. He says airports are built to scrutinize passengers, but not necessarily employees.</p>\n<p>“The front of the airport, where you and I go as passengers, is super secure,” Boeheim said.</p>\n<p>“The back door of the airport that’s accessible to the employees is like an open barn door where you can come and go at will.”</p>\n<p>More than 50,000 people work at Toronto Pearson International Airport. The overwhelming majority are honest, hardworking employees. But W5 research has identified several organized crime groups including the Hells Angels, Mexican cartels, Asian organized crime networks and Italian mafia groups, who have corrupt employees working for them inside the airport.</p>\n<p>According to Boeheim, that insider access is essential to drug smuggling operations.</p>\n<p>“The airplane becomes your vessel to move cocaine,” he said, “which requires co-ordination not just at Toronto, but also in source countries.”</p>\n<p>The retired police inspector says drugs are loaded into baggage systems abroad and then removed in Toronto with help from workers on the inside.</p>\n<p>“You have your counterparts in Toronto unload and get it to the outside.”</p>\n<h2>How a bag can disappear</h2>\n<p>According to Boeheim, it is far too easy for a corrupt insider to move drugs from an airplane onto Toronto streets. All it takes, he says, is to simply reroute a drug bag away from the more secure international arrivals area so it comes out at the domestic baggage carousel, where there are no customs checkpoints and far less restricted access.</p>\n<p>“[The drugs are] now accessible by anybody walking into the airport because you and me can go right now, pick up a domestic bag,” Boeheim said.</p>\n<p>To test that claim, W5 walked directly from the street into Pearson’s domestic arrivals. While one-way doors clearly mark the baggage zone as a restricted area, it is still possible to access the luggage carousels without breaking any rules.</p>\n<p>W5 also observed repeated instances of airport employees entering by tailgating through security doors without swiping their passes, meaning there would be no sign-in record showing who entered the controlled zone.</p>\n<p>Despite the doors being clearly marked authorized personnel and passengers only, when asked about these security concerns, Toronto Pearson responded that “Domestic baggage claim areas are publicly accessible, including for passengers and others interacting with airline baggage service agents or claiming baggage.</p>\n<p>Airport security maintains a presence in these areas, including through patrols. Allegations of illegal drug importation are not within the airport authority’s mandate.”</p>\n<p>Security is even looser at other major Canadian airports, including Calgary, Vancouver and Montreal, where members of the public have direct access to baggage carousels.</p>\n<h2>Undetected cocaine-filled suitcases</h2>\n<p>The recent W5 documentary <a href=\"https://www.youtube.com/watch?v=yWFCNbSGT2g\" rel=\"\"><i>The Cocaine Suitcases</i></a> uncovered troubling questions about how large quantities of cocaine move through major North American airports without detection.</p>\n<p>Four separate Canadians travelled through Canadian and American airports with roughly 100 kg. of cocaine in their checked luggage. They are now facing life in prison after the drugs were discovered by customs agents in Hong Kong.</p>\n<p>The mother of one of the imprisoned Canadians says she cannot understand how her teenaged daughter was able to get 25 kg. of cocaine through Pearson without being stopped.</p>\n<p>“We’re still in shock that she can pass through the airport with a suitcase full of drugs. How?” she said.</p>\n<p>“How is it that the Canadian authorities at an international airport cannot find a suitcase full of cocaine?” she asked. “That is my question: ‘how?’”</p>\n<h2>‘They bypass the scanner’</h2>\n<p>The Canadian drug mules were lured in by social media job offers and friend groups. All claim they did not know they were transporting drugs.</p>\n<p>A young Canadian recruited by the same network, but who backed out before boarding a flight to Hong Kong, described how the airport corruption allegedly worked.</p>\n<p>The young Canadian, who we are calling “Eric,” says organizers appeared to co-ordinate trips around airport employee schedules.</p>\n<p>“I think that it was only like one or two employees that were in on the operation,” he said. “So, the days that they were obviously scheduled to work would be the only days that [flights] were allowed to happen.”</p>\n<p>He also says couriers were instructed to use overweight luggage so insiders could identify specific bags during check-in.</p>\n<p>“They said specifically that they overweigh the bags,” Eric said. “So that when the employee weighs that bag, they’ll see the number and then know that it’s that bag they’re supposed to take off.”</p>\n<p>“I was told that they take it and they bypass the scanner.”</p>\n<p>W5 asked the Canadian Air Transport Security Authority (CATSA), the Crown corporation responsible for screening outgoing passenger luggage, how bags full of narcotics are able to evade security.</p>\n<p>In a statement, CATSA responded: “The security of the travelling public is the Canadian Air Transport Security Authority’s (CATSA) top priority. CATSA is mandated to screen passengers, non-passengers, and their baggage for prohibited items that could pose a threat to aviation security (such as explosives), in accordance with the standards set by Transport Canada,” adding that “Interception of illegal narcotics falls outside of CATSA’s mandate, although local police are informed if an illegal item of that nature is detected during a search for threat items.”</p>\n<h2>‘We’re in big trouble’</h2>\n<p>The Sept. 11 attacks changed the way passengers travel, ushering in new layers of screening designed to prevent terrorism.</p>\n<p>Retired RCMP investigator Ulisses Botelho says airports now need a similar reckoning when it comes to insider threats.</p>\n<p>Botelho spent decades investigating organized crime and drug trafficking and later worked with an RCMP unit responsible for reviewing security clearances for airport employees.</p>\n<p>He says the threat from insiders helping criminal groups move drugs through airports is too serious to ignore.</p>\n<p>“It’s huge. And if we’re unable to dampen that component that is facilitating organized crime, we’re in big trouble,” Botelho said.</p>\n<ul><li><b>Part one:</b> <a href=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\">Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty</a> </li></ul>"
-    },
-    {
       "title": "CMHC 2026 Mortgage Consumer Survey",
       "link": "https://news.google.com/articles/CBMikAFBVV95cUxOd0pmRUlXbllNZnNPZ2xWNkIyQXhTT05CTVNaZ3pEVU5sajdmY2N5LVk2cFVOQjM5S0dJVXVmRFluTWI1M0dKbTNqT2NGM1JDTDVjMzlzQ3ZuNnYxcTFpWlVyNjhENmFaQjVncFgzWVlHcE1KRkxmOEVnaU95QTQ0X0p5RjlqVE14Uk1YamxPeGY?oc=5",
       "pubDate": "Wed, 20 May 2026 14:00:00 GMT",
@@ -497,18 +520,6 @@
       "_src": "timescolonist"
     },
     {
-      "title": "CMHC reports annual pace of housing starts in April up from March",
-      "link": "https://news.google.com/articles/CBMixgFBVV95cUxOUUE4SGIyZGNMWnVzbFhDb3RwazBZcjd0NTI3Rm5HQVBVWkZTeU9NU3lzYk9GZS12dkJrUXhyY1g5X0h0dXZSd0Q2RmJyYUxvWWNLMGxWM1VJX2RVdGlSYnhQbmRkT09UaGFZd1plZ3VNOHpRUWQzdV8xb0JiQUhfUTNlekFCMlBGSUl5b3Ria0tOZE5JUnM2RExXSzh6Nks4V09nQnc3bjcwa2hVQWlmWVdyc0N4TVpEX1Flc3B5QUNndC01RkE?oc=5",
-      "pubDate": "Wed, 20 May 2026 10:46:58 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Inflation data gives Bank of Canada more flexibility to hold interest rates, economists say",
       "link": "https://news.google.com/articles/CBMiiAFBVV95cUxNWks0S3Qwd3NkbnFHN3BRZVZGVDU1c3E4bWMyenNKNzd1cVAwaFdVM3lIaDE2RVAwNlNsSU5USFhLREJOQlRJRnpqWmRsdVB1UGJ2RjI2VkFUWVdKVkVXUXFENmV1WjhtY2NsWmJ0MjEybzJtQ2lZVzdMdDFQNDB3NkZabDRqUXE3?oc=5",
       "pubDate": "Tue, 19 May 2026 18:46:35 GMT",
@@ -528,17 +539,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/deltaoptimist/images/development/surrey-development-sites-for-sale.jpg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "EXCLUSIVE: Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/05/19/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/",
-      "pubDate": "Tue, 19 May 2026 10:54:36 -0400",
-      "description": "CTV News’ investigative unit W5 identified at least 17 passengers caught up in bag tag switching cases over the past year, as RCMP arrests of Pearson airport workers raise insider corruption alarms.",
-      "content": "<media:description type=\"plain\"><![CDATA[At least 17 travellers have had their luggage tags switched in one year, an investigation reveals.]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/Y3O3JI677RFD3KQ32FYOFXFRKI.png?auth=3add4340be597c53e4a278a90578421cc606047aa498714f0615b01f20deaeab&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "CTV News’ investigative unit W5 identified at least 17 passengers caught up in bag tag switching cases over the past year, as RCMP arrests of Pearson airport workers raise insider corruption alarms.",
-      "body": "<p><i>This is part one of a four-part investigative series exposing corruption at Canadian airports.</i></p>\n<p>CTV News’ investigative unit W5 has found at least 17 innocent passengers on flights originating in Canada were detained on drug smuggling allegations over the past year after their baggage tags were switched onto suitcases filled with drugs.</p>\n<p>All were eventually released, but only after some had been handcuffed, arrested and jailed overseas.</p>\n<p>W5 compiled the data through court records, news releases and police sources. The cases involved flights from Canada to the Dominican Republic, Paris, Germany, Morocco, Bermuda, the Philippines and Korea, where drug smuggling can carry the death penalty.</p>\n<p>In the last year, the RCMP has arrested six baggage and ramp workers at Toronto Pearson International Airport in connection with alleged bag tag switching cases.</p>\n<p>These numbers only reflect cases in which drugs have been detected. There is no way of knowing how many passengers may have unknowingly had their names used to move drugs around the world.</p>\n<ul><li><i>If you have information on airport corruption, or any other story, send a confidential email to </i><a href=\"mailto:avery.haines@bellmedia.ca\"><i>avery.haines@bellmedia.ca</i></a><i> or </i><a href=\"mailto:joseph.loiero@bellmedia.ca\"><i>joseph.loiero@bellmedia.ca</i></a></li></ul>\n<h2>How bag tag switching works</h2>\n<p>The scheme is simple.</p>\n<p>A corrupt airport worker unsticks the luggage tag from an unsuspecting passenger’s bag and re-attaches it to a suitcase packed with drugs.</p>\n<p>At Toronto Pearson, there are 3,000 security cameras. But there are camera blind spots in restricted areas. And a bag tag switch can happen in just seconds.</p>\n<p>If the drug bag makes it through undetected, someone at the destination country retrieves it. If it’s intercepted, the innocent passenger whose name is on the tag is left facing the consequences.</p>\n<h3>W5 EXCLUSIVES</h3>\n<ul><li><b>Part one</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-luggage-tag-switching-scheme-involves-flights-from-canada-to-countries-where-drug-smuggling-can-carry-death-penalty/\">Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty</a></li><li><b>Part two</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-investigation-reveals-organized-crime-groups-exploit-airport-insiders-to-move-drugs-uncovering-troubling-gaps-in-security/\">Investigation reveals security gaps and organized crime at Toronto airport: ‘You could walk out carrying a cruise missile’</a></li><li><b>Part three</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-air-canada-employee-accused-in-canadas-largest-gold-heist-had-been-on-police-radar-for-years/\">Air Canada employee accused in Canada’s largest gold heist had been on police radar for years</a></li><li><b>Part four</b>: <a href=\"https://www.ctvnews.ca/canada/article/exclusive-toronto-woman-wrongly-accused-of-drug-smuggling-now-photographs-her-luggage-before-every-flight/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/exclusive-toronto-woman-wrongly-accused-of-drug-smuggling-now-photographs-her-luggage-before-every-flight/\">Whistleblowers say organized crime has infiltrated Canada’s largest airport</a></li></ul>\n<h2>Toronto woman pulled off flight to New Zealand</h2>\n<p>Nicole, a 35-year-old from Toronto, was travelling to Auckland, New Zealand, with her family when her trip was suddenly interrupted during a layover in Vancouver.</p>\n<p>Passengers were getting settled for the 14-hour flight when Canada Border Services Agency officers boarded the plane shortly before take-off.</p>\n<p>“I hear a man speaking in an aggressive tone. So, I looked around like, ‘What’s going on?’” she told W5.</p>\n<p>After Nicole was marched off the plane, she was told she was being detained for transporting narcotics.</p>\n<h2>‘How do I deny?’</h2>\n<p>Certified copies of border officers’ notes obtained by W5 show two suitcases tested positive for suspected narcotics.</p>\n<p>Nicole says inside the secondary screening area, officers opened the luggage.</p>\n<p>“They brought out the bolt cutters, … and it is just massive vacuum sealed packages of pills. … It was stuffed full of drugs.”</p>\n<p>Nicole insisted the bag wasn’t hers, even though a bag tag with her name on it was attached to the suitcase.</p>\n<p>“How do you argue that it’s a tag with my name,” she said. “How do I deny that that’s not mine?”</p>\n<p>According to a Canada Border Services report, the luggage contained eight packages of suspected methamphetamine weighing 20.52 kilograms. That’s more than 45 pounds.</p>\n<p>Nicole was arrested.</p>\n<p>“I had to take my shoes off,” she said. “They cut the strings out of my pants, put me in the cell.”</p>\n<h2>The crumpled bag tag clue</h2>\n<p>In the cell, Nicole kept thinking about the tag.</p>\n<p>“The tag looked crumpled. When I put it on it was in pristine condition,” she said.</p>\n<p>About seven hours after her arrest, Nicole was released. While no one has explained what cleared her, she believes airport surveillance may have shown the bags she checked looked nothing like the drug-filled suitcases with her luggage tags.</p>\n<p>“I know how lucky we were that it happened in Canada,” Nicole said. “But if it had happened somewhere else, ... some places still have capital punishment for it.”</p>\n<p>When the family eventually arrived in Auckland, their real bags - the ones whose original tags had been removed in Canada - were sitting in the unclaimed luggage area with “rush tags” attached.</p>\n<p>Airport employees use rush tags for luggage that has been delayed, mishandled or separated from its owner.</p>\n<p>Had the drug bags not been discovered in Vancouver, Nicole may never have known her name had been used to move millions of dollars worth of methamphetamine to the other side of the world.</p>\n<h2>AirTags hidden inside drug bags</h2>\n<p>Nicole says tracking devices were hidden in the bags, presumably so the criminals behind the scheme could track them.</p>\n<p>“What I was told is that they will swap the tags … and they’ll intercept the bags with the drugs in them. You’ll get to your destination and pick up your bag and not know that anything’s happened. And so, it happens more than you know, and it’s just not necessarily caught,” she said.</p>\n<h2>Canadians jailed in the Dominican Republic</h2>\n<p>Three Canadians on vacation in the Dominican Republic were jailed after a bag tag switching case at Toronto Pearson Airport linked them to suitcases filled with drugs.</p>\n<p>Dominican customs posted video of the three Canadians being led away to face charges of importing 79 packages of Canadian marijuana into the country.</p>\n<p>They were stuck in the Dominican Republic for months even after the charges were dropped, after authorities determined the marijuana-filled suitcases did not belong to them.</p>\n<h2>No arrests in Nicole’s case</h2>\n<p>Nicole travels differently these days. The Toronto paramedic says she has lost trust in the system.</p>\n<p>“I literally handed my bag to you and your one job was to get it safely on the plane. I never in a million years would have thought that something this simple would happen.”</p>\n<p>The bag tag switch that landed Nicole in an airport cell in Vancouver is believed to have happened at Toronto’s Pearson Airport. No one has been arrested in her case.</p>\n<p>W5 has spoken to numerous victims of bag tag switching as part of a larger investigation into airport corruption. Here are some of the steps they now take when they travel.</p>\n<h2>How to protect yourself when you fly</h2>\n<ul><li><b>Take photos and videos of your bag at the airport.</b> Document what your luggage looks like before you hand it over.</li><li><b>Take a photo or video of your bag being weighed. </b>That can help confirm the original weight of your luggage in case anything is added after check-in.</li><li><b>Make sure your bag tag is securely attached. </b>Before your bag disappears onto the conveyor belt, check that the tag is properly fastened and clearly visible.</li><li><b>Keep a record of your baggage receipt. </b>Do not throw out the small sticker or baggage claim receipt until your trip is over and your luggage is safely back in your possession.</li><li><b>Use a luggage tracker. </b>Several victims told W5 that tracking devices helped show where their real bags had gone.</li><li><b>Take a photo of the bag tag itself. </b>Make sure the tag number, destination and passenger name are visible.</li></ul>"
     },
     {
       "title": "Six building residential complex proposed next to Ottawa’s Tanger Outlets",
@@ -563,8 +563,8 @@
     },
     {
       "title": "CMHC expands mortgage loan insurance options for prefabricated, modular homes",
-      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxPT2I1SFlvS3pVQXNobkk4akVjeXRocUNPTTU4aUFtanFTRUc4OFFNRU1qcDlGc3JTT2xuR0I3UDR5WjgwTzRObk8xV0pFQlNZc1hZTC1sU3RGRFdERXFGN01wQ3N2NWN0blBOVUVIUnVVaU5zcm9PSUlycUJ2X2diVG1wVFM2LVdSTF96R054STV4Nklra2JRRkdfT0ZWSEZNUGpPdGN5U00tYnhIXzZnYzFJdGtGNzFaUEh2VV9WSGFxNUxweUoxSl9UMGliSXB2ZXQ4Mw?oc=5",
-      "pubDate": "Mon, 18 May 2026 10:35:09 GMT",
+      "link": "https://news.google.com/articles/CBMi1AFBVV95cUxQaTRTOWJ4Y09ITHlGWE9wcjV5cGt4cXBGa2JHalE4V1VhR1VOVjR5Mk9oeXVURm8tT2lqWmowQ0Y0OF9ZRTVYUDFDQXBEQ0VicFd4RjZueVdMQnR6ZzdMN0hWTGtoeTZmNzNGekNDRnBndGF0N0NYb3lOMlRzSEJlbkNHNWthUktWNWtvQ0pDSzhzMFRaclFvXy1KZWZOZWIzdm9XUXNPWEF3OGYzQXBvazczb1Nlb05wRHBXNGlNM0s1Q2Q4ZXI0TWZ3MWZOVE0yZ3RtRQ?oc=5",
+      "pubDate": "Mon, 18 May 2026 22:30:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -583,15 +583,15 @@
       "_src": "timescolonist"
     },
     {
-      "title": "'Tempered enthusiasm': No spring real estate bloom, but buyers are slowly coming back",
-      "link": "https://news.google.com/articles/CBMi2gFBVV95cUxPMGRqUjhTbERoYnFiZktqLTJkTWJ6N3NUQjhfM0pBWlJKQW1ZdUVjaXJTVVlMZTFwaUtrMDlrN0pZd2VZUC16X1BFN20tdGlDU21rN243OFhyT1RGZ04yU0F0QmZUckNDQUxMbW9XLWN1VHFwRHlYZ01WaEk1bUZhYTQ3d2tLZklpNHFhTnZYREZyeFR5U0N4cDRva2xFTVFoYVpiem9Sek05eUluTmRtSG9NRGE5UFhGRThKZVRPVnlLWHFud0w5WUVyd2tqT0JjRXV3YUpFZ0lFQQ?oc=5",
-      "pubDate": "Sun, 17 May 2026 12:08:27 GMT",
+      "title": "CMHC updates Multi-Unit Mortgage Loan Insurance: What it means for you",
+      "link": "https://news.google.com/articles/CBMipgFBVV95cUxNWDYxa1I1YjdyN3l2V3c5eXhfRW56bGpWQnZhWlBIbFhxSDZranFManlKdVRwX19mLWxBY3BnclQtc3B2bGtoT0lJVzNCX0w4OXhsYnBRRzN1UFFud3k4a255RndDMlFyU1BnZWt1WmdRQS1jbU1ZNEh3YnRzaldtaEVvVXZBemFlampIeXBuMG9qLXF1c3M0V1lnMVFtY3lCbG9RWFRB?oc=5",
+      "pubDate": "Sat, 16 May 2026 20:33:04 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "BNN Bloomberg",
-      "_pubUrl": "https://www.bnnbloomberg.ca",
+      "_src": "gnmort",
+      "_publisher": "RENX",
+      "_pubUrl": "https://www.renx.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -634,15 +634,15 @@
       "_src": "storeys"
     },
     {
-      "title": "Housing starts for April 2026",
-      "link": "https://news.google.com/articles/CBMikAFBVV95cUxPdmR4Y1cyQmh0dFZLeXVFNDlzS002MlA0N2dTQWFYUTJ3VFZmbTl6dFFBanJUMDU0WWRETE50Z25hVGdweHFfN05XZVYtREVIQm9KRXlfcmloMEI2U1J0WUdNWFVCQVdYTnFYUEllUm5MVm92aVA5Z3ZmVHRwbW9QZ1VobVdmNTlNaS12aW8xOTk?oc=5",
-      "pubDate": "Fri, 15 May 2026 12:15:46 GMT",
+      "title": "CMHC reports annual pace of housing starts in April up from March",
+      "link": "https://news.google.com/articles/CBMioAFBVV95cUxPZENoZVFiUEVVLU1WajRwNVF4QUVvQUdqZ2FqWmpmUzRraGk1YkNwQXl6V2FEOFN0UHd6V1RDSWhfWVRNdWViZjNtU2gzYVc3endFbWNPQktKV2JPNXlwUVQzcHJlNEpPUS10Q0hjTWx3NXJraHlGdE9DSnhzQktfRF9IeTlEZmxwbDNKWWo4OGxWeVZESFRwT2xZblctRXFZ?oc=5",
+      "pubDate": "Fri, 15 May 2026 14:37:28 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_publisher": "Business in Vancouver",
+      "_pubUrl": "https://www.biv.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -677,30 +677,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/image.png?id=66735843&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "April home sales down amid frosty start to spring real estate market",
-      "link": "https://news.google.com/articles/CBMieEFVX3lxTFBucDJQbXpnY3d3ZWMzb0pMN1hsQ0ZaZWtMMUY5MjB5NVNJTGFINzhfMzVPOGdoMGtNSFBCQ0xpc20zMlJwN0dtZTB0bzBpRTI0aEpEcHFOSDdydTNVQXVEbzBwcmJaR0d6cV8xa0piQXJtTzZyQnZvaQ?oc=5",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Canadian Existing Home Sales (April 2026)",
-      "link": "https://news.google.com/articles/CBMiW0FVX3lxTE43aVpucXh2ZFZBRV9jd1VXRkFsajR2VTZoclJrbUlKWkdHbHQ2ZTlWTGthZ2ljdmdRMXZodF8xcVNvX3VzR1hiSmZyd29JV2xvMGZCWWdyLWZJaTA?oc=5",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Rennie President Greg Zayadi On 'The Agency' Partnership",
@@ -742,6 +718,18 @@
       "_src": "storeys"
     },
     {
+      "title": "CMHC says housing financing support remained strong amid economic uncertainty",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxOWFFzUm9iUUs2a3lKS1JGSnp5aUJYeEZqOWwxRkdRVnZRTmJsMTdEUVRrUWFESzExV0QxSEN4aTZFM3Q4ZVVHWEl3NkdDMEVKQjlGOVJWYzVrb1JEUjFkRzdDNXZWMkdLdjBTeTlBblRBdVhLZDB1Mm9nWTJDaUxyb2VUMTVacTR6ZmRmSlZlNEhKZF9RamtZdVk0cHJmNW5oazlScmdoRWlIXzlNS3h2ZVI4QkI1bndrOThzTA?oc=5",
+      "pubDate": "Tue, 12 May 2026 22:05:12 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "WestCentralOnline",
+      "_pubUrl": "https://www.westcentralonline.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Elevated Modern Listed Just Under $3M On Manning Avenue",
       "link": "https://storeys.com/305-manning-avenue-litte-italy/",
       "pubDate": "Tue, 12 May 2026 15:38:06 +0000",
@@ -772,6 +760,18 @@
       "_src": "gnott",
       "_publisher": "Remax",
       "_pubUrl": "https://blog.remax.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "CMHC expands insurance to support prefab and modular housing",
+      "link": "https://news.google.com/articles/CBMirAFBVV95cUxQX3FmVElpSzNMZlNDRjluWW95X0JxWDlXb0xUUmRNbzd6Z0RYa0g3eERsVzZ4cUlDVk05bVZPVVV1RDVQN2NpYURxRS13Wkk5UjRxLWNDYzBLN1FVYjNGak5Iem85Qm9GRVVraFBSVjkwVnk2dEVTZlViN2xwTWJnc1Jzd1YtVjFUZ0JxbUgwQjlpOFp6VDFHSjJ0aDlWRElPcTY4UnJnd1ozRWo5?oc=5",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -861,7 +861,7 @@
     {
       "title": "The Bank of Canada is holding the interest rate at 2.25%, here’s what that means for the housing market",
       "link": "https://news.google.com/articles/CBMi0gFBVV95cUxQSm9VMUpfeXZPNm5aMi00SXhBaUZaQ1ZxaXVRTkpaUkVPbWN1a0hLTGtuTGhsUGRwMDZ0YS1DZGd3VjhsOEYxYXE4VXY4ZDNja21yTWNlQVFidWh1ak5Sbjd2LVdXTG5rZGkwaVdKM1F1VUtsdVN3VWE2VEhudkRBZUE1dWlwVmhNSjFtSFZ4LUI2ZWpmai13cmhzQjRLOWhiYWxjei05UDVvY1NCWDZPMTZCekpPZEdIZDgtYnRSY0xLMG1HZHNSU1ZzbjNvbmRMemc?oc=5",
-      "pubDate": "Sun, 03 May 2026 07:00:00 GMT",
+      "pubDate": "Sun, 03 May 2026 14:25:48 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -919,18 +919,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada announces latest rate decision amid continuing global turmoil",
-      "link": "https://news.google.com/articles/CBMi2gFBVV95cUxQOUw2dWtxZWZXZGZNTnBFS1hsVmpwcWVweXo3WTJfZFdGQ3Fad1QzbWl4SURLR2hZVFNuYjlkX2NWSG0yalhzdU8wODdFYlJLSEFjZm0xR28zc2ZRYWtXQk9kZGJwMUlIQzlPb1RtZ2xsREd1Q3VBdGZONFlXbk4zaTllUHFvQUN1WTBIMlFqMUJCX21WcjdwYi1pVGhvM0c1Y1pWdDZFSHJweTQ1Nk1XaFJ0bjVjYlBYOTZMQVBzeWJZZTgxU2E1djFaUDBBaGstUE1USXNMX1dwUQ?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
       "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
       "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
@@ -967,6 +955,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "From where the deals are to where prices dropped most, 5 key things to know about the spring real estate market",
+      "link": "https://news.google.com/articles/CBMiigFBVV95cUxOYl90VDQ2Y05GUURCRU9rYVB5M1lNR2pDaXFhVnZGNzRfc2xZejg4ZDlIQ1hDWnpCMlA2REZPWmQ3LXN0X0RrVDdJWkRxWUZYZ3RnSkI4NEdWeUFJdFlHQzlXYzlGUHlPR0hCOXdvRV85a0pqSDVFUTkzbVpCQzl1WUwyaDNmTE5VLUE?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Financial Post",
+      "_pubUrl": "https://financialpost.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "No new condo projects launch in Q1 as Toronto market hits a wall",
       "link": "https://news.google.com/articles/CBMimwFBVV95cUxOOC1UTHN3eE5OWGY0c0hWeklmc0M4V3FUY1dOX0FoRE92TEtwTWpCUXlpVHhJcmExX2NyRXEtMGFKSWNtN1kyV3BsdEdhWFhNUmVmYnFEcWFVRGEwbkRlZGZJdHkyRlZXcXlVVG9LTUFxaW54VHlYRjN6THJSVThEMTlHaS1GOTZMYk5TdzN2cWlTQjA4Rlk0U2xWVQ?oc=5",
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
@@ -981,13 +981,37 @@
     {
       "title": "Toronto’s condo market sets a new record: zero new projects launched in the first quarter",
       "link": "https://news.google.com/articles/CBMigwJBVV95cUxQTHo5N2MxdDRKZ3ZwTEE4c09OOHI3VHVocmx0VWVfSkNRN3hIOEtIRkNHaUlvSEYxTWNwYVdNWldUdU44eExYY09SVUdPU2t4MkUxRW5DSEsxOXFWcVgyZ0ZKTUtWd2s3REk1UDg2b2wzejNlUG41SVpXWFdYWExBZDRLelVteEo1ZkVueUJhaUNpdjJQbEZOMEc2RGdkLXhnSW43S1Awc1ZKSTBQMU9SdE03eDBCQnNEbUlaMWI0WDE2TGthOURDZEVkUGtCRzZDUVZDbXBaQUFGcW5Oekp5bzR0YW5PbE55aWtFN2UxOHgwdjN3TUVfZUN2d3g5bGdFRjNj?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 09:02:58 GMT",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
       "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
+      "link": "https://news.google.com/articles/CBMihAFBVV95cUxPWDJsTjJtR1lQa3N3VWFiRDVsdVJub2lZWERKV2VZOTNRb0Q3cG8yT05UUlQzWDM4ZEZqUFo4dnhVOGRoWHpXbS1TRFZBaVM3bFdMdENFRVhMcERCckh3Q2lVVHdQbm5jZ1pKeTFNaFp5SDZJOWNYZ0VEbjZrOElRN2JKNWY?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Here’s what the CREA now estimates the average Canadian home will sell for",
+      "link": "https://news.google.com/articles/CBMi0AFBVV95cUxOd2dZTGY2QWJPOWN1NlBSeVdzMGE3Z1plZEtDWGl4NEsybzNMVGt2UzV1bEJxc0pZX05YajFIbDM5Zkxscl8tNUFzcWRRZEJoa2ZJMFpXTUsxTmpKRXVZNWNncExDX0pXWm4wU2NpQkpDMnJZUy1pa0RrQlRqS2N0NXBFMktnSFE1OVhEM0taZXhxMkJXQmtMc3BaRFJyVTRZZE4zM3FCWmtzNnVUamcydDJEU2l6WlRJY0R6WnVaYlVtY2g2cU5pNm40eFZSVFdO?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "BNN Bloomberg",
+      "_pubUrl": "https://www.bnnbloomberg.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1003,15 +1027,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa municipal official warns of limited local autonomy under provincial Bill 98 standardization",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxQTExZanNaZHFqREtXbWRzY1VPNUpreHF6b3B6UENTdjlFTXV0VVoyNzVuVThFdGlVMXZ4aDIySmZRSHFFdXQ1eUZIRlZJaVJncFZCanJfWk9VWE5PM1I2VGdRZEFFbWZhZHhJbTJmMFlIc0RFQmJ3THFHaXVTbURCcGhmSnFIZENiVWNiMVJtWUo0ejZlczEwenU0YkpnaWhLWW85VHpYQjVjVGVRYUZZdHpNWmxnckhUcmRpNXdBb3pKdw?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "title": "Seven Ottawa-area markets ranked in top 10 for affordable housing in Ontario",
+      "link": "https://news.google.com/articles/CBMifEFVX3lxTFB3NWZKUi1mYjI2eF9La01rTE0tdk45ckl4eGxVN3I3MDVUelYtNjJDWVhCbllyVUctUnlaUjlGUFlUVkQtWXhNckVWRjFWSUxGX1JoNzVLZ25kTVJiMkNOTkQ1WE92cFM5ektuMmhxVUpjY0Z4XzV2b3NZakY?oc=5",
+      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_src": "gnott",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1063,6 +1087,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Canada’s population downturn, rising supply to keep apartment rents in check",
+      "link": "https://news.google.com/articles/CBMi6AFBVV95cUxPZHFXenExcTkyUnVuRmdNU09sVC0xYXM4WUVpdno0TF9PbnpqWlhEUjhzZEY5cTM5X0d6Ml9zeVVRVkN2QzFSU0pfRnJtODVtcXRDelgxRnVCcU5sNFNsZl9rak1vLW5NX25ySmRyWHg3ak5TM2lzR3d5ZDkyM2RXcjJDV2NwYW12TDUydjIzVW9GNmVvZzdMWjczOXhkTGFJczBzcHdCdnlUN1JZTFhCbmIxWjhwMGJvVDg1Y3EwcjdlT21zdkhyZ1N4R2gwZlRKejlWZFR6S0lRRGNOcWU3RnUyZmNvakhU?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Toronto's Condo Market Reset: How Strategic Developers Are Turning 2026's Correction Into Opportunity",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxONjVraElBcWNnVnZqbm1iMEdLOE1yNkpVUVN0d2Vfa3VZRWpKLTh4ZkhWMWJ5OUkxSUs2eGRDcnd4UTI2aGJQY3l1Z3hmVzhXWk1DTzItNFM1UnFFVVEwZnd5Uk1QZy00UEtaSVVXZ3kwM0lZLTJHRmlEN3dQcllBaGpyVFJsYmljQjB0T0tWY1JSOHJOUkdLVDg0dTVPSlI1R3c?oc=5",
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
@@ -1072,18 +1108,6 @@
       "_src": "gnnewcon",
       "_publisher": "newswire.com",
       "_pubUrl": "https://www.newswire.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ask an Expert: What CMHC’s housing affordability index is and why it matters",
-      "link": "https://news.google.com/articles/CBMipAFBVV95cUxQb3hWVjZWSTZiU1RsN043RGZYYkhFbDV0WDFmdHh2YW1RbU12czhfZ2FrSE1vVkxHWGN6OHRRdlBwc3VxRFJsODZZNkRfVWZLbHpLcXF0WWJ0U3M2WWV0SFZpTVVXYndRYVNyajVXRUhXQ09KbG1iODAwZHM4SjA1OWZSQTRtVFBiVUVLQTQtUTgzN3A2d0RscU5VcTVuRW9ORzEzcQ?oc=5",
-      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1183,6 +1207,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Immigration could soon account for all of Canada's population growth: expert",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxNWER6Vm1hNG9UNGwxeHQxbUx5VzBRZjlKcldHVTBGRnVPYU1jWUVUYTk0aGV6Q2ZuR3kyN0x4aEd5UmZ6c01YREZLblE0NUVTMjdOaFE1RzVZTzV6M0tpN1c4WTVqVW5vOVh6YVhSYUJmRWp1cGUzN1UyTjhZYlliZzlzRGN4RUNJSzF5NDB1Um1seW5HZU9QNXBEZXdHZW9YbzFybGM3NjJqdU5HOUVr?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "AM 800 CKLW",
+      "_pubUrl": "https://www.am800cklw.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Calgary home sales fall 11% in February as condo oversupply weighs on prices - CMT News",
       "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNUEZscXBNS2FBOF9aS1BObWI5RzhvTW1iZ3JrS3ZiM0t2ZEdZYkE4LUx1RDFoQzZoM2hjaDVWREI1T3ZOTmNsUG1CdkpiaGpZVlIxcVRLRG5CakNMS0JLdkVwMjJvM3RzM3pkckc5N0dzX0hDdlo3emEyalNZUG9EeHhxVl9wZFBKZWZnSXFsZ2h5UkhNLWZuVnNsS3ctS01qSDkzTEI2blNpZGg0bEt2X05sQ1Rib0daNng0N0w1NzQ?oc=5",
       "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -1192,18 +1228,6 @@
       "_src": "gnhprice",
       "_publisher": "Canadian Mortgage Trends",
       "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "The federal downsizing effect: Risk, resilience and Ottawa real estate",
-      "link": "https://news.google.com/articles/CBMijAFBVV95cUxNNThXYnVMd2VpcDJoNE1CTXdKejNRT21VOFd2UGJoLTl3Tm9VQ3F3N2NKYy0wZW92VlpnZmJuMVh5TVJIRHFiSGR3aTVrWlY3V1NTV3Z6RVZXN1NNZlRZWVhQVmJ2Tml1cjVrbHZoQ1I5QWdHM2I1MFphVnhNa1JlTjQzNHRqM0JBTXdKLQ?oc=5",
-      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Business Journal",
-      "_pubUrl": "https://obj.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1231,6 +1255,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Canadian Home Sales Begin 2026 on Ice as Snow Buries Central Canada",
+      "link": "https://news.google.com/articles/CBMigAFBVV95cUxOdmN6RENyQzZrMTgwUm1VR1JJbkUxS2x5dG5mekwxQVluR0w4X3RkMS1zeWVoX3RfVE55ZnlldUttb0ZncWVOZDBOWi1CYU1PQVBJbm9relF0RXVlcmtadXhEdnQxS2dWY0ZzbmJiQ0JPRHVwZUR4UmN3WDZ1NXprWA?oc=5",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "crea.ca",
+      "_pubUrl": "https://www.crea.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Home Prices Are Finally Dropping",
       "link": "https://news.google.com/articles/CBMihgFBVV95cUxOQ0stSlFrSG5oeS1IVl9QMDhsSjk2TUh5QlN2WkdSU2NMTllfQWtwbnI5VXE2dXJBS2xSWFZoaDh3UEZJbFQxdDM4MUdEazNHVU85U205QjlZNFJac2lPSTk4SFVab1V0aWJxSnZKYmZCeTRfbFVGdGhhWS14TUNkaERNMVNYQQ?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
@@ -1240,18 +1276,6 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Canadian Home Sales Begin 2026 on Ice as Snow Buries Central Canada",
-      "link": "https://news.google.com/articles/CBMigAFBVV95cUxOdmN6RENyQzZrMTgwUm1VR1JJbkUxS2x5dG5mekwxQVluR0w4X3RkMS1zeWVoX3RfVE55ZnlldUttb0ZncWVOZDBOWi1CYU1PQVBJbm9relF0RXVlcmtadXhEdnQxS2dWY0ZzbmJiQ0JPRHVwZUR4UmN3WDZ1NXprWA?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "crea.ca",
-      "_pubUrl": "https://www.crea.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1315,15 +1339,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Zonda Urban: Townhouses Lead the GTHA New Home Market as Buyer Options Shift",
-      "link": "https://news.google.com/articles/CBMijgFBVV95cUxOOTY5QXpBb2ctY2dORFdLNnJsZHdpSjdnRElEQmRRcmduc29kdElXTG1RTFdvMkdCNkJMaGN4QmlldEJLa2pfZ3lWLXROWmsyRF85QnAyUGpWaUk5SC15RXg5OWNCVGxXSlViR3Z1djFHVEQ5NTNoOU8ybkRQNEVEU011S0lEUTV6YVlxNWtR?oc=5",
-      "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "title": "Why Are Canadian Real Estate Prices So High?",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE02MTRxdnY3bnM1aXBIODU4dlo5TDJ3b3FtdGpWdXBtTmFFS01EUWxDbFJLcVU4cDNRLW0yWUZoM3hPM2VyalRxVmVEYTRhLUNSMFI2dXdOXzY5cEpGSGlXOHFPbFdraXlyTWlUMkpaYWMwVzQ?oc=5",
+      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Livabl",
-      "_pubUrl": "https://www.livabl.com",
+      "_src": "gnontre",
+      "_publisher": "Remax",
+      "_pubUrl": "https://blog.remax.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1339,18 +1363,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Housing starts up 5.6% in 2025 from 2024",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxPby1NRS1lR3V6SE53QUNwOGN5X0NPcDVyY0ZmemZNaE9Bd2hMb0tNV09HMDlGTVBKajZHNHR2QTZkZWc5ZHB4ZUJ3S0g1TFJHdF9CS1RjMDc5dzk0dGpJUFBrZGJPbklFS2tOMzVPNkpaTTZvU2RBYTRPZWxkYXJ2aGZpQmp5MEt4QlZ5c2pIaUxHZGVW?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ontario proposes to pause rule that lets cities require affordable housing units",
       "link": "https://news.google.com/articles/CBMi3AFBVV95cUxNemdDQkUwSDJGd0t5aXJJWjlDblRVc1JFRW9vZjY1SEJyMXRsYUZtVTAtMUZ6VTBFeTFnN0V2VVdaOGM5S29UYzVzY1F1X0R6MEdnM3N1akZ5Q1M2X0JhYUxGdDAxMWxjZHFUelltU09iXzJYeE5udGg1RWRETGFVMVhrdW5yNzBfZVloZWJxanJ4VGZGWHlFNHVtYVpWNmJVUndkOUMwRjNzbU1DeVhMUHNlZW9Wb1BBek1sTG1qZjBMQjQ5Y2ZlRkcwMzh4bE5sLXNiZVhZeElaZF9h?oc=5",
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -1363,15 +1375,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Homes market will need time to recover",
-      "link": "https://news.google.com/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "title": "CREA Updates Resale Housing Market Forecast for 2026 and 2027",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxQWkg5ZWhnbllFajBaWFlhdWZ1UExyNnhuVjE5c2VnX3VQVzV3dDNHemItcEdZT1B0QzBsY2ZuaTV5NVlJRm9FUlhOb0EyNm5HU2E0N0tGUkF3X01KcFVyX2Q1WDk3WUdIWDhpSlVSZndLVFZURkZsRDZ2ejlMT2pZZllpMzdVZDJISUd5Z3NjVXBfYzM1eEFnWTlZOHYtVUgyZmZ4WlF4UDZfSktncmFZeC1GUGp0dEZyRzdTeFpPOGp6VDR6dlNYd1h1MA?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
+      "_src": "gnontre",
+      "_publisher": "crea.ca",
+      "_pubUrl": "https://www.crea.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Where’s the housing market headed in 2026? Keep an eye on these seven charts",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxOdy1VRkk2RVV5bzAxZmlRdlVjT1VIY194azU0alN3YWE3ZXIxM1ZYbjNkMUR4Q2lRNVp3YjlFOFVjZFJ6WE83SmZlQ2VFbjNnaHdBSWNyQlNqV1RQXy1QMThUTmEzR1RMajJFQWtTbHhuY2hWc3Y0bGUtUXBVa3MzTmxzT19xd1Q4VndiNWIwUQ?oc=5",
+      "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1384,6 +1408,18 @@
       "_src": "gnnewcon",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Who really owns homes in Canada? New data challenges common immigration myths",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxONFZsSTh4S1VzVThhQ3ZWUGZYOTV2SjVNd3RBenMyenF5azNqTWkyb1VsMnl2Rnl4R0FERjIyNEpUUmVRZUtxWEx3Qm51R3gxdC1hSWUxSWtPcGpPa3BXMHFheVptV3V0M3M2MWQ4RjREajQyZE5XZFBHbzc0Slpja3lIaUxXNG1B?oc=5",
+      "pubDate": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "Canadian Immigrant",
+      "_pubUrl": "https://canadianimmigrant.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1432,6 +1468,18 @@
       "_src": "gnimmig",
       "_publisher": "Statistique Canada",
       "_pubUrl": "https://www150.statcan.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "City of Ottawa, feds launch $400 million investment to build homes in Ottawa",
+      "link": "https://news.google.com/articles/CBMiswFBVV95cUxQNkVvckN2MGJYRzV3eXl6d3NOTTVfY1dNWVVNYTEyZmJ0SHNiTW9IYzhiRnB6bzZOYm9mQzRySXVmR0lQNnozNGY3LWZyQy1udHJWOFE2d3FNclAtaVdJYjd6eHhyU29NOTR0WVpZQzAxcnlQV2VLNUZFSkx3RUxNd21wSF9DZUtRRnBzdnJ6WXFpM1VncUozb0QyZmpwa2ZYZWNHM203V0ZnOGxPUEZkQ2dwWQ?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1495,30 +1543,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Is the Dial-Back of Immigration Having the Intended Impact in Canada?",
-      "link": "https://news.google.com/articles/CBMieEFVX3lxTE45cHIxM2hsbUtOaEtjVGQ2aEROT2NHY0lmdVdRTUpLbnF6d0ZNdkZuR053VnpsR2J6a1lWSDdERFlqNl9MMHI0Nk5uWVJrbHBkNTdSRVFCdEc3ZlA4ZnpXTUdzY0pQRk5HVjQyZEVaN08wQm5rOGRvMA?oc=5",
-      "pubDate": "Tue, 28 Oct 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Household Formation and the Housing Stock: Estimating the Housing Gap in 2035",
-      "link": "https://news.google.com/articles/CBMimwJBVV95cUxPN2FzUzlLQnBMckwxVGt3dHVuVmdZcVpIUk03cFBmUjAyUmJTaUNMNHp1bmtNMHJmQl94UkgwSmpONzFlRVRGUXpiX3BTMkUtQXpsem1VbmpDWDFHOE5QcHV5Vl9Xb0VSTGdxVVlOMGpDZ21jcUtCWXViSDQ1SzQyZjJiSzJJV1h6blZfeGE0MFpBTkpmV1dHVXM1R1Z6b2Q2YkhTNGM5RTQ2Z001LS1QajgyeWxMT2poUXItVzc1aWhkMlBtTmY1UTFQTEdmM1hwd01zZTlJTTJySmJteDFqQXV4T0VlYnJnNnRiUUVEMENuOWotejVOTy03YXJsT0NRREVidHBnYUE1dHVoMGpqaEtFZ0dDd2M4OE53?oc=5",
-      "pubDate": "Tue, 26 Aug 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "Parliamentary Budget Officer",
-      "_pubUrl": "https://www.pbo-dpb.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Government, not greed, is behind Canada’s housing problem: Anthony De Luca-Baratta for Inside Policy",
       "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQcWRiUUc2c1VTVXR5eUVidDhnODBvSS1SLVdIUTRmS2M5b0FVOHVkTy13X1Z6Wlo3ZHBjSnlmZ21pV0xlX3hvQ1pka2pGSldjbUJ6WXBrbGw4bTNOZjJBdk9zOFhpTVZTV01wbmxyaE01RXNoeHVjaWU3UlpIVDV6OERidlFmUjJUaHFGdHNxUUM4ZUpvVkdxS0V5cV9OVW9ucDlQWE9vWVh4bnRzb3RCQU5vOURPM2dmN2V4bm9takJXWDA?oc=5",
       "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT",
@@ -1528,30 +1552,6 @@
       "_src": "gnpolicy",
       "_publisher": "The Macdonald-Laurier Institute",
       "_pubUrl": "https://macdonaldlaurier.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Canada’s housing market forecast update",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPMVNCaGhsemVCS0o4MGlnWEpEUk02LTFrYnhsRlVBelZPVktfclZfQUV2NnhJUzdYbkItSHhVQmFpR1MzVE5VM1d4ZlJlVlZ0aWpYUE8yZm1CaV9lb3l3N1VsdDN6bHJKNWZYOHdCRjVjVThyTC1NX2gwQUZ6Ri1GSVJobHVrV3NmNFBYLW0tSndZdXNIUmdETUw2RzZIU0RqUTZmT1FrZVFaUWdTTm5ybDF1ejZiSVhtRE9sSFJGZ3U4T0U0ZUdCdzRWbw?oc=5",
-      "pubDate": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Immigration and the housing crisis: Debunking myths to advance an inclusive economy",
-      "link": "https://news.google.com/articles/CBMilAFBVV95cUxQVFYtSVZIMGFSZWlWZHBmYUhHdmFKd1pRNkdDNTY4WERmZF9NTmNYNWVfdUNGazlUT25GbFVSZTBMSW1lclNIUVFKYklhWlU1eXVvNldhVlFkYW9ybFRzZWI3VXR0LVlGZDNyYlJPaVM5TkY2VC10YktYZW5YVldPTk5XNGtSX1ZuTUlSQTJ3dGlMaDJN?oc=5",
-      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "Toronto Metropolitan University (TMU)",
-      "_pubUrl": "https://www.torontomu.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1588,6 +1588,18 @@
       "_src": "gnpolicy",
       "_publisher": "TD Economics",
       "_pubUrl": "https://economics.td.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "The City of Ottawa Needs More Family-Friendly Housing. Instead They're Contemplating Downzoning.",
+      "link": "https://news.google.com/articles/CBMigwFBVV95cUxOVUpUVEttc3IxSFZ6cHY2YTd0V0ktcFR6NG9Eek5PQ2FPcElZQ1JNVnlEWXBURHpJYTdpemJ4aWhEby1XdEltbnRLOHlqN0Z2TWJWYV9zLVRGYTYxZF93Zl9LSGU4LVAwNndGbXlYalpaUXRBdTg4NnlULXlqTlVab2F4MA?oc=5",
+      "pubDate": "Tue, 06 May 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "missingmiddleinitiative.ca",
+      "_pubUrl": "https://www.missingmiddleinitiative.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1723,15 +1735,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Government of Canada…",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxORWdtVzhzY0VySzZxSFJRT01JVXJyNEZENTJnOUZrZDhGQlpVanlLMXZvRW02ZHk2QzI2SUhhUVkxdDE1ZkJRNW5KcnJmYlJkdnp2UlYtektEckF3NHo4c3BCbmV4T0k1YkhlUkFTbUtzTkd1dkduV0t3OEFyT0FWVGFSejYwOEJRazh6YjVTY2U0MGJaMmJPc19CVVpGUUUyVnVreHdYM0pUaWQxRE5BZU9SMTN4TzZYSFZWLWFXejk4dw?oc=5",
-      "pubDate": "Wed, 16 Jun 2021 07:00:00 GMT",
+      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
+      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "Ottawa International Airport Authority",
-      "_pubUrl": "https://www.yow.ca",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
