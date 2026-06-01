@@ -1,6 +1,6 @@
 {
-  "ts": 1780334062635,
-  "fetched": "2026-06-01T17:14:22.635Z",
+  "ts": 1780352990731,
+  "fetched": "2026-06-01T22:29:50.731Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,123 +89,210 @@
   ],
   "items": [
     {
-      "title": "Bank of Canada says don’t put much weight on GDP data showing technical recession",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/01/bank-of-canada-says-dont-put-much-weight-on-gdp-data-showing-technical-recession/",
-      "pubDate": "Mon, 01 Jun 2026 16:47:52 -0400",
-      "description": "The Bank of Canada on Monday cautioned against putting too much weight on recent GDP data which showed two consecutive quarters of decline on an annualized basis.",
-      "content": "<media:description type=\"plain\"><![CDATA[Bank of Canada building is pictured in Ottawa on Tuesday, April 28, 2026. THE CANADIAN PRESS/Sean Kilpatrick]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/6FJQZVCF22E2ZQUSK6S5XHMSFM.jpg?auth=c87c0f35a1566edd51300a93bdc019173e4dcdd7e7f19359a89549da0de2bf12&amp;smart=true&amp;width=1400&amp;height=908",
+      "title": "Recession or not? The political fight over Canada’s economy",
+      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/01/recession-or-not-the-political-fight-over-canadas-economy/",
+      "pubDate": "Mon, 01 Jun 2026 22:26:44 -0400",
+      "description": "Conservative Leader Pierre Poilievre’s request for an emergency debate on the state of Canada’s economy was denied by the Speaker of the House Monday afternoon.",
+      "content": "<media:description type=\"plain\"><![CDATA[Prime Minister Mark Carney (left) and Conservative Leader Pierre Poilievre (right).]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KVQJG6NGGFBV3IMNYG6EKOGRDY.jpg?auth=b289519b10711f47bd9a46774a3c0cd4812cb9207f9c97ef6b4a66283ae97f0a&amp;smart=true&amp;width=2560&amp;height=1300",
       "_src": "bnn",
-      "_ogDesc": "The Bank of Canada on Monday cautioned against putting too much weight on recent GDP data which showed two consecutive quarters of decline on an annualized basis.",
-      "body": "<p>The Bank of Canada on Monday cautioned against putting too much weight on recent GDP data which showed two consecutive quarters of decline on an annualized basis.</p>\n<p>Senior deputy governor Carolyn Rogers said while two quarters of annualized contraction in GDP did meet one definition of a recession, the April advance estimate showed the economy most likely rebounded.</p>\n<p>“I think we need to be careful not to put too much weight on any one indicator,” she told a parliamentary committee.</p>"
+      "_ogDesc": "Conservative Leader Pierre Poilievre’s request for an emergency debate on the state of Canada’s economy was denied by the Speaker of the House Monday afternoon. ",
+      "body": "<p>Conservative Leader Pierre Poilievre’s <a href=\"https://www.ctvnews.ca/politics/article/the-recession-is-real-poilievre-calls-for-emergency-debate/\" rel=\"\">request for an emergency debate</a> on the state of Canada’s economy was denied by the Speaker of the House Monday afternoon.</p>\n<p>Poilievre rose in the House Monday afternoon to formally make that call.</p>\n<p>“The prime minister couldn’t be bothered to say a single thing about this emergency since he learned of it on Friday morning,” Poilievre said.</p>\n<p>“This is an emergency in the lives of people who have empty fridges, empty stomachs and empty bank accounts. And they expect the prime minister, who promised that he was a great economic genius, to get in here and explain how he managed to be the only leader in the G7 to cause a recession.”</p>\n<p>Speaker of the House, Francis Scarpaleggia denied the request.</p>\n<p>“I’m not satisfied that this request meets the requirements of the standing orders at this time,” he said.</p>\n<p>CTV News reached out to the Speaker’s Office for context on the decision but did not receive an immediate response.</p>\n<p>Poilievre repeated similar criticisms about the prime minister’s absence at both, a morning press conference, and during Question Period.</p>\n<p>Carney has not taken questions from the media or in the House since Friday’s <a href=\"https://www.ctvnews.ca/business/article/canada-slips-into-technical-recession-as-economy-stalls-in-q1-statcan/\" rel=\"\">report from Statistics Canada</a> showed a slight contraction for two straight quarters, meeting the technical definition of a recession.</p>\n<p>After Poilievre’s debate request Monday, Conservative MP Gerard Deltell stood in the House on a question of privilege to accuse a Liberal MP of “deliberately mislead[ing]” the House, when he said Canada is not in a recession.</p>\n<p>During Question Period Friday, Liberal MP (and former Quebec finance minister) Carlos Leitão repeated that statement twice.</p>\n<p>“Mr. Speaker, I will repeat once more that Canada is not in a recession. That is not what Statistics Canada has said… But our economy is under threat from the tariffs, we are the only G7 country next to the U.S. and we depend on trade with the U.S. That is the issue, but we have a plan,” Leitão said, according to the English translation of his French comments.</p>\n<p>CTV News reached out to Leitão’s office Monday regarding Deltell’s accusation.</p>\n<p>In response, John Fragos, press secretary for finance minster François-Philippe Champagne said he doesn’t “think there was any mischaracterization.”</p>\n<p>Fragos pointed to “scores of economists” who say you need to take into account more than just top-level GDP numbers before declaring a recession, as well as<a href=\"https://www.ctvnews.ca/business/article/bank-of-canada-says-dont-put-much-weight-on-gdp-data-showing-technical-recession/\" rel=\"\"> testimony</a> from Bank of Canada’s senior deputy governor Carolyn Rogers on Monday.</p>\n<p>“I think we need to be careful not to put too much weight on any one indicator,” Rogers told a parliamentary committee.</p>\n<p>“It meets one definition maybe, but that doesn’t tell the full story,” Fragos said, about whether Canada is in a recession.</p>"
     },
     {
-      "title": "Larry Berman: Time to find cheap consumer stocks and ETFs won’t help much",
-      "link": "https://www.bnnbloomberg.ca/investing/opinion/2026/06/01/larry-berman-time-to-find-cheap-consumer-stocks-and-etfs-wont-help-much/",
-      "pubDate": "Mon, 01 Jun 2026 16:31:32 -0400",
-      "description": "The problem with these consumer-focused ETFs mirrors the broader economy: the market heavily favours heavyweights",
-      "content": "<media:description type=\"plain\"><![CDATA[Screens display financial information on the floor at the New York Stock Exchange in New York, Tuesday, March 31, 2026. (AP Photo/Seth Wenig)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Seth Wenig</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/NILXF4YNLBBUZN7KTXYIMAVLAA.jpg?auth=b85004d3cd59358718221f85164bdb58570ed4b17d628454841825f4eacdd0cb&amp;smart=true&amp;width=8640&amp;height=5760",
+      "title": "LeBlanc to meet Trump's trade czar in Washington on Tuesday",
+      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/01/leblanc-to-meet-trumps-trade-czar-in-washington-on-tuesday/",
+      "pubDate": "Mon, 01 Jun 2026 21:39:22 -0400",
+      "description": "Canada-U.S. Trade Minister Dominic LeBlanc is set to travel to Washington Tuesday to meet with his American counterpart.",
+      "content": "<media:description type=\"plain\"><![CDATA[Canada-U.S. Trade Minister Dominic LeBlanc arrives for a cabinet meeting on Parliament Hill in Ottawa on Tuesday, April 28, 2026. THE CANADIAN PRESS/Sean Kilpatrick]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Sean Kilpatrick</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/F27V6D74LOVP5PUAUVVWB7IZRQ.jpg?auth=9a3d1a3f5ae5f6095eee279c781410c5d8ff9a92c4697bbb70ee985633c05926&amp;smart=true&amp;width=1400&amp;height=933",
       "_src": "bnn",
-      "_ogDesc": "The problem with these consumer-focused ETFs mirrors the broader economy: the market heavily favours heavyweights",
-      "body": "<p>My friend <a href=\"https://peterboockvar.substack.com/p/perspectivedelinquenciesrig-count?utm_source=post-email-title&amp;publication_id=1651348&amp;post_id=200105184&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=b9v3t&amp;triedRedirect=true&amp;utm_medium=email\" target=\"_self\" rel=\"\" title=\"https://peterboockvar.substack.com/p/perspectivedelinquenciesrig-count?utm_source=post-email-title&amp;publication_id=1651348&amp;post_id=200105184&amp;utm_campaign=email-post-title&amp;isFreemail=false&amp;r=b9v3t&amp;triedRedirect=true&amp;utm_medium=email\">Peter Boockvar</a> (Highly worth following him) produced this chart in his daily note today. The problem with charts like this is that they are useless for investment decisions, though they are often great at setting the table for an eventual outcome. It is no surprise that the “K-shaped” economy is showing up in many places.</p>\n<p>Some argue that the economy is broadening out, while others point to charts like this and say caution is warranted. Both perspectives are correct; it is simply a matter of time frame and catalyst. At a minimum, one would think it is probably time to get conservative when it comes to consumer-oriented exposure.</p>\n<p>In the simplest terms, consumer stocks are divided into consumer staples (the “must-haves”) and consumer discretionary (the “want-to-haves”). Both sectors look expensive today when looking at their primary ETFs, XLP and XLY. XLP trades at roughly 30x forward earnings, while XLY trades at 35x.</p>\n<p>The problem with these consumer-focused ETFs mirrors the broader economy: the market heavily favours heavyweights like TSLA (which makes up 20 per cent of XLY) at 225x earnings, while BBY trades at a modest 11.6x with a 5 per cent dividend yield. We see the same divergence within XLP, where COST trades at 46x while CAG sits at a mere 7.8x. Consequently, the more equally weighted retail ETF, XRT, is also expensive at just under 30x forward earnings. XRT comprises roughly 75 per cent discretionary and 25 per cent staples.</p>\n<p>I love ETFs, always have, always will, but the bifurcated economy suggests that stock picking may come back for the next cycle where the economic outcome is more volatile. If you are looking to play defense, the consumer staples ETF may not be the place to hide for the next cycle, but many stocks in the group are now cheap and pay decent dividends.</p>\n<p>We have suggested in recent years that when markets get expensive, active management can do better. Investors should give a long look to managers that try to deliver positive returns regardless of the market direction or value. PFMN (Picton Mahoney) has been out for several years and has delivered a good uncorrelated return since inception. We can expect to see more value-added active ETF strategies like these as market beta gets bifurcated. This bifurcation will only increase as SpaceX, Anthropic, and a few other trillion-dollar IPOs make their way in the indexes this year.</p>"
+      "_ogDesc": "Canada-U.S. Trade Minister Dominic LeBlanc is set to travel to Washington Tuesday to meet with his American counterpart.",
+      "body": "<p>WASHINGTON — Canada-U.S. Trade Minister Dominic LeBlanc is set to travel to Washington &nbsp;on Tuesday to meet with his American counterpart as official negotiations between Ottawa and the Trump administration on a critical continental trade pact lag behind talks with Mexico.</p>\n<p>LeBlanc’s spokesperson Gabriel Brunet said the minister will be joined by Chief Trade Negotiator Janice Charette for a meeting with U.S. Trade Representative Jamieson Greer.</p>\n<p>LeBlanc and Charette will return to Ottawa the same day, while Greer is set to travel to France on Wednesday.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/politics/article/canada-us-trade-minister-heads-to-washington-next-week-to-talk-trade/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/politics/article/canada-us-trade-minister-heads-to-washington-next-week-to-talk-trade/\"><b>Canada-U.S. trade minister heads to Washington next week to talk trade</b></a></li></ul>\n<p>Official trade talks between Ottawa and Washington have yet to begin ahead of a mandatory review of the Canada-U.S.-Mexico-Agreement on trade, better known as&nbsp;CUSMA.</p>\n<p>The United States and Mexico concluded their first round of bilateral negotiations last week and further discussions are scheduled for later this month. A news release from Greer’s office said “negotiators discussed priority issues related to automotive rules of origin, steel and aluminum, and economic security.”</p>\n<p>Canada and Mexico also have been talking separately.</p>\n<p>The&nbsp;CUSMA&nbsp;review sets up a three-way choice for each country to make. They can renew the deal for another 16 years, withdraw from it or signal both non-renewal and non-withdrawal — which would trigger an annual review that could keep negotiations going for up to a decade.</p>\n<p>Greer has suggested the Trump administration is unlikely to rubber-stamp a renewal. Canada and Mexico are preparing for lengthy negotiations.</p>\n<p>CUSMA&nbsp;— which was negotiated during the first Trump administration to replace the North American Free Trade Agreement — has shielded Canada and Mexico from the worst impacts of U.S. President Donald Trump’s tariffs. The current 10 per cent global levy does not apply to goods compliant under the continental trade pact.</p>\n<p>Canada and Mexico are still being slammed by Trump’s separate tariffs on sectors like steel, aluminum, automobiles and cabinetry.</p>\n<p>Earlier Monday, Conservative Leader Pierre Poilievre accused Prime Minister Mark Carney of “hiding from the negotiating table for the last six months while the Mexicans have been eating our lunch.” He said he has no expectations that LeBlanc’s meeting with Greer will achieve anything.</p>\n<p>“As Mr. Carney likes to say, if you’re not at the table, you’re on the menu,” Poilievre said in Ottawa. “And right now, because Carney’s been hiding from the negotiating table, he’s made all of us on the menu while Mexico and the United States advance their interests at our expense.”</p>\n<p>Trump froze trade talks with Canada last year because he was angered by an Ontario-sponsored ad quoting former president Ronald Reagan criticizing tariffs.</p>\n<p>Greer said last week that while the Trump administration has significant trade issues with Canada, he has been in regular contact with his Canadian counterparts.</p>\n<p>During an event at the Council on Foreign Relations on May 26, Greer said there will be tariffs on Mexico and Canada going forward, even though the countries are part of the trade agreement.</p>\n<p>Greer said most nations around the world “begrudgingly” accepted tariffs are part of the Trump administration’s ongoing policies and have been willing to continue negotiations.</p>\n<p>“Canada’s approach has been different,” he said.</p>\n<p><i>Kelly Geraldine Malone, The Canadian Press</i></p>\n<p><i>With files from Sarah Ritchie in Ottaw</i>a</p>"
+    },
+    {
+      "title": "Robinhood expands into Canada with acquisition of WonderFi",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/01/robinhood-expands-into-canada-with-acquisition-of-wonderfi/",
+      "pubDate": "Mon, 01 Jun 2026 21:38:01 -0400",
+      "description": "Robinhood Markets Inc. has expanded into the Canadian market with the closing of its acquisition of cryptocurrency firm WonderFi.",
+      "content": "<media:description type=\"plain\"><![CDATA[An electronic screen at Nasdaq displays Robinhood in New York's Times Square following the company's IPO, Thursday, July 29, 2021. (AP Photo/Mark Lennihan, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Mark Lennihan</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/E3FHBIBIIWJRNOYEKRWOFZE4ZA.jpg?auth=4f66b24141a631fa824f70a9b4845d8a4214229446e6a89f8bc2c9ee0617118c&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Robinhood Markets Inc. has expanded into the Canadian market with the closing of its acquisition of cryptocurrency firm WonderFi. ",
+      "body": "<p>TORONTO — Robinhood Markets Inc. has expanded into the Canadian market with the closing of its acquisition of cryptocurrency firm WonderFi.</p>\n<p>WonderFi’s regulated crypto platforms, Bitbuy and Coinsquare, will become part of the Robinhood brand and Canadian customers will invited to download the Robinhood trading app.</p>\n<p>Johann Kerbrat, general manager of Robinhood Crypto &amp; International, says WonderFi has extensive experience operating regulated crypto platforms that serve beginner and advanced users alike.</p>\n<p>The acquisition brings Robinhood’s international funded customer base to one million, an increase of 300,000.</p>\n<p>WonderFi employees are to join the 240 Robinhood workers already in Canada.</p>\n<p>Robinhood established a Canadian headquarters in Toronto in 2024 as an engineering hub.</p>"
+    },
+    {
+      "title": "South Korea’s Hanwha to use Algoma Steel material to build military vehicles in Canada",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/01/south-koreas-hanwha-to-use-algoma-steel-material-to-build-military-vehicles-in-canada/",
+      "pubDate": "Mon, 01 Jun 2026 21:20:16 -0400",
+      "description": "South Korean defense company, Hanwha has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada.",
+      "content": "<media:description type=\"plain\"><![CDATA[Hanwha’s K9 armoured vehicle during a tour of Hanwha’s manufacturing facility last February in Changwon, South Korea. (CTV News)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/DSYHGIGENVF3FM6K4W4UTQSVJM.jpeg?auth=4f9091c3163d658fd4ff583d00a935b28f267f590ed4144d208ca2e8efd58e76&amp;smart=true&amp;width=1920&amp;height=1080",
+      "_src": "bnn",
+      "_ogDesc": "South Korean defense company, Hanwha has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada.",
+      "body": "<p>South Korean defense company, Hanwha has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada. The deal is contingent on Hanwha winning the lucrative bid to build Canada’s next generation submarine fleet.</p>\n<p>The prime minister says the winner will be announced by the end of June. It will take place ahead of the start of the Canada-U.S.-Mexico (CUSMA) trade agreement review which begins July 1.</p>\n<p>Today’s announcement by Hanwha builds on an April memorandum of understanding signed with the Automotive Parts Manufacturing Association (APMA). The two entities announced that they will work together to build five types of military vehicles in Canada including:</p>\n<ul><li>The K-9 Thunder self-propelled Howitzer</li><li>The K-10 Ammunition Resupply Vehicle</li><li>Redbank Infantry Fighting Vehicle</li><li>Chunmoo Multiple Launch Rocket System</li><li>Drone ground vehicles.</li></ul>\n<p><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/politics/article/exclusive-inside-hanwhas-pitch-to-win-canadas-lucrative-submarine-contract/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/politics/article/exclusive-inside-hanwhas-pitch-to-win-canadas-lucrative-submarine-contract/\"><b>Inside Hanwha’s pitch for Canada’s lucrative submarine deal</b></a></p>\n<p>The MOU created a consortium called Project Arrow Defense, which would have 51 per cent Canadian ownership.</p>\n<p>“The economic activity that comes from that deal is the equivalent of one new car plant here. That means 15,000 direct jobs through the supply chain and another 15,000 indirect,” said APMA President Flavio Volpe after Monday’s announcement in Vaughn, Ont.</p>\n<p>“At a time when we’re down 30 per cent (in auto manufacturing) in this country because of tariffs from Washington - that’s very important,” Volpe said.</p>\n<p>The Canadian Armed Forces needs 250 armoured vehicles for use in the Arctic and to meet its NATO obligation.</p>\n<p>Under the MOU, Project Arrow Defence would build those vehicles in its plants and could potentially help manufacture weapon systems for its other global customers.</p>\n<p>Hanwha officials say they currently have thousands of orders for armoured vehicles from six other NATO countries.</p>\n<p>Prior to this announcement, Hanwha also announced that it had also signed an MOU with Algoma Steel to buy its steel products and provide the company with a low interest loan to convert its Sault. Ste. Marie plant into one that can make steel beams.</p>\n<p>Algoma’s vice-president strategy John Naccarato told reporters that it’s the only steel producer in Canada that can make ballistic-grade steel for defence applications.</p>\n<p>“It’s a great opportunity to be part of a consortium that will respond to Canada’s national priorities around defence spending,” Naccarato said.</p>\n<p>The federal government has been clear to both the German submarine bidder Thyssenkrupp Marine System (TKMS) and Hanwha that it wanted measures to bolster the domestic automotive, steel and aluminum industries that have been hard hit by U.S tariffs.</p>\n<p>Although there is no auto component in the German bid, TKMS has also announced multiple non-binding agreements with other Canadian companies in the defense and energy sector.</p>\n<p>Germany announced last week that it would buy one million tonnes of liquefied natural gas (LNG) from Canada. Prior to the start of the war on Ukraine in 2022, Russia was Europe’s primary supplier of LNG. Germany then turned to the Middle East to increase its gas supply, only to have the U.S – Israel war with Iran, choke off supply routes in the Strait of Hormuz.</p>\n<p><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/politics/article/no-new-auto-plants-but-heres-what-else-germany-and-south-korea-are-offering-in-their-submarine-bids/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/politics/article/no-new-auto-plants-but-heres-what-else-germany-and-south-korea-are-offering-in-their-submarine-bids/\"><b>What Germany and South Korea are offering in their bids</b></a></p>\n<p>While in Ottawa for a defence conference last week, German defence minister Boris Pistorius told reporters that the package of economic benefits TKMS had submitted with its bid would increase Canada’s GDP by more than $86 billion dollars over the lifespan of the submarines.</p>\n<p>The bid for the submarines includes the building of maintenance and sustainment facilities on both the east and west coat of Canada for the next 30-40 years.</p>\n<p>CTV News requested from TKMS how it arrived its cost benefit analysis.</p>\n<p>South Korea has also announced that it would import 3.4 billion tons of LNG annually, more than five times the current amount the country is currently buying from Canada.</p>\n<p>Despite the economic benefits being touted in both bids, Defence Minister David McGuinty says that it’s the government’s preference not to split the procurement of 12 submarines between both competitors. However, McGuinty is refusing to rule out the option.</p>\n<p>“I don’t know if you can categorize the safe decision being splitting it down the middle. I think what we’re looking at here is making sure we have a fleet that is interoperable, that is international and that can be serviced appropriately.”</p>\n<p>McGuinty said billions of dollars are being invested in bases in Esquimault and Halifax to retrofit submarine bases and that splitting the fleet would make it more challenging.</p>\n<p>“Splitting the fleet would make it more complicated… but it’s not impossible.” McGuinty says he doesn’t have all the details in the bids and will leave it to the professionals at the Defence Investment Agency to do the analysis and advise the government.</p>"
+    },
+    {
+      "title": "A man from India has earned the Guinness World Record for a massive collection of this item",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/01/indian-man-earns-guinness-world-record-for-massive-paper-cup-collection/",
+      "pubDate": "Mon, 01 Jun 2026 21:05:24 -0400",
+      "description": "An Indian man has earned a Guinness World Record for amassing the world’s largest collection of paper cups.",
+      "content": "<media:description type=\"plain\"><![CDATA[Sunil Joseph  of India sets Guinness World Record with collection of 858 paper cups. (Credit: Guinness World Records)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/3TQQLSZ4ZBH4DJRI45B7OKVRCQ.jpg?auth=45afacf8f8f7cbf6efb57a3187279802c4c4293486aec01e003514c6574922b3&amp;smart=true&amp;width=1065&amp;height=600",
+      "_src": "bnn",
+      "_ogDesc": "An Indian man has earned a Guinness World Record for amassing the world’s largest collection of paper cups.",
+      "body": "<p>An Indian man has earned a Guinness World Record for amassing the world’s largest collection of paper cups.</p>\n<p>Sunil Joseph, a 57-year-old social worker, holds the record with 858 paper cups from 31 countries, according to Guinness World Records. The total was verified in December 2025 and may have grown since then.</p>\n<p>Joseph said his fascination with collecting started when he was a child.</p>\n<p>“This early curiosity evolved into a lifelong passion, leading me to curate diverse collections ranging from razor blade wrappers and airline boarding passes to coffee mugs and tea bags,” he told Guinness World Records.</p>\n<p>The collection that first brought Joseph international recognition was not paper cups, but phone cards.</p>\n<p>In 2013, he earned a Guinness World Record for the largest collection of phone cards, with 5,986 cards. The title has since been surpassed by <a href=\"https://www.guinnessworldrecords.com/news/canada\" rel=\"\">Canadian</a> collector Eric Coutinho, whose collection stands at 8,266.</p>\n<p>Joseph’s record-setting paper cup collection includes cups ranging in size from five millilitres to 500 millilitres. The cups have been often gathered with the help of friends and family members travelling abroad.</p>\n<p>“This growth is rarely a solitary effort,” Joseph said. “My friends and relatives across various countries frequently contribute items they find, helping the collection expand far beyond what I could gather alone.”</p>\n<p>Joseph keeps the paper cups at home alongside several other collections, including postcards, currencies, coffee mugs and razor blade wrappers.</p>\n<p>He also regularly shares his collections with students through exhibitions at schools and colleges.</p>\n<p>For Joseph, collecting remains about more than setting records.</p>\n<p>“Establishing a world record is a journey defined by unwavering dedication and a clear vision,” he said. “It is an achievement that demands persistence, often turning a personal passion into a globally recognized milestone.”</p>"
+    },
+    {
+      "title": "Basic materials stocks weigh on TSX, as U.S. markets gain and oil prices rise",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/01/sptsx-composite-index-down-more-than-100-points-oil-heads-higher/",
+      "pubDate": "Mon, 01 Jun 2026 20:50:05 -0400",
+      "description": "Canada’s main stock index edged lower, while U.S. markets were positive and oil prices rose after the latest fighting threatened the U.S.-Iran ceasefire.",
+      "content": "<media:description type=\"plain\"><![CDATA[A Toronto Stock Exchange ticker is seen at The Exchange Tower in Toronto on Thursday, August 18 2011. THE CANADIAN PRESS/Aaron Vincent Elkaim]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/NB62MBPJMJBS7FK2U5DKPEKDRU.jpg?auth=49f4c54140af0d7cd2768b9e8ae24faa5259fb959917db4b526c75241f32ff22&amp;smart=true&amp;width=2500&amp;height=1664",
+      "_src": "bnn",
+      "_ogDesc": "Canada’s main stock index edged lower, while U.S. markets were positive and oil prices rose after the latest fighting threatened the U.S.-Iran ceasefire. ",
+      "body": "<p>TORONTO &mdash; Canada’s main stock index edged lower, while U.S. markets were positive and oil prices rose after the latest fighting threatened the U.S.-Iran ceasefire.</p>\n<p>The United States said Monday that it bombed radar and drone sites in Iran after Tehran shot down an American drone over the weekend. Iran then said it targeted American soldiers in Kuwait with missiles, which the U.S. says it shot down.</p>\n<p>“When there’s fighting, the market looks at it as negative, because it looks at it as we’re further away from … ships transiting the Strait of Hormuz. We looked at it as oil prices remain elevated, we looked at it as inflation remains elevated, all those things (are) negative,” said Allan Small, senior investment adviser at iA Private Wealth.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/tsx/\"><b>Real-time TSX market updates here</b></a></li></ul>\n<p>The S&amp;P/TSX composite index was down 34.25 points at 34,734.89.</p>\n<p>In New York, the Dow Jones industrial average was up 46.42 points at 51,078.88. The S&amp;P 500 index was up 19.90 points at 7,599.96, while the Nasdaq composite was up 114.19 points at 27,086.81.</p>\n<p>A slight majority of U.S. stocks actually fell, including companies with big fuel bills hurt by higher oil prices. United Airlines lost 2.6 per cent, and Alaska Air Group fell 3.3 per cent after the price for a barrel of Brent crude oil climbed 4.2 per cent to settle at US$94.98.</p>\n<p>The July crude oil contract was up US$4.80 at US$92.16 per barrel.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>Expensive oil has already sent inflation higher, which increases not only bills for households but also yields in the bond market. High yields worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.</p>\n<p>Hope, meanwhile, seems to remain on Wall Street that the United States and Iran will ultimately reach an agreement to reopen the strait, allow deliveries of oil to resume from the Persian Gulf and ease the upward pressure on inflation.</p>\n<p>Strength from several market heavyweights also helped to power Wall Street.</p>\n<p>Nvidia was the strongest force lifting the U.S. market and rose 6.3 per cent after CEO Jensen Huang announced several product updates at a conference. What Nvidia does matters immensely for the U.S. stock market because it’s the biggest in terms of overall market value. That means the movements for its stock carry more weight on the S&amp;P 500 than any other’s.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\"><b>S&P 500 market updates here</b></a></li></ul>\n<p>And Wall Street’s biggest companies have been growing so much that they’re dominating the market.</p>\n<p>Small said tech stocks helped markets on both sides of the border, with that sector adding the most points to the TSX on Monday.</p>\n<p>On the flipside, basic materials stocks were the biggest weight on the TSX.</p>\n<p>The August gold contract was down US$86.70 at US$4,506.30 an ounce.</p>\n<p>Separately, shares of Algoma Steel rose 3.21 per cent after South Korean defence firm Hanwha announced a deal with the company on Monday to supply military-grade steel for the possible manufacturing of land defence vehicles in Canada.</p>\n<p>The Canadian dollar traded for 72.27 cents US compared with 72.47 cents US on Friday.</p>\n<p><i>Daniel Johnson, The Canadian Press</i></p>\n<p><i>With files from The Associated Press</i></p>\n<p><i>This report by The Canadian Press was first published June 1, 2026.</i></p>"
+    },
+    {
+      "title": "Oil prices rise, but not by enough to keep Wall Street from more records",
+      "link": "https://www.bnnbloomberg.ca/markets/2026/06/01/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility/",
+      "pubDate": "Mon, 01 Jun 2026 20:31:01 -0400",
+      "description": "Oil prices rose Monday following the latest fighting to threaten the U.S.-Iran ceasefire, but Wall Street isn’t very worried, and U.S. stocks are rising toward more records.",
+      "content": "<media:description type=\"plain\"><![CDATA[Trader Richard Cohen works on the floor of the New York Stock Exchange, Friday, May 29, 2026. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/WROO65IRYFGL7OYCT6VTXNYINQ.jpg?auth=ed847c03362981b5607f653a1f13380ac3cfd549b647d4e741720e2aa8807211&amp;smart=true&amp;width=7710&amp;height=5140",
+      "_src": "bnn",
+      "_ogDesc": "Oil prices rose Monday following the latest fighting to threaten the U.S.-Iran ceasefire, but Wall Street isn’t very worried, and U.S. stocks are rising toward more records.",
+      "body": "<p>NEW YORK &mdash; Oil prices rose Monday following the latest fighting to threaten the U.S.-Iran ceasefire, but Wall Street isn’t very worried, and U.S. stocks ticked to more records.</p>\n<p>The S&amp;P 500 added 0.3 per cent to its prior all-time high set on Friday. The Dow Jones Industrial Average rose 46 points, or 0.1 per cent, and the Nasdaq composite climbed 0.4 per cent to likewise set records.</p>\n<p>A slight majority of U.S. stocks actually fell, including companies with big fuel bills hurt by higher oil prices. United Airlines lost 2.6 per cent, and Alaska Air Group fell 3.3 per cent after the price for a barrel of Brent crude oil climbed 4.2 per cent to settle at US$94.98. That clawed back a chunk of Brent’s loss from last week and means it’s still well above its price of roughly US$70 from before the war.</p>\n<p>Expensive oil has already sent inflation higher, which increases not only bills for households but also yields in the bond market. High yields worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.</p>\n<p>But yields regressed during the day after oil prices came off their highest levels. That eased some of the pressure on Wall Street, and the Russell 2000 index of the smallest U.S. stocks went from a loss of 1.3 per cent back to roughly even before finishing with a dip of 0.5 per cent. Small companies can feel the pinch of higher borrowing costs in particular because of the need for many to borrow to grow.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>Hope, meanwhile, seems to remain on Wall Street that the United States and Iran will ultimately reach an agreement to reopen the Strait of Hormuz, allow deliveries of oil to resume from the Persian Gulf and ease the upward pressure on inflation.</p>\n<p>Strength from several market heavyweights also helped to power Wall Street.</p>\n<p>Nvidia was the strongest force lifting the market and rose 6.2 per cent after CEO Jensen Huang announced several product updates at a conference. What Nvidia does matters immensely for the U.S. stock market because it’s the biggest in terms of overall market value. That means the movements for its stock carry more weight on the S&amp;P 500 than any other’s.</p>\n<p>And Wall Street’s biggest companies have been growing so much that they’re dominating the market. The top 10 stocks control nearly half the S&amp;P 500’s total market value, a 40-year high, according to Thomas Carroll, equity market strategist at Stifel.</p>\n<p>That worked well as Big Tech stocks shot higher thanks to exuberance around artificial intelligence. But it could also weigh on the index if the market’s leadership broadens, Carroll warns. Even if most stocks end up rising in such a rotation, stagnation or declines for Big Tech heavyweights could drag on S&amp;P 500 index funds.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\"><b>S&P 500 market updates here</b></a></li></ul>\n<p>A key indicator Carroll follows about market breadth “is signaling a rotation is coming,” he wrote in a report.</p>\n<p>Elsewhere on Wall Street, Science Applications International Corp. jumped 10.4 per cent after becoming the latest U.S. company to report bigger profit for the latest quarter than analysts expected. SAIC also raised forecasts for upcoming financial results.</p>\n<p>A cavalcade of such better-than-expected profit reports has helped the U.S. stock market push to records despite the uncertainty created by the war with Iran.</p>\n<p>Berkshire Hathaway fell 0.9 per cent after saying it would buy homebuilder Taylor Morrison Home for US$6.8 billion. It’s one of the first big acquisitions announced by the company since Greg Abel took over as its leader from famed investor Warren Buffett. Taylor Morrison Home jumped 22.3 per cent.</p>\n<p>MGM Resorts International leaped 16.1 per cent after People Inc., Barry Diller’s business that was formerly known as IAC, offered to buy the rest of the company it doesn’t already own for US$48.30 per share in cash.</p>\n<p>All told, the S&amp;P 500 rose 19.90 points to 7,599.96. The Dow Jones Industrial Average added 46.42 to 51,078.88, and the Nasdaq composite rose 114.19 to 27,086.81.</p>\n<p>In the bond market, Treasury yields climbed with oil prices and after a report said growth in U.S. manufacturing accelerated by more last month than economists expected. The yield for the 10-year Treasury briefly approached 4.52 per cent before regressing to 4.46 per cent, up from 4.45 per cent late Friday.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/economics/\"><b>Latest economic news on BNNBloomberg.ca</b></a></li></ul>\n<p>High yields have already forced the average long-term U.S. mortgage rate to its most expensive level in nine months, and they could curtail companies’ borrowing to build the AI data centers that have supported the U.S. economy’s growth recently.</p>\n<p>In stock markets abroad, indexes fell in Europe following a stronger finish in Asia.</p>\n<p>Tokyo’s Nikkei 225 rose 0.9 per cent to an all-time high. SoftBank Group, the investment company that focuses heavily on AI, soared 21.2 per cent and surpassed Toyota to become Japan’s most valuable listed company.</p>\n<p>In South Korea, the Kospi index jumped 3.7 per cent to a record after data showed the country’s exports surged 53 per cent in May from a year earlier, buoyed by global demand for semiconductors.</p>\n<p><i>Stan Choe, The Associated Press. AP Business Writers Chan Ho-him and Matt Ott contributed.</i></p>"
+    },
+    {
+      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
+      "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/01/florida-sues-openai-and-ceo-sam-altman-claiming-company-concealed-serious-risks-of-chatgpt/",
+      "pubDate": "Mon, 01 Jun 2026 20:20:11 -0400",
+      "description": "The state of Florida filed a lawsuit against OpenAI and CEO Sam Altman, claiming the company marketed ChatGPT while concealing its serious risks.",
+      "content": "<media:description type=\"plain\"><![CDATA[OpenAI CEO Sam Altman participates in a discussion during the Asia-Pacific Economic Cooperation (APEC) CEO Summit, Nov. 16, 2023, in San Francisco. (AP Photo/Eric Risberg, File)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/JX76Y6R43DMXTEOAGYDNGZAKI4.jpg?auth=ea1effcdf3653a34c3361fe6dc0198daa2d2a3d048bed03affad0a15c1f59c65&amp;smart=true&amp;width=1020&amp;height=575",
+      "_src": "bnn",
+      "_ogDesc": "The state of Florida filed a lawsuit against OpenAI and CEO Sam Altman, claiming the company marketed ChatGPT while concealing its serious risks.",
+      "body": "<p>MIAMI &mdash; The state of Florida filed a lawsuit against OpenAI and CEO Sam Altman on Monday, claiming the company knowingly released and aggressively marketed ChatGPT to the public while concealing serious risks.</p>\n<p>Florida Attorney General James Uthmeier said during a news conference that the company suppressed internal safety warnings and deceived users about the true nature and dangers of the product. He said Florida was the first state to sue OpenAI.</p>\n<p>“Today, we announced the first-in-the-nation state-led lawsuit against OpenAI and its CEO, Sam Altman,” Uthmeier said. “OpenAI and Altman ignored internal and external safety warnings, put children at great risk, and allowed a dangerous product to reach millions of Floridians.”</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>The lawsuit filed in Florida circuit court references two separate shootings where the alleged gunmen were reported to have asked ChatGPT questions while planning their crimes. OpenAI said in a statement that its models repeatedly encouraged the individuals to seek real-world support, including from mental health professionals. The company also said it has cooperated with law enforcement in both cases.</p>\n<p>“ChatGPT is a general-purpose tool used by hundreds of millions of people every day for legitimate purposes,” an OpenAI statement said. “We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise.”</p>\n<p>In April, Uthmeier opened a criminal investigation into OpenAI over whether ChatGPT offered advice to a gunman who killed two people and wounded six others last year at Florida State University. And in another case, prosecutors have said the man charged with killing two University of South Florida doctoral students had asked ChatGPT what would happen if a human body was put in a garbage bag and thrown in a dumpster, days before they went missing.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/technology/\"><b>Latest technology news on BNNBloomberg.ca</b></a></li></ul>\n<p>Florida’s lawsuit alleges that OpenAI and Altman prioritized speed to market and commercial gain over user safety and disregarded repeated warnings from experts both inside and outside the company. The lawsuit claims the company deployed a product that facilitates and encourages harm, including self-harm and violence, while falsely assuring users it was safe.</p>\n<p>The complaint also alleges that ChatGPT collects data from minors without meaningful parental oversight, as well as causes behavioral addiction and cognitive harm. The company has also actively downplayed dangerous errors, the suit said.</p>\n<p>Florida law prohibits unfair and defective trade practices, officials said. The complaint alleges that OpenAI’s conduct causes ongoing harm to Floridians and demands accountability.</p>\n<p><i>David Fischer, The Associated Press</i></p>"
     },
     {
       "title": "AI giant Anthropic confidentially files for U.S. IPO as investors bet big on AI future",
       "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/01/ai-giant-anthropic-confidentially-files-for-us-ipo-as-investors-bet-big-on-ai-future/",
-      "pubDate": "Mon, 01 Jun 2026 16:31:09 -0400",
+      "pubDate": "Mon, 01 Jun 2026 20:15:36 -0400",
       "description": "AI giant Anthropic said on Monday it has confidentially filed for a U.S. initial public offering, teeing up what could become the watershed moment for Wall Street’s AI frenzy.",
       "content": "<media:description type=\"plain\"><![CDATA[Pages from the Anthropic website and the company's logos are displayed on a computer screen in New York on Thursday, Feb. 26, 2026. (AP Photo/Patrick Sison)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Patrick Sison</media:credit>",
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/TWICJXFJ2B5LJCGHAN6MN2TSKQ.jpg?auth=f2e6e858aa0c77d3911175c2a2b4ce8dc8250ad5ea3e113d68403b6eb433d39f&amp;smart=true&amp;width=1400&amp;height=934",
       "_src": "bnn",
       "_ogDesc": "AI giant Anthropic said on Monday it has confidentially filed for a U.S. initial public offering, teeing up what could become the watershed moment for Wall Street’s AI frenzy.",
-      "body": "<p>AI giant Anthropic said on Monday it has confidentially filed for a U.S. initial public offering, teeing up what could become the watershed moment for Wall Street’s AI frenzy.</p>\n<p>The move sets up a high-stakes test of whether investor appetite for the AI revolution that has reshaped white-collar work around the world can match the sky-high expectations surrounding the booming sector.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>Anthropic, which operates AI chatbot Claude, did not disclose the size or the terms of the offering. It last raised $65 billion at a post-money valuation of $965 billion in late May, putting it ahead of rival OpenAI.</p>\n<p>The crucial step toward a listing comes on the heels of SpaceX’s mega-IPO, which is on course to rewrite the record books as the Elon Musk-led company pursues a $75 billion offering at a $1.75 trillion valuation.</p>\n<p>Rival OpenAI and Anthropic have become the face of the AI boom that has redrawn corporate strategies, sparked a global arms race for computing power and talent, and turned AI-linked companies into some of the market’s most richly valued firms.</p>\n<p>Anthropic’s valuation has more ​than doubled from $380 billion in February, when it raised $30 billion in a funding round.</p>\n<p>The company’s rapid rise in early 2026 rattled markets, triggering sharp selloffs in software and IT stocks as investors worried its increasingly autonomous AI tools could upend traditional business models and accelerate disruption across industries.</p>\n<p>OpenAI is also preparing to confidentially file for a U.S. IPO in the coming weeks, a source ​familiar with the matter told Reuters in late May, adding to a wave of blockbuster ‌listings anticipated in the year ahead.</p>\n<h2>A MARKET MILESTONE</h2>\n<p>As a slew of blockbuster listings races toward public markets, companies from SpaceX to AI giants are competing for a finite pool of investor capital.</p>\n<p>The listing would represent one of the most consequential stock market debuts in years, potentially reshaping benchmark indexes, investor flows and the broader narrative driving U.S. equities.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/\"><b>Latest updates on company news here</b></a></li></ul>\n<p>At close to a $1 trillion valuation, Anthropic would vault into the top tier of the S&amp;P 500, alongside a handful of elite companies that dominate global equity markets.</p>\n<p>An Anthropic debut would be a major boost for the long-sluggish IPO market, though experts and bankers warn an offering of such scale could drain liquidity and investor attention from smaller listings.</p>\n<p><i>(Reporting by Manya Saini in Bengaluru; Editing by Shilpi Majumdar and Shinjini Ganguli)</i></p>"
+      "body": "<p>AI giant Anthropic has confidentially filed for a U.S. initial public offering, the company said on Monday, edging ahead of rival OpenAI in a closely watched race to reach public markets.</p>\n<p>The move sets up an early test of whether investor appetite for artificial intelligence, which has fueled lofty private valuations and talk of potential trillion-dollar listings, will hold up under public scrutiny, and which company gets to set the template for how the fast-growing sector is valued.</p>\n<p>Anthropic, which makes agentic coding assistant Claude Code, did not disclose the size or the terms of the offering. It last raised US$65 billion at a post-money valuation of US$965 billion in late May, putting it ahead of OpenAI.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>The listing would represent one of the most consequential stock market debuts in years, potentially reshaping benchmark indexes, investor flows and the broader narrative driving U.S. equities.</p>\n<p>Reuters reported in May that OpenAI was also preparing to confidentially file for a U.S. IPO in the coming weeks. That <a href=\"https://www.bnnbloomberg.ca/business/2026/06/01/from-saudi-aramco-to-alibaba-worlds-biggest-ipos/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/2026/06/01/from-saudi-aramco-to-alibaba-worlds-biggest-ipos/\">follows SpaceX’s mega-IPO filing</a>, which is on course to rewrite the record books as the Elon Musk-led company pursues a US$75 billion offering at a US$1.75 trillion valuation and could begin trading within two weeks.</p>\n<p>Confidential submissions let companies advance IPO preparations while shielding sensitive financial details from rivals and the public.</p>\n<p>“Filing shortly after SpaceX allows Anthropic to capitalize on strong investor interest in AI and growth stocks while the window remains favorable,” Kat Liu, vice president at IPO research firm IPOX, said.</p>\n<p>“Anthropic’s valuation ambitions appear far less aggressive in comparison (to SpaceX) than they might have looked in isolation.”</p>\n<h2>Race for AI dominance</h2>\n<p>OpenAI and Anthropic have become the face of the AI boom that has redrawn corporate strategies, sparked a global arms race for computing power and talent, and turned AI-linked companies into some of the market’s most richly valued firms.</p>\n<p>“For OpenAI, the conventional read is that Anthropic just seized the narrative advantage by filing first,” said Harrison Rolfes, a senior analyst at PitchBook. “The unconventional read is that OpenAI got the better end of this: Anthropic just volunteered to absorb all the disclosure risk first, and OpenAI now has a free option to watch how institutional investors react to audited frontier AI financials before committing to its own price.”</p>\n<p>On prediction markets, where traders wager on the outcome of future events, most participants had expected OpenAI to file for an IPO before Anthropic.</p>\n<p>OpenAI CEO Sam Altman said in a CNBC interview that he is not focused on the timing of a potential initial public offering for the ChatGPT maker, following news of Anthropic’s confidential filing.</p>\n<p>He added that the company will go public when it makes sense to do so.</p>\n<p>Anthropic’s valuation has more ​than doubled from US$380 billion in February, when it raised US$30 billion in a funding round.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/technology/\"><b>Latest technology news on BNNBloomberg.ca</b></a></li></ul>\n<p>The company’s rapid rise in early 2026 rattled markets, triggering sharp selloffs in software and IT stocks as investors worried its increasingly autonomous AI tools could upend traditional business models and accelerate disruption across industries.</p>\n<p>Its latest funding round drew backing from a mix of Silicon Valley and Wall Street investors, including Blackstone, Brookfield, D1 Capital Partners, GIC, General Catalyst and Insight Partners.</p>\n<h2>A market milestone</h2>\n<p>As a slew of blockbuster listings races toward public markets, companies from SpaceX to AI giants are competing for a finite pool of investor capital.</p>\n<p>Analysts, including D.A. Davidson’s Gil Luria, said the two companies were racing to go public before capital on Wall Street ran out, and to set the agenda for how a frontier AI model - one that pushes the boundaries of what machines can do in language, reasoning, or coding - reports financials in a way that is favorable to their financial model.</p>\n<p>“The combined demand for capital from SpaceX, OpenAI and Anthropic will be so considerable that it is likely to create disruptions in the capital markets, so going early will be a great advantage,” Luria said.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\"><b>Latest updates on company news here</b></a></li></ul>\n<p>At a valuation of close to US$1 trillion, Anthropic would vault to the top tier of the S&amp;P 500, alongside a handful of elite companies that dominate global equity markets.</p>\n<p>The IPO market has regained momentum in recent weeks, with companies raising US$87.5 billion through May 26, the highest year-to-date global total since 2021, according to Dealogic data.</p>\n<p>Several sizable U.S. IPOs are also set to hit the market later this week, including Honeywell-backed quantum computing firm Quantinuum, Blackstone-backed Liftoff and gas engine manufacturer Innio.</p>\n<p><i>Reporting by Manya Saini and Deborah Sophia in Bengaluru and Echo Wang in New York; Additional reporting by Pritam Biswas, Deepa Seetharaman and Jeffrey Dastin; Editing by Sayantani Ghosh, Shinjini Ganguli and Matthew Lewis</i></p>"
     },
     {
-      "title": "Hot Picks: Agentic AI drives demand for Dell, Oracle and Palantir",
-      "link": "https://www.bnnbloomberg.ca/investing/hot-picks/2026/06/01/hot-picks-agentic-ai-drives-demand-for-dell-oracle-and-palantir/",
-      "pubDate": "Mon, 01 Jun 2026 16:21:14 -0400",
-      "description": "Agentic AI is driving demand for infrastructure and enterprise software, supporting opportunities in Dell, Oracle and Palantir.",
-      "content": "<media:description type=\"plain\"><![CDATA[A binary code and Palantir logo are seen in this multiple exposure illustration photo taken in Krakow, Poland on February 21, 2024. (Photo by Jakub Porzycki/NurPhoto via Getty Images)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/UJKIBFMBR5BQTIY3AQGVGGU6SE.jpg?auth=4b02818a554c63c0f0ed3001be241a01db5d54f928a6c7192b127c624aa9ef05&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "Agentic AI is driving demand for infrastructure and enterprise software, supporting opportunities in Dell, Oracle and Palantir.",
-      "body": "<p>The next phase of artificial intelligence growth is shifting toward agentic AI, driving demand for the infrastructure, computing power and software platforms needed to deploy AI across enterprises. Investors are increasingly focusing on companies positioned to benefit from rising adoption rather than trying to predict which AI models will ultimately win.</p>\n<p>BNN Bloomberg spoke with Michael Monaghan, partner and portfolio manager at Founder ETFs, about opportunities tied to agentic AI adoption, highlighting Dell Technologies, Oracle and Palantir Technologies as companies benefiting from growing demand for enterprise AI infrastructure and applications.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Agentic AI adoption is creating investment opportunities across hardware, infrastructure and enterprise software rather than only among AI model developers. </li><li>Growing demand for on-premises AI systems reflects corporate concerns around data security, privacy and regulatory compliance. </li><li>Compute capacity, power supply and data centre infrastructure are emerging as key bottlenecks in the expansion of AI capabilities. </li><li>Companies that can integrate and analyze fragmented enterprise data are becoming increasingly important as organizations deploy AI tools. </li><li>Strong AI adoption is attracting institutional investor interest toward businesses with scalable infrastructure and enterprise-focused AI platforms.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>LINDSAY:</b> It’s time now for Hot Picks. Today, we are looking at the tech sector. For more, let’s bring in Michael Monaghan, partner and portfolio manager at Founder ETFs. It’s great to have you join us. Thanks so much.</p>\n<p><b>MICHAEL:</b> It’s great to be here. Thanks for having me.</p>\n<p><b>LINDSAY:</b> Let’s get right to your first Hot Pick because, obviously, the tech sector is incredibly hot right now. Dell is your first pick. What is it that you like about Dell right now?</p>\n<p><b>MICHAEL:</b> Dell is the play for agentic AI moving into the corporate world. It allows you to have your own on-premises AI server to run the foundational models, protect your data and keep it safe, yet take advantage of the compute power of the foundational models.</p>\n<p><b>LINDSAY:</b> Okay, and you say all three of these picks that we’re going to go through are riding different parts of the agentic AI wave. Is that right?</p>\n<p><b>MICHAEL:</b> That’s right. We see Palantir, Dell and Oracle all riding the agentic AI wave, just in slightly different places along that wave.</p>\n<p><b>LINDSAY:</b> Before we go on to your next pick, I just want to go back to Dell. What are some of the biggest risks that you think are facing this company right now?</p>\n<p><b>MICHAEL:</b> We see growth for Dell. We don’t see a lot of near-term risks. If you look at the last quarter, the growth in their AI server business was absolutely explosive. Then, with Jensen’s announcement last night that he’s partnered to bring an Nvidia CPU to the desktop, Dell will be one of the beneficiaries of that. We don’t see a ton of risks for Dell right now. We see a tailwind from both on-premises agentic AI and the fact that we’re now beginning to run agentic workloads at the desktop, and Dell is a beneficiary of both of those.</p>\n<p><b>LINDSAY:</b> Okay, your next pick is Oracle. Tell us why you like Oracle out of all the names you could have picked.</p>\n<p><b>MICHAEL:</b> Oracle is attacking the boring but profitable side of AI infrastructure. Right now, we’re compute-constrained. The constraints are as tight as getting energy into data centres, getting the data centres energized and being able to push tokens out. This is Larry Ellison, who brings that founder mentality, the type of investment that we do. He had the vision to see that the world would be compute-constrained several years ago and started building out his AI data centre business. He’s ahead of the curve as more people want access to tokens coming out of these AI token factories. Larry really positioned himself to be there first, and that’s why we’re so bullish. The stock got punished earlier in the year, but the stock action is showing that people now understand that we’re AI compute-constrained and Larry has positioned himself to take advantage of that.</p>\n<p><b>LINDSAY:</b> Yeah, I mean, punished earlier in the year when we were talking about that whole software selloff we saw at the beginning of the year. There are obviously companies that are going to win from AI in the software sector and some that will be made redundant. I’m assuming you believe Oracle is one that’s partnering with the right companies and is going to make it through. Is that right?</p>\n<p><b>MICHAEL:</b> Yeah, we believe they’ve got several hooks. Hook number one is legacy systems that will be the trusted endpoint, storage and proof of record for existing corporate data. Number two, a lot of these large corporates, if they’re regulated — HIPAA, government data, et cetera — can’t put their data on a public cloud. Their only choice is to use their existing private cloud with Oracle or a new Oracle private cloud. They’re very well positioned to take advantage of the growth.</p>\n<p><b>LINDSAY:</b> Last Hot Pick is Palantir. You mentioned this off the top, another one riding a part of the agentic AI wave. Tell us more about why you like Palantir right now.</p>\n<p><b>MICHAEL:</b> Palantir is very well positioned. The most important thing to remember about AI is that AI still requires really good human input. If you don’t have human input, you get what is colloquially referred to as AI slop. However, if you have a highly trained human operator on the front end helping guide the AI and then reviewing the AI’s work, you magnify that human operator’s capability. With their forward-deployed engineers, that’s one of the things Palantir is doing well, along with achieving what’s been a 20- or 30-year goal of a lot of business intelligence companies, and that is to take disconnected data, whether it’s living in an ERP system or a CRM system, bring it all together and make sense of it.</p>\n<p>Back to this theme of a trusted endpoint, Palantir then takes the AI models, connects them to the existing enterprise software within the corporation and serves as the trusted layer to bring that data out and analyze it. Then why we’re so excited: the growth here is really unprecedented. The Rule of 40 score went from 127 to 145. We think Alex will have a couple more quarters like that. Even though some retail investors have moved on to chase Micron, SanDisk and the SOX complex, we think institutional growth investors over the next quarter or two will come in. That’s why the stock traded sideways and why it’s been an opportunity for our investors and your viewers.</p>\n<p><b>LINDSAY:</b> Okay, we will leave it there. Michael Monaghan, partner and portfolio manager at Founder ETFs. Appreciate your time. Thanks so much.</p>\n<p><i>This BNN Bloomberg summary and transcript of the june 1, 2026 interview with Michael Monaghan are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
+      "title": "Are we in a recession? ‘Be careful’ with indicators, says Bank of Canada",
+      "link": "https://news.google.com/articles/CBMibkFVX3lxTE9ka3l6enBaTWszYmlYTDNzdWVkc0FVQTVjcDFWcE5naHozd29NZlVXY292ZkRWWFEtaFJpazJxR2hQd2JjczdremlWY1hxV1NMd0Fyd3BLTUxLRUNUTkRHdVNxZDcwamtqQlRyMzln?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 20:05:23 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "South Korea’s Hanwha to use Algoma Steel material to build military vehicles in Canada",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/01/south-koreas-hanwha-to-use-algoma-steel-material-to-build-military-vehicles-in-canada/",
-      "pubDate": "Mon, 01 Jun 2026 16:20:18 -0400",
-      "description": "A South Korean defence company, Hanwha, has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada.",
-      "content": "<media:description type=\"plain\"><![CDATA[Hanwha’s K9 armoured vehicle during a tour of Hanwha’s manufacturing facility last February in Changwon, South Korea. (CTV News)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/DSYHGIGENVF3FM6K4W4UTQSVJM.jpeg?auth=4f9091c3163d658fd4ff583d00a935b28f267f590ed4144d208ca2e8efd58e76&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "A South Korean defence company, Hanwha, has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada. ",
-      "body": "<p>A South Korean defence company, Hanwha, has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada. The deal is contingent on Hanwha winning the lucrative bid to build Canada’s next generation submarine fleet. The prime minister says the winner will be announced by the end of June, ahead of the start of the CUSMA review beginning on July 1.</p>\n<p>In a news release on June 1, Hanwha said Algoma Steel is now part of a “landmark partnership” between Canada’s Automotive Parts Manufacturers’ Association (APMA) and South Korea’s Hanwha to produce a new range of industrial and military vehicles in Canada for domestic and global markets.</p>\n<p>The partnership will use “Canadian workers and ‘Made in Canada’ parts” and steel.</p>\n<p>Today’s announcement by Hanwha builds on an April memorandum of understanding (MOU) signed with the APMA. The two entities announced that they will work together to build five types of military vehicles in Canada such as the Howitzer K9.</p>\n<p>The MOU created a consortium called Project Arrow Defense, which would have 51 per cent Canadian ownership.</p>\n<p>The Canadian Armed Forces needs 250 armoured vehicles for use in the Arctic and to meet its NATO obligations.</p>\n<p>Under the MOU, Project Arrow Defence would build those vehicles in its plants and could potentially help manufacture weapon systems for its other global customers.</p>\n<p>Hanwha officials say they currently have thousands of orders for armoured vehicles from six other NATO countries.</p>\n<p>Previous to this announcement, Hanwha also revealed that it would provide Algoma steel with a low interest loan to convert its facility into one that can make steel beams.</p>\n<p>This announcement comes days after Germany said that it would buy one million tonnes of liquefied natural gas (LNG) from Canada.</p>\n<p>The federal government has been clear to both the German submarine bidder TKMS and Hanwha, that it wanted measures to bolster the domestic automotive, steel and aluminum industries that have been hard hit by U.S tariffs.</p>\n<p><b>READ MORE: </b><a href=\"https://www.bnnbloomberg.ca/business/economics/2026/05/27/german-utility-to-buy-one-million-tonnes-of-lng-per-year-from-ksi-lisims-project/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/economics/2026/05/27/german-utility-to-buy-one-million-tonnes-of-lng-per-year-from-ksi-lisims-project/\"><b>German utility to buy one million tonnes of LNG per year from Ksi Lisims project</b></a></p>"
+      "title": "The Bank of Canada Is Holding Rates — These 2 Dividend Stocks Look Built for the Pause",
+      "link": "https://news.google.com/articles/CBMitwFBVV95cUxPNDRlUG1rVmtsUFFrU2pBODVQUEtjV3A5cUVDcGhYemx0MDJCLWd4NGZpa3dNTHJqSllJaXJYZEtHb1lkaWN6d01KQkttTE1wYVVfMGdQbjdmVGlCc0dfckxuLVhBZ29jdjBsOW5rVnE5UHBIMXZwSmdEbnFyQUZaVVBvTHZSdDBzMjRTWW9uQXpGWXVmR25RelFXOVIteWZyY1ViM3NyWmR4UktGM2JER1NtNS1SdDA?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 19:45:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "The Motley Fool Canada",
+      "_pubUrl": "https://www.fool.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "What to watch as Ottawa plans to release AI strategy",
-      "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/01/what-to-watch-as-ottawa-plans-to-release-ai-strategy/",
-      "pubDate": "Mon, 01 Jun 2026 15:45:15 -0400",
-      "description": "Ottawa will release its AI strategy this week, to outline how the government will balance the fast-growing industry along with safety and data sovereignty concerns.",
-      "content": "<media:description type=\"plain\"><![CDATA[Prime Minister Mark Carney speaks at the Vector artificial intelligence research institute in Toronto, on Friday, Nov. 7, 2025. THE CANADIAN PRESS/Sammy Kogan]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SD4IBJ54CZFI3E6I36HPPOOJ7M.JPG?auth=064bab0b411e8fcf1282595be807fe0bbe35935f9ea1f3df1ce1858ec376c2f1&amp;smart=true&amp;width=5000&amp;height=3333",
-      "_src": "bnn",
-      "_ogDesc": "Ottawa will release its AI strategy this week, to outline how the government will balance the fast-growing industry along with safety and data sovereignty concerns.",
-      "body": "<p>Ottawa will release its AI strategy this week, outlining how the federal government will balance the fast-growing industry along with safety and data sovereignty concerns.</p>\n<p>The strategy is <a href=\"https://budget.canada.ca/update-miseajour/2026/report-rapport/chap1-en.html\" target=\"_self\" rel=\"\" title=\"https://budget.canada.ca/update-miseajour/2026/report-rapport/chap1-en.html\">based on six pillars</a>: protecting Canadians; empowering Canadians; powering AI adoption; building sovereign AI; scaling Canadian AI business, and building trusted partnerships.</p>\n<p>Technology analyst Daniel Bader told CTV Your Morning on Monday that tackling the AI industry with a coherent plan will be balancing act.</p>\n<p>“This is one of the most difficult challenges the Carney’s government has faced to date,” he said. “The concerns are that these six pillars are very offensive in that they are trying to grow the Canadian economy using AI, while keeping a little bit on the defensive, with protecting Canadian democracy. That will be the really big challenge here.”</p>\n<p>Bader points to the Tumbler Ridge shooting, and the fact that the shooter had used ChatGPT <a href=\"https://www.ctvnews.ca/video/2026/02/21/tumbler-ridge-shooter-discussed-violence-on-chatgpt-but-openai-didnt-alert-authorities/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/video/2026/02/21/tumbler-ridge-shooter-discussed-violence-on-chatgpt-but-openai-didnt-alert-authorities/\">to discuss violence</a>. OpenAI CEO Sam Altman went <a href=\"https://www.ctvnews.ca/vancouver/article/openai-ceo-deeply-sorry-for-not-warning-police-about-tumbler-ridge-shooters-chatgpt-use/\" rel=\"\">so far as to apologize</a> for not alerting police of the shooter’s ChatGPT use.</p>\n<p>“This has become a national debate about how can Canadians be better protected from the dangers of errant AI,” Bader said. “These (AI) companies are incentivized to grow, and like social media companies and other big companies before them, grow at scale. We want to adopt AI, but in a way that is safe and protects Canadian democracy and Canadian privacy as well.”</p>\n<p>While Prime Minister Mark Carney <a href=\"https://prd.ctvnews.ca/sci-tech/article/pm-carney-discussed-artificial-intelligence-with-pope-leo/\" rel=\"\">recently told Pope Leo XIV</a> that he wants Canada to take a leadership role in the responsible development of artificial intelligence, Bader said that will introduce additional challenges, since many Canadians are still skeptical about its uses.</p>\n<p><a href=\"https://www.ctvnews.ca/vancouver/article/hundreds-march-in-opposition-to-ai-data-centres-in-vancouver/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/vancouver/article/hundreds-march-in-opposition-to-ai-data-centres-in-vancouver/\">A recent protest</a> against two planned AI data centres in Vancouver drew hundreds of people in the city.</p>\n<p>“We have to be okay with having AI in our workplaces, in our schools, in our homes,” he said. “And there’s also going to be many companies that are appealing to the government to get funding for data centres, and for many other projects, like in the life sciences, where AI can make a big difference.”</p>\n<p><i>With files from </i>T<i>he Canadian Press and CTV News Vancouver’s Ian Holliday</i></p>"
+      "title": "These Are The Invisible Decisions Driving Today's Development",
+      "link": "https://storeys.com/modular-mass-timber-district-energy/",
+      "pubDate": "Mon, 01 Jun 2026 19:34:29 +0000",
+      "description": "<img src=\"https://storeys.com/media-library/image-via-corix.png?id=66847976&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>What’s old is new on the modern building front. At least, that's the case for Canada’s most strategic developers. </p><p>Today’s construction challenges range from sky-high costs and supply shortages to perpetual economic uncertainty. This is a relatively new reality. For years, a surging real estate market meant Canada’s developers had little reason to consider alternative pathways to project delivery. But times have changed. </p><p>Developers are now making a new set of infrastructure decisions early on. And getting them right has long-term consequences on project economics, density, and operational complexity. Savvy developers are turning to methods like mass timber, modular construction, and district energy in large-scale building. </p><p>These solutions meet important sustainability requirements – but that's increasingly the baseline. Strategic master-planning relies on understanding how these methods intersect. For forward-thinking builders, mass timber and modular are high-speed structural solutions for the above-ground envelope, while district energy is a below-ground economic engine that makes an entire capital layout work.</p><h3>Mass Timber: Accelerating the Envelope</h3><p><strong></strong>Wood is no longer just for framing single-family homes; it’s actively rewriting the rules of large-scale construction. Mass timber re-engineers wood into a structural powerhouse, matching the fire, seismic, and load-bearing performance of concrete and steel. </p><p>For developers building at scale, the edge is operational. Because the system is entirely prefabricated off-site, it turns the job site into a fast, quiet assembly line that slashes delivery timelines. Think of it like a massive LEGO set: the pieces are shipped to the site, ready to go. Once received, you crane them into place, making construction much faster (and quieter) than pouring concrete. </p><p>By leveraging a renewable, regionally sourced material that actively sequesters carbon, mass timber offers a rare double win: It satisfies aggressive ESG targets while accelerating project economics.</p><p>Canada’s impressive mass timber buildings include George Brown College’s <a href=\"https://www.georgebrown.ca/limberlost\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Limberlost Place</u></a> in Toronto, University of Toronto’s 14-storey <a href=\"https://defygravitycampaign.utoronto.ca/news-and-stories/canadas-tallest-academic-timber-building/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Academic Wood Tower</u></a> (the tallest academic timber structure in Canada), and <a href=\"https://www.naturallywood.com/projects/the-hive/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The Hive</u></a>, an innovative Vancouver office building. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"1883467cb1b5e347bd30b6021d9a14c1\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"30ee5\" loading=\"lazy\" src=\"https://storeys.com/media-library/limberlost-place-georgebrown-ca.png?id=66847994&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Limberlost Place (georgebrown.ca)</small></p><p>In early 2025, Ontario amended its Building Code to allow mass timber buildings of up to <a href=\"https://storeys.com/mass-timber-18-storeys-ontario-2025/\" target=\"_self\">18 storeys</a>. Previously capped at 12 storeys, stretching the code upwards allows mass timber to compete directly with traditional concrete and steel in the mid-to-high-rise residential market.</p><h3>Modular: Redefining Site Assembly</h3><p><strong></strong>Modular construction isn’t what it used to be. </p><p><a href=\"https://storeys.com/move-faster-on-housing-modular/\" target=\"_self\"><u>Modular housing</u></a> involves building sections of a structure off-site in a controlled factory environment, trucking them to the site, and craning them onto a foundation.</p><p>Prefabrication goes back centuries. In the 1830s, London carpenter John Manning created the \"Manning Portable Cottage\" for British emigrants moving to Australia. More famously, from 1908 to 1940, Sears, Roebuck and Co. sold over 70,000 prefabricated mail-order kit homes across North America.</p><p>Today, contemporary modules are precision-engineered building blocks designed to lock together seamlessly. This controlled factory setting eliminates weather delays, reduces material waste, and allows indoor trades to work simultaneously while the on-site foundation is being poured.</p><p>We’re now seeing a shift from simple, single-family kit homes to complex, multi-storey mid-rise and high-rise modular developments. Advanced Building Information Modelling (BIM) software is allowing factories to manufacture modules with precise electrical, plumbing, and finishes pre-installed, slashing on-site construction timelines. </p><p>Canada is already home to major trailblazers in this space. Notable examples include the West 8th and Arbutus development in Vancouver – a massive multi-storey supportive housing project built using modular sections – and several mid-rise student residences and hotels across Ontario and Alberta.</p><h3>District Energy: The Foundation of Master-Planned Economics</h3><p><strong></strong>For decades, the path to a successful master-planned community or high-density infill project was linear: Secure the land, navigate approvals, design a beautiful shell, and treat the core infrastructure as a late-stage engineering decision. Now, infrastructure considerations come first – and the most significant shift in infrastructure planning occurs below the street level. </p><p>Developers realize that, while choices like mass timber and modular optimize how you build, the choice of energy infrastructure dictates the ultimate financial viability of the asset.</p><p>Master-plan developers are moving away from the \"one building, one boiler\" mentality and investing heavily in decentralized, fifth-generation district energy networks. </p><p>\"Most people that have interacted with district energy might know of it as a big steam system, like in an old downtown core or a university campus,\" says Samson Tam, VP of Development at Corix. Modern systems have completely evolved past this legacy framework. </p><p>Instead of every individual building maintaining its own independent mechanical system – boilers, chillers, and cooling towers perched on every roof – a district energy system uses an interconnected underground thermal loop – low-temperature hot and chilled water running through highly efficient underground piping. This shares heating and cooling across an entire neighbourhood. If a commercial building sheds excess heat from its server rooms, that energy isn't wasted, but captured and piped to warm the residential tower next door.</p><p>Because this infrastructure technology-agnostic, a master-planned community isn't locked into a single fuel source for the next fifty years. Developers can seamlessly swap out or add clean technologies – whether geoexchange, sewer heat recovery, or industrial waste heat – as they mature and become economically viable.</p><p>When developers bring in a specialized utility operator like <a href=\"https://www.corix.com/\" target=\"_blank\">Corix</a> early, the infrastructure shifts from an engineering line-item to an economic lever — one that Corix says addresses three of modern development's most pressing challenges.</p><p>The first is upfront capital. Traditional decentralized mechanical systems demand significant early-stage investment: sourcing, engineering, and installing individual chiller plants eats into cash flow before a project generates returns. Under a utility partnership model, Corix designs, finances, builds, and operates the centralized system. According to the company, this can reduce a developer's upfront capital for thermal generation by 60% to 100%, removing onsite mechanical complexity and freeing capital to accelerate subsequent phases. \"We would invest alongside a real estate developer and take that accountable requirement off their hands,\" says Tam. Modern systems are also designed to scale with the real estate itself, deploying node-by-node and phase-by-phase as a development grows.</p><p>The second is usable space. Every square metre dedicated to a mechanical penthouse or basement boiler room costs money to build and generates no revenue. Centralizing that infrastructure, Corix says, can reduce a building's onsite mechanical footprint by 30% to 40%. Basements become parking or commercial storage. Rooftops, stripped of cooling towers (and their associated noise), become patios, amenities, or penthouses. Tam also notes that unexpected mechanical replacements — which typically flow down as capital strain to renters or condo owners — are eliminated under the utility model, since Corix retains full long-term ownership and operational risk.</p><p>And the third is energy cost stability. Municipal electrical grids are under capacity strain, leaving developers vulnerable to connection delays or forced density reductions. Centralized thermal networks function as a localized buffer, drawing on diverse sources — geoexchange, wastewater heat recovery, and others — to reduce a development's peak grid demand. Corix points to its relationship with BC Hydro as an example of how utilities and district energy operators can work together: centralized systems, the company explains, are among the most efficient ways to manage electrical heating and cooling at scale, and that efficiency case has historically unlocked grant funding that flows back to end-users. The result is stable long-term energy rates, reduced exposure to carbon penalties, and project density that might otherwise be rejected due to grid constraints.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"eac956a2935e4338309e0376c66b5072\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"377b3\" loading=\"lazy\" src=\"https://storeys.com/media-library/burnaby-mountain-district-energy-utility-corix-com.png?id=66848005&width=980\"/> <small class=\"image-media media-caption\" placeholder=\"Add Photo Caption...\">Burnaby Mountain District Energy Utility (corix.com)</small></p><p>The financial case is already proving out in Canada. At Simon Fraser University on Burnaby Mountain, Corix services the campus and the adjacent UniverCity neighbourhood via a high-efficiency plant fuelled by local wood waste and broken shipping pallets — operating as Canada's largest privately owned biomass source, and one of the more effectively decarbonized communities in the country.</p><p>It's just one example of what's possible when infrastructure planning leads rather than follows.</p><p>For developers building at scale today, the decisions happening both above ground and below it are increasingly part of the same conversation.</p>",
+      "content": "",
+      "thumbnail": "https://storeys.com/media-library/image-via-corix.png?id=66847976&amp;width=980",
+      "_src": "storeys"
     },
     {
-      "title": "S&P/TSX composite index down more than 100 points, oil heads higher",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/01/sptsx-composite-index-down-more-than-100-points-oil-heads-higher/",
-      "pubDate": "Mon, 01 Jun 2026 15:43:55 -0400",
-      "description": "Canada’s main stock index was down more than 100 points in late-morning trading and the price of oil climbed higher as the ceasefire between Iran and the U.S. was strained by the latest fighting.",
-      "content": "<media:description type=\"plain\"><![CDATA[The Toronto Stock Exchange Broadcast Centre is pictured in Toronto on June 28, 2013. THE CANADIAN PRESS/Aaron Vincent Elkaim]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Aaron Vincent Elkaim</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/6CIZ5BZQPAWNOT6HBT7OX5PJCI.jpg?auth=a35f942d23c1379ef8fa4221a99941b0b8ce19b0b5b8097035ca03c7dd33e4e2&amp;smart=true&amp;width=1400&amp;height=1007",
-      "_src": "bnn",
-      "_ogDesc": "Canada’s main stock index was down more than 100 points in late-morning trading and the price of oil climbed higher as the ceasefire between Iran and the U.S. was strained by the latest fighting.",
-      "body": "<p>TORONTO — Canada’s main stock index was down more than 100 points in late-morning trading and the price of oil climbed higher as the ceasefire between Iran and the U.S. was strained by the latest fighting.</p>\n<p>The July crude oil contract was up US$6.77 at US$94.13 per barrel.</p>\n<p>The gain came as the S&amp;P/TSX composite index was down 125.80 points at 34,643.34.</p>\n<p>In New York, the Dow Jones industrial average was down 150.77 points at 50,881.69. The S&amp;P 500 index was up 0.46 points at 7,580.52, while the Nasdaq composite was up 48.85 points at 27,021.47.</p>\n<p>The Canadian dollar traded for 72.27 cents US compared with 72.47 cents US on Friday.</p>\n<p>The August gold contract was down US$101.10 at US$4,491.90 an ounce.</p>\n<p><i>This report by The Canadian Press was first published June 1, 2026.</i></p>"
+      "title": "Bank of Canada urges calm amid Canada's technical recession label",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPNWlSMG9JU1NZT0xZeVlMRnFnN01Ba0FhUm5EMEwyU1RwMnctbURaRnhkdUJsdTRnamVwVGI0ZnZDYUFaT0h4WjV0NmpCY0QtS08tNzhXR3BLWDR4TEFVNkVPVTBYRHo0SUpYM0pUT18xNFRmdFI0YVp5bklseVUxVlR3VnRUclpmTUJOcUhhR2l0Y1JVVmd4OWdpcW9Bemk1dFlfVzhNckNaTWRnTEY2QU1mRk5lbVZDOTQyOWZiaDlzZzgxT0Z6a3JRUQ?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 19:30:09 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Market Outlook: Nvidia expands AI push with new chip launch",
-      "link": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/01/market-outlook-nvidia-expands-ai-push-with-new-chip-launch/",
-      "pubDate": "Mon, 01 Jun 2026 15:21:21 -0400",
-      "description": "Jamie Wise discusses portfolio resilience, market volatility and shifting AI-driven narratives as investors navigate changing market leadership.",
-      "content": "<media:description type=\"plain\"><![CDATA[Specialist Anthony Rinaldi works at his post on the floor of the New York Stock Exchange, Friday, April 11, 2014. (AP / Richard Drew)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VCG4YPW7FHZ3CD5PUT23L42USI.jpg?auth=c965bb6e7aa5508643876cc7125298acfb59e44164fc393f80757746ed89d636&amp;smart=true&amp;width=1020&amp;height=573",
-      "_src": "bnn",
-      "_ogDesc": "Jamie Wise discusses portfolio resilience, market volatility and shifting AI-driven narratives as investors navigate changing market leadership.",
-      "body": "<p>Markets continue to push higher despite persistent volatility beneath the surface, with investors navigating rapidly changing narratives around artificial intelligence, geopolitics, inflation, interest rates and market leadership.</p>\n<p>BNN Bloomberg spoke with Jamie Wise, CEO at Periscope Capital, about why resilience, convexity and diversified portfolio construction are becoming increasingly important as investors contend with shifting market narratives and elevated cross-asset volatility.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Rapidly changing market narratives have created a volatile environment despite major equity indices reaching new highs. </li><li>Cross-asset volatility remains elevated across equities, rates, commodities and geopolitical risk, even as headline market volatility appears subdued. </li><li>Portfolio resilience and convexity can help investors navigate both upside and downside market moves without relying on a single market outcome. </li><li>Market leadership has broadened beyond the Magnificent Seven, with semiconductors and other sectors helping support equity gains. </li><li>Potential mega-IPOs and ongoing AI investment trends could drive significant portfolio repositioning and market volatility in the months ahead.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>LINDSAY:</b> Meanwhile, shares of Nvidia are trending up on news of a new chip to bring AI directly to computers. It’s another sign that tech continues to drive the S&amp;P 500. So, for more, let’s bring in Jamie Wise, CEO of Periscope Capital. It’s great to have you join us. Thanks so much.</p>\n<p><b>JAMIE:</b> Hi, Lindsay. Thanks so much. Nice to be here with you.</p>\n<p><b>LINDSAY:</b> Yeah, so this news of Nvidia making a new chip designed to power personal computers. How meaningful is this new development in the ongoing kind of AI story?</p>\n<p><b>JAMIE:</b> Well, it’s just another leg in it, and really the way we think about things here at Periscope isn’t so much directional, but the volatility around the narratives in the market. AI is a big narrative, as you know, in the market, and this is just another data point for us all to consider in that narrative, and it is definitely leading the market today, but it leads it both ways. We’ve seen that, right? There’s lots of anxiety out there around the spend around AI, and will it be monetized in a certain way? So far, recently, we’ve had some constructive attitudes around that, but we certainly saw the anxiety around that just a few months ago.</p>\n<p><b>LINDSAY:</b> Right. So, what does Nvidia have to do when it comes to this plan, in particular, to keep investors feeling positive moving forward, do you think?</p>\n<p><b>JAMIE:</b> I don’t think it’s a company-specific thing. I think it’s just sentiment that’s really driving these markets, and every single day investors get a new data point that they can feel comfortable around and look through some of the other narratives that keep popping up in markets and causing anxieties. Right now, on the equity side at least, we’re living through a period of relative calm and positive sentiment, but the cross-asset volatility behind the scenes really stays front and centre for us, and that’s what’s driving a lot of our positioning.</p>\n<p><b>LINDSAY:</b> We’re also watching for some big kind of mega-IPOs this year, both from Anthropic and OpenAI. Those are just two companies, but to speak about those two companies in particular, how do you think those kind of mega-IPOs will reshape the markets?</p>\n<p><b>JAMIE:</b> There’s no question it’ll have a big impact on the market, but it’s unclear whether that will be a positive or negative impact. There’s going to be lots of positioning that managers will have to get in front of ahead of those IPOs, whether that’s rebalancing their portfolios to account for them or even on the more passive side of the market, where they are likely going to be a part of the major indices sooner rather than later. Lots of those index companies are making changes to their index guidelines to allow for those things to happen, so there is going to be a lot of churn in the market as those large IPOs come to be. It remains to be determined how volatility will react around all those things.</p>\n<p><b>LINDSAY:</b> Is there one that you’re more interested in than the others in terms of how things play out when it comes to some of the big ideas?</p>\n<p><b>JAMIE:</b> Really, yeah, our approach here isn’t on the fundamental side to be directional around these things. It’s recognizing that there are a lot of different narratives that have been happening in the market and wanting to build things, portfolio-construction-wise, that really offer convexity, that offer optionality to different types of outcomes. Resiliency is very important to us, and we recognize that and expect continued pockets of volatility to emerge in the market, but also understanding that those volatility pockets can be to the upside and to the downside. So we really try and position ourselves using options and other resilient forms of strategies and things that have convexity characteristics to them to allow for returns to be harvested in either type of environment without having to take a big directional view.</p>\n<p><b>LINDSAY:</b> We’ve seen tech AI stocks carrying the S&amp;P 500 at the moment. Given the kind of volatility that you were talking about beneath the surface, is this leadership from tech AI sustainable, do you think?</p>\n<p><b>JAMIE:</b> Well, it’s very interesting to talk about that because when you look at the Magnificent Seven, they’ve actually underperformed the market this year. So you’ve had this rotation away from the Magnificent Seven, which many people a year ago thought might not be possible, or that the market would really take a beating if that were to happen, but we found other leadership. Right now, it’s certainly in chipmakers and semiconductors. Earlier in the year, it was more widespread. So I think that’s a really interesting storyline to follow. Can the market diversify away from either tech or the Magnificent Seven and continue its march onward?</p>\n<p>Again, something that we focus on a lot here is looking at what correlations are in the market, how high dispersion is, and how interesting it is that we have very low correlation and very high dispersion in the underlying market, yet equities have ground higher and higher and quickly reset from those levels of anxiety just a few months ago. You mentioned some of the geopolitical churn that’s happening in the market. We’ve jumped around from Greenland to Venezuela and, of course, now all eyes are focused on the Middle East. But when will those narratives come back and matter again, and will investors focus more on the geopolitical side of the market rather than the tech side of the market again? These are all things that, to us, point to continued pockets of volatility. We’re enjoying an upside pocket right now, but I think it’s important to keep portfolios resilient against those dynamics should they change.</p>\n<p><b>LINDSAY:</b> I wanted to ask you about that rotation away from the Magnificent Seven, that kind of market dispersion that you mentioned, because some analysts feel as though there’s about to be more attention on the Magnificent Seven once again. Were you surprised by what we’ve seen so far, and what do you think we’ll see for the second half of the year?</p>\n<p><b>JAMIE:</b> Well, definitely the surprise over the last month might have been the strength in semiconductors and those chipmakers really making up for the weakness in the Magnificent Seven. We’ve had this theme — we kind of refer to it as narrative whack-a-mole — that we’ve been living through over the last year or so, with all these different narratives coming up, and then you whack one down and another pops up.</p>\n<p>I don’t think many people expected demand to be so strong for the AI build. There was lots of anxiety around the cost of the build, what the Magnificent Seven was spending on that, and whether they would be able to earn a reasonable return on that massive spend. Of course, recently we’ve seen some of that come through, where demand seems to be exceeding supply for now. But will that anxiety, that new mole, pop up again? Will we have to whack it down on the anxiety of just how much is being spent? I think that is still an unresolved question.</p>\n<p><b>LINDSAY:</b> And just lastly, with all this volatility and shifting narratives, how do you think investors should be positioning themselves to withstand it all?</p>\n<p><b>JAMIE:</b> Add convexity into your portfolio. I don’t think now is the time for carry strategies or strategies that expose weakness either in massively rising markets or markets that are falling very quickly. So, to the extent you can use certain types of securities in your portfolio — things like convertible bonds, things like options-based strategies, things that naturally provide some convexity both to the upside and the downside — it’s a good way to harvest that volatility, because oftentimes the volatility that you have to ride through might not be worth the return that you’re experiencing. So we’re looking for other ways to harvest that volatility and still generate returns.</p>\n<p><b>LINDSAY:</b> Okay, we’ll leave it there. Jamie Wise, CEO of Periscope Capital. Appreciate your time. Thanks so much.</p>\n<p><i>This BNN Bloomberg summary and transcript of the June 1, 2026 interview with Jamie Wise are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
+      "title": "EQB mortgage book grows as credit recovery pushed into 2027",
+      "link": "https://www.canadianmortgagetrends.com/2026/06/eqb-mortgage-book-grows-as-credit-recovery-pushed-into-2027/",
+      "pubDate": "Mon, 01 Jun 2026 18:54:01 +0000",
+      "description": "The bank reported continued growth in uninsured personal mortgages and insured multi-unit lending, but higher credit provisions and a softer housing market weighed on second-quarter earnings.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/10/EQB-2_med-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "The bank reported continued growth in uninsured personal mortgages and insured multi-unit lending, but higher credit provisions and a softer housing market weighed on second-quarter earnings."
     },
     {
-      "title": "Oil prices rise, but not by enough to drag Wall Street far off its records",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/06/01/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility/",
-      "pubDate": "Mon, 01 Jun 2026 14:45:01 -0400",
-      "description": "Oil prices are rising following the latest fighting to threaten the U.S.-Iran ceasefire, but U.S. stocks are hanging near their records in Wall Street.",
-      "content": "<media:description type=\"plain\"><![CDATA[Trader Richard Cohen works on the floor of the New York Stock Exchange, Friday, May 29, 2026. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/WROO65IRYFGL7OYCT6VTXNYINQ.jpg?auth=ed847c03362981b5607f653a1f13380ac3cfd549b647d4e741720e2aa8807211&amp;smart=true&amp;width=7710&amp;height=5140",
-      "_src": "bnn",
-      "_ogDesc": "Oil prices are rising following the latest fighting to threaten the U.S.-Iran ceasefire, but U.S. stocks are hanging near their records in Wall Street.",
-      "body": "<p>NEW YORK &mdash; Oil prices are rising Monday following the latest fighting to threaten the U.S.-Iran ceasefire, but Wall Street isn’t very worried, and U.S. stocks are hanging near their records.</p>\n<p>The S&amp;P 500 added 0.1 per cent to its all-time high set on Friday. The Dow Jones Industrial Average was down 123 points, or 0.2 per cent, as of noon Eastern time, and the Nasdaq composite was 0.3 per cent higher. Both are also coming off records.</p>\n<p>The majority of U.S. stocks fell, and some of the worst performers were companies with big fuel bills hurt by the rise in oil prices. United Airlines lost 3.6 per cent, and cruise-operator Carnival fell two per cent after the price for a barrel of Brent crude oil climbed 6.4 per cent to US$96.97. That clawed back a chunk of Brent’s loss from last week and means it’s still well above its price of roughly US$70 from before the war.</p>\n<p>Expensive oil has already sent inflation higher, which not only increases bills for households but also pushes up bond yields. High yields worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>Some of the hardest hit by high interest rates are smaller companies, which have a tougher time borrowing to grow when loans are more expensive to repay. The Russell 2000 index of the smallest U.S. stocks sank 0.7 per cent and lagged the rest of the market.</p>\n<p>But hope seems to remain that the United States and Iran will ultimately reach an agreement to reopen the Strait of Hormuz, allowing deliveries of oil to resume from the Persian Gulf and ease the upward pressure on inflation.</p>\n<p>Strength from several market heavyweights also helped to keep the market steady.</p>\n<p>Nvidia was the strongest force lifting the market and rose 4.3 per cent after CEO Jensen Huang announced several product updates at a conference. What Nvidia does matters immensely for the U.S. stock market because it’s the biggest in terms of overall market value. That means the movements for its stock carry more weight on the S&amp;P 500 than any other’s.</p>\n<p>And Wall Street’s biggest companies have been growing so much that they’re dominating the market. The top 10 stocks control nearly half the S&amp;P 500’s total market value, a 40-year high, according to Thomas Carroll, equity market strategist at Stifel.</p>\n<p>That worked well as Big Tech stocks shot higher thanks to exuberance around artificial intelligence. But it could also weigh on the index if the market’s leadership broadens, Carroll warns. Even if most stocks end up rising in such a rotation, stagnation or declines for Big Tech heavyweights could drag on S&amp;P 500 index funds.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\"><b>S&P 500 market updates here</b></a></li></ul>\n<p>And a key indicator Carroll follows about market breadth “is signaling a rotation is coming,” he wrote in a report.</p>\n<p>Elsewhere on Wall Street, Science Applications International Corp. jumped 17 per cent after becoming the latest U.S. company to report bigger profit for the latest quarter than analysts expected. SAIC also raised forecasts for upcoming financial results after winning several contracts from the U.S. Department of Homeland Security, army and other agencies.</p>\n<p>A cavalcade of such profit reports has helped the U.S. stock market push to records despite the uncertainty created by the war with Iran.</p>\n<p>Berkshire Hathaway fell one per cent after saying it would buy Taylor Morrison Home for US$6.8 billion. It’s one of the first big acquisitions announced by the company since Greg Abel took over its leadership from famed investor Warren Buffett. Taylor Morrison Home jumped 22.4 per cent.</p>\n<p>MGM Resorts International leaped 14.8 per cent after People Inc., Barry Diller’s business that was formerly known as IAC, offered to buy the rest of the company it doesn’t already own for US$48.30 per share in cash.</p>\n<p>In the bond market, Treasury yields rose with oil prices and after a report said growth in U.S. manufacturing accelerated by more last month than economists expected. The yield for the 10-year Treasury climbed to 4.50 per cent from 4.45 per cent late Friday.</p>\n<p>High yields have already forced the average long-term U.S. mortgage rate to its most expensive level in nine months, and they could curtail companies’ borrowing to build the AI data centers that have supported the U.S. economy’s growth recently.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/economics/\"><b>Latest economic news on BNNBloomberg.ca</b></a></li></ul>\n<p>In stock markets abroad, indexes fell in Europe following a stronger finish in Asia.</p>\n<p>Tokyo’s Nikkei 225 rose 0.9 per cent to an all-time high. SoftBank Group, the investment company that focuses heavily on AI, soared 14 per cent and surpassed Toyota to become Japan’s most valuable listed company.</p>\n<p>In South Korea, the Kospi index jumped 3.7 per cent to a record after Samsung Electronics, its biggest company, leaped 10.1 per cent. Official data on Monday showed that South Korea’s exports surged 53 per cent in May from a year earlier, buoyed by global demand for semiconductors.</p>\n<p><i>Stan Choe, The Associated Press</i></p>\n<p><i>AP Business Writers Chan Ho-him and Matt Ott contributed.</i></p>"
+      "title": "Bank of Canada warns against overreacting to techical recession indicator",
+      "link": "https://www.canadianmortgagetrends.com/2026/06/bank-of-canada-warns-against-overreacting-to-techical-recession-indicator/",
+      "pubDate": "Mon, 01 Jun 2026 18:53:08 +0000",
+      "description": "Bank of Canada Senior Deputy Governor Carolyn Rogers cautioned against concluding the country is in a recession after recent data showed the economy contracted for a second consecutive quarter.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/09/Bank-of-Canada-building_med-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Bank of Canada Senior Deputy Governor Carolyn Rogers cautioned against concluding the country is in a recession after recent data showed the economy contracted for a second consecutive quarter. "
     },
     {
-      "title": "Frontera Energy closes sale of Colombian E&P assets to Parex Resources",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/01/frontera-energy-closes-sale-of-colombian-ep-assets-to-parex-resources/",
-      "pubDate": "Mon, 01 Jun 2026 14:07:18 -0400",
-      "description": "Frontera Energy Corp. says it has completed the sale of its Colombian exploration and production assets to Parex Resources Inc. in a deal valued at US$750 million including assumed debt.",
-      "content": "<media:description type=\"plain\"><![CDATA[The Parex Resources logo is seen in an undated handout image. THE CANADIAN PRESS/Handout-Parex Resources (Mandatory Credit)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">HO</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/DCPTB232SMMWR6GKZAM5GM5Z2I.jpg?auth=e4a16f20613673c19165edf7a58b84bd1eb03fc028a8cc9420c57cc6ccde1c35&amp;smart=true&amp;width=1400&amp;height=559",
-      "_src": "bnn",
-      "_ogDesc": "Frontera Energy Corp. says it has completed the sale of its Colombian exploration and production assets to Parex Resources Inc. in a deal valued at US$750 million including assumed debt.",
-      "body": "<p>CALGARY — Frontera Energy Corp. says it has completed the sale of its Colombian exploration and production assets to Parex Resources Inc. in a deal valued at US$750 million including assumed debt.</p>\n<p>In connection with the transaction, Frontera announced a return of capital distribution to shareholders of C$8.34 per share.</p>\n<p>Frontera chief executive Orlando Cabrales Segovia says the transaction marked an important milestone for the company.</p>\n<p>He says Frontera is now well positioned as a focused infrastructure company with a clear path for growth.</p>\n<p>Frontera holds a 35 per cent interest in the Oleoducto de Los Llanos Orientales S.A., one of Colombia’s main crude oil pipelines, and its 99.97 per cent stake in Puerto Bahia, a maritime terminal in Colombia.</p>\n<p>Parex says the Frontera deal adds 37,000 barrels of oil equivalent per day of production.</p>\n<p><i>This report by The Canadian Press was first published June 1, 2026.</i></p>"
+      "title": "Calgary home sales fall nearly 16% in May amid pressure on buyers: board",
+      "link": "https://www.canadianmortgagetrends.com/2026/06/calgary-home-sales-fall-nearly-16-in-may-amid-pressure-on-buyers-board/",
+      "pubDate": "Mon, 01 Jun 2026 18:22:19 +0000",
+      "description": "Home sales activity in Calgary slowed again in May compared with a year earlier as prices also fell year-over-year.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/06/The-Calgary-skyline-is-seen-on-Friday-Sept.-15-2017-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Home sales activity in Calgary slowed again in May compared with a year earlier as prices also fell year-over-year."
     },
     {
       "title": "Billionaire Chip Wilson wins bid to lower Vancouver home&#39;s assessed value by $18m",
       "link": "https://www.timescolonist.com/national-business/billionaire-chip-wilson-wins-bid-to-lower-vancouver-homes-assessed-value-by-18m-12357203",
-      "pubDate": "Mon, 01 Jun 2026 16:20:00 GMT",
+      "pubDate": "Mon, 01 Jun 2026 17:20:24 GMT",
       "description": "VANCOUVER — Billionaire and Lululemon Athletica founder Chip Wilson has won a legal challenge to lower the assessed value of his Vancouver waterfront mansion — long listed as the most expensive home in British Columbia — by more than $18 million.",
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/06/da07ad7840188e4c4e6bef1a0685259f67b1796970d92b2b1f7511afdb0af720.jpg;w=960",
       "_src": "timescolonist"
+    },
+    {
+      "title": "Bank of Canada says don't put much weight on GDP data showing technical recession",
+      "link": "https://news.google.com/articles/CBMif0FVX3lxTE5QcnhwbTIxR3c3VHJuZmtpZk1GTWdMSXcwSlJFOGhENFRxU2hHVEpSb201d0R1QWdhRERKXzUzdUpRcmVVc2VaSF9zVGFlR1BRZUNXRThkSjB0eEh4QlNnMEpRMkptUGFhTFJqbTgxdU1OZ0VEVGZDSm02S1VmWTQ?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 16:35:28 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Nearly all Canadian universities fall in global rankings",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/01/nearly-all-canadian-universities-fall-in-global-rankings/",
+      "pubDate": "Mon, 01 Jun 2026 11:24:04 -0400",
+      "description": "Nearly all Canadian universities dropped in the latest CWUR Global 2000 rankings as research performance weakened amid tougher global competition. The rankings also show growing gains by Chinese universities while U.S. schools continue to dominate the top tier.",
+      "content": "<media:description type=\"plain\"><![CDATA[A person walks past the University of Toronto campus in Toronto on Wednesday, June 10, 2020. THE CANADIAN PRESS/Nathan Denette]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/GRXXOU6ENZQJCXPK4W7G4Z4XBQ.jpg?auth=626930040f9a45bd240fc17c262242f6bceecac0a7adceb1c3cae475802bd19b&amp;smart=true&amp;width=1400&amp;height=985",
+      "_src": "bnn",
+      "_ogDesc": "Nearly all Canadian universities dropped in the latest CWUR Global 2000 rankings as research performance weakened amid tougher global competition. The rankings also show growing gains by Chinese universities while U.S. schools continue to dominate the top tier.",
+      "body": "<p>Nearly all Canadian universities lost ground in a global ranking of the top post-secondary schools, reflecting growing pressure from better-funded international competitors.</p>\n<p>The rankings, released Monday by the <a href=\"https://cwur.org/2026.php\" target=\"_self\" rel=\"\" title=\"https://cwur.org/2026.php\">Center for World University Rankings</a>, show 37 of Canada’s 38 ranked universities fell compared to last year, while one maintained its position.</p>\n<p>The University of Toronto remained Canada’s top-ranked institution at No. 23 globally, holding the same position as last year. McGill University slipped one place to No. 28, while the University of British Columbia dropped to No. 49 from No. 48.</p>\n<p>The University of Alberta ranked 82nd globally, followed by the University of Montreal at 126th.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/canada/article/how-canada-compares-to-other-countries-when-it-comes-to-research-and-higher-education/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/how-canada-compares-to-other-countries-when-it-comes-to-research-and-higher-education/\"><b>Canada ranks 5th in education and research analysis</b></a></li></ul>\n<p>According to <a href=\"https://cwur.org/2026.php\" target=\"_self\" rel=\"\" title=\"https://cwur.org/2026.php\">CWUR’s 2026 ranking</a>, Canada’s top 10 schools also include:</p>\n<p>6. Western University, No. 187 globally</p>\n<p>7. McMaster University, No. 190</p>\n<p>8. University of Calgary, No. 203</p>\n<p>9. University of Waterloo, No. 216</p>\n<p>10. University of Ottawa, No. 226</p>\n<h2>What is behind the decline?</h2>\n<p>“The decline of Canadian universities reflects years of inadequate funding, and the devaluation of science and education as public goods,” said Dr. Nadim Mahassen, president of the Center for World University Rankings.</p>\n<p>“Canadian universities are struggling to deliver high-quality education, attract and retain talent, and produce quality research at scale.”</p>\n<p>Mahassen said the issue goes beyond academia.</p>\n<p>“This is not just an academic problem but a national one, because the erosion of Canada’s higher education system undermines scientific development, innovation, and the country’s long-term future.”</p>\n<h2>U.S. universities hold up top spots</h2>\n<p>The rankings evaluated more than 21,000 universities worldwide using measures that include education quality, employability, faculty achievements and research output.</p>\n<p>Globally, American universities continued to dominate the top of the table. Harvard University held the No. 1 position for the 15th consecutive year, followed by the Massachusetts Institute of Technology and Stanford University.</p>\n<ul><li><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/world/article/harvard-faculty-votes-to-make-it-more-difficult-for-undergrads-to-earn-as/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/world/article/harvard-faculty-votes-to-make-it-more-difficult-for-undergrads-to-earn-as/\"><b>Harvard faculty votes to make it more difficult for undergrads to earn A’s</b></a></li></ul>\n<p>Based on <a href=\"https://cwur.org/2026.php\" target=\"_self\" rel=\"\" title=\"https://cwur.org/2026.php\">CWUR’s 2026 ranking</a>, the global top five also includes University of Cambridge and University of Oxford, both from the United Kingdom, at No. 4 and No. 5, respectively.</p>\n<h2>China gains ground globally</h2>\n<p>Still, the broader global picture showed increased competition from China. Ninety-eight per cent of Chinese universities improved their positions this year, led by Tsinghua University at No. 36 globally. China now has 360 institutions in the Global 2000 list, the highest representation of any country.</p>\n<p>“The results of this year’s rankings show that the United States boasts the top universities in the world,” Mahassen said.</p>\n<p>“However, this dominance is increasingly contested further down the league table, as other universities, particularly from China, are catching up.”</p>\n<p>Elsewhere, many institutions across Europe and Japan also declined amid funding pressures and intensified global competition.</p>\n<p>The rankings are based on 81 million outcome-based data points and do not rely on surveys or university-submitted data, according to CWUR.</p>"
     },
     {
       "title": "B.C.’s youth labour market deteriorating versus other provinces, says report",
@@ -236,18 +323,6 @@
       "_src": "gnimmig",
       "_publisher": "Kalkine Media",
       "_pubUrl": "https://kalkinemedia.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "The Canadian Real Estate Stocks That Look Poised for a Stronger 2026",
-      "link": "https://news.google.com/articles/CBMiogFBVV95cUxORmRmSUl2Z0V6ck53NUE5NjlUUjg0cHNiT3BobUhSeXZtdkR0bXg1SVpUaF90THZfSGRZTmpoZnItbjlEWkVNZmJXVTc5dFN6QkRNUGJ0cThQZXk0MVJac2pIUjI3YUx5S1FlUHFxYzN1ak9iMGxWWkZOQUJBV2lQZW9fYkl4LS0zUDBaM25ULXJnbUcyNmNhYWtqSmlRUEQ3bmc?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 00:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "The Motley Fool Canada",
-      "_pubUrl": "https://www.fool.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -384,18 +459,6 @@
       "_ogDesc": "Scotiabank agreed to acquire Maple Financial Holdings Inc., which owns a small U.S. commercial bank, as the Canadian firm looks to expand its structured-finance business in the American mortgage industry. "
     },
     {
-      "title": "CMHC releases results for first quarter of 2026",
-      "link": "https://news.google.com/articles/CBMiogFBVV95cUxOQ1NOWEp0WDJnd0ZrNEFJWjlsZW1uM0lna0h4eHhDX25wSnFiQjFCVUZ1d3VqRTJ2X2h4SlR0SGlVNURta3B5M1JVckhhOHQtZ0lucXhhM1g1YkZ0THhHUW4waGIybkNJMWFnaUZpVk1waEl2OV9wWFNUaEt4aXVuOFhRZW1FTWJ0M0pjYVdtdm1rVG5lMTNOY1o2QUlRVUtScGc?oc=5",
-      "pubDate": "Fri, 29 May 2026 13:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "PR Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada dips into technical recession for first time since 2020",
       "link": "https://www.canadianmortgagetrends.com/2026/05/canada-dips-into-technical-recession-first-time-since-2020/",
       "pubDate": "Fri, 29 May 2026 12:48:43 +0000",
@@ -406,15 +469,15 @@
       "_ogDesc": "The Canadian economy edged into a technical recession as weak business and government spending drove a slight contraction in the first quarter."
     },
     {
-      "title": "Canada could have built 30% more homes between 2006 and 2024, CMHC says",
-      "link": "https://news.google.com/articles/CBMiyAFBVV95cUxOdTZ3V016blcyODhpMFNYNVJqbmNMdmFoczNtSmVUX3J2ekFmWnIxSjdGWF9uSmVhT0NHR1plc1ppZXNETTdtcHRhUXdGM3ZmYnJfQUl6VUpGX0VYdk9oR3lpdkJCaktpUVFrcC1JRms1aHdSSjhpR2ZNNHdCYkVmUS1lWHpURW1vLXBTUWZHUGZMenVua1Y2TEhwcXMxblZxSmF4cklHQnBwZ0tzZGNTb2FxalktdXlCc21ta2IteUdBWGRwR2tTNQ?oc=5",
-      "pubDate": "Fri, 29 May 2026 12:31:06 GMT",
+      "title": "Canada’s residential construction investment falls in March, Ontario leads declines: CMHC",
+      "link": "https://news.google.com/articles/CBMivwFBVV95cUxNVzZXQlZabTRBVW1ORkI0aHlfcWwwSk1MOExsSWx0N3gyV1ZVZndieE5JVjBIMVRPLXl4WVNKQ24tUVpNekxmbDEwRVYtbkFsbEtJZ0RabjR1Q2JvN09SSS1scEg3S0NldkdaS1ItZUxfc2YwZ0dtcFlaRnkyOFgxbUQ4Nlp6ZWtMZzhhUF80aDd4cEhCOGZDOVY2WmJScTVmTDk3Z2xTLUhsc3JaRFd1Z010YUk0cnhqTXM5MzJDcw?oc=5",
+      "pubDate": "Fri, 29 May 2026 08:30:03 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Wealth Professional",
-      "_pubUrl": "https://www.wealthprofessional.ca",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -452,25 +515,15 @@
       "_ogDesc": "The Supreme Court of Canada declined to hear an appeal in a case about whether an Indigenous land claim on the country’s east coast could apply to private property. "
     },
     {
-      "title": "Capital markets profits soar 27% to lift Canadian banks",
-      "link": "https://www.canadianmortgagetrends.com/2026/05/capital-markets-profits-soar-27-to-lift-canadian-banks/",
-      "pubDate": "Thu, 28 May 2026 20:30:58 +0000",
-      "description": "Canadian banks reported another string of earnings beats, once again benefiting from rising equity markets, active trading and more dealmaking.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/TD-Bank-earnings-2026_sm-500x334.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Canadian banks reported another string of earnings beats, once again benefiting from rising equity markets, active trading and more dealmaking."
-    },
-    {
       "title": "Housing starts held back by regulatory, structural factors: CMHC",
-      "link": "https://news.google.com/articles/CBMisgFBVV95cUxNMTVDYXFRWnNzMzluRm5PX2RsRERmczdrRGRzc05fVV9SeVlINkxoQUFOeUFFZG9vdHBGUmxvNU0xdk5IUnRVU3hvUXdlR0JNb2J0dzBaZjEtalhFMVhGOTAwVDNMelE0VFd1d0hJc3ZwZnU0TGRYcWxXMmlSak9EZF9ndjA0cHZvamNaeG80QjIwYlpqd2RoMnFJdVI4SzRRWkREWUNZd1BZMWVsSXBIVkhn?oc=5",
-      "pubDate": "Thu, 28 May 2026 18:06:43 GMT",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxNYkZYYjVla2dCYXVENUNDWVU1Z2EyLWwxcVIzSFBWdGdWUW9EMHJOYVpMbXlhUWxwdWpueTB4QmFKR3ltUWpZR3RjNzY3eWdmV1V0TFlwOXdtWFV3TFp4MHVjVUNkYnZ6Ni05ZGtkMkhrcU5wNmhibzJaOHh4Ym1feHBSYU9kN2J2b2M2WmZqRkw4RC14QTBlckItUmEyYUczR21OQjZJem1OR0J2WnVr?oc=5",
+      "pubDate": "Thu, 28 May 2026 20:07:40 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Investment Executive",
-      "_pubUrl": "https://www.investmentexecutive.com",
+      "_publisher": "Advisor.ca",
+      "_pubUrl": "https://advisor.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -486,24 +539,16 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada says markets more vulnerable to sharp correction",
-      "link": "https://www.canadianmortgagetrends.com/2026/05/bank-of-canada-says-markets-more-vulnerable-to-sharp-correction/",
-      "pubDate": "Thu, 28 May 2026 16:49:56 +0000",
-      "description": "The Bank of Canada said the financial system has functioned well through recent global shocks, but highlighted the risk of an asset price correction as well as vulnerabilities related to the role hedge funds are playing in debt markets.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/The-Bank-of-Canada-in-Ottawa._sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The Bank of Canada said the financial system has functioned well through recent global shocks, but highlighted the risk of an asset price correction as well as vulnerabilities related to the role hedge funds are playing in debt markets."
-    },
-    {
       "title": "Housing starts held back by regulatory conditions, structural factors: CMHC",
-      "link": "https://www.canadianmortgagetrends.com/2026/05/housing-starts-held-back-by-regulatory-conditions-structural-factors-cmhc/",
-      "pubDate": "Thu, 28 May 2026 16:38:30 +0000",
-      "description": "A new report by the Canada Mortgage and Housing Corp. says regulatory conditions, along with economic and demographic structural factors, have slowed the pace of housing starts and pushed home prices higher.",
+      "link": "https://news.google.com/articles/CBMi8AFBVV95cUxOdk42TWJzYUxOQzdxaW00RkhJUkJLS1h1b0tUcVU1em5xbjVXTERLejBCc1hTdkNXenhEVkdCaWlSbDBXOUNRSEd0djFJeWdVdWtzWnlLeEkxOW5WNFB6ZmlMZHFZcS1meDdYTW9KaW42STlyM0RLYTZCcENxcDVtZHE1akE4RTg2ZVdyR2pvWEstWlNPMWx3aUJ0SkNCZUFTVk8zSmpWUy1vVmZtcTAySFViUGFlUENwTVA0M3Myb2dtd1JPbThXeklHWXBlWkh3T1N5enkxQ0FYWUh4TVBsZ3RsQUdrLTBoSlNXVXNia2o?oc=5",
+      "pubDate": "Thu, 28 May 2026 16:29:04 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/06/new-residential-construction-in-the-Riverside-South-neighbourhood-of-Ottaw-500x329.jpg",
-      "_src": "cmt",
-      "_ogDesc": "A new report by the Canada Mortgage and Housing Corp. says regulatory conditions, along with economic and demographic structural factors, have slowed the pace of housing starts and pushed home prices higher."
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "3 Takeaways From The Housing Development Office’s First Annual Report",
@@ -525,14 +570,14 @@
     },
     {
       "title": "Housing starts held back by up to 30% since 2006: CMHC",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxPMDJ2TkJiaEtjY29iSWFLTHlwZWtPNWx3c04tVnAwQjBzc3dHeGliS2RuN2piVTFvVnJEZzdXUGdIOGtKTmRBWGN4MWUwV2ZkRzc1RjdyMlpoQXc1VFNXQ3NwYWJxS0NrcDVGY0JxSnJfQ3BvTndmQzQ2dTBtNmthNE5n?oc=5",
+      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxOYnF1Wm13SlJiSU50OWxGR0M0VWJIM0xsem56TDJYOVFmWjU4ZGc4R2M5OWFaUlMtcTA5YXRLY2hSLV96MkpJbHVKWVBzaHhRTWZzRDByYnc5aGVUNFQ3TWpJYkJpUXNFSU9aZE9BSGRtS2w2TVJ6OXJOeXV6a2lxZTNhdkYtbEtNLUd4a3RXb01DbnV3d1ZTZGNESmlzTWU3MDRKbVZDcjI?oc=5",
       "pubDate": "Thu, 28 May 2026 14:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Yahoo! Finance Canada",
-      "_pubUrl": "https://ca.finance.yahoo.com",
+      "_publisher": "PR Newswire Canada",
+      "_pubUrl": "https://www.newswire.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -579,18 +624,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/biv/bcfsa_linkedin.jpeg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "'Low-hire, low-fire' job market complicates Bank of Canada's interest rate path",
-      "link": "https://news.google.com/articles/CBMiogFBVV95cUxOakY3ZjV6NEZEdDNMZmRVLVF2REl0ckQ3cWIyYWk3ZTAtV1EzQS1hSjlZenlDOTNpRnd1V0ExcU42cHEtMnVSOFNvNXFWdVZsSktjU1MwSTBJWWVQR1RyeFpKQklpcTVyeG04TW0zLUhfYmNGQWl4TFp0aTdjc0VudlM1eGRzcnpLZGJodlR0c0ZlOEtoN1NfNG1yTEtMLVlyb3c?oc=5",
-      "pubDate": "Tue, 26 May 2026 20:08:52 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "GWL Realty Lists 23-Acre Westbank Hub North Shopping Centre In West Kelowna",
@@ -641,15 +674,6 @@
       "_src": "storeys"
     },
     {
-      "title": "Fitzrovia Expands Into Vancouver With First West-Coast Office",
-      "link": "https://storeys.com/fitzrovia-vancouver-expansion-west-coast/",
-      "pubDate": "Mon, 25 May 2026 14:54:47 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/vancouver-skyline-from-coal-harbour-shutterstock.jpg?id=34012379&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>It was just nine years ago that Fitzrovia, now Canada’s largest purpose-built rental developer, opened the doors of its Yonge-St. Clair office in downtown Toronto. In under a decade, the company has delivered 3,500 rental units, hired 400 employees, and opened a second office in Montreal. </p><p>Now, they’re putting down roots on the West Coast. </p><p>This month, they opened their first B.C. office in downtown Vancouver, headed by Oscar Lisa. Lisa was Director of Investments on the Toronto team before moving cross-country to assume the role of Vice President, Investments and Vancouver Head. </p><p>The move coincides with the opening of Sen̓áḵw Phase I — an Indigenous-owned rental development set to welcome occupants on June 1, and Fitzrovia’s first property management venture in B.C. </p><p>Owned by the Squamish Nation, Nch’ḵay̓ Development Corporation, and OPTrust, the three-tower, 1,409-unit complex sits at the foot of Burrard Street Bridge in Vancouver’s Kitsilano neighbourhood. As one of the largest First-Nations led development projects in Canadian history, Sen̓áḵw is a huge deal — one that Fitzrovia’s CEO and Founder, Adrian Rocca, says was the ideal project to enter the B.C. market with. </p><p>“We had the ability to get into the Vancouver market with two excellent institutional partners, that we could continue to grow with over time, on a flagship project that had a lot of visibility,” he says. “So for us, it checked almost every box.”</p><p>But expansion into B.C. was always the goal. “We’ve wanted to be a coast-to-coast platform for a while now,” says Rocca. “You want to have exposure in the three largest markets: Toronto, Montreal, and Vancouver. We're already in two of those three, so Vancouver was the natural next entry point.”</p><div class=\"rm-embed embed-media\" style=\"text-align: center;\"><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"958\" src=\"https://www.linkedin.com/embed/feed/update/urn:li:share:7458630246251139072?collapsed=1\" title=\"Embedded post\" width=\"504\"></iframe></div><p>Right now, the company is focused on ramping up their Sen̓áḵw Phase I property management team, which will include 28 site team members, but Rocca says they are also currently looking into a number of development deals in Vancouver. This includes potential purpose-built rental projects, but also seniors housing opportunities, says Lisa. He says seniors housing is a “small but growing” segment of Fitzrovia’s portfolio, but one that they see flourishing.</p><p>\"We see seniors housing as a natural extension of our rental platform across Canada because our aging population is growing rapidly, the market remains structurally undersupplied, and there is an opportunity to create hospitality-driven communities focused on wellness, service, and social connection rather than traditional institutional retirement models,” says Lisa.</p><p>But since opening in 2017, purpose-built rentals have largely been the name of the game for Fitzrovia. In total, they have acquired, developed, or are in the process of constructing 19 rental buildings, including projects like Sloane and Elm-Ledbury in Toronto. More recently, they launched a subsidiary company called Maddox, which purchases older rental buildings and modernizes them. In total, they have over 12,500 suites completed, acquired or in development across Canada and are on track to deliver 2,300 new homes by 2026 and an additional 3,700 by 2030.</p><p>Fitzrovia’s growth over the last decade is emblematic of what RBC Economist Rachel Battaglia once called a purpose-built rental \"renaissance.\" Since the mid-2010s, rental construction in Canada almost quadrupled thanks to our rising population, the deterioration of homeownership affordability, rising rents attracting investors, and government policy initiatives that made rental development more enticing.</p><p>The result has been record levels of purpose-built rental projects coming online over the last few years. This influx of rental supply, alongside high condo completions and immigration cuts, is largely credited with declining rents over the last year and a half. In fact, in April, average asking rent fell for the 19th month in a row, according to <a href=\"http://rentals.ca\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Rentals.ca</u></a>. But Rocca says he isn’t worried.</p><p>“We think we'll be completely undersupplied in Vancouver and Toronto,” he says. “We have a significant amount of condo starts that broke ground at the tail end of COVID and are delivering right now, and so we're seeing downward pressure on rents and lease velocity. But if you look at the level of new starts, we are significantly below the long-term average.”</p><p>Rocca expects this supply-demand imbalance will hit over the next 18 to 25 months, and he plans to take advantage of it via Fitzrovia’s westward expansion. “We are very bullish on B.C.,” he says.</p>",
-      "content": "",
-      "thumbnail": "https://storeys.com/media-library/vancouver-skyline-from-coal-harbour-shutterstock.jpg?id=34012379&amp;width=980",
-      "_src": "storeys"
-    },
-    {
       "title": "Downtown Hudson’s Bay redevelopment poses opportunities, challenges",
       "link": "https://www.timescolonist.com/real-estate/downtown-hudsons-bay-redevelopment-poses-opportunities-challenges-12290978",
       "pubDate": "Fri, 22 May 2026 13:00:00 GMT",
@@ -677,6 +701,18 @@
       "_src": "timescolonist"
     },
     {
+      "title": "Canada Housing Market | 2026 Home Prices",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE16YllabVZTN1J3R05GU20xLWJ2aTNvc1V5TnBfVG1FeTZ3ZENXT1QxWFJobnpKUHNJWTUtQWlEWmVHTVZmOWVZNzdrYlFLaWhwV1FiazVPcUFVamd3bEdqeUMxNEhPaEFuZmdhb3NsejJQSWs?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Vancouver Housing Market Outlook 2026",
       "link": "https://news.google.com/articles/CBMidEFVX3lxTE1nWmszVGwtOTNHMHVUcVNZcDlnRy1CTi1LUEpoRndYNFoycTg4aVVzdFRremxvSDZHTC1iTEJaVjZKeU1pUVRUMHdOcnNmZk1ISm9INmk4cEdJT2ttYlJvVUROZndwczZ4MHZfd0Z4aVR4N2kt?oc=5",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
@@ -701,8 +737,8 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ontario Housing Market | 2026 Home Prices",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
+      "title": "London Housing Market Outlook 2026",
+      "link": "https://news.google.com/articles/CBMicEFVX3lxTE0tOFRNelU0X0NXeE5UZWlHTkxPWjVFUlBhWjM4Nlc4R0s2eURHWW54V3BpeUNQbmNONEI1WFpEbl9JMmlZNFZ1V2tnX2xSZGdfWnVia1I4X1dZVjZZbVdiUVByMVNkS2x6ejhfM2phakU?oc=5",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
@@ -722,6 +758,18 @@
       "_src": "timescolonist"
     },
     {
+      "title": "Mortgage Rates Forecast Canada 2026-2030",
+      "link": "https://news.google.com/articles/CBMid0FVX3lxTE12LW9MRGhnV0thQk5NbFJibFFESWRpOTBSM3p3dGVXSWY3UGRiem1ZQzdwX2U0MVFTTDYwdWZ6Qm1rUmZITnFfNW92SDNad0pjT3RhOHNoYzRSSkhZM1F6Yi12TjNnb0gteXR2dFJOeWJJZXlVUndv?oc=5",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "'Tempered enthusiasm': No spring real estate bloom, but buyers are slowly coming back",
       "link": "https://news.google.com/articles/CBMizwFBVV95cUxNVWtmMHhiNkU1NFFlQnk3SF9kVXYyS3g3RXdyenpCbVpjRlRUYjN1bDhCNE9SRm1JTDVIcUUxQzVveGNOOFdRVnlock9aZUFCN2ZxdHl2WkctdnpaSWtoeXg4dWcyRUpqMTBQNy1HRUU4YVFIU01JbHpFSVg4elh2UmZYRmpQMU9vTE9oR2Y0ZWVkUUlXb2VBYUJzNGlfSUM1c0h0TDdVN2RWeXhIZkREcXRkYnB3cU5sZFR0T3MwMjB6akJDX1AxYVBBTDFqb3c?oc=5",
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
@@ -734,15 +782,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Housing starts for April 2026",
-      "link": "https://news.google.com/articles/CBMikAFBVV95cUxPdmR4Y1cyQmh0dFZLeXVFNDlzS002MlA0N2dTQWFYUTJ3VFZmbTl6dFFBanJUMDU0WWRETE50Z25hVGdweHFfN05XZVYtREVIQm9KRXlfcmloMEI2U1J0WUdNWFVCQVdYTnFYUEllUm5MVm92aVA5Z3ZmVHRwbW9QZ1VobVdmNTlNaS12aW8xOTk?oc=5",
+      "title": "The only thing driving Canada’s housing market? Supply and demand",
+      "link": "https://news.google.com/articles/CBMiekFVX3lxTE5LWXViTEZrRi1RRjk1NTNxQjBpanBHcm1pMW1tNHpFMzJiTGUzQTlEdWF1QmVzT3ktc0xRUTRfbkQyOG40Vl92cFpRVE5aZ2s3NjRULUUtaWtjRFFTSno4SjdMWFR0d21yUnVNc200dnRnNnhZNmhSMURR?oc=5",
+      "pubDate": "Sat, 16 May 2026 03:19:42 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "RENX",
+      "_pubUrl": "https://www.renx.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Posthaste: Why the chances of a Canadian housing market rebound in 2026 have 'slipped away'",
+      "link": "https://news.google.com/articles/CBMie0FVX3lxTE5tR3l0MTFzMWtraFlvSERnVzl5S2hvNWpZdk41TUlGYVBMMnFSQThianJWVGtYS1Z1MGxMZ05GRzdIVUNUdkg2U3o1NldPcUtFQ2M3Q2VWUUZZcWIzaVJwNlJRVk0zSnNvN0p0QTc3X1B3R0FmV21IelNYQQ?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_src": "gnontre",
+      "_publisher": "Financial Post",
+      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -803,6 +863,18 @@
       "_src": "gnboc",
       "_publisher": "Morningstar",
       "_pubUrl": "https://global.morningstar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ontario power of sales surge as desperate homeowners run out of runway",
+      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxPaEx1a0otWEh6QUNMSjgzQmZwanQ0bFNBX1JPbWVENzA3amtZbXBhdG96TDZuaWxIVlcySWhBTkpDcFVoZzh2UElIcUI3cnJHLWQwNE5wbm4xQlBaMDVRS1pWLTNMUEZHNHJRQlJCdEVEaGd1Z0c3OTU2VlRsbWlJZ1hENTJyTHgwMm8yU2IwRmFPUVBfbVNpTU10VkFYSVp5czRfTEU1eFZzb0M1akpYem02ajNUckxVSHF1elpBS0JBVjI0ZkFjcExQY0ptdkkzMFM1bktnVWNDejh0amNPTDgxTkwzeWR1dzMzaQ?oc=5",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Toronto Star",
+      "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -902,42 +974,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Why the Bank of Canada is holding its interest rate again",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxOX3RkeUQxZWt0UlduR3MyRHhidjZwVXNNYzhUbXR3QzVzcnRRMjRZdkdrZFdVS25YZkxtVGNRMlNjOTdSUndlUG1leUpvaVVvaUJoQ0RwUTJIbUttdEZ4U2N5dkwwaUhxVWZwWFBvLXAzMzFWdjVUblRYVFNZUk9mM2RR?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "TD Stories",
-      "_pubUrl": "https://stories.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada Interest Rate Explained and How It Shapes Your Mortgage",
-      "link": "https://news.google.com/articles/CBMi5gFBVV95cUxQR1FqNUtwYUpaN2c1T3NlaElSTE9Bc3RsSFFrYlFQSTBXeFJraFZIaHBVaHI2ZGhhWE9UYUZZUDNIdjRNakJfM01LWks3dGZnUEtOQXdlbmlPNkJfUGxZNHZHNU1GaEpqUEJpeXFUbVh1enp0NDZsczdURW9kUjFDVk1nal9Ud2NnTVZEOGZXaEJhaHlVNHhmRmE3aXV4bVROWnZKRk1EVFdYamZvbmw4T2ZOVF9KYnY5MmtkTDloLWRuN3kwUWNOa1ZPX3hleXhlSTRPRFVWa0FFVl9hVHk1RkJ0NXFJUQ?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Royal Bank",
-      "_pubUrl": "https://www.rbcroyalbank.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Rate cuts seen as more likely next move for Bank of Canada: TD",
-      "link": "https://news.google.com/articles/CBMirgFBVV95cUxQdVhIaGlhUDU1a2tCS29kanpZSEpqNUp0MXhzeUgzbkJKU2VIWTRkUW13NEU3aWl1eGZwVEdCUHNDSzUyWUJPZlpzQi02S1JGd3dqWFJ6Y3loQ0l1bERyaDdrYmIxVU1WNVB2d2hOYmxjcVRzNkxNVEx5WkNITktnWlNsSmpma3JZV2wzdnQtTWtneGdycnppMjhiLWozVUtlT1Nqd3FFYkVzT1RFTkE?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "As a housing slump deepens, could the federal government revisit its approach to immigration?",
       "link": "https://news.google.com/articles/CBMi7wFBVV95cUxQMDBZT0ptQTRkalNBVkxmekJXMG5uWllWZUdnSVBGYWN5LW5RWU9XWGJENDJBb0JzVjRZaFRpVFJURzNkSTZzZGliR2dSWThhNW41MDdlbmxuanFNdzdOcGZ4N2s0N2JXQTJUaGsyMnN2Y0lscFVHZVJ2SWNjczI0TWlqai1qSy15RlptU0tkTXM5V1NvZTVEUlFNWGx2X1U5a0ZZYUZhVXF5dXFUckQtaDNKUTJKWm5Wc0JKNTd0NDBQUW9ZNm9FY2hvamxXOHlZYjVwQmhnQ3FiWWp3ekN2NnFCTDZQYXhzVHMyYnFMRQ?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -950,15 +986,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "No new condo projects launch in Q1 as Toronto market hits a wall",
-      "link": "https://news.google.com/articles/CBMimwFBVV95cUxOOC1UTHN3eE5OWGY0c0hWeklmc0M4V3FUY1dOX0FoRE92TEtwTWpCUXlpVHhJcmExX2NyRXEtMGFKSWNtN1kyV3BsdEdhWFhNUmVmYnFEcWFVRGEwbkRlZGZJdHkyRlZXcXlVVG9LTUFxaW54VHlYRjN6THJSVThEMTlHaS1GOTZMYk5TdzN2cWlTQjA4Rlk0U2xWVQ?oc=5",
-      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "title": "House prices to increase 2% in Ottawa this year, Royal LePage forecast says",
+      "link": "https://news.google.com/articles/CBMia0FVX3lxTE1lVXZpcGZnUUFtdWlIRnUyYXhLaklMa1lfcFNaLXltWHp0X1hfZ0xhcDZGUHhGYU1MZHVQNHF0OExTY2xmUGtuQ0k5d0VEZlBrTjlzUlZrbzQzbE9NZ3Bta1RSbGxHOUFZdF9Z?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Real Estate Magazine Canada",
-      "_pubUrl": "https://realestatemagazine.ca",
+      "_src": "gnott",
+      "_publisher": "Ottawa Business Journal",
+      "_pubUrl": "https://obj.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -998,15 +1034,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
-      "link": "https://news.google.com/articles/CBMihAFBVV95cUxPWDJsTjJtR1lQa3N3VWFiRDVsdVJub2lZWERKV2VZOTNRb0Q3cG8yT05UUlQzWDM4ZEZqUFo4dnhVOGRoWHpXbS1TRFZBaVM3bFdMdENFRVhMcERCckh3Q2lVVHdQbm5jZ1pKeTFNaFp5SDZJOWNYZ0VEbjZrOElRN2JKNWY?oc=5",
+      "title": "CREA Downgrades Resale Housing Market Forecast",
+      "link": "https://news.google.com/articles/CBMizgFBVV95cUxQZjZYZzUtVjFHc2JDZ0NQN3ZwSjRqYTBWcEFvYk9IRUdlVVNydEl2c0NRaFgxQlpWaU9ILUgwbVhuNGJFLVl2dG9ZVXZFVzRhTWdKYkNQVVppUXZYM2R0N3psUHhVbmVmOUx5Tzg2NG0wLWJjYXBvamxHTHJYWFBKLWt1dnlrdnNJWVVPZ25HalhNQ3RkdGkwSWFSeG1VOUtmaEJ2QWVIY3BMYVJkX3ZxLXdzVE1aSllnZU9kNEJzSllCU1gxUXFDME1FdDJCQQ?oc=5",
       "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnontre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
+      "_publisher": "crea.ca",
+      "_pubUrl": "https://www.crea.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1070,6 +1106,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "April 2026",
+      "link": "https://news.google.com/articles/CBMiWEFVX3lxTFAtSmhtYU1tOTNRVnBaYndZS1VLZXpVRFVkYVNZYTVTZnB4Y3Y5eUp3dng1ZW91ajUyS0poVnJPMmJKRkxheElUWkR3eERWcWFJNjcyWm8ya0I?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Canadian Architect",
+      "_pubUrl": "https://www.canadianarchitect.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Canada’s population downturn, rising supply to keep apartment rents in check",
       "link": "https://news.google.com/articles/CBMi6AFBVV95cUxPZHFXenExcTkyUnVuRmdNU09sVC0xYXM4WUVpdno0TF9PbnpqWlhEUjhzZEY5cTM5X0d6Ml9zeVVRVkN2QzFSU0pfRnJtODVtcXRDelgxRnVCcU5sNFNsZl9rak1vLW5NX25ySmRyWHg3ak5TM2lzR3d5ZDkyM2RXcjJDV2NwYW12TDUydjIzVW9GNmVvZzdMWjczOXhkTGFJczBzcHdCdnlUN1JZTFhCbmIxWjhwMGJvVDg1Y3EwcjdlT21zdkhyZ1N4R2gwZlRKejlWZFR6S0lRRGNOcWU3RnUyZmNvakhU?oc=5",
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
@@ -1094,6 +1142,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa's homebuyers gaining the upper hand",
+      "link": "https://news.google.com/articles/CBMif0FVX3lxTE9OUWkyZDRRX2pRRUxNSndybXhDNDdsajFRamZRTzJPRGNHU2FmeENkSmZCRWVfZmpvMFVyRkxCbkl1YUlSYUxRQk5qanNERjVjVUd6X3RXZnNJdGs5S09FZV9nQzhURFQ1eEk2Y0ROUkl6d1V6NTdaT2hOLXVlcEE?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Ottawa Sun",
+      "_pubUrl": "https://ottawasun.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ontario’s fragmented housing market: What buyers and sellers need to know in 2026",
       "link": "https://news.google.com/articles/CBMiygFBVV95cUxOUFd6bjQ5U2JNS2M1cW9oYjdyNW13ZGxPeDRUV3pIdWp6UDdENXQ2bHIzU19HMlJpb2ZSX2JfZFEtLXNUaDMyY1lLVVctSDdpeHhLMkJ2Y1p3QjhHOUZsNjZJZTRkdV9pZDZzdGZVOEh3QlNVdTJTdTFyekk4ak56SXJQampRaUQtaVBJSEpVSV9saHBaQUtPallvZVFvUnh1TDU3dV9pNVB2dlNsQXJwcGx3UEd2UFVrZ05vMklYMzA4OUFZQUgyazV3?oc=5",
       "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -1103,6 +1163,18 @@
       "_src": "gnontre",
       "_publisher": "DurhamRegion.com",
       "_pubUrl": "https://www.durhamregion.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "City affordable housing proposal waives requirement for affordable housing",
+      "link": "https://news.google.com/articles/CBMivwFBVV95cUxNQ3YtTGJYdzVSaGJiY3BXeU5XMk5hOENsYklpMWtleWp4MlhYN0hDM01CdmxXNHBCRk1kRWUtejZFM0hLT0tFeHBEdnVsY1VXdzVaZ0FmNUpibGdMUTdTbk52VU9wRFZweHhOWGZNQW1mVHJQVFpXQ1pZRXEwU1RITGI0RU16QnBlX3AzVTVZUS0zZ21SeGZXVDlPVGRxdzJOaFBkX0NaR2k1NlVvRG1NdWVsbGF1aFhZeXMxWmg3dw?oc=5",
+      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1214,18 +1286,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The federal downsizing effect: Risk, resilience and Ottawa real estate",
-      "link": "https://news.google.com/articles/CBMijAFBVV95cUxNNThXYnVMd2VpcDJoNE1CTXdKejNRT21VOFd2UGJoLTl3Tm9VQ3F3N2NKYy0wZW92VlpnZmJuMVh5TVJIRHFiSGR3aTVrWlY3V1NTV3Z6RVZXN1NNZlRZWVhQVmJ2Tml1cjVrbHZoQ1I5QWdHM2I1MFphVnhNa1JlTjQzNHRqM0JBTXdKLQ?oc=5",
-      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Business Journal",
-      "_pubUrl": "https://obj.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Reality check: Did Trudeau and Carney’s immigration cuts make housing cheaper? Here’s what actually happened",
       "link": "https://news.google.com/articles/CBMixgFBVV95cUxQVDU1c0tFcEYtbDduaFJqak8zZmR4UnRFdVA2WkhGcEZKZ1FIMW1vMHRKc3JWM0k3dFNJcEgtYWpoR3NLeXhqX2ZHc1dPYkRLTTNiaTZHMFp6cE5qckhja2RkVmdLWUZCYlI2d1pWMW95X0k1Y2h0enE0MS1EX2dZUnpvMjFEcFNiYjhWT1QzMTFBcWM2bzhFR0NKUEtpaHp4X2dBc2NoNWhjS3NEdkxTaU1jQzVJalJSemVnMVBGYjhPdGpoZ2c?oc=5",
       "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
@@ -1247,18 +1307,6 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Power-of-sale listings spike across Ontario, piling pressure on housing market",
-      "link": "https://news.google.com/articles/CBMixAFBVV95cUxNdV9xZzhTcmF2cG90aU4tWGR3ZWtxS0Z6SFdhYWZaRGVxQjFSMWlPM08xNndyZXpXOXNOS293aFV6MEtHdE5RbGRzZ1ZMX05HNE01TlEtTEp4Z0taNWNobnUyN3FGQzZZQkhWQnM1b1Fhc18tME9pOUsyVy1RQTVHQ1lieEZuQjBnWGszWVB1ZW0weEROZWxGZVJkWHhFVUVPWFNyclpqaHktZGNSVi1iUzdBcHNUU1o0ci10YmRfQjh2TldU?oc=5",
-      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Yahoo! Finance Canada",
-      "_pubUrl": "https://ca.finance.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1322,18 +1370,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Why Are Canadian Real Estate Prices So High?",
-      "link": "https://news.google.com/articles/CBMic0FVX3lxTE02MTRxdnY3bnM1aXBIODU4dlo5TDJ3b3FtdGpWdXBtTmFFS01EUWxDbFJLcVU4cDNRLW0yWUZoM3hPM2VyalRxVmVEYTRhLUNSMFI2dXdOXzY5cEpGSGlXOHFPbFdraXlyTWlUMkpaYWMwVzQ?oc=5",
-      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Remax",
-      "_pubUrl": "https://blog.remax.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Zonda Urban: Townhouses Lead the GTHA New Home Market as Buyer Options Shift",
       "link": "https://news.google.com/articles/CBMijgFBVV95cUxOOTY5QXpBb2ctY2dORFdLNnJsZHdpSjdnRElEQmRRcmduc29kdElXTG1RTFdvMkdCNkJMaGN4QmlldEJLa2pfZ3lWLXROWmsyRF85QnAyUGpWaUk5SC15RXg5OWNCVGxXSlViR3Z1djFHVEQ5NTNoOU8ybkRQNEVEU011S0lEUTV6YVlxNWtR?oc=5",
       "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT",
@@ -1376,21 +1412,9 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
+      "_src": "gnott",
       "_publisher": "crea.ca",
       "_pubUrl": "https://www.crea.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "‘It’s going to get worse in Ontario:’ Here’s what experts predict will happen to the housing market in 2026",
-      "link": "https://news.google.com/articles/CBMi4wFBVV95cUxPOEF1YjN1d1BHRl9uMVlWekJCaUsxZ3YzSnFUSk0xd1B4R29DMy02YWNOQ2xNaExfNjVGeDBWTkJPZ0RKVG1UMUpxd3pZZlQ3Z1Y2VG9tMlBIUHdaam1yb1kzSlZ5VTZKTHJhd2RSNUVnQ1ZnNnU5QlpqUHhIVDd5R0NFNm9LYjd6S05zZkM5RTFWYVFoaTdLYW5GU3lNX3RIUHRpc0VtNW1aT0NmUUMxa0swZWRyaGt6eWdJcGJKT012S0xmSHUycXd5SFh1VmRGVDAza2tzOS05WTBqbVMxdkZlWQ?oc=5",
-      "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "CP24",
-      "_pubUrl": "https://www.cp24.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1478,18 +1502,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
-      "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control",
       "link": "https://news.google.com/articles/CBMitAFBVV95cUxPdWpUbU8xaU94VVNLUl9CQVY0N0RKanNEMzRkZHlrNlVYZVgtRHRrY2sxOEc5cktVTDl3MGZqNWlkTlZxRXZ5OXBPanE0WEtFNEw0cmRfa3Q2bXBUS3hKbTJMSkoyajR0SnQ4T0FldTduYzkzcXozRks2QkVwMXVfTGwyeVdEbGd4eVRkTmtUQjh0aDhXeEZKYUVUSkFpNVVkQVV6cmdmX01sN2U1dUV6V0dMZmM?oc=5",
       "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT",
@@ -1526,39 +1538,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Real Estate Market Rebounds After Brief Slowdown",
-      "link": "https://news.google.com/articles/CBMiXEFVX3lxTFBvbGtJc3BKV2tXdWJRSlRJX3dYcXFYTXNGMEVCUXlqYkNGMUhrbUMwcXoyZ2hxRXNfc0pJMEZ4MEpxTy0ycDBKV2lEQ25UeU5DVllvRWlzeWRUNEpL?oc=5",
-      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "title": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country",
+      "link": "https://news.google.com/articles/CBMipgFBVV95cUxPOFZCZGdPU21jcEU3SVNsQ2pxLVBwUnJBeElUajlXRVlPbTl6Rm80d2tWSUtRRnpodmJHdHhURW84ajFUWURqNGtGSThQSXNpSzc0QkluX0NvVVFGVUtOYzh6S2R2NXRvRnUwU1BzZ3Z3RWI3UlVHVzM0LUJaY05BM0xhV2tzeE4zVnViQTR2S3JZOF9XSTdsM0pSaktlODZlZjZlTVpR?oc=5",
+      "pubDate": "Sun, 14 Sep 2025 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Remax",
-      "_pubUrl": "https://blog.remax.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa real estate gains pace — average prices up, but uneven recovery ahead",
-      "link": "https://news.google.com/articles/CBMicEFVX3lxTE15SFh4Smxub0ZkNGVBbEhoWWluY0U0Wnd2cnIxZWdmWEF5S3VtVFBrdWROemNKamxSUWd5ejhqbG5ldmFrSU9BS3dYU1NJNGVSbjltUi1YdHJtNFRJWll0SXJRM2p0OVJrZkdXa3NVSEw?oc=5",
-      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Business Journal",
-      "_pubUrl": "https://obj.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Rights-based and ambitious: A new chapter for housing policy in Canada",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxNRTVranRjRHRCQ211aV9hb0N0Wk5haHJzaXVROGw4VDdNbkk3UUtOMUp1SGZOZklEWVU1SFJocC1UNTN0QlAzR3plOENndGNvVUg3TFlFU1JtUTk2cktFdVdaMTZuRGZ0TEEyUHNiaEZnUEx5UXZzWVlCcml2VGJsR1N0aW1TLTg1RlZCSGVkT0ZnaUNFcVNoZUhFRm1Tclg3U2FxYlVB?oc=5",
-      "pubDate": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "maytree.com",
-      "_pubUrl": "https://maytree.com",
+      "_src": "gnnewcon",
+      "_publisher": "pm.gc.ca",
+      "_pubUrl": "https://www.pm.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1598,6 +1586,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "The Reality of Regulation: How Political Interference in Building Codes is Making Housing Unaffordable",
+      "link": "https://news.google.com/articles/CBMivgFBVV95cUxOUmh2VjBrRWdONVFSek1pUlpsV0d6bXlCUy0xLUNkSnpZWWtISFdJbmhJX2pIdUdxMkphSkpIZEE5cTlLdTJBRWlmSGstMXBST3BkWDB1LVhzenpVN25KX0dXR21icW9pRXd4clVsYy1NTGpUNExKRWc3N2NyNFk4VkJBMlpkWHh0Wkh2aGFGeGRzTFJoUTIxM1QwdmxqSklXUWh0SlVvY08tY3RXNTlSNjVCYXZlZjNyeHV3VXBB?oc=5",
+      "pubDate": "Tue, 06 May 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Canadian Chamber of Commerce",
+      "_pubUrl": "https://chamber.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "How To Fix Canada’s Housing Crisis",
       "link": "https://news.google.com/articles/CBMickFVX3lxTE00N3JJZWpyMnRxcXNmdmdtRmFxSVF2RHd5NmtlczBZS0plbGRNOTlVcFhhaE42anJaalFSWnVHUkpqVWhSZ0JuU2pVVC01ZWJzLTc3VFJvNE1zelMwODJwYmZ1OTZua213cW1JV2VtTmtfdw?oc=5",
       "pubDate": "Mon, 17 Mar 2025 07:00:00 GMT",
@@ -1634,15 +1634,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "We are in a Housing Crisis. Why Isn’t the Government in Crisis Mode?",
-      "link": "https://news.google.com/articles/CBMijgFBVV95cUxPNXdGX1NCN3VMa0tJQllRbmREV0kyU3pHSkloWWVZanhzWDduV2ZoYmxCUlY0anVLdlN0Y0trcnZwbWR5U1JNRko3UnU2VUVteFpRV1RwRUpZQkZFanFDU2RXYWtaWm95Q21ESTY3UGZtcTNaZmZZUkxPOUNyanlDanJCcW4yQ08wZHZxU0hn?oc=5",
-      "pubDate": "Tue, 27 Aug 2024 07:00:00 GMT",
+      "title": "Ottawa Light Rail Transit",
+      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
+      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Canadian Chamber of Commerce",
-      "_pubUrl": "https://chamber.ca",
+      "_src": "gnottlrt",
+      "_publisher": "AECOM",
+      "_pubUrl": "https://aecom.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1655,18 +1655,6 @@
       "_src": "gnpolicy",
       "_publisher": "Conservative Party of Canada",
       "_pubUrl": "https://www.conservative.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa LRT and the Future of P3s: Public (interest), Private (collaboration) &amp; (meaningful) Partnerships",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxOanhhcXcwQWI5SWlraEtrUGZLYlNISVd0cUd2eWhNb283dlRseFY1UGNyNUFnN3RLZGppYXpfbzlLdDVqUFRIVWZ4RkZ1Njd0TjJ2VHpYWUw4dG9qc3VDdkRIQWxtYl9XLS1xalRZTmxhMkpBQkNtZ296SGpFZGlsYmljOERhU25IcW04b3hFMkRrWWJNOS1nRVR3U293UUlVNUE2ZVRFMG83bC10ZVluZzdrMi1OY0xNajNLYUVtMmlfdw?oc=5",
-      "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "McMillan LLP",
-      "_pubUrl": "https://mcmillan.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
