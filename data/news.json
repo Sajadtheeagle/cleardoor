@@ -1,6 +1,6 @@
 {
-  "ts": 1780932313659,
-  "fetched": "2026-06-08T15:25:13.659Z",
+  "ts": 1780942706866,
+  "fetched": "2026-06-08T18:18:26.866Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,92 +89,148 @@
   ],
   "items": [
     {
-      "title": "Market Outlook: AI productivity gains remain the next test for stocks",
-      "link": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/08/market-outlook-ai-productivity-gains-remain-the-next-test-for-stocks/",
-      "pubDate": "Mon, 08 Jun 2026 15:10:02 -0400",
-      "description": "Investors are looking beyond geopolitical turmoil and tariff threats as AI-driven business investment continues to support economic growth.",
-      "content": "<media:description type=\"plain\"><![CDATA[Trader Robert Arciero works on the floor of the New York Stock Exchange, Friday, May 22, 2026. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/C7SIOPGIYPSCHRQZCW7XYNFMFU.jpg?auth=24689380b24c84865b4d5b6eb3a749b050cfbca0d9b5265f364bc227bcab34ce&amp;smart=true&amp;width=1400&amp;height=933",
+      "title": "Apple rolls out new, AI-powered Siri",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/08/apple-rolls-out-new-ai-powered-siri/",
+      "pubDate": "Mon, 08 Jun 2026 18:11:03 -0400",
+      "description": "Apple  on Monday unveiled a new, AI-powered version of Siri that is capable of analyzing what is on the device screen and reaching out to the web for more information",
+      "content": "<media:description type=\"plain\"><![CDATA[The Apple logo is illuminated at a store in Munich, Germany, April 2, 2026. (AP Photo/Matthias Schrader, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Matthias Schrader</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KYW2BAYDZGLWG5Q7CHF5H22NPI.jpg?auth=56857a44dbdd739c739f25ec1f5e640abb752b910cefe763711fa72f015ba616&amp;smart=true&amp;width=1400&amp;height=933",
       "_src": "bnn",
-      "_ogDesc": "Investors are looking beyond geopolitical turmoil and tariff threats as AI-driven business investment continues to support economic growth.",
-      "body": "<p>Geopolitical tensions, tariff threats and inflation concerns continue to create uncertainty for investors. Yet markets have largely remained focused on underlying economic fundamentals, particularly growing business investment tied to artificial intelligence.</p>\n<p>BNN Bloomberg spoke with David Onyett-Jeffries, economist and portfolio manager at Guardian Capital LP, who said investors are increasingly looking beyond headline-driven volatility and assessing whether AI-related spending and broader economic momentum can continue supporting growth.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Markets are becoming less reactive to geopolitical headlines as investors focus more on longer-term economic fundamentals. </li><li>Business capital spending, particularly investments tied to artificial intelligence infrastructure, is providing an important source of economic momentum. </li><li>Semiconductor, hardware and data centre spending remain strong, although current growth rates are unlikely to be sustained indefinitely. </li><li>The key risk for AI-related stocks is whether companies ultimately generate the productivity gains and returns investors expect from their spending. </li><li>Markets view recent tariff threats largely as negotiating tactics ahead of CUSMA discussions, though policy uncertainty remains a risk.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>LINDSAY:</b> Markets appear to be rebounding this morning. After that selloff on Friday, there are still some dark clouds, though, looming over the markets as fighting renews in the Middle East. Inflation pressures bolster the case for central banks to hike rates, and investors worry that the rally in AI stocks may have gone a little too far. So, joining us now to give us his thoughts is David Onyett-Jeffries, economist and portfolio manager at Guardian Capital LP, and he joins us in studio. It’s great to have you. Good morning.</p>\n<p><b>DAVID:</b> Great to be here.</p>\n<p><b>LINDSAY:</b> Okay, so the war in Iran, it’s been going on for more than three months now. We’ve seen the repercussions, we’ve seen the volatilities. How are you factoring in geopolitical uncertainty when it comes to your investment strategy?</p>\n<p><b>DAVID:</b> See, and this is a really difficult environment because of the nature of these shocks. It is entirely possible, as we’re having this conversation, that we could get headlines about a resolution, at which point, you know, the volatility in the marketplace is very difficult to make day-to-day decisions. So, what we’re trying to focus on is the more longer-term fundamentals of the marketplace. As we’re seeing consistently on a global basis, and especially in the U.S., the underpinnings are in good shape. Consumers continue to be on sound footing. We have government spending ramping up basically across the world. And the big new development, relative to what we’ve seen over the last five to six years, is the business capital spending outside of Canada. We’re seeing a fairly large pickup as everybody looks to position themselves to be able to take advantage of whatever benefits may come out of the AI investments.</p>\n<p><b>LINDSAY:</b> I wonder, though, and I do want to talk further about AI investments, but just going back to what’s been happening in the Middle East. As you say, there could be talk of a peace deal, but we’ve heard that before and then nothing happens. We’ve seen that time and time again over the last couple of months. So, do you think there’s some immunity built in now to that uncertainty, and that’s why you’re seeing a strong kind of underflow, as you mentioned?</p>\n<p><b>DAVID:</b> Absolutely. I do think a lot of people, after a year and, what, six months of this new administration, where we have announcements and then backtracking, it’s smaller ripple effects every time. Like, it can’t be ignored because of who’s saying it and the position that these decisions are being announced. But the market is developing this immunity, where something happens and it’s not the same degree of knee-jerk reaction.</p>\n<p><b>LINDSAY:</b> Do you think, at the same time, though, the markets are kind of discounting the severity of the disruption of the Strait of Hormuz and what that could do down the line?</p>\n<p><b>DAVID:</b> I do think so. Right? Well, that is one of the issues that we’re at hand. The assumption is that we’re going to have a resolution sooner rather than later, and the more rapid that we have that, and the de-escalation that comes, and oil prices fall as a result, and, you know, the knock-on effects from an inflation standpoint are de minimis. You know, that’s sort of what the market’s assuming. But as we’ve seen now, we are, what, three months into this, three and a half months into it, and we’re not necessarily closer to an end game than we were, right? So the longer this goes, and to the degree that it can escalate, you know, the knock-on effects are larger. The effect on policy is going to be more significant. The effect on growth is going to be more significant. But again, we still are taking this relatively sanguine approach where, sooner rather than later, can’t necessarily say next week or a month from now, but the assumption is by the end of this year we’re not going to be talking about the Middle East to the same degree, and the closure of the Strait of Hormuz.</p>\n<p><b>LINDSAY:</b> Okay, let’s move on then to tech stocks and AI, as we were talking about earlier. You say the rally in tech stocks is definitely unsustainable. Explain why you think that first.</p>\n<p><b>DAVID:</b> I wouldn’t say definitely unsustainable, but when you have things that are growing at sort of asymptotic rates, are you going vertical? Right? There is this assumption with AI that if you talk to the AI evangelists, that it’s going to have an infinite impact, is going to be impacting our everyday lives and have huge productivity gains impacts, right? But the reality is it’s somewhere in between that zero and infinite. And right now, the market pricing, even if you’re looking at how the investment, like the actual investment, is going in. If you look at sales of global semiconductor chips or integral parts of the hardware that sort of drive the AI capabilities, you know, they’ve gone vertical, right? One hundred per cent year-over-year growth, which is not sustainable. There’s just not enough inputs or demand to keep that going. But the reality is, with data centre construction, you know, it is going to slow over time, but for the near term, we see this lift.</p>\n<p>The real concern, as it comes to AI and the AI stocks in particular, is are we going to see these benefits from the investment, right? If we do start seeing this of this extreme magnitude, because the market’s sort of trying to balance it out, you’re going to see some retrenchment if it doesn’t sort of meet these lofty gains. And we’ve seen that with some company earnings, where the earnings themselves are spectacular, but the guidance isn’t as strong as the market was anticipating, and you get sort of a retracement in the stocks there.</p>\n<p>And this is sort of the normal ebb and flow, and especially when you have a new technology. Everybody wants to race to get ahead of it, but you have a little bit of froth in the marketplace, and it takes time. And if you’re trading, that’s where it’s problematic. But if you’re an investor, chances are five, 10 years down the road, you know, you’ve made a profit on your return. It’s just in the near term, you can have a little bit more volatility.</p>\n<p><b>LINDSAY:</b> I was going to ask you, like, what would signal to you that AI investment is not paying off? And I guess is that part of it then, or is that most of it, what you’re seeing in an earnings report and in terms of their outlook?</p>\n<p><b>DAVID:</b> Yeah, and it really comes down to sort of the broadening out as the adoption of AI technology. As investment in hardware broadens, as you have more and more company earnings calls, and if they start mentioning we’re not seeing the productivity gains that we are anticipating, we’re not seeing the return on investment that we’re hoping, that can create sort of that negative cycle where people who otherwise would invest maybe are going to scale it back, and just the earnings expectations as a result. And if you’re not seeing those productivity gains, they aren’t necessarily going to pan out.</p>\n<p>We haven’t seen that yet. I view that as more like a medium-term thing because, you know, it takes a while for the investment to be in place, and then you actually see that start to pay off. They always do like the J-curve. You see the investment initially, you’re negative, and then things turn around. If down the road we don’t see sort of that shift, which again isn’t quite what we’re seeing yet, there’s nascent signs that things are actually going very well. But it’s again to be determined, which is one of the risks in the marketplace and why you have sort of the large oscillation in the AI-related names when we have sort of the headline shocks.</p>\n<p><b>LINDSAY:</b> I want to get back to some other geopolitical potential risks for the markets, and that is tariffs, which are back in the headlines with an additional potential 10 per cent on a lot of goods for Canada that are not covered under CUSMA. How seriously do you think markets should take this, both in the U.S. and in Canada?</p>\n<p><b>DAVID:</b> Again, this is a situation where, especially as it comes to tariffs, over the last year we’ve seen a lot of ebb and flow when you’re into negotiations, which Canada is with the U.S. right now, and Mexico joining, and part of that as they renegotiate CUSMA, USMCA, whatever you’re going to call it. You can argue that this is a negotiating tactic. The president of the U.S. is known for hardball. He makes very aggressive moves, especially on the tariff front. When you’re negotiating with someone like Mexico and Canada, as the U.S., you have a lot of power, right?</p>\n<p>But as we’ve seen, this isn’t necessarily going to go through, so the market doesn’t fully appreciate or fully price it in. But it’s one of those things you need to sort of flag and add it to your decision-tree risks. As we move into negotiations, the July 1 deadline doesn’t look like it’s going to come to pass, but that’s not a surprise. It’s more looking further down the road when we have the congressional turnover at the end of next year, starting in January after the election in November, that you’re really going to start seeing the meaningful negotiations possibly starting to take hold.</p>\n<p><b>LINDSAY:</b> Okay, we’ll leave it there for now. David Onyett-Jeffries, vice-president of economics and multi-asset solutions at Guardian Capital LP. Appreciate you coming in. Thanks so much for joining us.</p>\n<p><b>DAVID:</b> Thank you very much for having me.</p>\n<p><i>This BNN Bloomberg summary and transcript of the June 8, 2026 interview with David Onyett-Jeffries are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
+      "_ogDesc": "Apple  on Monday unveiled a new, AI-powered version of Siri that is capable of analyzing what is on the device screen and reaching out to the web for more information",
+      "body": "<p>CUPERTINO, California, June 8 - Apple on Monday unveiled a new, AI-powered version of Siri that is capable of analyzing what is on the device screen and reaching out to the web for more information, rolling out a long-awaited overhaul of its popular voice assistant.</p>\n<p>Called “Siri AI,” the software will also have its own dedicated app, Apple said at its annual Worldwide Developers Conference at its Cupertino, California, headquarters.</p>\n<p>Siri AI has what Apple called “broad world knowledge” that allows it to present the user with more details from the internet for a query.</p>\n<p>Users will also be able to refer back to a previous Siri conversation, and the assistant will be able to find bits of information like a friend’s address sent in a message, even if that information was not formally saved, Apple executives said.</p>\n<p>“Truly helpful AI must be centered around you and your needs,” Apple software chief Craig Federighi said. “This means integrating AI deep into the products you use every day, grounding it in your personal context and the apps you rely on, and designing it with privacy at every step. This is our vision for Apple Intelligence.”</p>\n<p>Apple CEO Tim Cook said the WWDC this year will center on Apple Intelligence and Siri.</p>\n<p>“AI is incredibly powerful technology with the potential to shape society in profound ways, and with proper care, unlock meaningful benefits for people everywhere. Still, some appear to be racing forward, seemingly pursuing AI for the sake of AI, without clear regard for the people,” Federighi said.</p>\n<p>Apple’s new iOS 27 operating system will extend back to iPhone 11 models, the company said, adding that the next version of its MacOS will be called “Golden Gate.”</p>\n<h2>New child safety updates</h2>\n<p>Apple also announced several updates to its child-safety features on Monday.</p>\n<p>The new parental controls will, by default, allow children to access only the apps that are allowed by parents, the company said. Apple also said it is introducing a new “ask to browse” feature that will require children to seek permission for every new website they visit.</p>\n<p>Apple said it is also adding new features to blur, by default, images of gore in messaging apps and alert parents, building on earlier tools that took such steps for images containing nudity.</p>\n<p>The company said it was working with the American Academy of Pediatrics to create a guide for parents that helps them establish healthy digital habits for their children.</p>\n<h2>Apple’s AI challenge</h2>\n<p>Apple has been seeking to close a gap with rivals such as Microsoft MSFT.O and Alphabet’s GOOGL.O Google, which have moved faster to embed “agentic” AI — software that can carry out complex tasks — into everyday computing.</p>\n<p>The question is how far Apple is willing to go. The company has long kept tight control over its software and user data, and has taken a cautious approach to AI, leaning in part on partnerships, including with Google’s Gemini models, to power new capabilities.</p>\n<p>That caution contrasts with competitors betting on AI agents that could eventually replace traditional apps and reshape how people use their devices. Rivals such as Microsoft have <a href=\"https://www.reutersconnect.com/all?search=all%3AL6N42A001&amp;linkedFromStory=true\" rel=\"\">teased a future</a> where AI “agents” supersede traditional operating systems and apps, and Nvidia NVDA.O is <a href=\"https://www.reutersconnect.com/all?search=all%3AL6N4230AC&amp;linkedFromStory=true\" rel=\"\">working with PC makers to offer laptops</a> that would <a href=\"https://www.reutersconnect.com/all?search=all%3AL4N4291IF&amp;linkedFromStory=true\" rel=\"\">directly target Apple’s own high-end MacBooks</a>.</p>\n<p>“Agents are critical, as they can potentially become the primary touch point of how consumers interact with their devices,” said Tarun Pathak, research director at Counterpoint Research. “The era of Agentic AI may pan out very differently from the way we think, but it’s too big a risk to miss out and Apple must follow swiftly.”</p>\n<h2>Apple’s spending pivot</h2>\n<p>Apple’s slower approach, though, has meant the company has so far avoided the massive spending on data centers seen at rivals. But it may now be shifting gears, with financial chief Kevan Parekh saying on Apple’s latest earnings conference call that the company would <a href=\"https://www.reutersconnect.com/all?search=all%3AL6N41D1EU&amp;linkedFromStory=true\" rel=\"\">end its longtime goal of returning</a> its spare cash directly to shareholders, signaling room for greater investment.</p>\n<p>But in chasing AI, Apple possesses something held by few of its rivals: powerful chips in many of its phones and laptops that can run AI agents for free because consumers already paid for the computing power when they purchased the device. Apple also has a massive trove of personal data sitting on iPhones.</p>\n<p><i>(Reporting by Stephen Nellis and Kendrick Cai in Cupertino, California; Additional reporting by Deborah Mary Sophia in Bengaluru; Editing by Sayantani Ghosh and Matthew Lewis)</i></p>"
     },
     {
-      "title": "AI stocks recover some of last week’s sell-off, while oil prices come off their overnight highs",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/06/08/oil-prices-surge-as-iran-conflict-flares-while-global-stocks-skid-on-selling-of-tech-shares/",
-      "pubDate": "Mon, 08 Jun 2026 15:06:01 -0400",
-      "description": "Wall Street is recovering some of its sell-off from Friday, as stocks swept up in the artificial-intelligence boom bounce back on Monday.",
-      "content": "<media:description type=\"plain\"><![CDATA[A screen shows the stock prices of South Korean chipmakers at the foreign exchange dealing room of the Hana Bank headquarters in Seoul, South Korea, Monday, June 8, 2026. (AP Photo/Ahn Young-joon)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Ahn Young-joon</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/A5XSDJSLDUQBLQ7MYPA7JMZEFI.jpg?auth=810b2730f910a9df207d474ec2484e9a87a202bbf17d44805ebd2524e59fbada&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Wall Street is recovering some of its sell-off from Friday, as stocks swept up in the artificial-intelligence boom bounce back on Monday.",
-      "body": "<p>NEW YORK (AP) — Wall Street is recovering some of its sell-off from Friday, as stocks swept up in the artificial-intelligence boom bounce back on Monday. Oil prices, meanwhile, are higher following fighting between Israel and Iran, but they have come off their peaks from overnight.</p>\n<p>The S&amp;P 500 rose 0.8 per cent, coming off a drop of 2.6 per cent from Friday that was its worst since October. The Dow Jones Industrial Average was up 150 points, or 0.3 per cent, as of 10:30 a.m. Eastern time, and the Nasdaq composite was 1.3 per cent higher.</p>\n<p>Some of the best performers were companies that sell computer chips, memory and other products fueling the AI boom. They had plunged Friday amid worries that their prices had shot too high due to AI euphoria. Such worries dragged South Korea’s Kospi index down 8.3 per cent early Monday, pummeling tech stocks there like Samsung Electronics and SK Hynix.</p>\n<p>But prices recovered as trading moved westward through Europe to New York. Micron Technology rose 8.6 per cent after sliding 13.3 per cent Friday for the largest loss in the S&amp;P 500. That resumed a run where its stock has more than tripled so far in 2026.</p>\n<p>Marvell Technology climbed 11.9 per cent in its first trading after S&amp;P Dow Jones Indices said the semiconductor company’s stock has grown enough to join its widely followed S&amp;P 500 index. Marvell’s stock has also more than tripled so far this year, aided by a 32.5 per cent surge in one day last week. That was its best day since it began trading in 2000, and it came after Nvidia’s CEO, Jensen Huang, suggested at a conference in Taiwan that Marvell could be “the next trillion-dollar company.”</p>\n<p>That such a comment could add billions of dollars to a company’s value in an instant suggests to critics that AI stocks are running too hot. Chip and memory companies are indeed reaping big growth in revenue and profit because of the AI boom, but their stock prices have been soaring at astounding speeds. A widely followed index of semiconductor stocks surged nearly 85 per cent for the year so far through Thursday, for example.</p>\n<p>Now, the question is whether Friday’s drop is the start of a downturn or just a pause that shakes out excessive optimism.</p>\n<p>Michael Wilson, a strategist at Morgan Stanley, is relatively optimistic. “Markets rarely move in a straight line at the pace seen since the March lows,” he wrote in a report. “In our view, a correction was inevitable and ultimately healthy if this bull market is going to extend into year-end” and pull the S&amp;P 500 to his baseline target of 8,000. That would be an 8.3 per cent rise from Friday’s close.</p>\n<p>Corning climbed 7.6 per cent after Amazon announced a multibillion dollar deal where Corning will produce optical fiber, cable and other products for its data centers across the country.</p>\n<p>That helped offset a 0.6 per cent dip for Campbell’s, which reported a stronger profit for the latest quarter than analysts expected but also a worse decline in revenue. The company’s stock is also set to drop out of the S&amp;P 500 index when Marvell Technology’s stock joins it.</p>\n<p>In the oil market, prices jumped after Israel and Iran launched strikes against each other, threatening to drag the region back into full-scale war. The price for a barrel of Brent crude oil, the international standard, briefly topped US$98 overnight.</p>\n<p>But it later eased back after the Iranian military said that it was halting offensive operations. Brent’s price was most recently at US$94.29 per barrel, up 1.3 per cent from Friday.</p>\n<p>High oil prices caused by the war with Iran have already sent inflation higher, which increases not only bills for households but also yields in the bond market. High yields&nbsp; worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.</p>\n<p>On Monday, Treasury yields eased a bit following a jump on Friday. The yield on the 10-year Treasury edged down to 4.54 per cent from 4.55 per cent</p>\n<p>In stock markets abroad, indexes edged lower Europe following sharp losses in Asia.</p>\n<p>Japan’s Nikkei 225 dropped 3.8 per cent after the Japanese government revised the country’s annualized economic growth rate to 1.8 per cent for the first quarter this year, down from an earlier estimate of 2.1 per cent.</p>\n<p>Stocks also fell 1.7 per cent in Shanghai and 1.2 per cent in Hong Kong.</p>\n<p>Stan Choe<i>, The Associated Press. Yuri Kageyama And Matt Ott, The Associated Press</i></p>"
-    },
-    {
-      "title": "Canada, Australia, Japan trade bodies fret over being left out in made-in-Europe drive",
-      "link": "https://www.bnnbloomberg.ca/business/international/2026/06/08/canada-australia-japan-trade-bodies-fret-over-being-left-out-in-made-in-europe-drive/",
-      "pubDate": "Mon, 08 Jun 2026 14:57:30 -0400",
-      "description": "Europe’s push to cut its reliance on U.S. Big Tech with EU-made technologies and chips could shut out other non-EU players from the European market, trade bodies representing tech companies in Canada, Australia and Japan warned on Monday.",
-      "content": "<media:description type=\"plain\"><![CDATA[U.S. President Donald Trump and European Commission President Ursula von der Leyen shake hands after reaching a trade deal at the Trump Turnberry golf course in Turnberry, Scotland, on July 27, 2025. (AP Photo/Jacquelyn Martin, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jacquelyn Martin</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/P66KWIOP6QMBCIYLBGRJLLKAFQ.jpg?auth=0ab65e650823471876c31959ffdabd30a44442aa24f1c70d170994e2e3ffc326&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Europe’s push to cut its reliance on U.S. Big Tech with EU-made technologies and chips could shut out other non-EU players from the European market, trade bodies representing tech companies in Canada, Australia and Japan warned on Monday.",
-      "body": "<p>BRUSSELS - Europe’s push to cut its reliance on U.S. Big Tech with EU-made technologies and chips could shut out other non-EU players from the European market, trade bodies representing tech companies in Canada, Australia and Japan warned on Monday.</p>\n<p>The warning by the Tech Council of Australia, the Canada EU Trade and Investment Association, the Japan Association of New Economy and tech lobbying group CCIA came a week after the European Commission proposed laws to boost homegrown cloud, AI and chip industries and cut dependence on U.S. tech giants such as Google and Microsoft.</p>\n<p>EU telecoms ministers will on Tuesday discuss the proposal, which needs to be thrashed out with EU countries and the European Parliament in the coming months before it can become law.</p>\n<p>The trade groups expressed concerns about proposed market access requirements against companies headquartered, or owned or controlled, outside the EU, saying these would significantly affect their members’ participation in the European digital ecosystem.</p>\n<p>“Approaches that rely on a vendor’s corporate structure, jurisdictional exposure, or geographic origin when determining eligibility – whether that’s for providing cloud, AI, or software – could lead to uneven treatment of suppliers,” they said in a joint letter to EU ministers.</p>\n<p>That could reduce opportunities for trusted companies that have long been investing in Europe’s digital development, they added.</p>\n<p>They warned that restricting customer choice in how services can be sourced or deployed could lead to inefficiencies, jack up costs, and complicate cross-border business models.</p>\n<p>“We would therefore encourage Member States and the European Parliament to ensure that CADA is revised in a manner that remains consistent with the principles of non-discrimination, proportionality, and openness to key trade partners,” they said.</p>\n<p>CADA (the Cloud and AI Development Act), is a key plank of Europe’s tech sovereignty drive.</p>\n<p><i>Reporting by Foo Yun Chee; Editing by Jan Harvey.</i></p>"
-    },
-    {
-      "title": "Canada launches loan program to help airlines deal with high fuel prices",
-      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/08/canada-launches-loan-program-to-help-airlines-deal-with-high-fuel-prices/",
-      "pubDate": "Mon, 08 Jun 2026 14:44:24 -0400",
-      "description": "The Canadian government is launching a new loan program to help domestic airlines deal with high fuel prices and maintain operations and jobs, the finance ministry said in a statement on Monday.",
-      "content": "<media:description type=\"plain\"><![CDATA[A file image of an airplane.]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/DI6PHVBASK25BMTQOCQ4R6XRTM.jpg?auth=66c17fae7accef7ea80cf0dbbcea8e5c3978945e3c1d62efce8167379448ebe6&amp;smart=true&amp;width=1020&amp;height=574",
-      "_src": "bnn",
-      "_ogDesc": "The Canadian government is launching a new loan program to help domestic airlines deal with high fuel prices and maintain operations and jobs, the finance ministry said in a statement on Monday.",
-      "body": "<p>OTTAWA - The Canadian government is launching a new loan program to help domestic airlines deal with high fuel prices and maintain operations and jobs, the finance ministry said in a statement on Monday.</p>\n<p>The loan program will offer eligible airlines up to $150 million in repayable liquidity support, it said, adding that carriers taking advantage of the program would have to restrict executive compensation and maintain their Canadian operations.</p>\n<p><i>Reporting by David Ljunggren and Maria Cheng; Editing by Mark Porter.</i></p>"
-    },
-    {
-      "title": "These two automakers are recalling thousands of vehicles over airbag safety",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/08/these-two-automakers-are-recalling-thousands-of-vehicles-over-airbag-safety/",
-      "pubDate": "Mon, 08 Jun 2026 14:34:02 -0400",
+      "title": "These two automakers are recalling tens of thousands of vehicles over airbag issues",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/08/these-two-automakers-are-recalling-tens-of-thousands-of-vehicles-over-airbag-issues/",
+      "pubDate": "Mon, 08 Jun 2026 17:56:56 -0400",
       "description": "Two automakers are recalling thousands of vehicles due to concerns that airbags may not work properly.",
       "content": "<media:description type=\"plain\"><![CDATA[A prospective buyer checks over a 2019 Civic sedan outside a Honda dealership in Highlands Ranch, Colo., on Aug. 25, 2019. (David Zalubowski / AP Photo)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">David Zalubowski</media:credit>",
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/33G2G4N3CBAR5KXJGX4VS3WAWE.jpg?auth=aa2638b93c2e3e72a76492f0b3bb889d21882c4ea2cf99b959d54b29e7823e52&amp;smart=true&amp;width=4000&amp;height=2842",
       "_src": "bnn",
       "_ogDesc": "Two automakers are recalling thousands of vehicles due to concerns that airbags may not work properly.",
-      "body": "<p>Two automakers are recalling thousands of vehicles due to concerns that airbags may not work properly.</p>\n<p><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026244\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026244\">Fiat Chrysler Automobiles</a> (FCA) issued an update Wednesday on its recall for certain SUVs due to concerns about side airbags. It said a software issue could increase the risk of injury in a crash, according to the advisory posted on Transport Canada’s website. It first issued the recall on May 21.</p>\n<p>“On certain vehicles, a software problem in the occupant restraint controller could cause the door airbag pressure sensor(s) not to work properly,” according to the notice. “As a result, the side airbag(s) may not work properly in a crash.”</p>\n<p>The recall affects 21,194 SUVs for the following models:</p>\n<ul><li>2022-25 Grand Cherokee</li><li>2023-25 Grand Cherokee L</li></ul>\n<p>FCA Canada said it will advise owners in writing to take their vehicles to a dealership to update the occupant restraint controller software.</p>\n<p>Owners can call 1-800-465-2001 for more information or visit the <a href=\"https://www.mopar.com/en-ca/my-vehicle/recalls/search.html\" rel=\"\">Mopar website</a> to see if their vehicle is affected. Mopar is the car parts service division of FCA.</p>\n<p><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\">Honda expanded </a><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\">a previous airbag</a><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\"> recall</a> due to similar concerns. The latest recall affects 12,371 cars, light trucks, vans, minivans and SUVs, according to the notice posted on Transport Canada’s website. Honda initially issued the recall on May 21 and updated it on Friday.</p>\n<p>Certain vehicles have a weight sensor for the front passenger seat that may not have been manufactured properly, according to the automaker. It said the <a href=\"https://www.safetyrestore.com/blog/supplemental-restraint-system-warning-light/?srsltid=AfmBOoqvAFqZukN1HX1EpaWA8Vte7Fz42CFAmxxtqvFv8eSKzM9QnUUe\" rel=\"\">Supplemental Restraint System</a> (SRS) warning light would turn on in the instrument panel if the weight sensor fails.</p>\n<p>“As a result, the passenger-front airbag and knee airbag could deploy in a crash that doesn’t require them to,” the notice stated.</p>\n<p>The company said it will advise owners by mail to take their vehicles to a dealership to replace the passenger-front seat weight sensor.</p>\n<p>The following Honda vehicles, with their model years, are affected:</p>\n<ul><li>Acura MDX 2017, 2018, 2019, 2020, 2022, 2023 and 2024</li><li>Acura RDX 2021</li><li>Acura TLX 2018-21</li><li>Honda Accord 2018-22</li><li>Honda Civic 2016-22</li><li>Honda CR-V 2017-22</li><li>Honda HR-V 2019-21</li><li>Honda Insight 2019-21</li><li>Honda Odyssey 2018-25</li><li>Honda Passport 2019-21</li><li>Honda Pilot 2018-21</li><li>Honda Ridgeline 2019-21</li></ul>\n<p>Owners can contact Honda at 1-888-946-6329 for more information, or <a href=\"https://www.honda.ca/en/recalls\" rel=\"\" title=\"https://www.honda.ca/en/recalls\">visit the website</a> to see if their vehicle is affected.</p>"
+      "body": "<p>Two automakers are recalling thousands of vehicles due to concerns that airbags may not work properly.</p>\n<p><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026244\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026244\">Fiat Chrysler Automobiles</a> (FCA) issued an update Wednesday on its recall for certain SUVs due to concerns about side airbags. It said a software issue could increase the risk of injury in a crash, according to the advisory posted on Transport Canada’s website. It first issued the recall on May 21.</p>\n<p>“On certain vehicles, a software problem in the occupant restraint controller could cause the door airbag pressure sensor(s) not to work properly,” according to the notice. “As a result, the side airbag(s) may not work properly in a crash.”</p>\n<p>The recall affects 21,194 SUVs for the following models:</p>\n<ul><li>2022-25 Grand Cherokee</li><li>2023-25 Grand Cherokee L</li></ul>\n<p>FCA Canada said it will advise owners in writing to take their vehicles to a dealership to update the occupant restraint controller software.</p>\n<p>Owners can call 1-800-465-2001 for more information or visit the <a href=\"https://www.mopar.com/en-ca/my-vehicle/recalls/search.html\" rel=\"\">Mopar website</a> to see if their vehicle is affected. Mopar is the car parts service division of FCA.</p>\n<p><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\">Honda expanded </a><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\">a previous airbag</a><a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026251\"> recall</a> due to similar concerns. The latest recall affects 12,371 cars, light trucks, vans, minivans and SUVs, according to the notice posted on Transport Canada’s website. Honda initially issued the recall on May 21 and updated it on Friday.</p>\n<p>Certain vehicles have a weight sensor for the front passenger seat that may not have been manufactured properly, according to the automaker. It said the <a href=\"https://www.safetyrestore.com/blog/supplemental-restraint-system-warning-light/?srsltid=AfmBOoqvAFqZukN1HX1EpaWA8Vte7Fz42CFAmxxtqvFv8eSKzM9QnUUe\" rel=\"\">Supplemental Restraint System</a> (SRS) warning light would turn on in the instrument panel if the weight sensor fails.</p>\n<p>“As a result, the passenger-front airbag and knee airbag could deploy in a crash that doesn’t require them to,” the notice stated.</p>\n<p>The company said it will advise owners by mail to take their vehicles to a dealership to replace the passenger-front seat weight sensor.</p>\n<p>The following Honda vehicles, with their model years, are affected:</p>\n<ul><li>Acura MDX 2017, 2018, 2019, 2020, 2022, 2023 and 2024</li><li>Acura RDX 2021</li><li>Acura TLX 2018-21</li><li>Honda Accord 2018-22</li><li>Honda Civic 2016-22</li><li>Honda CR-V 2017-22</li><li>Honda HR-V 2019-21</li><li>Honda Insight 2019-21</li><li>Honda Odyssey 2018-25</li><li>Honda Passport 2019-21</li><li>Honda Pilot 2018-21</li><li>Honda Ridgeline 2019-21</li></ul>\n<p>Owners can contact Honda at 1-888-946-6329 for more information, or <a href=\"https://www.honda.ca/en/recalls\" rel=\"\" title=\"https://www.honda.ca/en/recalls\">visit the website</a> to see if their vehicle is affected.</p>\n<p>The same two automakers have initiated a similar recall south of the border.</p>\n<p>Chrysler initiated a recall for more than <a href=\"https://www.nhtsa.gov/recalls?nhtsaId=26V328\" rel=\"\" title=\"https://www.nhtsa.gov/recalls?nhtsaId=26V328\">400,000 vehicles of the Jeep Grand Cherokee</a> and Jeep Grand Cherokee L models citing an airbag deployment issue that could increase the risk of injury in a crash, the recall, posted on the U.S. National Highway Traffic Safety Administration’s (NHTSA) website last month, said.</p>\n<p>Similarly, Honda has recalled <a href=\"https://www.nhtsa.gov/recalls?nhtsaId=26V332\" rel=\"\" title=\"https://www.nhtsa.gov/recalls?nhtsaId=26V332\">nearly 99,000 vehicles</a> of several different models due to a similar issue related to airbag deployment, a separate recall posted last month on the U.S. NHTSA’s website said.</p>\n<p>“The front passenger seat weight sensor may crack and short circuit, which can cause the air bags to deploy unintentionally during a crash,” the recall said.</p>"
     },
     {
-      "title": "The Daily Chase: Oil rises as Iran - Israel conflict flares",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/08/the-daily-chase-oil-rises-as-iran-israel-conflict-flares/",
-      "pubDate": "Mon, 08 Jun 2026 13:12:07 -0400",
-      "description": "Here are five things you need to know this morning.",
-      "content": "<media:description type=\"plain\"><![CDATA[Oil tankers sit at anchor offshore in the Strait of Hormuz off Bandar Abbas, Iran, Saturday, May 2, 2026. (Amirhosein Khorgooi/ISNA via AP)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Amirhosein Khorgooi</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SS3Q36IBTRI5PTY3MUL3VVAFDQ.jpg?auth=cbe8d34d99d66935ace1fa4bce64cb83d3b8f045954cd0bd98d0a91c037b15c8&amp;smart=true&amp;width=1400&amp;height=933",
+      "title": "Mike Vinokur’s Top Picks for June 8, 2026",
+      "link": "https://www.bnnbloomberg.ca/markets/2026/06/08/mike-vinokurs-top-picks-for-june-8-2026/",
+      "pubDate": "Mon, 08 Jun 2026 17:49:34 -0400",
+      "description": "Top Picks from Mike Vinokur, Portfolio Manager, Senior Wealth Advisor, Propellus Wealth Partners, iA Private Wealth",
+      "content": "<media:description type=\"plain\"><![CDATA[Mike Vinokur, portfolio manager & senior wealth advisor at Propellus Wealth Partners, iA Private Wealth.]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/NTQ6QGOWYFHO7DDDW5TJI7V3FE.PNG?auth=d06efe7b7d5389df4964cbd346e10f9cfebc1660f55af0095c284b4d226fff69&amp;smart=true&amp;width=818&amp;height=461",
       "_src": "bnn",
-      "_ogDesc": "Here are five things you need to know this morning.",
-      "body": "<h3>Here are five things you need to know this morning</h3>\n<p><a href=\"https://www.bnnbloomberg.ca/markets/2026/06/08/oil-prices-surge-as-iran-conflict-flares-while-global-stocks-skid-on-selling-of-tech-shares/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/2026/06/08/oil-prices-surge-as-iran-conflict-flares-while-global-stocks-skid-on-selling-of-tech-shares/\"><b>Oil rises as Iran - Israel conflict flares</b></a></p>\n<p>Oil prices are rising today after Iran and Israel traded strikes on the weekend for the first time since April. Iran’s military now says it has ceased strikes against Israel but says it would resume hostilities if Israel continued its operations in Lebanon. Global benchmark Brent added as much as 5.4% to more than US$98 a barrel before pulling back. U.S. President Donald Trump is urging Prime Minister Benjamin Netanyahu to refrain from retaliation.</p>\n<p><b>OPEC+ raises output target</b></p>\n<p>Meanwhile, OPEC+ will increase its output target next month. It will be the fourth oil output quota hike since the closure of the Strait of Hormuz. This increase is on par with June’s, which was lowered from monthly increases of 206,000 bpd in May and April due to the exit of the UAE from the organization.</p>\n<p><b>Apple event expected to tout AI investments </b></p>\n<p>The wait may be over this week for Apple investors who want the iPhone maker to deepen investment in AI. The company kicks off its annual Worldwide Developers Conference today. It’s expected to feature a much-anticipated update to its Siri digital assistant as well as other AI features. The tech giant first previewed its AI features two years ago before experiencing delays.</p>\n<p>There is a shakeup on the way for the S&amp;PTSX composite index following a review. Five companies are being added to index: Altius Minerals, Extendicare, Hammond Power Solutions, Spartan Delta and Southern Cross Gold. Meanwhile, five companies are being removed from the index: goeasy, Pet Valu, Transcontinental, Vital Infrastructure Property Trust and Winpak. The changes will be effective at the open of markets on June 22nd.</p>\n<p><a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/06/08/packaged-food-firm-campbells-reaffirms-annual-forecast-on-weak-consumer-spending/\" target=\"_blank\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/2026/06/08/packaged-food-firm-campbells-reaffirms-annual-forecast-on-weak-consumer-spending/\"><b>Sales slip at Campbell’s</b></a></p>\n<p>Campbell’s had lower sales in its latest quarter, driven in part by further declines in its snacks business. Sales at the soup-and-snack maker fell 4% to $2.37 billion. However, Campbell’s says its seeing early signs of progress as it works to bolster its salty snacks portfolio, which includes Goldfish crackers and Snyder’s of Hanover pretzels.</p>"
+      "_ogDesc": "Top Picks from Mike Vinokur, Portfolio Manager, Senior Wealth Advisor, Propellus Wealth Partners, iA Private Wealth",
+      "body": "<p>Mike Vinokur, Portfolio Manager, Senior Wealth Advisor, Propellus Wealth Partners, iA Private Wealth</p>\n<p>Focus: North American large caps</p>\n<p>Top Picks: <a href=\"https://www.bnnbloomberg.ca/stock/MSFT:UW/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/MSFT:UW/\">Microsoft</a>, <a href=\"https://www.bnnbloomberg.ca/stock/CIGI:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/CIGI:CT/\">Colliers</a>, <a href=\"https://www.bnnbloomberg.ca/stock/EXPE:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/EXPE:UN/\">Expedia</a></p>\n<p>Investors should temper their enthusiasm, but it is premature to become overly bearish. As the saying goes, trees do not grow to the sky.</p>\n<p>The powerful rally since the March 30 lows has surprised many investors, ourselves included. This V-shaped recovery has been one of the fastest on record, driving equity markets sharply higher in a very short period of time. As a result of the sharp rally, several areas of the market—particularly technology—had become overbought coming into the end of last week. Following such a rapid advance, periods of consolidation or even a sharp pullback are both normal and healthy.</p>\n<p>Despite ongoing geopolitical tensions, economic fundamentals remain relatively constructive. Employment growth has been steady, unemployment remains low, and consumers continue to demonstrate resilience. These factors may provide a supportive backdrop for equities.</p>\n<p>U.S. market participation has broadened considerably this year. The Magnificent Seven are barely treading water on a year-to-date basis, however other sectors and groups, including small-cap stocks have done quite well. Although certain segments of the market may have gotten ahead of themselves, corporate earnings growth and upward earnings revisions have been impressive and have generally exceeded expectations.</p>\n<p>The correction we experienced on Friday, June 5, may prove to be a necessary pause that allows the market to refresh and rebuild momentum for the next leg higher. Though, we doubt it’s a one day and done.</p>\n<p>In the near term, we would not be surprised to see some additional consolidation or corrective activity as markets digest recent gains. This could take shape in the form of a sharp and short correction, or a consolidation to mark time. But by the time earnings season is upon us in mid July, we think the next leg higher into September will be in full swing.</p>\n<p>Perhaps most noteworthy is the market’s ability to remain resilient despite the ongoing conflict involving Iran and broader geopolitical uncertainty. Investor sentiment has not yet reached euphoric levels. There remains a significant contingent of investors who continue to anticipate an imminent bear market. As a result, any meaningful positive developments—whether economic, geopolitical, or earnings-related—could drive markets substantially higher than many currently expect.</p>\n<p>That said, volatility is likely to remain elevated. Investors should remain disciplined, maintain appropriate diversification, and focus on prudent risk management as markets continue to navigate an uncertain but potentially rewarding environment.</p>\n<ul><li><i>Market-moving news, fast:&nbsp;</i><a href=\"https://www.bnnbloomberg.ca/app/\" target=\"_blank\" rel=\"noopener noreferrer\"><i><b>Get the BNN Bloomberg App now</b></i></a></li><li><i>Sign up for the Market Call Top Picks newsletter at&nbsp;</i><a href=\"http://bnnbloomberg.ca/subscribe\" target=\"_blank\" rel=\"noopener noreferrer\"><i><b>bnnbloomberg.ca/subscribe</b></i></a></li></ul>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/MSFT:UW/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/MSFT:UW/\"><b>Microsoft</b></a><b> (MSFT NASDAQ) </b></p>\n<p>We view Microsoft as more like a utility than a typical software stock. For the moment the world of business runs on Microsoft and we are all happy to pay the yearly fee to have access to their platform, cloud and all other ancillary services they provide to business and personal users. This business has a fortress moat and very high operating margins. It is not cheap, on a 12-month forward earnings basis, trading at 22 times estimated earnings however, if estimates for earnings five years out are even remotely correct, this is a very compelling opportunity on a risk to reward basis.<b> </b></p>\n<p>Colliers operates in three main businesses – commercial real estate, engineering and investment management. A globally diversified professional services and investment management platform. This is a very well managed business, trading at less than 13 times forward earnings. Management’s interests are aligned with that of ordinary shareholders as they own 30 per cent of the equity. The company has grown from $1.7 billion in revenue in 2015 with 28 per cent adjusted earnings before interest, taxes, depreciation, and amortization (AEBITDA) margins to $6.2 in revenue with 72 per cent AEBITDA margins. We think they have many more levers to pull to increase revenue and a proven growth by acquisition strategy. At this valuation, we believe there is a large margin of safety versus our appraisal of fair market value (FMV).</p>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/EXPE:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/EXPE:UN/\"><b>Expedia</b></a><b> (EXPE NASDAQ) </b></p>\n<p>Expedia stock was hit quite badly from the start of this year in our view for two reasons. The first being the war with Iran and the increase in the price of travel due to the price of oil. The second is more related to <i>SaaS-pocalypse</i> and the fear that artificial intelligence (AI) would allow clients to bypass Expedia’s booking system to plan their travels. We believe that AI will serve to enhance Expedia’s business and will enable them to reduce operating costs and improve services to their customers. The company has very high free cash flow (FCF) conversion rates and is aggressively buying back its own stock. When the war in Iran comes to a resolution, we believe the market will reprice this name much higher. Based on current estimated earnings, the stock trades at a mere 10 times forward estimated earnings and less than seven times enterprise value to earnings before interest, taxes, depreciation, and amortization (EV/EBITDA). Not a demanding valuations for a business with a great brand and moat.</p>\n<p><b>PAST PICKS: JUNE 9, 2025</b></p>\n<p><b>Dental Corp (DNTL TSX) - </b><i><b>Acquired by Private Equity January 14, 2026</b></i></p>\n<p><b>IAC (IAC NASDAQ) - Now People Inc. (PPLI NASDAQ)</b></p>\n<p><b>Total Return Average: 54%</b></p>"
     },
     {
-      "title": "Airlines say taxes and rules bigger worry than Mideast war",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/08/airlines-say-taxes-and-rules-bigger-worry-than-mideast-war/",
-      "pubDate": "Mon, 08 Jun 2026 13:03:30 -0400",
-      "description": "Airlines are facing surging fuel costs from the war in the Middle East but executives say they are more concerned about taxes and regulations deemed too restrictive that could further crimp their bottom lines.",
-      "content": "<media:description type=\"plain\"><![CDATA[A plane is silhouetted as it takes off from Vancouver International Airport in Richmond, B.C., Monday, May 13, 2019. THE CANADIAN PRESS/Jonathan Hayward]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">JONATHAN HAYWARD</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SJYVMKXM6E7RMVWIYSR4PQZFO4.jpg?auth=aba9817b15c11fad0bc264f1a8c0ee260708af8e18144e3a1a33f7061319d55e&amp;smart=true&amp;width=1400&amp;height=843",
+      "title": "Convicted FTX founder Sam Bankman-Fried seeking Trump pardon",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/08/convicted-ftx-founder-sam-bankman-fried-seeking-trump-pardon/",
+      "pubDate": "Mon, 08 Jun 2026 17:47:13 -0400",
+      "description": "Sam Bankman-Fried, the founder of the cryptocurrency exchange FTX who is serving a 25-year prison sentence for fraud and conspiracy, has applied for a pardon from U.S. President Donald Trump.",
+      "content": "<media:description type=\"plain\"><![CDATA[FTX founder Sam Bankman-Fried leaves Federal Court, July 26, 2023, in New York. (AP Photo/Mary Altaffer)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/X5FWU3EC63LS7E3MFPHP2IUXUI.jpg?auth=a509fba576ccbddf0bc8733f9512f8ccc4205a58a0c56115ec2dbb665a854e36&amp;smart=true&amp;width=1020&amp;height=574",
       "_src": "bnn",
-      "_ogDesc": "Airlines are facing surging fuel costs from the war in the Middle East but executives say they are more concerned about taxes and regulations deemed too restrictive that could further crimp their bottom lines.",
-      "body": "<p>RIO DE JANEIRO, Brazil -- Airlines are facing surging fuel costs from the war in the Middle East but executives say they are more concerned about taxes and regulations deemed too restrictive that could further crimp their bottom lines.</p>\n<p>Despite hand-wringing over the risk that travellers will baulk at paying higher fares, the ongoing war did not appear to ruffle feathers at the International Air Transport Association’s annual conference in Rio, which ends Monday.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/world/mideast-conflict/article/israel-and-iran-trade-strikes-as-trump-tells-them-to-stop-shooting/\" target=\"_blank\" rel=\"noreferrer\" title=\"https://www.ctvnews.ca/world/mideast-conflict/article/israel-and-iran-trade-strikes-as-trump-tells-them-to-stop-shooting/\"><b>Israel and Iran trade strikes as Trump tells them to stop ‘shooting’</b></a></li></ul>\n<p>“We expect average jet fuel prices to be 70 per cent higher year-on-year. That will add US$100 billion to our collective fuel bill this year,” IATA director general Willie Walsh told the gathering.</p>\n<p>Yet when the CNN journalist Richard Quest asked a roundtable discussion if airlines were frustrated by “an event you have no control over,” the responses were remarkably subdued.</p>\n<p>The chief of Turkiye’s Pegasus Airlines, Guliz Ozturk, noted wryly that it was standard practice for carriers to predict various scenarios at the beginning of the year, only to see something entirely different happen.</p>\n<p>IATA chief economist Marie Owens Thomsen recalled the uncertainty generated at last year’s conference, held in New Delhi just weeks after U.S. President Donald Trump unleashed his tariffs war.</p>\n<p>“We thought that it was the end of the world,” she said.</p>\n<p>But this year, there was hardly any mention of Trump despite the ongoing Mideast war, which has driven up fuel prices and caused profitability to plummet in a sector that was already struggling.</p>\n<h2>Name and shame</h2>\n<p>The IATA, which represents 370 member airlines, focused instead on naming and shaming countries that have imposed taxes on tickets -- often in the name of reducing carbon emissions -- or increased regulations on the industry.</p>\n<p>The European Union was the most frequent target, with Walsh taking aim at the bloc’s “populist” Parliament for defending higher compensation for passengers impacted by flight delays.</p>\n<p>And at a press conference on the shortage of non-fossil fuels needed to decarbonize air travel, EU regulations on the minimum amounts of such fuels required in aircraft tanks came under fire.</p>\n<p>Even when pressed on the potential impact of a “quagmire” scenario in the Gulf that would curtail oil and jet fuel exports for several more months, executives did not appear overly alarmed.</p>\n<p>When asked about the possibility of the war dragging out for years, research director Eleanor Budds played down the risk.</p>\n<p>“Quagmire is a scenario... It doesn’t mean we expect this to happen,” Budds said.</p>\n<p>A reporter then asked if, in an extreme case, the war would not just drive up prices but also lead to shortages of jet fuel.</p>\n<p>“In our base case we don’t have shortages,” she responded.</p>\n<p><i>By Hugues Honoré, AFP</i></p>"
+      "_ogDesc": "Sam Bankman-Fried, the founder of the cryptocurrency exchange FTX who is serving a 25-year prison sentence for fraud and conspiracy, has applied for a pardon from U.S. President Donald Trump.",
+      "body": "<p>WASHINGTON, United States -- Sam Bankman-Fried, the founder of the cryptocurrency exchange FTX who is serving a 25-year prison sentence for fraud and conspiracy, has applied for a pardon from U.S. President Donald Trump.</p>\n<p>The website of the <a href=\"https://www.justice.gov/pardon/search-clemency-case-status\" target=\"_self\" rel=\"\" title=\"https://www.justice.gov/pardon/search-clemency-case-status\">U.S. Office of the Pardon Attorney</a> of the Department of Justice lists a request by Bankman-Fried for a pardon and says its status is “pending.”</p>\n<p>Trump, in an interview with The New York Times in January, said he did not plan to issue a pardon to the 34-year-old Bankman-Fried.</p>\n<p>Since taking office last year, the Republican president has pardoned scores of white-collar criminals, most recently a former Republican congressman from Indiana who was convicted of insider trading.</p>\n<p>Bankman-Fried, known as SBF, became a billionaire before age 30 and turned FTX, a small start-up he co-founded in 2019, into the world’s second largest crypto exchange platform.</p>\n<p>But in November 2022, Bankman-Fried’s breakneck rise came crashing down, with a deluge of customer withdrawals and revelations that billions of dollars had been illegally moved from FTX to Bankman-Fried’s personal hedge fund, Alameda Research.</p>\n<p>He was convicted by a federal jury in New York in November 2023 on seven counts of fraud, embezzlement and criminal conspiracy.</p>\n<p>He has appealed his conviction.</p>"
     },
     {
-      "title": "AutoCanada buys collision repair business Contemporary Coachworks in Calgary",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/08/autocanada-buys-collision-repair-business-contemporary-coachworks-in-calgary/",
-      "pubDate": "Mon, 08 Jun 2026 12:44:40 -0400",
-      "description": "AutoCanada Inc. says it has bought Contemporary Coachworks, a collision repair business based in Calgary with two locations.",
-      "content": "<media:description type=\"plain\"><![CDATA[The logo of AutoCanada Inc. is shown in an undated handout image. THE CANADIAN PRESS/Handout - AutoCanada Inc. (Mandatory Credit)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/7TNLJPVHUZ5FPV44TTMDFCBP3I.jpg?auth=4f3003f25a1ab61ba40cffefff144ae7de876f84f4a1bc758a9c3a6af0fbe297&amp;smart=true&amp;width=1400&amp;height=787",
+      "title": "Market Outlook: Dividend stocks gain appeal as inflation persists",
+      "link": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/08/market-outlook-oil-surge-and-jobs-strength-cloud-rate-path/",
+      "pubDate": "Mon, 08 Jun 2026 16:40:36 -0400",
+      "description": "Strong earnings support U.S. stocks, but inflation and higher energy prices are increasing expectations for higher-for-longer interest rates.",
+      "content": "<media:description type=\"plain\"><![CDATA[A man looks at an electronic stock board of a securities firm in Tokyo, Monday, Dec. 14, 2015. (AP / Koji Sasahara)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/DZBX35PTZVGNYFTREYIUR3FTQA.jpg?auth=1484b61265607f3e65ac5da3b8d3fe9e5ec80d104c77de958aff37271adf16b8&amp;smart=true&amp;width=1020&amp;height=574",
       "_src": "bnn",
-      "_ogDesc": "AutoCanada Inc. says it has bought Contemporary Coachworks, a collision repair business based in Calgary with two locations.",
-      "body": "<p>EDMONTON — AutoCanada Inc. says it has bought Contemporary Coachworks, a collision repair business based in Calgary with two locations.</p>\n<p>Financial terms of the deal were not immediately available.</p>\n<p>The company says the acquisition gives it its first luxury collision repair presence in Calgary. The acquired business includes one location serving the northern side of the city and another serving the south side.</p>\n<p>Contemporary Coachworks holds certifications across 15 brands, including Tesla, BMW, Mercedes-Benz, Lexus, Volvo, Acura and Volkswagen.</p>\n<p>AutoCanada operates 64 franchised auto dealerships in Canada, comprised of 23 brands across eight provinces as well as three independent used auto dealerships. It also has more than 30 collision centres.</p>\n<p>The company is in the process of selling its U.S. dealership portfolio, which operates under the Leader Automotive Group name and operates 10 franchised dealerships comprised of seven brands.</p>\n<p><i>This report by The Canadian Press was first published June 8, 2026.</i></p>"
+      "_ogDesc": "Strong earnings support U.S. stocks, but inflation and higher energy prices are increasing expectations for higher-for-longer interest rates.",
+      "body": "<p>A strong earnings season and continued enthusiasm around artificial intelligence are helping support U.S. equities, even as investors contend with volatility tied to inflation concerns and geopolitical tensions.</p>\n<p>BNN Bloomberg spoke with Brian Szytel, co-chief investment officer at The Bahnsen Group, about broadening market leadership, dividend-focused investment opportunities and how rising energy prices could influence the Federal Reserve’s next moves.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Corporate earnings have remained a key driver of equity gains, with profit growth supporting markets despite periodic volatility. </li><li>Market participation is expanding beyond technology, creating opportunities in sectors with lower valuations and stronger dividend characteristics. </li><li>Dividend-growth strategies may offer investors a way to benefit from earnings strength while reducing reliance on momentum-driven trades. </li><li>Higher oil prices risk adding to inflation pressures and could keep central banks on hold for longer than investors expect. </li><li>A sustained rise in inflation combined with resilient employment data could revive discussions about additional rate increases later this year.</li></ul>\n<p><i><b>Read the full transcript below:</b></i></p>\n<p><b>LINDSAY:</b> Markets are back in the green this morning, but inflation remains a dark cloud over the markets as investors worry the central bank could potentially hike rates in the coming months. Let’s get more now from Brian Szytel, co-chief investment officer at The Bahnsen Group. Good morning. Thanks so much for joining us.</p>\n<p><b>BRIAN:</b> Good morning, Lindsay. Thank you.</p>\n<p><b>LINDSAY:</b> So, what do you make of the real sharp selloff we saw on Friday and the kind of rebound, the direction the markets are heading in this morning to start this Monday?</p>\n<p><b>BRIAN:</b> Well, you know, markets do that. They tend to go up one day and down the other. The results that we got out of Broadcom were actually quite good. I mean, the revenue that company saw on their specialty AI chip component was up 200 per cent year over year. So, some of these names, it’s not about execution and how the businesses are actually doing. It’s everything to do with where they’re already priced. You’re seeing some of that volatility play through, especially to some of the chip names, and that’s what we saw on Friday. Then, lo and behold, we get some of that recovery today because the story is very exciting with what’s going on with AI and the capital expenditure that’s going into it.</p>\n<p><b>LINDSAY:</b> Do you think a big part of that selloff on Friday was because of Broadcom?</p>\n<p><b>BRIAN:</b> Specifically in the chip sector, yes. Obviously, there’s continued turmoil in the Middle East, and we’ve gotten day-to-day volatility around some of those other things too. As that Middle East tension tends to heat up, you get rising oil prices. Rising oil prices feed into interest rates and that, of course, is causing some volatility in markets to some degree. By and large, the market is down three per cent or so from the highs, so we’re not talking about a very big move lower here. If anything, it gives some backfilling support to markets, and so I don’t think it’s necessarily a negative either to get some normalcy in trading.</p>\n<p><b>LINDSAY:</b> Were there any other key takeaways you had just across the slew of earnings that we saw over the last couple of weeks?</p>\n<p><b>BRIAN:</b> Earnings generally have been very, very positive. The results, I mean, we’re year over year up 27 per cent. Year to date, we’re up 13 per cent. If you look at the S&amp;P, up around eight or so per cent year to date, you’ve actually gotten, believe it or not, a little bit of market multiple compression, and that’s a healthy thing again as we sort of backfill and trade around these things. Having markets essentially go in one direction for far too long is not necessarily a good thing, and so we want to have some give and take as we go along here.</p>\n<p><b>LINDSAY:</b> With all this volatility and everything we’ve been seeing of late, I know you have some stock picks — we’ll get to those in a minute — but first of all, in a broader sense, what’s your investment strategy right now?</p>\n<p><b>BRIAN:</b> I think it’s more focused. We’re dividend-growth investors, and so we’re going to be more value-focused in the way that we look at things. I’d say looking away from some of the momentum trades that have worked the past, call it four years in a row. Remember, markets are up double digits four years in a row. I think it’s time to look at other sectors. As markets broaden out and breadth increases, there’s opportunity there. Consumer staples, for example, as a sector are now just 4.6 per cent of the S&amp;P 500. That’s an all-time low. That’s lower than they were in the year 2000, and I think there’s some value to be had there. Especially when you couple that with the benefit of rising dividends, you get a nice way to play this market.</p>\n<p><b>LINDSAY:</b> Okay, so let’s get to some of your stock picks. You own all of these. The first one is Accenture. What opportunities are you seeing there?</p>\n<p><b>BRIAN:</b> The stock is down almost by half. Okay, so this is a value play. This is an international global consulting firm. It’s a very relationship-oriented business, but this is the company that’s going to help implement a lot of these AI strategies into Fortune 500 companies. While the stock is off because of what AI might do to business models of software companies, we still feel very confident in a consulting business that, again, is very relationship-oriented. You get a very nice dividend yield, call it 3.7 per cent. It’s trading at 15 times earnings and has grown the dividend at 11 per cent a year for the last 20 years. So, there’s a quality name here, and it’s on sale, and we like to see that.</p>\n<p><b>LINDSAY:</b> Blackstone is another one you like right now. You say it’s one of the most mispriced large-cap stocks in the market. Tell us why.</p>\n<p><b>BRIAN:</b> This is the largest alternative asset manager in the world. This is a selloff related to what we’re seeing and essentially just the normal illiquidity of private investments like private credit. I think some of the baby has been thrown out with the bathwater in this franchise. If you think about the company that is quite literally financing all of the data centre buildout here, Blackstone is the main component of that, and we think there’s upside. There’s also a four per cent dividend yield and a very strong growth track record behind it. So, I think you can pick up shares on sale here as well.</p>\n<p><b>LINDSAY:</b> I wonder, though, is there risk also tied to financing a lot of this big AI buildout?</p>\n<p><b>BRIAN:</b> Normally, yes, but I guess when there’s $1.3 trillion in total assets in the company, you keep it in perspective. It’s a component. It just happens to be the biggest component in that data centre buildout space, but I’m not overly concerned if there’s a slowdown. I think the play with how much is going into artificial intelligence and the capital expenditure is just dwarfing what we saw in the ’90s internet boom. Again, if there’s a component of that being financed by a diversified real estate-focused and private equity-focused company like Blackstone, I think it’s a good diversified way to play it.</p>\n<p><b>LINDSAY:</b> Got it. Okay. Your last pick for today is McDonald’s. Tell us why you like this company.</p>\n<p><b>BRIAN:</b> Tried and true. There’s bifurcation, I think, in markets with different income levels and how consumers are spending. McDonald’s now has a 2.7 per cent dividend yield. If you look back in history, anything over a 2.5 per cent yield has more or less meant buy for the company. It’s raised the dividend an average of 7.5 per cent a year for 40 years. So, we’re looking at it from a value play, from a dividend-growth play, from a diversification play away from just chips in the market. I think it’s a nice complement to most portfolios, and it’s also on sale here.</p>\n<p><b>LINDSAY:</b> Just lastly, I wanted to ask you as well, because we’re obviously looking ahead to the Bank of Canada decision happening this week. The Federal Reserve’s next interest rate decision is next week, June 17. What are you watching for there? Do you think inflation and robust jobs data will play into any decisions that we see in the next couple of weeks?</p>\n<p><b>BRIAN:</b> Inflation and jobs always do play into central bank policymaking. The June meeting, I’d be really surprised if there was any change other than maybe the verbiage in the statement and maybe what is said by Waller in the press conference. Other than that, as far as rate policy goes, I think they’re going to hold steady. I think it all is tethered to what ultimately goes on as far as opening the Strait of Hormuz and how that plays into oil prices, which is what feeds into CPI. If we get some sort of resolution, then I think they’ll end up staying steady on rates. If we don’t and we get inflation sticking in the high twos or low threes toward the holidays, then I think they’re going to be forced to take a look at a rate hike before the end of the year.</p>\n<p><b>LINDSAY:</b> Okay. Brian Szytel, co-chief investment officer at The Bahnsen Group. It’s great to have you on. Thanks for joining us.</p>\n<p><i>This BNN Bloomberg summary and transcript of the June 8, 2026 interview with Brian Szytel are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.</i></p>"
+    },
+    {
+      "title": "Ottawa offers millions in loans to airlines struggling with high jet fuel costs",
+      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/08/canada-launches-loan-program-to-help-airlines-deal-with-high-fuel-prices/",
+      "pubDate": "Mon, 08 Jun 2026 16:24:36 -0400",
+      "description": "The federal government is offering big loans to airlines struggling to cope with the soaring price of jet fuel.",
+      "content": "<media:description type=\"plain\"><![CDATA[A plane is silhouetted as it takes off from Vancouver International Airport in Richmond, B.C., Monday, May 13, 2019.  (THE CANADIAN PRESS/Jonathan Hayward)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">JONATHAN HAYWARD</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SU2PPKXALJHZTCWRTWB4EJTI5E.JPG?auth=2189f53627de4ae6b71da30c33258395c36fd6cfc3e0e0b6541ad3489c103f6d&amp;smart=true&amp;width=3306&amp;height=1992",
+      "_src": "bnn",
+      "_ogDesc": "The federal government on Monday offered loans to airlines struggling to cope with the soaring price of jet fuel, as fallout from the Iran war prompts them to slash flight schedules and cut profit forecasts.",
+      "body": "<p>The federal government on Monday offered loans to airlines struggling to cope with the soaring price of jet fuel, as fallout from the Iran war prompts them to slash flight schedules and cut profit forecasts.</p>\n<p>The new program will let carriers borrow up to $150 million each, said Finance Minister François-Philippe Champagne.</p>\n<p>Ballooning fuel costs have put severe pressure on airlines’ balance sheets, he said, framing the relief effort as a way to ensure “reliable and affordable” travel for passengers.</p>\n<p>“By building on existing relief measures with targeted and temporary support for Canada’s airline sector, we are helping maintain connectivity, protect Canadian jobs and reduce pressures on travellers during this period of elevated fuel costs,” Champagne said in a news release.&nbsp;</p>\n<p>Airlines that sign up must commit to “buy Canadian,” restrict dividends and executive compensation and maintain existing jobs in the country, the government said. The release did not spell out what buy Canadian refers to in the context of the loans.&nbsp;</p>\n<p>The closure of the Strait of Hormuz caused by the Middle East war — now in its fourth month — has choked off nearly a fifth of global oil supply and sent jet fuel prices skyward.&nbsp;</p>\n<p>As a result, profits among major North American carriers this year will shrink by US$3 billion or nearly a quarter, the International Air Transport Association forecast on Sunday.</p>\n<p>While travel demand remains sturdy, Canadian airlines have cut less profitable flights from their schedules, raised gross fares and tacked on fuel surcharges to keep profit margins from shrinking too far.</p>\n<p>Air Canada has cut at least a half-dozen routes as well as its adjusted earnings forecast by roughly $200 million for the year. WestJet has announced flight capacity cuts that will hit nearly six per cent — roughly 1,000 trips — this month.</p>\n<p>Meanwhile, round-trip economy fares between Canadian cities rose 17 per cent at the end of May from a year earlier, according to travel search site Kayak.</p>\n<p>Large airlines, which draw on more price-elastic corporate travellers and the allure of loyalty points, have multiple shock absorbers in their business models.</p>\n<p>“Significantly higher fuel costs are a major headwind for airlines, but Air Canada still expects to offset 50 to 60 per cent of higher fuel costs in Q2 with some benefits from hedging and higher fares,” said National Bank analyst Cameron Doerksen in a note to investors, referring to the second quarter. Hedging policies help mitigate the risk of fluctuating fuel prices by creating fixed or capped costs on a chunk of purchases.</p>\n<p>Low-cost carriers such as Flair Airlines often find themselves more vulnerable to those swings than their bigger competitors.</p>\n<p>Fuel represents a bigger proportion of their costs, and they have fewer buffers in the form of higher-margin business passengers, myriad route options and a clientele less sensitive to rising fares.</p>\n<p>“Fuel is exposing the difference between airlines with real pricing power and airlines with only demand,” said Chris Read, former director of corporate development at Air Canada.</p>\n<p>The federal loan program marks the second time since COVID-19 that Ottawa has reached out with aid packages for airlines, after Air Canada, Porter Airlines and Air Transat accepted support during the pandemic.</p>\n<p>Air Canada secured a $5.9-billion deal with Ottawa in April 2021 for a relief package that made loans available to the carrier — it ultimately borrowed $1.2 billion — but also required pledges to cap executive compensation at $1 million and restore service to regional airports.</p>\n<p>Earlier this year, the government announced it would remove the federal fuel excise tax between April 20 to Sept. 7, reducing costs by four cents per litre on aviation fuel. The measure will save Air Canada alone tens of millions of dollars, based on fuel consumption figures from 2025.</p>\n<p><i>Christopher Reynolds, The Canadian Press</i></p>\n<p><i>This report by The Canadian Press was first published June 8, 2026.</i></p>"
+    },
+    {
+      "title": "AI stocks recover some of last week’s sell-off, while oil prices come off their overnight highs",
+      "link": "https://www.bnnbloomberg.ca/markets/2026/06/08/oil-prices-surge-as-iran-conflict-flares-while-global-stocks-skid-on-selling-of-tech-shares/",
+      "pubDate": "Mon, 08 Jun 2026 16:21:25 -0400",
+      "description": "Wall Street is recovering some of its sell-off from Friday, as stocks swept up in the artificial-intelligence boom bounce back on Monday. Oil prices, meanwhile, are higher following fighting between Israel and Iran, but they have come off their peaks from overnight.",
+      "content": "<media:description type=\"plain\"><![CDATA[A screen shows the stock prices of South Korean chipmakers at the foreign exchange dealing room of the Hana Bank headquarters in Seoul, South Korea, Monday, June 8, 2026. (AP Photo/Ahn Young-joon)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Ahn Young-joon</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/A5XSDJSLDUQBLQ7MYPA7JMZEFI.jpg?auth=810b2730f910a9df207d474ec2484e9a87a202bbf17d44805ebd2524e59fbada&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Wall Street is recovering some of its sell-off from Friday, as stocks swept up in the artificial-intelligence boom bounce back on Monday. Oil prices, meanwhile, are higher following fighting between Israel and Iran, but they have come off their peaks from overnight. ",
+      "body": "<p>NEW YORK (AP) — Wall Street is recovering some of its sell-off from Friday, as stocks swept up in the artificial-intelligence boom bounce back on Monday. Oil prices, meanwhile, are higher following fighting between Israel and Iran, but they have come off their peaks from overnight.</p>\n<p>The S&amp;P 500 rose 0.7 per cent, coming off a drop of 2.6 per cent from Friday that was its worst since October. The Dow Jones Industrial Average was up 50 points, or 0.1 per cent, as of 12:01 p.m. Eastern time, and the Nasdaq composite was 1.4 per cent higher.</p>\n<p>Some of the best performers were companies that sell computer chips, memory and other products fueling the AI boom. They had plunged Friday amid worries that their prices had shot too high due to AI euphoria. Such worries dragged South Korea’s Kospi index down 8.3 per cent early Monday, pummeling tech stocks there like Samsung Electronics and SK Hynix.</p>\n<p>But prices recovered as trading moved westward through Europe to New York. Micron Technology rose 11.1 per cent after sliding 13.3 per cent Friday for the largest loss in the S&amp;P 500. That resumed a run where its stock has more than tripled so far in 2026.</p>\n<p>Marvell Technology climbed 15.1 per cent in its first trading after S&amp;P Dow Jones Indices said the semiconductor company’s stock has grown enough to join its widely followed S&amp;P 500 index. Marvell’s stock has also more than tripled so far this year, aided by a 32.5 per cent surge in one day last week. That was its best day since it began trading in 2000, and it came after Nvidia’s CEO, Jensen Huang, suggested at a conference in Taiwan that Marvell could be “the next trillion-dollar company.”</p>\n<p>That such a comment could add billions of dollars to a company’s value in an instant suggests to critics that AI stocks are running too hot. Chip and memory companies are indeed reaping big growth in revenue and profit because of the AI boom, but their stock prices have been soaring at astounding speeds. A widely followed index of semiconductor stocks surged nearly 85 per cent for the year so far through Thursday, for example.</p>\n<p>Now, the question is whether Friday’s drop is the start of a downturn or just a pause that shakes out excessive optimism.</p>\n<p>Michael Wilson, a strategist at Morgan Stanley, is relatively optimistic. “Markets rarely move in a straight line at the pace seen since the March lows,” he wrote in a report. “In our view, a correction was inevitable and ultimately healthy if this bull market is going to extend into year-end” and pull the S&amp;P 500 to his baseline target of 8,000. That would be an 8.3 per cent rise from Friday’s close.</p>\n<p>Corning climbed 6.2 per cent after Amazon announced a multibillion dollar deal where Corning will produce optical fiber, cable and other products for its data centers across the country.</p>\n<p>That helped offset a 1.1 per cent dip for Campbell’s, which reported a stronger profit for the latest quarter than analysts expected but also a worse decline in revenue. The company’s stock is also set to drop out of the S&amp;P 500 index when Marvell Technology’s stock joins it.</p>\n<p>In the oil market, prices jumped after Israel and Iran launched strikes against each other, threatening to drag the region back into full-scale war. The price for a barrel of Brent crude oil, the international standard, briefly topped USUS$98 overnight.</p>\n<p>But it later eased back after the Iranian military said that it was halting offensive operations. Brent’s price was most recently at USUS$94.60 per barrel, up 1.6 per cent from Friday.</p>\n<p>High oil prices caused by the war with Iran have already sent inflation higher, which increases not only bills for households but also yields in the bond market. High yields&nbsp; worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.</p>\n<p>On Monday, Treasury yields held mostly steady following a jump on Friday. The yield on the 10-year Treasury rose to 4.56 per cent from 4.55 per cent late Friday.</p>\n<p>In stock markets abroad, indexes edged lower Europe following sharp losses in Asia.</p>\n<p>Japan’s Nikkei 225 dropped 3.8 per cent after the Japanese government revised the country’s annualized economic growth rate to 1.8 per cent for the first quarter this year, down from an earlier estimate of 2.1 per cent.</p>\n<p>Stocks also fell 1.7 per cent in Shanghai and 1.2 per cent in Hong Kong.</p>\n<p>Stan Choe<i>, The Associated Press. Yuri Kageyama And Matt Ott, The Associated Press</i></p>"
+    },
+    {
+      "title": "WestJet signs codeshare deal with Icelandair, offers easier access to Europe",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/08/westjet-signs-codeshare-deal-with-icelandair-offers-easier-access-to-europe/",
+      "pubDate": "Mon, 08 Jun 2026 16:17:40 -0400",
+      "description": "WestJet has signed a codeshare deal with Icelandair that will allow travellers to fly to more than 10 cities in Europe through a connection in Iceland.",
+      "content": "<media:description type=\"plain\"><![CDATA[A WestJet Airlines Boeing 787-9 Dreamliner is seen parked at a gate at Vancouver International Airport, in Richmond, B.C., on Thursday, January 21, 2021. THE CANADIAN PRESS/Darryl Dyck]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">DARRYL DYCK</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/CMJ4ZTXXKJUABB2LCQJ6WVNVUE.jpg?auth=3b1622ad16a13af3976a42a07527c481357597431aa7a2ff914234f50b3019e6&amp;smart=true&amp;width=1400&amp;height=916",
+      "_src": "bnn",
+      "_ogDesc": "WestJet has signed a codeshare deal with Icelandair that will allow travellers to fly to more than 10 cities in Europe through a connection in Iceland.",
+      "body": "<p>CALGARY — WestJet has signed a codeshare deal with Icelandair that will allow travellers to fly to more than 10 cities in Europe through a connection in Iceland.</p>\n<p>Icelandair travellers will also be able to connect with one stop to a collection of Canadian cities across WestJet’s domestic network.</p>\n<p>WestJet chief commercial officer John Weatherill says the airline is opening more seamless access to Europe while deepening its partnership with Icelandair.</p>\n<p>WestJet is set to begin seasonal non-stop service to Keflavik International Airport in Reykjavik, Iceland, from Edmonton and Winnipeg later this month.</p>\n<p>The airline’s seasonal route from Calgary to Iceland is also set to return for the 2026 summer travel season.</p>\n<p>The agreement with Icelandair follows a codeshare agreement between WestJet and Fiji Airways announced last month.</p>\n<p><i>This report by The Canadian Press was first published June 8, 2026.</i></p>"
+    },
+    {
+      "title": "Guru to accuse Pepsi bottler of abusing dominant position at Competition Tribunal",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/08/guru-to-accuse-pepsi-bottler-of-abusing-dominant-position-at-competition-tribunal/",
+      "pubDate": "Mon, 08 Jun 2026 16:02:58 -0400",
+      "description": "Guru Organic Energy is preparing a $15 million case that accuses a PepsiCo affiliate of abusing its dominant position in the beverage market.",
+      "content": "<media:description type=\"plain\"><![CDATA[Cans of GURU, an organic energy drink are seen in the their offices in Montreal on Tuesday, March 11, 2025. THE CANADIAN PRESS/Christinne Muschi]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Christinne Muschi</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/23U3SPGLOPJIZ763QWPRTDUYUE.jpg?auth=91ffd349f4bff3506c9b06fd8cc251914f4cddef3e94b8eff53f4105bcd91f20&amp;smart=true&amp;width=1400&amp;height=731",
+      "_src": "bnn",
+      "_ogDesc": "Guru Organic Energy is preparing a $15 million case that accuses a PepsiCo affiliate of abusing its dominant position in the beverage market.",
+      "body": "<p>Guru Organic Energy is preparing a $15 million case that accuses a PepsiCo affiliate of abusing its dominant position in the beverage market.</p>\n<p>A notice of application recently filed with the Competition Tribunal shows Guru will soon lay out a series of allegations against the Pepsi Bottling Group (Canada) ULC.</p>\n<p>Guru has valued the case at $15 million, which it says is the amount Pepsi Bottling Group has derived from allegedly abusing its position.</p>\n<p>The notice of application does not outline what Guru alleges Pepsi has done to abuse its position but makes mention of concurrent civil litigation the Montreal-based energy drink manufacturer is pursuing against the pop giant.</p>\n<p>In that case, Guru alleges Pepsi leveraged the energy drink company’s market share to expand its own store shelf entitlements, then allocated that space disproportionately to Pepsi-owned and -affiliated competing brands.</p>\n<p>The two companies signed an agreement in 2021 making Pepsi the sole distributor of Guru products for 10 years. Guru says it was terminated by Pepsi in May 2025.</p>\n<p><i>This report by The Canadian Press was first published June 8, 2026.</i></p>\n<p><i>Tara Deschamps, The Canadian Press</i></p>"
+    },
+    {
+      "title": "Another European utility looks to lock down supply from Ksi Lisims LNG",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/08/another-european-utility-looks-to-lock-down-supply-from-ksi-lisims-lng/",
+      "pubDate": "Mon, 08 Jun 2026 15:59:00 -0400",
+      "description": "Another European utility has expressed interest in purchasing liquefied natural gas from the Ksi Lisims project planned for the northern British Columbia coast.",
+      "content": "<media:description type=\"plain\"><![CDATA[A project rendering of the yet-to-be-built Western LNG Ksi Lisims project is shown in this undated handout image. THE CANADIAN PRESS/Handout - Western LNG (Mandatory Credit)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">HO</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/SN5Q56SD377A346CDKTTINC7DQ.jpg?auth=bdfd560f82e867b0b924c5bbaa17d15d3e6ef5b516acf45a9fcb3b812a661c2b&amp;smart=true&amp;width=1400&amp;height=773",
+      "_src": "bnn",
+      "_ogDesc": "Another European utility has expressed interest in purchasing liquefied natural gas from the Ksi Lisims project planned for the northern British Columbia coast. ",
+      "body": "<p>Another European utility has expressed interest in purchasing liquefied natural gas from the Ksi Lisims project planned for the northern British Columbia coast.</p>\n<p>Duesseldorf-based Uniper and Ksi Lisims LNG say they have signed a letter of interest that could see the German company buy two million tonnes of gas a year, with deliveries beginning as early as 2032.</p>\n<p>The letter of interest outlines key commercial terms for a firmer supply and purchase agreement with Uniper, whose core markets are Germany, the United Kingdom, Sweden and the Netherlands.</p>\n<p>Houston-based Western LNG is the lead developer and future operator of Ksi Lisims alongside Rockies LNG, a consortium of Canadian natural gas producers, and the Nisga’a Nation, on whose lands the project would be located.</p>\n<p>The floating plant would export up to 12 million tonnes of LNG per year from the site on Pearse Island, by the Alaska border.</p>\n<p>Late last month, German government-owned company Securing Energy for Europe signed a long-term agreement to buy one million tonnes of LNG from Ksi Lisims over an up to 20-year span.</p>\n<p><i>This report by The Canadian Press was first published June 8, 2026.</i></p>\n<p><i>Lauren Krugel, The Canadian Press</i></p>"
+    },
+    {
+      "title": "Weak economic backdrop could keep rent prices soft this summer: report",
+      "link": "https://www.canadianmortgagetrends.com/2026/06/weak-economic-backdrop-could-keep-rent-prices-soft-this-summer-report/",
+      "pubDate": "Mon, 08 Jun 2026 17:09:07 +0000",
+      "description": "A new report says Canada could be poised for a slower-than-usual summer rental market as average asking rents for May were down approximately $100 from a year earlier.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/06/For-rent-signs-are-seen-on-buildings-in-Montreal-500x318.jpg",
+      "_src": "cmt",
+      "_ogDesc": "A new report says Canada could be poised for a slower-than-usual summer rental market as average asking rents for May were down approximately $100 from a year earlier."
+    },
+    {
+      "title": "Canada mortgage market outlook: caution rules as 2026 midpoint nears",
+      "link": "https://news.google.com/articles/CBMizwFBVV95cUxNSmJVem1aNl9SSzBvYVJpQTlaZ0YwZGpYWmJmVUZIRUFmdTFYMVNXN0JqNkFST1Rmb1U1ZnlJdG41d09QS3U0b203Yy1PTXNYc3JwTTBIT01XbmRTblgwZW4zZzBxQ3R2dGlkaGtVS0IxekhnUUtSS1Z1Z0dsLVJrYmxiTzlMZVBhdDRVTmg3WGRnU050eVdBSk5jNXJMeVUzMFE2NzA3Q3dlVndDRU13ZXh4ZW43TlRxMzhhdzBibFlsR1FZYV8xOUtwTDRBRXM?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 17:02:09 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Fifth straight rate hold expected as Bank of Canada meets Wednesday",
+      "link": "https://news.google.com/articles/CBMiigFBVV95cUxQX1huU1VfaV92cEM4b1FpbEtYYU1rVjctSjVqV3k2c0JyeW55V0ZCNVZKVkV3OFRhT2pxMzVxenVxMkpjUF9VbHVVZzJNRVpaaDlyYVNaTEUzNjRhMGVYZ2xmVjFrQ1ZhODJGeXdXa3RLNW1ZaUY2bk1XU29RSmVSVzEtZVRhdndmWUE?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 15:29:09 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "One in three Ontario homes purchased during 2022 peak resold at a loss: Teranet",
@@ -235,53 +291,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada set to hold rates as economists urge patience amid mixed signals",
-      "link": "https://news.google.com/articles/CBMi1gFBVV95cUxNX3BRV0ZqbnJxLVNyOGJKLUVlRmxEZ1ZqcDl2bTEtSTQ1ZnlLLW5NdkI5dDNCUlRsQzdFUHMwcWp5VDc1MVNocGFXcDRzMXNvc0RVRWt4N2RNQ1BLaU9VVktDZEEtTW96RHNBMlF2bF9NOTVCUEh5RUJENEdZRzhXaUtIdDVaeEx0NHBqYlJyWXhBN09tZG56MDllX2Y2c19VLVd1YTBpcDFEckVRbXhJUmM4REVWQ05kWXVhLVpBY3V3MkQ1YWdSRHdiSnhPT21qeHRuYWx3?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 10:43:07 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Wealth Professional",
-      "_pubUrl": "https://www.wealthprofessional.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Fifth straight rate hold expected as Bank of Canada meets Wednesday",
-      "link": "https://news.google.com/articles/CBMixAFBVV95cUxOQnpmSFlkY0dPeV9SSDRiaEk4bkdlc3JOSVo0eDJSWE5obWMyZjV5NVFBV3luWDdYWXNkRlBjOTE3VVhXM3JwejJzQ0JTcHdsRXBJWnFJdU52ZFBfM09kaExmSVpTLVBNRUk5SEFDZFNteXhBSGNZemZOMjBycXp3YnF6U0tGSmdUX0pHWkEycTZDZHpkN1ZqUHh5YTBIRDVNWjhMY0dDUER1bnlocV9Qa1FFRkZ5ZEpwMG1Xd2FGX3kyRG92?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 09:19:20 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "BNN Bloomberg",
-      "_pubUrl": "https://www.bnnbloomberg.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "OPEC+ approves fourth oil output quota hike since Hormuz closure",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/08/opec-approves-fourth-oil-output-quota-hike-since-hormuz-closure/",
-      "pubDate": "Sun, 07 Jun 2026 17:29:00 -0400",
-      "description": "OPEC+ approves fourth oil output quota hike since Hormuz closure",
-      "content": "<media:description type=\"plain\"><![CDATA[In this Saturday, April 4, 2009 file photo a gas production facility is seen in at Ras Laffan, Qatar. Qatar is merging its two government-backed liquefied natural gas companies, streamlining distribution of the fuel as the OPEC nation weathers a slump in energy prices. The Gulf country is the world‚Äôs largest producer of LNG, which is natural gas chilled to liquid form for shipment on tanker ships to customers around the world. (AP Photos/Maneesh Bakshi, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Maneesh Bakshi</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/LMLLBBAT5JGOFHOUSL7MQAPUDQ.jpg?auth=d16eacfc74ec28125e29578f6baa7d2f579ae3e1a92e619c797152ab78a4ba93&amp;smart=true&amp;width=3372&amp;height=2184",
-      "_src": "bnn",
-      "_ogDesc": "OPEC+ approves fourth oil output quota hike since Hormuz closure",
-      "body": "<p>LONDON, June 7 (Reuters) - OPEC+ agreed on Sunday a fourth increase in its oil output targets in as many months, even though the U.S. war with Iran is still preventing several of the group’s members from pumping more.</p>\n<p>The war has cut oil flows via the Strait of Hormuz, creating the world’s biggest-ever supply crisis as key OPEC+ members including Saudi Arabia have been unable to supply customers in full since the end of February. The crisis for OPEC+ deepened when the United Arab Emirates left the Organization of the Petroleum Exporting Countries after almost 60 years.</p>\n<p>Seven core members of OPEC+, which groups OPEC and allied producers including Russia, have increased their output quotas from April to June by almost 600,000 barrels per day.</p>\n<p>In reality, the group’s production has collapsed due to export cuts by Gulf members, averaging 33.19 million bpd in April compared with 42.77 million in February, according to OPEC figures.</p>\n<h2>IMPACT OF PRODUCTION TARGET INCREASE</h2>\n<p>On Sunday, the seven members decided to increase targets by 188,000 bpd from July, OPEC said in a statement. This is the same as the June hike, which was adjusted down from monthly increases of 206,000 bpd in May and April to take into account the UAE exit.</p>\n<p>Iraq’s oil output quota will increase by 26,000 bpd from July under the agreement, an oil ministry spokesperson told Iraq’s state news agency.</p>\n<p>“An OPEC+ production increase means very little while the Strait of Hormuz remains closed,” said Jorge Leon, an analyst at Rystad and a former OPEC official.</p>\n<p>“When the Strait of Hormuz reopens, the market could move very quickly from fear of shortage to fear of surplus.”</p>\n<p>On Friday, oil prices LCOc1 fell to around $93 a barrel as traders gained confidence that renewed conflict between the U.S. and Iran was growing less likely. Prices were close to $72 before the war began.</p>\n<p>OPEC+ ALMOST DONE WITH UNWINDING 2023 OUTPUT CUT</p>\n<p>The seven countries are increasing production as part of the gradual unwinding of a 1.65 million bpd production cut that the group, which at the time included UAE, agreed in 2023.</p>\n<p>From July, the seven have about 567,000 bpd of the original cut to return to the market, taking into account the UAE exit from May 1, according to Reuters calculations.</p>\n<p>That would mean the rest of the cut will be unwound by the end of September should OPEC+ stick to monthly hikes of about 188,000 bpd for August and September.</p>\n<p>The seven of 21 OPEC+ members who met on Sunday are Saudi Arabia, Iraq, Kuwait, Algeria, Kazakhstan, Russia and Oman. In recent years, only the seven plus the UAE - when it was a member - have been involved in the group’s output policy decisions.</p>\n<p>In a separate meeting on Sunday of all OPEC+ members, the ministers made no change to group-wide output policy that is in place until the end of 2026, OPEC+ said in another statement.</p>\n<p>OPEC+ is carrying out a review of its members’ oil production capacity to be used as a reference for 2027 production baselines, from which quotas are set. The group on Sunday affirmed the importance of completing the assessment, the statement said.</p>\n<p><i>(Reporting by Ahmad Ghaddar and Olesya Astakhova; Additional reporting by Eman AbouhassiraWriting by Dmitry Zhdannikov and Alex Lawler; Editing by Tomasz Janowski and David Holmes)</i></p>"
-    },
-    {
-      "title": "Amber Kanwar’s Weekly Setup: Bank of Canada decision day, Dollarama and the U.S. housing market",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxQWDlwbG1iaDlFejE0SkN4aUZaNS1GYXVBWFhKUDdwSmJsdVJtdG9UdzJUZFR6SzF4bzlodWE5eW16NVBjX2FBNjkzLUNaRlBIMTh4ODN1NFdfTG0zUGNSRlNoTG1DSUEzdTJwaEtWUkJxTXZYa2M1Y2Q3a0dValVyd0liRnl5QzRrdlg3U0tGcVhtNERTdy1TOUx4U3JOUkdtRWs4ODB5Q0U?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 20:57:33 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Bank of Canada likely to hold rates as economy stagnates",
       "link": "https://news.google.com/articles/CBMiswFBVV95cUxPUERDLWctUFZWbjVWNzZSaXFzSTMza3Jnb1NRa1RSUzB5TlN3bUR4RkxfQ3pVYU5ZaUdiZ2VyckNyTWE4UU5JT2ZMbnZzV3JOTm95M0VReU5TUWxRcmZDUTV5V3JaU0FqWmRTSkJTYVAxNDhfbzBXSHl1YjJnTGYtTUlsTWpGMTM3eV9samwyUGR6c1BUU1ppN05vZHBRT2xpVjY2VEJ2VXFFZ2xVOEsxRk40Zw?oc=5",
       "pubDate": "Sun, 07 Jun 2026 19:48:53 GMT",
@@ -289,18 +298,6 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Almost 10% of Toronto mortgage holders won’t qualify to refinance next year, BoC says",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxPamdjMW5vYXdSaUFUdVJRTG9YZ0hCZG9sZDE5amNkRkdfbHFLWnE2ZVBVY3FHVWZuY0d0TkE4ZnM5aTh1RUlGcEk1LVVDMkZZdFRheXRSbmQ3OWxVUUZOdlpST0xhRnFwMGNpSWUxRk4zUFpwNjNuN011RUh5Mm8xcjNsUmRoYjZETVVwM2EzV2h6cE5QNDA5TDVFR0pWc3VJUXFFck5R?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 19:48:44 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
       "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -373,15 +370,16 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "The diamond era is ending: What’s next for the Northwest Territories economy?",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/05/the-diamond-era-is-ending-whats-next-for-the-northwest-territories-economy/",
-      "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
-      "description": "The Northwest Territories must urgently diversify its mining sector beyond diamonds as the territorial economy struggles, says a policy expert.",
-      "content": "<media:description type=\"plain\"><![CDATA[Underground mining at the Ekati mine. (Photo Credit: Burgundy Diamond Mines)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/OML52LGJMRBKXEVKNIHJXDDTKE.jpg?auth=e92d4e2f9d127d5c3155416745ba316222be4976086175bb65f6f4cc8ae9ecae&amp;smart=true&amp;width=2560&amp;height=1707",
-      "_src": "bnn",
-      "_ogDesc": "The Northwest Territories must urgently diversify its mining sector beyond diamonds as the territorial economy struggles, says a policy expert.",
-      "body": "<p>The Northwest Territories must urgently diversify its mining sector beyond diamonds as the territorial economy struggles, says a policy expert.</p>\n<p>This follows the recent closure of the Diavik mine, one of the Northwest Territories’ three major diamond operations, while another is on the brink of bankruptcy.</p>\n<p>“That’s very dramatic for the fiscal situation of the Northwest Territories,” says Heather Exner-Pirot, senior fellow and director at the McDonald-Laurier Institute.</p>\n<p>In the Northwest Territories, two operating diamond mines continue to extract diamonds, serving as key drivers of the territory’s economy. At its peak, the diamond mining sector accounted for approximately 25 per cent of the territory’s GDP, highlights Exner-Perit.</p>\n<p>The territory’s real GDP is projected to decline to $4.0 billion in 2026, according to the<a href=\"https://www.fin.gov.nt.ca/sites/fin/files/resources/2025-26_budget_highlights.pdf\" rel=\"\"> Northwest Territories Budget Address</a>.</p>\n<p>This 3.2 per cent drop continues a downward trend from $4.2 billion in 2024 and an estimated $4.1 billion in 2025. The contraction is primarily driven by a 5.8 per cent reduction in total investment and a 4.9 per cent decline in exports, both resulting from lower diamond mine production and the announced end of oil production at Norman Wells.</p>\n<h2>Competition from lab-grown diamonds</h2>\n<p>Exner-Perit says recent competition from lab-grown alternatives has weakened the economic impact of natural diamond mining, leading to a sharp decline in global rough diamond prices.</p>\n<p>Although many associate the diamond market with jewelry, lab-grown diamonds are widely used for industrial applications like heavy mining drills due to their extreme hardness, she says.</p>\n<h2>‘The straw that broke the camel’s back’</h2>\n<p>The Diavik mine, owned by Rio Tinto, was the first to go, shutting down production in March 2026.</p>\n<p>Its closure shifted the federal government’s attention toward the struggling Ekati Mine, owned by Burgundy Diamond Mines, which appears to be following in the Diavik mine’s footsteps, says Exner-Pirit.</p>\n<p>To counter the impact of actual and potential U.S. tariffs and global market pressures, the <a href=\"https://www.canada.ca/en/department-finance/news/2025/12/government-provides-crucial-support-to-the-ekati-diamond-mine-amid-trade-uncertainty-protects-northern-workers-and-local-communities-in-the-northwe.html\" rel=\"\">federal government</a> provided over $200 million in loans to keep the struggling Ekati diamond mine operational.</p>\n<p>But that’s not enough, says Exner-Perit, describing U.S. tariff pressures as “the straw that broke the camel’s back ”.</p>\n<p>“It only delayed the inevitable for a few months and probably was not the best decision they could have made,” says Exner-Perit.</p>\n<p>Though natural diamonds still hold consumer appeal, the mining industry was already winding down, she says.</p>\n<p>Exner-Perit says the sector’s core issue is a structural shift caused by the rapid rise of affordable, easily accessible synthetic diamonds and geopolitical trade tariffs only worsened an already struggling sector.</p>\n<h2>What does this mean for residents?</h2>\n<p>Based on current projections, the Northwest Territories faces a threat of having zero active diamond mines within the next few years, says Exner-Perit.</p>\n<p>She says the sector currently provides well-paying jobs and hundreds of millions of dollars in procurement contracts to Indigenous communities and development corporations, and the lucrative royalties and tax intakes derived from the mines will be difficult to replace with current sectors such as tourism and defence spending.</p>\n<h2>How can the Northwest Territories develop its economy?</h2>\n<p>Though sectors like defence spending and mining remediation can help provide short-term economic relief, Exner-Pirot explains they are not industries that the Northwest Territories should build its economy on.</p>\n<p>She says the most urgent task for the territory would be to reform its regulatory framework, by changing its policies and systems.</p>\n<p>The territory currently ranks among the worst Canadian jurisdictions for policy attractiveness according to the <a href=\"https://www.fraserinstitute.org/studies/annual-survey-mining-companies-2025\" rel=\"\">Fraser Institute’s Annual Survey of Mining Companies. </a></p>\n<p>However there is an upside, says Exner-Pirit.</p>\n<p>She says through its recent devolution agreement, the Northwest Territories has acquired province-like powers, giving it direct control over resources, and royalty revenues.</p>\n<p>Because of this, Exner-Pirit highlights that there is a legitimate opportunity to diversify the territory’s mining sectors with the current commodity upswing and many other lucrative natural resources such as gold, lithium, base metals, and rare earth elements embedded within the region.</p>\n<p>“Hopefully this is a wake-up call for the Northwest territories to do the things it needs to, to become attractive for bigger miners, bigger investments in the future,” says Exner-Perit.</p>"
+      "title": "Bank of Canada Interest Rate Announcement",
+      "link": "https://news.google.com/articles/CBMikwFBVV95cUxOSlN2V3czSWRfM3JaRzRwVnlPc2VJSHJsZW1naG0wWFRLbVl5TkowSE8wSm1aelJyNl9QWVNVVU1RdkZMSjN4UjZKQk91YUkwYlgtdTd5SmR3M2pWWUFGcXVkOXFuOXZzV1Z4Q3FuZGlyN0VuRl94dTNCYkx2VDNOMnA5QzR6cmVoLUdBSU5wYXFhRjg?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 15:01:39 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Bank of Canada",
+      "_pubUrl": "https://www.bankofcanada.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Canadian bonds plunge after country adds most jobs since 2024",
@@ -403,6 +401,18 @@
       "_src": "gnmort",
       "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada to hold interest rates as prices rise but economy wobbles",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNY0hIelZKR3p1Nl9LcHRqTVBnZVpDUEFYWGJldnBENFFhM0FEUUJ1RE1BTDJNblpTcFpEaUxkanNyMVNna3hzdXI2Q1FCWFJ1UHdYTFV5Xzg1TS1YM1prZnEtSHZ0SnBCamp4ODNPQURmS0NOWkNxSG9ZWGVCb055X1N0dklPdnYzRnFMYzE4QQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -444,30 +454,6 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa's budget watchdog predicts Bank of Canada will hike interest rate to 2.75% in 2027",
-      "link": "https://news.google.com/articles/CBMijwFBVV95cUxOMjhoc2E1VUQ0UUViOWJ4TFd3Q09FOTRVTkY1RGhadXFCV3UyVWROQ1B3MjBtVy1ZQVh5QnVESWZZWDZCNkRnYU1BQXlmMVVsYm5NNFBpeXg4dHJ1WURTTXJFemVzaEpCVEZwd1IwX3VQZVNjN1FlOEw1NnYxUUF0STg5ckZtWVdDdmdiUGtvOA?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 18:52:50 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "One policy lever could unlock 16,000 Toronto homes a year",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNRm1XOXRIVFdLM3I4dDJyYmpHempuMl9JWnYtZlJUeUNmclJCNFMyVXFmaVA2c01wWTQxYmpLdzgtM0ZfNHpZcGlzN2ZOYjZSd3RwczE4TTNITkQ1RTRaczBDaDk1NjNXZmd2Y1Q2dlo5TmgycHZHVGJZRUprQmQ2TVJIanF0Ymg1M0tXTV8tZ29JS21GRm02bDdvX0xWT1hIY2lXTEpxZUtlVTBKS0pXVXJ6cWx6ZmxTVk5BYTgzRFA?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 18:33:17 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -563,18 +549,6 @@
       "_src": "storeys"
     },
     {
-      "title": "Development fee cuts alone won’t solve housing affordability crisis: CMHC",
-      "link": "https://news.google.com/articles/CBMirAFBVV95cUxNa1daemRiOXMtcGlGVGU5Yk9aUGNGdE1FeWE5RlZrZS1JWFFUSHNpcER1bXJQc0haeDdYWGdOX056RzVmMS1VS2FMOGJiWUwtZzRLQVBSWWk3QjRXZmlzY0JDOXZwdGtSNWM0ek5HUFc3UE9peHI4RHFmODdWRkJyNzBlaDJzNWItSDhweVduNVh6VjBzUW05RHBVY1BqMS1TU1RSdTZZaHFCVm1P?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 16:02:22 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Cutting development charges could make up to 14% more housing projects viable: CMHC",
       "link": "https://news.google.com/articles/CBMizwFBVV95cUxNRkRTYXVrckExLUFWSVBmWm1JemFOdDhYcWRWWklfdVJlMHBOelZGSVVoMjJnWFc5UlJRZXVzSmQ3aWh2MGJKOUxSeVpiQWhjNHV6bUVIdkNpWU9KTXVqWlpCaC1KQnREYkx5RGUzdzl2NjlBaERLemU1RVY3TmkzVEVjS1hZbVZ3RlE3em44X0ZCa3l4cXlxVVpNSC0tZXZEaks4RkdVRjFpV1R3SXVKeFhiVzdLVHBWR3JCQUJjNm5ibmFURmd4aXZCdXNpc0E?oc=5",
       "pubDate": "Wed, 03 Jun 2026 14:00:00 GMT",
@@ -616,28 +590,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/06/The-Toronto-skyline-on-Friday-May-8-2026-500x333.jpg",
       "_src": "cmt",
       "_ogDesc": "The Greater Toronto Area marked its third straight month of higher home sales compared with a year earlier, as the city&#039;s real estate board says the market tightened in May."
-    },
-    {
-      "title": "Canada makes new U.S. trade proposals, warns of ‘turbulence’",
-      "link": "https://www.canadianmortgagetrends.com/2026/06/canada-makes-new-u-s-trade-proposals-warns-of-turbulence/",
-      "pubDate": "Wed, 03 Jun 2026 12:03:16 +0000",
-      "description": "Canada made new and detailed proposals on trade to the U.S. based on negotiating progress in recent weeks, said Canadian cabinet minister Dominic LeBlanc.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/03/Timeline-of-Trump-tariffs_med-500x336.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Canada made new and detailed proposals on trade to the U.S. based on negotiating progress in recent weeks, said Canadian cabinet minister Dominic LeBlanc."
-    },
-    {
-      "title": "More Ontario homes selling at a loss, property title data show",
-      "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQR1VNMExGLTVnZ0tuZ3dFZDl3VDFSUFZJdUJCbl9jX0ZxXzhlRXRkSE9xckVNb3pqbGNVb01nZEhLbWd6NGJpYmxiQ0pDbEpCcEJybXBDcjFHMXdqTUs1VHpHd291RGZTY0RjZnRtOW5iLVVJN28zVzZQcTkza0NRUXpWNTY2V1ppVUQ1RF9BNGF4WUZna1FkLWpWQldEU3g5d3N4OFFRV0l0Zw?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Vancouver-area home sales down 3.5% in May as condo market lags: real estate board",
@@ -703,18 +655,6 @@
       "_src": "timescolonist"
     },
     {
-      "title": "A 20% housing drop still leaves Canadians locked out of market",
-      "link": "https://news.google.com/articles/CBMirgFBVV95cUxOelpvQXVaQlBqV0dzTkloLXNSNDhBUlNWTGVwRjhQOTJ0ekdNZlUxSUdrRjJTeUdBNnJCZ19keFI5T0RxeVZTZlVpU1dxVVlmQ0hCd3E2MEVrdWotcVZkT3RIX0o4STItVW5wLU9kNTJqTnI4S2QyaDV4cUFqeUVCd1pIdjNJOEphMHotUW95YkU2cjJjcXZLOS1vSXdqWWNtb0dNemZRdEtCaEg2clE?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 12:41:49 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
       "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
       "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
@@ -734,6 +674,18 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/address-rendering.png?id=66836738&amp;width=980",
       "_src": "storeys"
+    },
+    {
+      "title": "CMHC releases results for first quarter of 2026",
+      "link": "https://news.google.com/articles/CBMiogFBVV95cUxOQ1NOWEp0WDJnd0ZrNEFJWjlsZW1uM0lna0h4eHhDX25wSnFiQjFCVUZ1d3VqRTJ2X2h4SlR0SGlVNURta3B5M1JVckhhOHQtZ0lucXhhM1g1YkZ0THhHUW4waGIybkNJMWFnaUZpVk1waEl2OV9wWFNUaEt4aXVuOFhRZW1FTWJ0M0pjYVdtdm1rVG5lMTNOY1o2QUlRVUtScGc?oc=5",
+      "pubDate": "Fri, 29 May 2026 13:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Newswire Canada",
+      "_pubUrl": "https://www.newswire.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Ottawa real estate: 3 hot properties on the market",
@@ -766,6 +718,18 @@
       "_src": "timescolonist"
     },
     {
+      "title": "Housing starts held back by up to 30% since 2006: CMHC",
+      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxOYnF1Wm13SlJiSU50OWxGR0M0VWJIM0xsem56TDJYOVFmWjU4ZGc4R2M5OWFaUlMtcTA5YXRLY2hSLV96MkpJbHVKWVBzaHhRTWZzRDByYnc5aGVUNFQ3TWpJYkJpUXNFSU9aZE9BSGRtS2w2TVJ6OXJOeXV6a2lxZTNhdkYtbEtNLUd4a3RXb01DbnV3d1ZTZGNESmlzTWU3MDRKbVZDcjI?oc=5",
+      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Newswire Canada",
+      "_pubUrl": "https://www.newswire.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Niche investment vehicle gathers steam in B.C.&#39;s tough mortgage market",
       "link": "https://www.timescolonist.com/real-estate/niche-investment-vehicle-gathers-steam-in-bcs-tough-mortgage-market-12319684",
       "pubDate": "Wed, 27 May 2026 13:00:00 GMT",
@@ -787,15 +751,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "B.C. lawsuit seeks $450K in construction and equipment payments",
-      "link": "https://www.timescolonist.com/real-estate/bc-lawsuit-seeks-450k-in-construction-and-equipment-payments-12327373",
-      "pubDate": "Mon, 25 May 2026 22:41:00 GMT",
-      "description": "Dispute involves Vancouver steam plant project and alleged Westbank subsidiary, public record suggests",
-      "content": "",
-      "thumbnail": "https://www.vmcdn.ca/f/files/biv/bc-supreme-court.png;w=960",
-      "_src": "timescolonist"
-    },
-    {
       "title": "Mastering MLS Ottawa: Your Expert Guide to Finding the Perfect Home in 2026",
       "link": "https://news.google.com/articles/CBMirgFBVV95cUxNUnFlOHJHUk10V0VmSlFseE9lbGVNOVNMUkdDWTgyc2xRaFBfdjk5VEMwb1ZPM2JQMzdrc3J2aFU4TEVlM3J1WkdSS2dyNzZvM0JDR2FPNWVfXzRCYXVaSzlOMWtVSVpDc20zSFpLRnhpRTk4QUhRYkt0Qld5ZEFLWksyNF9sU3RpMVd4SEpMTHZyQk1TaWVPa25pbnVjQ0RqZlI5V0JsUGhqbVctQnc?oc=5",
       "pubDate": "Sun, 24 May 2026 12:22:01 GMT",
@@ -805,6 +760,18 @@
       "_src": "gnott",
       "_publisher": "weknowottawa.com",
       "_pubUrl": "https://www.weknowottawa.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Vancouver Housing Market Outlook 2026",
+      "link": "https://news.google.com/articles/CBMidEFVX3lxTE1nWmszVGwtOTNHMHVUcVNZcDlnRy1CTi1LUEpoRndYNFoycTg4aVVzdFRremxvSDZHTC1iTEJaVjZKeU1pUVRUMHdOcnNmZk1ISm9INmk4cEdJT2ttYlJvVUROZndwczZ4MHZfd0Z4aVR4N2kt?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -820,8 +787,8 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "London Housing Market Outlook 2026",
-      "link": "https://news.google.com/articles/CBMicEFVX3lxTE0tOFRNelU0X0NXeE5UZWlHTkxPWjVFUlBhWjM4Nlc4R0s2eURHWW54V3BpeUNQbmNONEI1WFpEbl9JMmlZNFZ1V2tnX2xSZGdfWnVia1I4X1dZVjZZbVdiUVByMVNkS2x6ejhfM2phakU?oc=5",
+      "title": "Ontario Housing Market | 2026 Home Prices",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
@@ -901,18 +868,6 @@
       "_src": "gnre",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa Commercial Real Estate Trends (2026)",
-      "link": "https://news.google.com/articles/CBMia0FVX3lxTE9YRDZZbVRVTTRjejdkWHJMbHQyUkpEMkFEWk9hMzhCRU5hMGh6Xzhzam4xOHlDZXQwZEF2cUpUVnktRWxpTkpjUjJhWG1qNU9nS3NjV0VNUFZpWlpxMkRIOVo5VnlINHB0OUFR?oc=5",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Remax",
-      "_pubUrl": "https://blog.remax.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -997,6 +952,18 @@
       "_src": "gnimmig",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "No new condo projects launch in Q1 as Toronto market hits a wall",
+      "link": "https://news.google.com/articles/CBMimwFBVV95cUxOOC1UTHN3eE5OWGY0c0hWeklmc0M4V3FUY1dOX0FoRE92TEtwTWpCUXlpVHhJcmExX2NyRXEtMGFKSWNtN1kyV3BsdEdhWFhNUmVmYnFEcWFVRGEwbkRlZGZJdHkyRlZXcXlVVG9LTUFxaW54VHlYRjN6THJSVThEMTlHaS1GOTZMYk5TdzN2cWlTQjA4Rlk0U2xWVQ?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Real Estate Magazine Canada",
+      "_pubUrl": "https://realestatemagazine.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1133,14 +1100,26 @@
     },
     {
       "title": "Toronto's Condo Market Reset: How Strategic Developers Are Turning 2026's Correction Into Opportunity",
-      "link": "https://news.google.com/articles/CBMi5AFBVV95cUxOYktVelAxSDJvRmkzNEpINWdLRWEwWlRIdmlGYjFiN1ZYNFYxbFZLMmxGc1ljdTY5YUxLZzlJODItdU15VXJfb28tZVp1WU5uVGJaVHEwSldDTVZwMkd3dGt1c1NJWGFydEdpNmdaNklZVXBONTIwS2NZeWh3czlqZGFLSjFaeXo0SEVpemdIOFpzVUc3UWtqSDYyTnVpQTllX2MtVmpFamxTU01NMG1BMDhjZ1hSV19SV3BkVDZuTnRTZ0RYc1VUaVk3Slk1RzZiZGhuXzVkbkZTYlc3TGVEZnM2anI?oc=5",
+      "link": "https://news.google.com/articles/CBMiogFBVV95cUxONjVraElBcWNnVnZqbm1iMEdLOE1yNkpVUVN0d2Vfa3VZRWpKLTh4ZkhWMWJ5OUkxSUs2eGRDcnd4UTI2aGJQY3l1Z3hmVzhXWk1DTzItNFM1UnFFVVEwZnd5Uk1QZy00UEtaSVVXZ3kwM0lZLTJHRmlEN3dQcllBaGpyVFJsYmljQjB0T0tWY1JSOHJOUkdLVDg0dTVPSlI1R3c?oc=5",
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "USA Today",
-      "_pubUrl": "https://www.usatoday.com",
+      "_publisher": "newswire.com",
+      "_pubUrl": "https://www.newswire.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ask an Expert: What CMHC’s housing affordability index is and why it matters",
+      "link": "https://news.google.com/articles/CBMipAFBVV95cUxQb3hWVjZWSTZiU1RsN043RGZYYkhFbDV0WDFmdHh2YW1RbU12czhfZ2FrSE1vVkxHWGN6OHRRdlBwc3VxRFJsODZZNkRfVWZLbHpLcXF0WWJ0U3M2WWV0SFZpTVVXYndRYVNyajVXRUhXQ09KbG1iODAwZHM4SjA1OWZSQTRtVFBiVUVLQTQtUTgzN3A2d0RscU5VcTVuRW9ORzEzcQ?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1177,18 +1156,6 @@
       "_src": "gnontre",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Vancouver condo prices see huge jump over detached homes in past decade",
-      "link": "https://news.google.com/articles/CBMiekFVX3lxTE4wQUJ1ZjByU3ljVDdvUGV1WjRUUXZneTFjSUxQOHA3bTZMd2tFMkRLWGt1eVVBUktRc21iaTZfdnNuZk50bzFtUGsxVnJLeFZpamRKYUtka205NEFOSHA1czFPNFNfTWc3M0pfcHZNeGV2dUNJVmFXcWxB?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "Daily Hive",
-      "_pubUrl": "https://dailyhive.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1312,6 +1279,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Power-of-sale listings spike across Ontario, piling pressure on housing market",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxNdV9xZzhTcmF2cG90aU4tWGR3ZWtxS0Z6SFdhYWZaRGVxQjFSMWlPM08xNndyZXpXOXNOS293aFV6MEtHdE5RbGRzZ1ZMX05HNE01TlEtTEp4Z0taNWNobnUyN3FGQzZZQkhWQnM1b1Fhc18tME9pOUsyVy1RQTVHQ1lieEZuQjBnWGszWVB1ZW0weEROZWxGZVJkWHhFVUVPWFNyclpqaHktZGNSVi1iUzdBcHNUU1o0ci10YmRfQjh2TldU?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Opinion | Why the Ontario government’s proposal to pause affordable housing rule makes sense right now",
       "link": "https://news.google.com/articles/CBMikAJBVV95cUxNMDEtUDNKOHdjcE56S3NGUHhETEpLQ2ZGLVVBaTB2eHUzeGZyMXhCN0VNcFo4OXhOY1Rxbk03Wk1CQVFaOFcxLUxpbGIydUwzeERXRkd1QzRMVjNlZ2Q4Zmt3Rnlwb2pOTXozajBJZWp4Y0l4NzIzQk9QbnhpWGVMSmxvbDV5WlVYMVVieHNHNllBNUx0UXJEN0lheXRSc2dyTlFuZXVZUkI2TVg5THU5TVVOYmtSbkstbkJJaVdzSnhoY2Z0U1FyRU9SaWg4WFBJaGxhYUZIa29rcGUtdFFBWWVmOE5JNXYtSF9OVi1uU05MNlhSMEZwZTBJUC1ta2daUXRZMkN0SnNjSUs1ZllnZQ?oc=5",
       "pubDate": "Sat, 31 Jan 2026 08:00:00 GMT",
@@ -1336,18 +1315,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Op-ed: Ottawa’s new zoning by-law sets the stage for growth of all types",
-      "link": "https://news.google.com/articles/CBMifkFVX3lxTE0xN1hRdU5ZT243UER1Z2pBb1dta3JsdUVXMm9mS0NyZ1J5clc0MTZTeTFZZ0dWekR6LUJNcUVXTHRIMzMyRlBYd3lFQWVDNUZvTXZJODlJTHpxMkdYemUwYjVnV3o2M2VrMW1odHhzOTR4dmt4cUlZVUJnNzVRUQ?oc=5",
-      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ottawa Business Journal",
-      "_pubUrl": "https://obj.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa's zoning overhaul faces final vote Wednesday: here's what's at stake",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxOQXZSRTZKMnA5c2JXQ0hCZ3ViRlpwbjZXQlVjVC1NS3lWT0lGZG5pcWdIQ1IyVUJ3cWtwYU9mYnlod2NPM2l4UU91NVNmUFA3ZWp6NHE3cHplU2ZkUkEtOWI2d2UtRzdEdkE5WXRKbmtNUU1CZVFyZ0x1cHdYWGRob2syYkVZUExsMGpsTEpHZ2ZEUDh0T253OEt6NElnMlk1djhsMUtCTmJ6WWEzSW42LTdCR0xrbWlabm9WUUp3VQ?oc=5",
       "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
@@ -1357,18 +1324,6 @@
       "_src": "gnottdev",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "“No New Condo Completions” In GTHA By Decade’s End: Urbanation",
-      "link": "https://news.google.com/articles/CBMibEFVX3lxTE5UeGZNSTNjWWZKNE43aFotT2x4VHhGbkVmQ1lWOGVlQ0c2MndTQlFKbTc2Rm9vWWduRUFYNDVJUmMxY1poWnR2QTJhaDFvQllpYU15dGhsVmdsdU5YeWJQN0NIYzUydzlGbjlyWQ?oc=5",
-      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Storeys",
-      "_pubUrl": "https://storeys.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1408,6 +1363,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Homes market will need time to recover",
+      "link": "https://news.google.com/articles/CBMieEFVX3lxTE9lZ0ljdFlDZFdMbmNta3Z2SFlKQVY1ME80ZDlPNE9WY0VWdi1SU2JVX3hoOE01Q0w1ZldDbzh4MThaandYdFFyTTRjTVR1WEIxODh4OHBQaFZXc2lMSVVfa3I0M0M4RnA5NGVBZ19DX3BDLWxnQnI4Xw?oc=5",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "How the new zoning bylaw will reshape Ottawa's neighbourhoods",
       "link": "https://news.google.com/articles/CBMiakFVX3lxTFBhQWgyNXkyQmVxQzZIRjV3bFVjd0JQeVJGNW16MWk2OUlmaEE0WlVOR1IxTFAwSFVBSVctVUhrbmlMMXRFVU5ZdDJFbHozMEQyZzZFdm1felNwS3B5eEdiZGkxdnVWd0dNSGc?oc=5",
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
@@ -1417,6 +1384,42 @@
       "_src": "gnottdev",
       "_publisher": "Ottawa Citizen",
       "_pubUrl": "https://ottawacitizen.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "‘It’s going to get worse in Ontario:’ Here’s what experts predict will happen to the housing market in 2026",
+      "link": "https://news.google.com/articles/CBMi4wFBVV95cUxPOEF1YjN1d1BHRl9uMVlWekJCaUsxZ3YzSnFUSk0xd1B4R29DMy02YWNOQ2xNaExfNjVGeDBWTkJPZ0RKVG1UMUpxd3pZZlQ3Z1Y2VG9tMlBIUHdaam1yb1kzSlZ5VTZKTHJhd2RSNUVnQ1ZnNnU5QlpqUHhIVDd5R0NFNm9LYjd6S05zZkM5RTFWYVFoaTdLYW5GU3lNX3RIUHRpc0VtNW1aT0NmUUMxa0swZWRyaGt6eWdJcGJKT012S0xmSHUycXd5SFh1VmRGVDAza2tzOS05WTBqbVMxdkZlWQ?oc=5",
+      "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "CP24",
+      "_pubUrl": "https://www.cp24.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "The Year Ahead: Housing",
+      "link": "https://news.google.com/articles/CBMicEFVX3lxTFBWVDFMZ2lEX1d2Z2prWGJxLTFrZjQwaTdjM2dDU3N3QS00cTNtbE5RdXJTQ3l0UU5abWc5QndoazhtT3ZTSjg2VUZPTEJYejVXVWVDSTdWaVZNc0JtX2VCMXhfT0UxQ2NVa05Gbk9zSEQ?oc=5",
+      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Macleans.ca",
+      "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Who really owns homes in Canada? New data challenges common immigration myths",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxONFZsSTh4S1VzVThhQ3ZWUGZYOTV2SjVNd3RBenMyenF5azNqTWkyb1VsMnl2Rnl4R0FERjIyNEpUUmVRZUtxWEx3Qm51R3gxdC1hSWUxSWtPcGpPa3BXMHFheVptV3V0M3M2MWQ4RjREajQyZE5XZFBHbzc0Slpja3lIaUxXNG1B?oc=5",
+      "pubDate": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "Canadian Immigrant",
+      "_pubUrl": "https://canadianimmigrant.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1501,18 +1504,6 @@
       "_src": "gnottdev",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Residential construction resets for tighter times amid federal shifts",
-      "link": "https://news.google.com/articles/CBMixgFBVV95cUxOa3NFRVBUZzFvVHlDTFFXV0VqdnJtM1g0NVlQenVWa3liQTZhLXN4TWo0dzA1d040WEE5YTVFX0FDOGZQWHVCTnZlVmpuZ2paQjJ1c0d6VFo2OE9ZejVEcFp2cXN4bnVRdC11U3F1ZXVJS29PSlQ5VDlJNlZSZmRMeFgzRk1vQ3VGcnlRM0FXRXVvSlhTV3RybjJzU2lPM2xVbWU5dEVhMjV5Q3NpSXFva09hN1lrbnF2ZDdLU3g0NlZFbGpDUHc?oc=5",
-      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Western Investor",
-      "_pubUrl": "https://www.westerninvestor.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1612,6 +1603,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Committee approves zoning for residential developments in Orléans, Barrhaven",
+      "link": "https://news.google.com/articles/CBMiqwFBVV95cUxQbkg0b3UwUlgyN1JETXdqS3Y0aDFtVGE3X2pUanlYblR3cjlKVGVPanhUVExkQXptN21iNENyWW14ejJRdlZsVi0tMlZaWkh6RmI0QW8yWE9CVGlzSWZENjA4MW4xWV94MHlkU2pkNHhlWFI3dE53RDRxbXN5dGFvLV9NNTlYY1dhZWpSbTVMUExmVmRGVy1HVGhlQ1FqQWtjYkZ1aVNwZXh4cFU?oc=5",
+      "pubDate": "Sun, 08 Jun 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CityNews Ottawa",
+      "_pubUrl": "https://ottawa.citynews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
       "link": "https://news.google.com/articles/CBMiuwFBVV95cUxQMEV1V2JkOHBnZFJwNkhQeTN1Q0MxMks1c3N5dG1mTTRHdEQ3MkdQcDNQUTh3cUJCSUZYRmJZcHVkRFREbmZUdVFSSThyeDBHdWJtZVNVcmJkc1NQWTRrelA4elI4LXJnVXNYNVZSU0VSMmoxaXVRc1NzUFprdW1NZG1NcFFWYlBYT0d4dmFoX19vTUlqdDJYUTY5NUExYTNPRmNQMGVESlllcHFBS3d4dlZsLTJMUDNsMUJN?oc=5",
       "pubDate": "Fri, 11 Apr 2025 09:58:31 GMT",
@@ -1636,18 +1639,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Light Rail Transit",
-      "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1Ha2V6cUVJVUJVdE9GRVBCV2t0alZhbUhEMm5ZRS1ZeGd6YUdaY05yMU9uOVFUVjdwa0xQYWxaOVdhSEkxaFB4aGZrV292UTdNN05ua2lmdE03WWFuem1nWA?oc=5",
-      "pubDate": "Tue, 20 Feb 2024 09:29:49 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "AECOM",
-      "_pubUrl": "https://aecom.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "CMHC 2023: Housing Reports Retrospective",
       "link": "https://news.google.com/articles/CBMilAFBVV95cUxNeTVpVndac3I4dTE2eEgzR1hyaW9qVXNtWDM4WUl3SXNBenNCWTYtZld0eHZpRVktRDk1VlFyQndkTDJ5c2o3QUh1UkEtcW1RYkxYejZMbWJwTmFjTGtqUWlha2o2MXItNEdGamhGUTFibGVvMUJ6LW52RDZNVy0yLW1mLTB2WmJDY2hwRnA2VXJOWGR0?oc=5",
       "pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
@@ -1657,6 +1648,18 @@
       "_src": "gnpolicy",
       "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
       "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa LRT and the Future of P3s: Public (interest), Private (collaboration) &amp; (meaningful) Partnerships",
+      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxOanhhcXcwQWI5SWlraEtrUGZLYlNISVd0cUd2eWhNb283dlRseFY1UGNyNUFnN3RLZGppYXpfbzlLdDVqUFRIVWZ4RkZ1Njd0TjJ2VHpYWUw4dG9qc3VDdkRIQWxtYl9XLS1xalRZTmxhMkpBQkNtZ296SGpFZGlsYmljOERhU25IcW04b3hFMkRrWWJNOS1nRVR3U293UUlVNUE2ZVRFMG83bC10ZVluZzdrMi1OY0xNajNLYUVtMmlfdw?oc=5",
+      "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "McMillan LLP",
+      "_pubUrl": "https://mcmillan.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1696,15 +1699,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa Light Rail Transit System",
-      "link": "https://news.google.com/articles/CBMie0FVX3lxTE9sT25LNWlDMzNKTXdzX2gxRk9nZlIwY2dvTnczQ1hKdVA0YkdHd1UwTUJQR0dvdG13Rm1qUzlWN1ZTNFAzRTRFcWpjWmE3UWlwVk10b2VMNl9kLVlnbl9nLUczSWl0bFQtOVdtYzV6Z1hPWHB0cFJiVUxjaw?oc=5",
-      "pubDate": "Wed, 22 Dec 2021 17:44:00 GMT",
+      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
+      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "Torys LLP",
-      "_pubUrl": "https://www.torys.com",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
