@@ -1,6 +1,6 @@
 {
-  "ts": 1781027564480,
-  "fetched": "2026-06-09T17:52:44.480Z",
+  "ts": 1781040586897,
+  "fetched": "2026-06-09T21:29:46.897Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,81 +89,105 @@
   ],
   "items": [
     {
+      "title": "Commodity prices weigh on TSX, AI stock swings send Wall Street on roller coaster",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/09/sptsx-composite-down-as-price-of-oil-falls-us-stock-markets-also-lower/",
+      "pubDate": "Tue, 09 Jun 2026 20:50:04 -0400",
+      "description": "Canada’s main stock index finished in negative territory, weighed down by declines in commodity prices, while high-flying AI stocks sent Wall Street reeling.",
+      "content": "<media:description type=\"plain\"><![CDATA[The Toronto Stock Exchange Broadcast Centre is shown in Toronto on June 28, 2013. THE CANADIAN PRESS/Aaron Vincent Elkaim]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Aaron Vincent Elkaim</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/LULUZ7VLIG6PAWX6FM5NMGKCWE.jpg?auth=1c1785821c411122d09adaf5ccd5065c11d9a319cf93f76319ed7b7a0f61736c&amp;smart=true&amp;width=1400&amp;height=931",
+      "_src": "bnn",
+      "_ogDesc": "Canada’s main stock index finished in negative territory, weighed down by declines in commodity prices, while high-flying AI stocks sent Wall Street reeling. ",
+      "body": "<p>TORONTO &mdash; Canada’s main stock index finished in negative territory on Tuesday, weighed down by declines in commodity prices, while another sudden reversal for high-flying artificial-intelligence stocks sent Wall Street reeling.&nbsp;</p>\n<p>Ryan Bushell, CEO and portfolio manager at Newhaven Asset Management, said he also thinks the interest rate picture continues to be a concern for the market, following jobs data out of the U.S. last week.&nbsp;</p>\n<p>“The tech stocks sold off extremely hard on Friday, had a bounce yesterday and are giving back most or all of that bounce today,” he said.&nbsp;</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/tsx/\"><b>Real-time TSX market updates here</b></a></li></ul>\n<p>“Those are the ones that are higher risk and they’re long-duration assets because they’re growth stocks, so interest rates have a bigger effect on that market more directly.”&nbsp;</p>\n<p>In New York, the Dow Jones industrial average was up 86.10 points at 50,872.11. The S&amp;P 500 index was down 19.08 points at 7,386.65, while the Nasdaq composite was down 250.84 points at 25,678.82.</p>\n<p>The S&amp;P/TSX composite index was down 67.05 points at 34,411.69.</p>\n<p>Traders on Wall Street largely expect the U.S. Federal Reserve will have to raise its main interest rate at least once by the end of this year. Higher U.S. interest rates would threaten to slow that economy and undercut prices for stocks and all kinds of other investments.&nbsp;</p>\n<p>U.S. indexes swung lower after companies selling computer chips, memory and other building blocks of the AI boom broke from early gains to losses. Micron Technology went from a jump of four per cent to a plummet of 10 per cent, for example, before finishing with a drop of 1.4 per cent. That’s a day after it soared 9.9 per cent and two days after it plunged 13.3 per cent.</p>\n<p>Following last week’s industrywide sell-off, the question is whether AI stocks broadly are heading for a long downturn or just needed a shake-out to get rid of excessive optimism.</p>\n<p>All the while, several big-name AI companies are racing to list their stocks on a U.S. exchange and sell them at high prices. OpenAI, the maker of ChatGPT, said Monday it was the latest to file confidential paperwork with U.S. regulators to open the door for an initial public offering. SpaceX’s IPO could happen later this week.</p>\n<p>The weakness for AI stocks drowned out the benefit Wall Street got from easing oil prices. Nearly three out of every four stocks within the S&amp;P 500 rose, despite the sharp swings for the overall index, as the price for a barrel of Brent crude oil sank three per cent to US$91.45.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>The July crude oil contract was down US$3.10 at US$88.20 per barrel.</p>\n<p>Oil prices pared their losses, though, after U.S. President Donald Trump said Iran was responsible for downing an American military helicopter near the Strait of Hormuz and that the United States “must” respond to the attack.</p>\n<p>Bushell said lower commodity prices on Tuesday weighed on Canada’s benchmark index, which saw declines in basic materials and energy stocks.&nbsp;</p>\n<p>Economists expect the Bank of Canada to hold its benchmark interest rate steady for the fifth straight time during its interest rate announcement on Wednesday.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\"><b>S&P 500 market updates here</b></a></li></ul>\n<p>Bushell said he thinks the Bank of Canada is in a better position compared with the U.S. Federal Reserve.&nbsp;</p>\n<p>“If you look at where the Fed is, rates are still high and there’s still some sort of expectation that they come down. The Bank of Canada is in that sweet spot where they can move either way,” he said.&nbsp;</p>\n<p>“I wouldn’t be surprised to see a hike late this year from the Bank of Canada, but I think they’ve got cover to stand pat.”&nbsp;</p>\n<p>The Canadian dollar traded for 71.70 cents US, unchanged from the previous day.</p>\n<p>The August gold contract was down US$77.00 at US$4,286.40 an ounce.</p>\n<p><i>Daniel Johnson, The Canadian Press</i></p>\n<p><i>With files from The Associated Press.</i></p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>"
+    },
+    {
+      "title": "More swings for AI stocks drag Wall Street back on the roller coaster",
+      "link": "https://www.bnnbloomberg.ca/markets/2026/06/09/wall-street-yo-yos-as-ai-stocks-swing-from-gains-to-losses/",
+      "pubDate": "Tue, 09 Jun 2026 20:30:09 -0400",
+      "description": "Another sudden reversal for high-flying artificial-intelligence  stocks sent Wall Street reeling on Tuesday.",
+      "content": "<media:description type=\"plain\"><![CDATA[Trader Joseph Stevens, left, works on the floor of the New York Stock Exchange. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/ZKI3GKJXNQOKLFPGDVZFTO4F2E.jpg?auth=31f081f4d7cf1fa205a2c16a8fb14bf4ef1b45cf80c57d231547682a723a9002&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Another sudden reversal for high-flying artificial-intelligence  stocks sent Wall Street reeling on Tuesday.",
+      "body": "<p>NEW YORK &mdash; Another sudden reversal for high-flying artificial-intelligence stocks sent Wall Street reeling on Tuesday.</p>\n<p>The S&amp;P 500 fell 0.3 per cent after careening between an initial gain of 1 per cent and a midday loss of 2.3 per cent, pulling further from its all-time high set a week ago. After similar yo-yo moves, the Dow Jones Industrial Average added 86 points, or 0.2 per cent, and the Nasdaq composite dropped one per cent.</p>\n<p>Indexes swung lower after companies selling computer chips, memory and other building blocks of the AI boom broke from early gains to losses. Micron Technology went from a jump of 4 per cent to a plummet of 10 per cent, for example, before finishing with a drop of 1.4 per cent. That’s a day after it soared 9.9 per cent and two days after it plunged 13.3 per cent.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\"><b>S&P 500 market updates here</b></a></li></ul>\n<p>The computer memory company’s stock has already tripled so far this year, raising criticism that it’s gone too far, too fast. Following last week’s industrywide sell-off, the question is whether AI stocks broadly are heading for a long downturn or just needed a shake-out to get rid of excessive optimism.</p>\n<p>Marvell Technology dropped 7.6 per cent, and Advanced Micro Devices sank 3 per cent after both AI winners also erased early-morning gains.</p>\n<p>All the while, several big-name AI companies are racing to list their stocks on a U.S. exchange and sell them at high prices. OpenAI, the maker of ChatGPT, said Monday it was the latest to file confidential paperwork with U.S. regulators top open the door for an initial public offering. SpaceX’s IPO could happen later this week.</p>\n<p>The weakness for AI stocks drowned out the benefit Wall Street got from easing oil prices. Nearly three out of every four stocks within the S&amp;P 500 rose, despite the sharp swings for the overall index, as the price for a barrel of Brent crude oil sank three per cent to US$91.45.</p>\n<p>Oil prices have been unsteady as hopes rise and fade that the United States and Iran can reach a deal to reopen the Strait of Hormuz. A reopening would allow oil tankers to resume delivering crude from the Persian Gulf to customers worldwide.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>Oil prices pared their losses, though, after President Donald Trump said Iran was responsible for downing an American military helicopter near the Strait of Hormuz and that the United States “must” respond to the attack.</p>\n<p>High oil prices caused by the war with Iran have already created a painful acceleration of inflation for U.S. shoppers. They have also pushed bond yields higher worldwide, raising the pressure on stock prices.</p>\n<p>Treasury yields eased Tuesday with the fade in oil prices, relaxing some of that pressure. The yield on the 10-year Treasury fell to 4.52 per cent from 4.56 per cent late Monday, though it’s still well above its 3.97 per cent level from before the war with Iran.</p>\n<p>The latest monthly updates on U.S. inflation will arrive later in the week, with one on consumer prices coming Wednesday and one on wholesale prices coming Thursday.</p>\n<p>Inflation is high enough, and the U.S. job market looks strong enough, that traders on Wall Street largely expect the Federal Reserve will have to raise its main interest rate at least once by the end of this year. Higher interest rates would keep a lid on inflation, but they would also threaten to slow the economy and undercut prices for stocks and all kinds of other investments.</p>\n<p>The average long-term U.S. mortgage rate recently hit its highest level in nine months, and high costs to borrow money could discourage the building of AI data centers that are fueling the U.S. economy’s growth.</p>\n<p>On Wall Street, airline stocks flew higher after the drop in oil prices hinted at less pressure on their fuel bills. American Airlines rose 3.6 per cent, and Delta Air Lines gained 3.8 per cent.</p>\n<p>J.M. Smucker jumped 10.4 per cent after reporting a stronger profit for the latest quarter than analysts expected. The company behind the Folgers, Hostess and other brands benefited from higher prices charged for coffee and sweet baked goods. It joined a long list of U.S. companies delivering stronger profit growth than analysts expected, which has helped drive the S&amp;P 500 to record after record this year.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/economics/\"><b>Latest economic news on BNNBloomberg.ca</b></a></li></ul>\n<p>Nuvalent soared 39.3 per cent after GSK agreed to buy the biotech company for US$10.6 billion. The shares of U.K.-based GSK that trade in New York added 1.2 per cent.</p>\n<p>All told, the S&amp;P 500 slipped 19.08 points to 7,386.65. The Dow Jones Industrial Average added 86.10 to 50,872.11, and the Nasdaq composite fell 250.84 to 25,678.82.</p>\n<p>In stock markets abroad, indexes dipped in Europe following bigger moves in Asia.</p>\n<p>South Korea’s Kospi jumped 8.2 per cent and nearly recovered Monday’s plunge of 8.3 per cent. It’s been beholden to the performance of big tech stocks like SK Hynix and Samsung Electronics.</p>\n<p><i>Stan Choe, The Associated Press</i></p>\n<p><i>AP Business Writers Matt Ott and Elaine Kurtenbach contributed to this report.</i></p>"
+    },
+    {
+      "title": "UAE’s state energy giant is eyeing Canadian LNG",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/09/adnoc-eyeing-canada-upstream-and-lng-opportunities-via-xrg-arm-executive-says/",
+      "pubDate": "Tue, 09 Jun 2026 20:25:16 -0400",
+      "description": "Abu Dhabi National Oil Company is exploring opportunities in Canada’s upstream and liquefied natural gas sectors through its international arm XRG, a senior company executive said on Tuesday at the Global Energy Show in Calgary.",
+      "content": "<media:description type=\"plain\"><![CDATA[Prime Minister Mark Carney, left, meets with UAE Minister of Industry and Advanced Technology and Managing Director of state-run Abu Dhabi National Oil Co. (ADNOC) Sultan Ahmed al-Jaber as he arrives in Abu Dhabi, Wednesday, Nov. 19, 2025. THE CANADIAN PRESS/Sean Kilpatrick]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/XSIW6TKVONCC5NQ6J3TGWLJE4A.JPG?auth=df7fb21200dd711336e407c064390a3b20c8e0a49f0fea9f5995f9f411aee06c&amp;smart=true&amp;width=8455&amp;height=5637",
+      "_src": "bnn",
+      "_ogDesc": "Abu Dhabi National Oil Company is exploring opportunities in Canada’s upstream and liquefied natural gas sectors through its international arm XRG, a senior company executive said on Tuesday at the Global Energy Show in Calgary.",
+      "body": "<p>Abu Dhabi National Oil Company is exploring opportunities in Canada’s upstream and liquefied natural gas sectors through its international arm XRG, a senior company executive said on Tuesday at the Global Energy Show in Calgary.</p>\n<p>Musabbeh Al Kaabi, ADNOC’s CEO of upstream, did not provide details on what specific investments the company may be eyeing in Canada, but said he is encouraged by Canada’s renewed focus on energy development.</p>\n<p>The United Arab Emirates has been looking to expand its energy investments abroad, especially through its recently launched firm XRG, the foreign investment arm of state-owned ADNOC.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/international/\"><b>Latest updates on international news here</b></a></li></ul>\n<p>At the same time, Canada has been seeking to diversify exports beyond its main market of the United States in the face of tariff threats from President Donald Trump. Late last year, Prime Minister Mark Carney made an official visit to the UAE.</p>\n<p>“That visit also set the tone for more collaboration in the near future,” Al Kaabi said.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>Canada is the world’s fourth-largest crude oil producer and fifth-largest natural gas producer. The country’s new LNG export industry has attracted interest from global customers, most recently Germany’s SEFE and Uniper.</p>\n<p>Natural Resources Minister Tim Hodgson said on Tuesday that Canada is seeking to market itself as a source of safe, secure energy during a time of global uncertainty.</p>\n<p>ADNOC already has a presence in Canada through its portfolio company, Nova Chemicals, which has operations in Alberta.</p>\n<p><i>Reporting by Amanda Stephenson in Calgary and Katha Kalia in Bengaluru; Editing by Tasim Zahid and Nia Williams</i></p>"
+    },
+    {
+      "title": "What to know about Trump’s US$100,000 H-1B visa fee and the legal rebuke that followed",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/06/09/what-to-know-about-trumps-us100000-fee-on-h-1b-visas-and-the-court-decision-that-struck-it-down/",
+      "pubDate": "Tue, 09 Jun 2026 20:04:24 -0400",
+      "description": "U.S. President Donald Trump last year dramatically ratcheted up the fee for H-1B work visas to US$100,000, saying it would protect American workers from losing their jobs to lower-paid foreigners.",
+      "content": "<media:description type=\"plain\"><![CDATA[U.S. Commerce Secretary Howard Lutnick speaks as U.S. President Donald Trump signs the Gold Card executive order in the Oval Office of the White House, Sept. 19, 2025, in Washington. (AP Photo/Alex Brandon)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/IMYX57T3UZCATJYMOITPJZQFNI.jpg?auth=8a4a37ffb5804e84c0b8512cc54d23e12571b1fc4e8214242bd1d7f422dd3a16&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "U.S. President Donald Trump last year dramatically ratcheted up the fee for H-1B work visas to US$100,000, saying it would protect American workers from losing their jobs to lower-paid foreigners. ",
+      "body": "<p>WASHINGTON &mdash; U.S. President Donald Trump last year dramatically ratcheted up the fee for H-1B work visas to US$100,000, saying it would protect American workers from losing their jobs to lower-paid foreigners.</p>\n<p>But on Monday a federal judge struck down the fees, siding with 20 states and ruling that the Trump administration exceeded its authority by raising the charge without congressional approval.</p>\n<p>Many tech companies and universities rely on the H-1B program to fill openings for skilled jobs. But critics charge the visa program has been used to replace American tech workers. Here’s a look at the visa program, Trump’s fee and the court’s decision.</p>\n<h2>What are H-1B visas and who uses them?</h2>\n<p>Created by the 1990 Immigration Act, they are a type of nonimmigrant visa, meant to allow American companies to bring in people with technical skills that are hard to find in the United States. The visas are not intended for people who want to stay permanently. Some eventually do, but only after transitioning to different immigration statuses.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/international/\"><b>Latest updates on international news here</b></a></li></ul>\n<p>An H-1B allows employers to hire foreign workers who have specialized skills and a bachelor’s degree or the equivalent. They are good for three years and can be extended another three years. Stephen Brown of Capital Economics estimated last year that there were around 700,000 H-1B visa holders in the United States along with another 500,000 dependents.</p>\n<p>At least 60 per cent of the H-1B visas approved since 2012 have been for computer-related jobs, according to the Pew Research Center. But hospitals, banks, universities and a wide range of other employers can and do apply for H-1B visas.</p>\n<p>The number of new visas issued annually is capped at 65,000, plus an additional 20,000 for people with a master’s degree or higher. Those visas are handed out by a lottery. Some employers, such as universities and nonprofits, are exempt from the limits.</p>\n<h2>What did Trump do and why?</h2>\n<p>The White House announced the US$100,000 fee last September. The application fee previously was US$215 to enter the visa lottery, plus other processing charges. The higher fee took effect barely 24 hours after the announcement.</p>\n<p>Critics say that H-1B visas undercut American workers, luring people from overseas who are often willing to work for less than American tech workers do. Staffing companies such as Tata Consultancy Services often supply Indian workers to corporate clients. According to Pew, nearly three-quarters of those whose applications were approved in 2023 came from India.</p>\n<p>“To take advantage of artificially low labour costs incentivized by the program, companies close their IT divisions, fire their American staff, and outsource IT jobs to lower-paid foreign workers,’’ the White House said in its proclamation last year. In a 2020 report, the left-leaning Economic Policy Institute found that 60 per cent of the H-1B positions certified by U.S. Labor Department are assigned wages below the median for the job.</p>\n<p>Supporters of the program say H-1B visa holders increase companies’ productivity and complement the work of native-born Americans.</p>\n<p>Very few companies have been willing to pay Trump’s fee. The government had received only 85 fee payments, worth US$8.5 million in revenue, as of mid-February, according to a government court filing in March. “The US$100,000 fee was not a success in terms of revenue generation,” said Bernhard Mueller, co-chair of the immigration practice at the law firm Ogletree Deakins.</p>\n<p>The higher fee did not apply to foreigners already inside the United States on student visas and seeking to stay on to work in America, and it has caused only a small drop in the number of H-1B visas being issued; earlier this year, Capital Economics noted, they were running at the same level as they did in the 2010s, according to a Capital Economics report.</p>\n<h2>What happened in court Monday?</h2>\n<p>U.S. District Court Judge Leo Sorokin in Boston ruled that the fee violated the Administrative Procedure Act, which governs how federal agencies develop and issue regulations. “The Court finds that the Policy imposes a tax on H-1B petitions without the requisite delegation by Congress,” Sorokin wrote.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/economics/\"><b>Latest economic news on BNNBloomberg.ca</b></a></li></ul>\n<p>His ruling contradicted an earlier federal court ruling — in a separate legal challenge to the H-1B fee brought by the U.S. Chamber of Commerce — that upheld the charge and kept it in effect until it is scheduled to expire in September.</p>\n<p>Yet another lawsuit has also been filed in federal court in San Francisco by religious groups and labour organizations, setting up the possibility of divided rulings in three appellate court circuits.</p>\n<p>In the Boston case, the states argued that the policy impedes their ability to hire primary and secondary school educators and to staff public colleges and universities, which will stymie academic research and lead to a decline in medical workers.</p>\n<p><i>Paul Wiseman, The Associated Press</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
       "title": "PM Carney calls Gordie Howe Bridge opening ‘positive news,’ White House says Trump’s position ‘has not changed’",
       "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/09/confirming-opening-of-gordie-howe-bridge-pm-carney-calls-it-positive-news/",
-      "pubDate": "Tue, 09 Jun 2026 17:34:45 -0400",
+      "pubDate": "Tue, 09 Jun 2026 19:53:16 -0400",
       "description": "Prime Minister Mark Carney is calling the long-awaited opening of the Gordie Howe International Bridge “positive news” after reports on Monday said the bridge would open later this week.",
       "content": "<media:description type=\"plain\"><![CDATA[Construction continues on the Gordie Howe International Bridge, in Windsor, Ont., on Tuesday, Feb. 10, 2026. THE CANADIAN PRESS/Dax Melmer]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Dax Melmer</media:credit>",
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/QQTEHNJOFZKP4R3ITUWFDUWJRI.jpg?auth=129243041d60c01f604feb0623f1d03819b1c902b397f4fc63bea9a7cd87e2e2&amp;smart=true&amp;width=1400&amp;height=933",
       "_src": "bnn",
       "_ogDesc": "Prime Minister Mark Carney is calling the long-awaited opening of the Gordie Howe International Bridge “positive news” after reports on Monday said the bridge would open later this week.",
-      "body": "<p>Prime Minister Mark Carney has confirmed the long-awaited opening of the Gordie Howe International Bridge, calling it “positive news” after reports on Monday said that the bridge would open later this week.</p>\n<p>“The bridge will be open at the end of the week. A symbol of, but also a fact of co-operation between our countries,” Carney said to reporters on Tuesday in Ottawa ahead of a cabinet meeting. “Great for Canadians going across the border, Americans coming across the border and for commerce.”</p>\n<p>On Monday, citing sources familiar with the plans, the <a href=\"https://www.detroitnews.com/story/news/politics/2026/06/08/date-set-for-opening-of-gordie-howe-international-bridge-to-traffic-canada-detroit-trump/90463427007/\" rel=\"\" title=\"https://www.detroitnews.com/story/news/politics/2026/06/08/date-set-for-opening-of-gordie-howe-international-bridge-to-traffic-canada-detroit-trump/90463427007/\">Detroit News reported that a ribbon-cutting ceremony</a> for the new Windsor-Detroit crossing is expected to take place Friday, with the bridge officially opening to traffic on June 15. Carney did not specify when traffic would start to flow on the bridge.</p>\n<p>“I just want to salute those who constructed it on both sides, and (we are) looking forward to getting it done,” the prime minister later added.</p>\n<p>Earlier this year, CTV News reported that both sides were trying to quietly negotiate an opening date after U.S. President Donald Trump complained in February that Canada was not treating the U.S. fairly on trade. Trump went on a lengthy tirade that included the construction of the Gordie Howe International Bridge as part of his grievance.</p>\n<p>In a statement to CTV News on Tuesday after Carney’s comments, a White House official said that the “president’s position on the Gordie Howe Bridge has not changed.”</p>\n<p>“The Administration remains committed to securing the best possible deal for the American people,” the statement goes on to say.</p>\n<p><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/business/article/gordie-howe-bridge-opening-date-being-quietly-negotiated-to-avoid-angering-trump-source/\" rel=\"\"><b>Gordie Howe bridge: Officials try to avoid angering Trump</b></a></p>\n<p>Construction on the bridge began in 2018 and its opening has recently been stalled amid trade tensions between Canada and the U.S.</p>\n<p>The cable-stayed bridge - which has an estimated cost of $6.4 billion - will have three Canadian-bound and three U.S.-bound lanes and will be among the top five longest bridges in North America.</p>\n<p>A deal to construct the project was first signed in 2012 as part of the Canada-Michigan Crossing Agreement, during which Canada agreed to front the full construction costs and recoup its investment through tolls. The federal government will later split the money with Michigan once the money has been recouped.</p>\n<h2>Opening ceremony expected Friday</h2>\n<p>In an invite obtained by CTV News that was sent to invitees on Tuesday, a ribbon-cutting ceremony was confirmed to be scheduled for Friday afternoon.</p>\n<p>Speaking to reporters in Washington on Tuesday, Ontario Premier Doug Ford said, “I hope so” when asked if the bridge will open. He later added “let’s see what really happens.”</p>\n<p>Meanwhile, Windsor Mayor Drew Dilkens said in an interview with AM800 in Windsor on Tuesday morning, that he had yet to receive an official invitation to the bridge’s opening.</p>\n<p>Detroit Mayor Mary Sheffield’s office also told CTV News that as of Monday, they have not yet received any direct information about an opening.</p>\n<h2>‘This is a long time coming’</h2>\n<p>Detroit Regional Chamber President and CEO Sandy Baruah called the developments “a long time coming,” while also describing details on the official flow of traffic “a little fuzzy.”</p>\n<p>“These are two nations that have worked together so well over the century plus. This is a kind of a stake in the ground that really reconfirms the very close and very symbiotic U.S.-Canada relationship,” Baruah said in an interview with CTV News.</p>\n<p>Baruah also acknowledged what he called the “unusual political times” happening in North America and “across all industrialized political times.”</p>\n<p>Former Ontario finance minister Dwight Duncan, who previously served as the chair of the Windsor-Detroit Bridge Authority (WDBA) and oversaw the initial planning phases of the project, said he “felt confident” the bridge would open despite Trump’s previous claims on social media.</p>\n<p>“I’ll be honest with you, I’m surprised that it’s been resolved as quickly as it has,” Duncan told CTV News. “And kudos to Canada and to our American friends… the many, many American friends who have long supported this project.”</p>\n<p><i>With files from CTV News Ottawa Bureau Chief Graham Richardson, CTV News’ Senior Political Correspondent Mike Le Couteur, CTV News’ Brennan MacDonald and CTV Windsor’s Robert Lothian</i></p>"
-    },
-    {
-      "title": "Barry Schwartz’s Top Picks for June 9, 2026",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/06/09/barry-schwartzs-top-picks-for-june-9-2026/",
-      "pubDate": "Tue, 09 Jun 2026 17:33:25 -0400",
-      "description": "Top Picks from Barry Schwartz, President & CIO, Baskin Wealth Management",
-      "content": "<media:description type=\"plain\"><![CDATA[Barry Schwartz, president & CIO at Baskin Wealth Management]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KCJROAOLMVA77L7F3WSRWRLBHI.PNG?auth=f826701fc585398cc9519ef9dbd3adecc83f1bae7fd598088067a7d1929bc85c&amp;smart=true&amp;width=821&amp;height=459",
-      "_src": "bnn",
-      "_ogDesc": "Top Picks from Barry Schwartz, President & CIO, Baskin Wealth Management",
-      "body": "<p>Barry Schwartz, President &amp; CIO, Baskin Wealth Management</p>\n<p>Focus: North American large cap stocks</p>\n<p>Top Picks: <a href=\"https://www.bnnbloomberg.ca/stock/META:UW/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/META:UW/\">Meta</a>, <a href=\"https://www.bnnbloomberg.ca/stock/NA:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/NA:CT/\">National Bank</a>, <a href=\"https://www.bnnbloomberg.ca/stock/CSU:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/CSU:CT/\">Constellation Software</a></p>\n<p>Stocks are up for a good reason, the earnings growth is the fastest since 2021. At some point this artificial intelligence (AI) bonanza will cool and investors should be diligent in their research and not pay up for hype.</p>\n<p>We are finding the best opportunities in high quality North American businesses that haven’t participated in the rally.</p>\n<p>Companies involved in software, information technology, healthcare, media and insurance offer good values here.</p>\n<p>We are overweight U.S. given the breadth of opportunities.</p>\n<ul><li><i>Market-moving news, fast:&nbsp;</i><a href=\"https://www.bnnbloomberg.ca/app/\" target=\"_blank\" rel=\"noopener noreferrer\"><i><b>Get the BNN Bloomberg App now</b></i></a></li><li><i>Sign up for the Market Call Top Picks newsletter at&nbsp;</i><a href=\"http://bnnbloomberg.ca/subscribe\" target=\"_blank\" rel=\"noopener noreferrer\"><i><b>bnnbloomberg.ca/subscribe</b></i></a></li></ul>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/NA:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/NA:CT/\"><b>National Bank</b></a><b> (NA TSX) </b></p>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/CSU:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/CSU:CT/\"><b>Constellation Software</b></a><b> (CSU TSX) </b></p>\n<p><b>PAST PICKS: SEPT. 2, 2025</b></p>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/TSM:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/TSM:UN/\"><b>Taiwan Semi</b></a><b> (TSM NYSE) </b></p>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/TFII:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/TFII:CT/\"><b>TFI International</b></a><b> (TFII TSX) </b></p>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/COST:UQ/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/COST:UQ/\"><b>Costco</b></a><b> (COST NASDAQ) </b></p>\n<p><b>Total Return Average: 58%</b></p>"
-    },
-    {
-      "title": "Anthropic rolls out public version of Mythos without cybersecurity capability",
-      "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/09/anthropic-rolls-out-public-version-of-mythos-without-cybersecurity-capability/",
-      "pubDate": "Tue, 09 Jun 2026 17:27:25 -0400",
-      "description": "Anthropic is rolling out a public version of its Mythos AI model, but with guardrails barring its use in risky areas such as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find software flaws.",
-      "content": "<media:description type=\"plain\"><![CDATA[Dario Amodei, CEO and co-founder of Anthropic, attends the annual meeting of the World Economic Forum in Davos, Switzerland, Jan. 23, 2025. (AP Photo/Markus Schreiber, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Markus Schreiber</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/EGH3L4MHEYO5PAWS4XGAN3R7YQ.jpg?auth=dc4dd76d3a46615db03a7e699af919044eb29dee5e3628fb68b4e19a84c493ad&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Anthropic is rolling out a public version of its Mythos AI model, but with guardrails barring its use in risky areas such as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find software flaws.",
-      "body": "<p>Anthropic is rolling out a public version of its Mythos AI model, but with guardrails barring its use in risky areas such as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find software flaws.</p>\n<p>The new Claude Fable 5 is the most powerful model Anthropic has ever made for wider use, the startup said on Tuesday, touting its performance in software engineering and analytics.</p>\n<p>Anthropic has so far limited its access to a group of about 200 organizations including the U.S. government under the Glasswing program, after announcing in April that Mythos had uncovered thousands of software ​vulnerabilities.</p>\n<p>Offering its capabilities more widely may allow the $965 billion company to extend the momentum that has powered its valuation above rival OpenAI just as the two startups at the center of the AI industry race to go public.</p>\n<p>The company said it had done extensive testing to ensure that users could not manipulate the new model to bypass its guidelines and perform restricted actions.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>“Let’s say I’m a college student asking the model like help me find cyber vulnerabilities on X package or code. The model would refuse and Fable 5 will fall back to Opus 4.8 for a response,” Dianne Penn, Anthropic’s head of product management, research and labs, told Reuters.</p>\n<p>Fable 5 will be a more expensive model, but it accomplishes tasks with lower token usage, bringing the overall cost per task down, according to early customer feedback, Penn said.</p>\n<p>Anthropic also said users who had access to the preview version of Claude Mythos, the version without guardrails, would be able to upgrade to the new Claude Mythos 5.</p>\n<p>The company said it planned to expand access over time through a more “systematic trusted-access program.”</p>\n<p>Pricing on both models is US$10 per million input tokens and $50 per million output tokens, the company said.</p>\n<p><i>(Reporting by Zaheer Kachwala in Bengaluru and Deepa Seetharaman in San Francisco; Editing by Anil D’Silva)</i></p>"
-    },
-    {
-      "title": "Ksi Lisims LNG signs benefit agreements with 3 First Nations",
-      "link": "https://www.bnnbloomberg.ca/investing/commodities/2026/06/09/ksi-lisims-lng-signs-benefit-agreements-with-3-first-nations/",
-      "pubDate": "Tue, 09 Jun 2026 17:14:43 -0400",
-      "description": "The lead developer of the Ksi Lisims liquefied natural gas project planned for the West Coast has announced benefit agreements with three First Nations in northern British Columbia.",
-      "content": "<media:description type=\"plain\"><![CDATA[Nisga'a Nation President, Eva Clayton, speaks during a Ksi Lisims LNG announcement of an environmental assessment certificate from the Government of British Columbia in Vancouver, on Tuesday, Sept. 16, 2025. (Ethan Cairns / The Canadian Press)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">ETHAN CAIRNS</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VUJY7J3MCGYX5RPWJNQQP4R6WM.jpg?auth=79fc354fdd65755223c7772a8381952022fbc13e11f0d4d99b706297737b2495&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "The lead developer of the Ksi Lisims liquefied natural gas project planned for the West Coast has announced benefit agreements with three First Nations in northern British Columbia. ",
-      "body": "<p>The lead developer of the Ksi Lisims liquefied natural gas project planned for the West Coast has announced benefit agreements with three First Nations in northern British Columbia.</p>\n<p>Houston-based Western LNG says two of those communities — the Metlakatla First Nation and Lax Kw’alaams Band — have in turn withdrawn their legal challenge to the federal approval of the $10-billion project.</p>\n<p>The third agreement is with the Gitxaala Nation.</p>\n<p>The benefit agreements cover aspects like economic development opportunities and climate initiatives for the affected communities.</p>\n<p>The other Ksi Lisims partners are Rockies LNG, a consortium of Canadian natural gas producers, and the Nisga’a Nation, on whose land the project would be built.</p>\n<p>Ksi Lisims has recently announced preliminary supply deals with German utilities and the partners aim to make a final go-ahead decision this year.</p>\n<p>“We have always envisioned the Ksi Lisims LNG project as economically important for the entirety of northwest B.C., and we are pleased to see this vision materializing,” said Eva Clayton, president of the Nisga’a Nation.</p>\n<p><i>This report by Lauren Krugel of The Canadian Press was first published June 9, 2026.</i></p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Rents fall as new completions surge and demand slows, but rebound expected: CMHC",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/09/rents-fall-as-new-completions-surge-and-demand-slows-but-rebound-expected-cmhc/",
-      "pubDate": "Tue, 09 Jun 2026 16:47:23 -0400",
-      "description": "Canada’s housing agency says rental prices have fallen amid an influx of new completions and slower population growth, but demand in major cities is expected to grow in part due to improving affordability.",
-      "content": "<media:description type=\"plain\"><![CDATA[A \"For Rent\" sign is seen outside apartments in the Lachine borough of Montreal on Thursday, June 4, 2026. THE CANADIAN PRESS/Christinne Muschi]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Christinne Muschi</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/ZCQKDDRGAW32GWE2TY65ZHOTRM.jpg?auth=84752227719a8ef717b369af6e0b8f41c711fc94c4bf19bc4147cc110bc60c0b&amp;smart=true&amp;width=1400&amp;height=957",
-      "_src": "bnn",
-      "_ogDesc": "Canada’s housing agency says rental prices have fallen amid an influx of new completions and slower population growth, but demand in major cities is expected to grow in part due to improving affordability.",
-      "body": "<p>OTTAWA — Canada’s housing agency says rental prices have fallen amid an influx of new properties and slower population growth, but demand in major cities is expected to grow in part due to improving affordability.</p>\n<p>Canada Mortgage and Housing Corp.’s <a href=\"https://www.cmhc-schl.gc.ca/observer/2026/2026-mid-year-rental-market-update\" target=\"_self\" rel=\"\" title=\"https://www.cmhc-schl.gc.ca/observer/2026/2026-mid-year-rental-market-update\">mid-year rental market report</a> said increased supply from new buildings is driving asking rents for available units lower, particularly in markets such as Toronto, Vancouver, Calgary and Ottawa.</p>\n<p>Meanwhile, it said Halifax’s asking rents have begun to stabilize after previous declines, while Montreal and Edmonton showed little change.</p>\n<p>Overall, rental apartment completions in early 2026 are tracking above the same period in 2025.</p>\n<p>A surge in new condominium apartments in Toronto and Vancouver -- many of which couldn’t be absorbed in the ownership market and are now instead being rented out -- is also contributing to that dynamic.</p>\n<p>Supply is now outpacing demand for those new units, providing renters with more choice and some negotiating room, the report said. However, It cautioned that this source of new supply will decline in the coming years as condominium apartment completions are projected to fall sharply.</p>\n<p>In addition to lowering rents, the report says landlords are turning to incentives to attract tenants, often advertising multiple months of waived rental fees, free or discounted parking, gift cards, move-in credits or cash bonuses.</p>\n<p>“Recent supply growth is improving choice for renters in some segments of the rental market, particularly among newer, more expensive units,” CMHC deputy chief economist Tania Bourassa-Ochoa said in a news release.</p>\n<p>“However, persistently tight conditions in lower segments of the market highlight that affordability challenges remain and will take time to address.”</p>\n<p>The report also described a short-term imbalance between supply and demand for new, higher-priced units, leading to rising vacancies that can often take months to fill.</p>\n<p>CMHC said vacancies were highest in structures built after 2020 and in units located near post-secondary institutions, while older stabilized buildings and family-sized units continue to experience tighter market conditions.</p>\n<p>Still, landlords are continuing to increase rents paid on occupied units, as well as raising rents once a unit becomes available in markets with low turnover. The report said this is contributing to an increase in the average rents paid by all tenants.</p>\n<p>Despite weak population growth and elevated unemployment rates, CMHC said rental demand in major cities is expected to rebound thanks to improving affordability for new tenants, return-to-office trends, along with large cohorts of young adults seeking independence.</p>\n<p>“This is especially true amid economic uncertainty and lower costs compared to ownership,” the report said.</p>\n<p>“Notably, easing housing costs are expected to support growth in Toronto and Vancouver. This will enable previously suppressed households to form.”</p>\n<p><i>Sammy Hudes, The Canadian Press</i></p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>"
-    },
-    {
-      "title": "What is ‘doomjobbing’? Here’s why experts are concerned about this trend",
-      "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/09/what-is-doomjobbing-heres-why-experts-are-concerned-about-this-trend/",
-      "pubDate": "Tue, 09 Jun 2026 16:43:35 -0400",
-      "description": "Many people desperate to find work have been “doomjobbing,” sending mass job applications with the help of artificial intelligence and inundating hiring teams, according to employment insiders.",
-      "content": "<media:description type=\"plain\"><![CDATA[Experts say \"doomjobbing\" isn't a good strategy for finding work. (Pexels)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/WTEBJNA4S5EHBAW3MHH6RJBRFQ.jpg?auth=6bab5e7e25316db58381bdc0a9e7f15e78d0937704e7ab72070645cc341c9224&amp;smart=true&amp;width=5184&amp;height=3456",
-      "_src": "bnn",
-      "_ogDesc": "Many people desperate to find work have been “doomjobbing,” sending mass job applications with the help of artificial intelligence and inundating hiring teams, according to employment insiders.\n",
-      "body": "<p>Many people desperate to find work have been “doomjobbing,” sending mass job applications with the help of artificial intelligence and inundating hiring teams, according to employment insiders.</p>\n<p>Doomjobbing highlights some of the challenges facing jobseekers amid a fiercely competitive job market and <a href=\"https://www.ctvnews.ca/canada/article/the-number-of-young-people-in-canada-without-a-job-continues-to-rise-heres-what-experts-say-you-should-do/\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/the-number-of-young-people-in-canada-without-a-job-continues-to-rise-heres-what-experts-say-you-should-do/\">rising youth unemployment rate</a>, experts say, but it isn’t the best strategy.</p>\n<p>Alexandra Tillo, senior talent marketing consultant at the jobs site Indeed, said applying to dozens of jobs in one sitting may “feel productive,” but it can backfire and lead to burnout.</p>\n<p>“The challenge is that the quantity doesn’t always translate into results,” she said in a Zoom interview with CTVNews.ca from Toronto on Monday. “And so when you have candidates that spend very little time tailoring applications or even thinking critically about the fit for the role, they often end up putting more effort while they’re seeing fewer (positive) outcomes ...”</p>\n<h2>What is doomjobbing?</h2>\n<p>Doomjobbing means “endlessly applying to a high volume of jobs with relatively low energy, low focus, and low personalization or detail,” Ben Shepherd, branch director with the global employment agency Robert Half, said in a Zoom interview with CTVNews.ca from Calgary on Monday.</p>\n<p>Doomjobbing has been likened to the job search version of “<a href=\"https://dictionary.cambridge.org/dictionary/english/doomscrolling\" rel=\"\" title=\"https://dictionary.cambridge.org/dictionary/english/doomscrolling\">doomscrolling</a>.” <a href=\"https://dictionary.cambridge.org/dictionary/english/doomscrolling\" rel=\"\" title=\"https://dictionary.cambridge.org/dictionary/english/doomscrolling\">Doomscrolling</a> is already found in dictionaries, which define it as spending a lot of time reading negative news online.</p>\n<p>Doomjobbing has now been gaining attention online. In an <a href=\"https://www.instagram.com/p/DYo3MV6oCSM/\" rel=\"\" title=\"https://www.instagram.com/p/DYo3MV6oCSM/\">Instagram post on May 22</a>, Cambridge Dictionary asked if doomjobbing should be a new word.</p>\n<h2>Why doomjobbing?</h2>\n<p><a href=\"https://www.oecd.org/en/topics/sub-issues/generative-ai.html\" rel=\"\" title=\"https://www.oecd.org/en/topics/sub-issues/generative-ai.html\">Generative AI</a> has contributed to the rise of doomjobbing, Shepherd said. People have been using AI to make it more efficient to apply for multiple jobs, he said, bombarding job postings across different industries with automated job applications.</p>\n<p>Doomjobbing is coming from pressure, not laziness, said Nancy D’Onofrio, vice-president of strategic accounts and <a href=\"https://business.linkedin.com/sales-solutions/social-selling\" rel=\"\" title=\"https://business.linkedin.com/sales-solutions/social-selling\">social selling</a> with recruitment firm Randstad Canada.</p>\n<p>“So there’s a lot of job market anxiety, and technology in the midst of that really makes it easy to submit, right?” D’Onofrio said in a Zoom interview with CTVNews.ca from Toronto on Monday, noting people can get into a “reactive mode instead of a proactive strategic mindset when applying.”</p>\n<p>Doomjobbing could result from a “confidence gap,” D’Onofrio added.</p>\n<p>A 2026 report from Randstad found that <a href=\"https://www.randstad.com/press/2026/randstad-releases-new-workmonitor-2026-report/\" rel=\"\" title=\"https://www.randstad.com/press/2026/randstad-releases-new-workmonitor-2026-report/\">more than nine in 10 employers are confident in the growth of their business</a> this year, but just over half of workers feel the same.</p>\n<p>This “confidence gap” is based on insights from more than 27,000 workers, 1,225 employers, and more than three million global job postings in 35 markets across Europe, Asia-Pacific and the Americas, including Canada.</p>\n<p>The survey, which was conducted in October 2025, also found that the workplace is marked by “economic strain” on both staff and employers as AI increasingly is adopted.</p>\n<p>“So based on our research and the fact that there’s a confidence gap, talent just feel like they have to apply more, and volume is the game that obviously they’re leveraging,” D’Onofrio said.</p>\n<h2>Hiring teams’ concerns</h2>\n<p>While AI can be a helpful tool, it can hinder applications if “misused or overused,” Shepherd added.</p>\n<p>“Not also only the high volume, but (employers are) having to spend more time qualifying these candidates because everyone looks the same, having utilized a lot of the same gen AI prompts to generate their resumes,” Shepherd said.</p>\n<p>According to a survey published by <a href=\"https://www.newswire.ca/news-releases/new-survey-61-per-cent-of-hr-leaders-report-ai-generated-applications-are-slowing-hiring-824686602.html\" rel=\"\" title=\"https://www.newswire.ca/news-releases/new-survey-61-per-cent-of-hr-leaders-report-ai-generated-applications-are-slowing-hiring-824686602.html\">Robert Half</a> in March, 64 per cent of hiring managers said the surge in applications and concerns about the authenticity of AI-generated resumes pose challenges for their companies. It featured responses from 1,500 hiring managers across Canada.</p>\n<h2>How to stand out</h2>\n<p>Tillo of Indeed said candidates can often see “stronger results” if they shift their focus “from volume to relevance,” with fewer and higher quality applications.</p>\n<p>“Don’t mass apply ... Ask yourself if the role actually works for you,” she said. “You can look at the location, the schedule, compensation, if it’s a remote job, if it’s in person, if it’s a long-term fit.”</p>\n<p>D’Onofrio said jobseekers should leverage AI as a “strategic tool” to obtain insights about a company, which could help them tailor their applications. AI can be used to research a company, understand its challenges and how candidates could add value, including where their skills may have the most impact, she said as examples.</p>\n<p>Beyond AI, candidates also can reach out to hiring managers, such as through social networks like LinkedIn, she added.</p>\n<p>“And it’s very important to figure out, how can I still have my voice shine through, and that’s what talent acquisition individuals are looking for,” D’Onofrio said. “It’s that human attribute, it’s that human skill, it’s that connection that they’re looking to build with that talent, and that’s what’s going to set you apart.”</p>"
+      "body": "<p>Prime Minister Mark Carney has confirmed the long-awaited opening of the Gordie Howe International Bridge, calling it “positive news” after reports on Monday said that the bridge would open later this week.</p>\n<p>“The bridge will be open at the end of the week. A symbol of, but also a fact of co-operation between our countries,” Carney said to reporters on Tuesday in Ottawa ahead of a cabinet meeting. “Great for Canadians going across the border, Americans coming across the border and for commerce.”</p>\n<p>On Monday, citing sources familiar with the plans, the <a href=\"https://www.detroitnews.com/story/news/politics/2026/06/08/date-set-for-opening-of-gordie-howe-international-bridge-to-traffic-canada-detroit-trump/90463427007/\" rel=\"\" title=\"https://www.detroitnews.com/story/news/politics/2026/06/08/date-set-for-opening-of-gordie-howe-international-bridge-to-traffic-canada-detroit-trump/90463427007/\">Detroit News reported that a ribbon-cutting ceremony</a> for the new Windsor-Detroit crossing is expected to take place Friday, with the bridge officially opening to traffic on June 15. Carney did not specify when traffic would start to flow on the bridge.</p>\n<p>“I just want to salute those who constructed it on both sides, and (we are) looking forward to getting it done,” the prime minister later added.</p>\n<p>Earlier this year, CTV News reported that both sides were trying to quietly negotiate an opening date after U.S. President Donald Trump complained in February that Canada was not treating the U.S. fairly on trade. Trump went on a lengthy tirade that included the construction of the Gordie Howe International Bridge as part of his grievance.</p>\n<p>In a statement to CTV News on Tuesday after Carney’s comments, a White House official said that the “president’s position on the Gordie Howe Bridge has not changed.”</p>\n<p>“The Administration remains committed to securing the best possible deal for the American people,” the statement goes on to say.</p>\n<p><b>READ MORE: </b><a href=\"https://www.ctvnews.ca/business/article/gordie-howe-bridge-opening-date-being-quietly-negotiated-to-avoid-angering-trump-source/\" rel=\"\"><b>Gordie Howe bridge: Officials try to avoid angering Trump</b></a></p>\n<p>Construction on the bridge began in 2018 and its opening has recently been stalled amid trade tensions between Canada and the U.S.</p>\n<p>The cable-stayed bridge - which has an estimated cost of $6.4 billion - will have three Canadian-bound and three U.S.-bound lanes and will be among the top five longest bridges in North America.</p>\n<p>A deal to construct the project was first signed in 2012 as part of the Canada-Michigan Crossing Agreement, during which Canada agreed to front the full construction costs and recoup its investment through tolls. The federal government will later split the money with Michigan once the money has been recouped.</p>\n<h2>Opening ceremony expected Friday</h2>\n<p>In an invite obtained by CTV News that was sent to invitees on Tuesday, a ribbon-cutting ceremony was confirmed to be scheduled for Friday afternoon.</p>\n<p>Windsor Mayor Drew Dilkens, who is one of the invitees, described Trump’s previous Truth Social post about the bridge as a “derailer.”</p>\n<p>“We knew it was just a matter of time and so the community is eagerly anticipating it,” Dilkens said in an interview with CTV’s Power Play with Vassy Kapelos on Tuesday. “It’s not just the Windsor community. It’s the Detroit community as well. This is good from an economic perspective.”</p>\n<p>Asked by Kapelos if he is concerned about Trump further delaying the opening, Dilkens said “no.”</p>\n<p>“At the end of the day, the bridge has to open,” Dilkens said. “I don’t see a universe where Canada, when they worked with the United States (on the) construction of the bridge, didn’t simply put an operating clause in the agreement that said given 30, 60 or 90 days of completion, both sides agree to open, staff and operate the bridge. I’m confident something like that exists in a contract and the U.S. can only stop this for so long.”</p>\n<p>When asked about the behind-the-scenes work to get the bridge open, Dilkens said “there’s been lots of advocates on both sides of the border.”</p>\n<p>“This thing has got to the end. It’s been built. Everyone’s waiting. Open the bridge, and we’re happy to see that it’s getting closer,” Dilkens added.</p>\n<p>Ontario Premier Doug Ford however, appeared less assured while speaking to reporters during a trip to Washington, saying “I hope so” when asked if the bridge will open. He later added “let’s see what really happens.”</p>\n<h2>‘This is a long time coming’</h2>\n<p>Detroit Regional Chamber President and CEO Sandy Baruah called the developments “a long time coming,” while also describing details on the official flow of traffic “a little fuzzy.”</p>\n<p>“These are two nations that have worked together so well over the century plus. This is a kind of a stake in the ground that really reconfirms the very close and very symbiotic U.S.-Canada relationship,” Baruah said in an interview with CTV News.</p>\n<p>Baruah also acknowledged what he called the “unusual political times” happening in North America and “across all industrialized political times.”</p>\n<p>Former Ontario finance minister Dwight Duncan, who previously served as the chair of the Windsor-Detroit Bridge Authority (WDBA) and oversaw the initial planning phases of the project, said he “felt confident” the bridge would open despite Trump’s previous claims on social media.</p>\n<p>“I’ll be honest with you, I’m surprised that it’s been resolved as quickly as it has,” Duncan told CTV News. “And kudos to Canada and to our American friends… the many, many American friends who have long supported this project.”</p>\n<p><i>With files from CTV News Ottawa Bureau Chief Graham Richardson, CTV News’ Senior Political Correspondent Mike Le Couteur, CTV News’ Brennan MacDonald and CTV Windsor’s Robert Lothian</i></p>"
     },
     {
       "title": "PQ threatens to withdraw Quebec from high-speed rail project if it forms government",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/09/pq-threatens-to-withdraw-quebec-from-high-speed-rail-project-if-it-forms-government/",
-      "pubDate": "Tue, 09 Jun 2026 16:29:38 -0400",
+      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/09/pq-threatens-to-withdraw-quebec-from-high-speed-rail-project-if-it-forms-government/",
+      "pubDate": "Tue, 09 Jun 2026 19:15:34 -0400",
       "description": "The Parti Québécois is threatening to withdraw Quebec from the federal government’s proposed high-speed rail network if the party wins the October provincial election.",
-      "content": "<media:description type=\"plain\"><![CDATA[The leader of the Parti Québécois, Paul St-Pierre Plamondon, speaks at the National Assembly in Quebec City on March 17, 2026. (Jacques Boissinot/The Canadian Press)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jacques Boissinot</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/66VXLLORTGU6QZLZ32AULFE2YI.jpg?auth=24937e980531375fde5466a0e2fb3749a6e201da324096f6a8febf2f45580ded&amp;smart=true&amp;width=1400&amp;height=958",
+      "content": "<media:description type=\"plain\"><![CDATA[The leader of the Parti Québécois, Paul St-Pierre Plamondon, is threatening to withdraw from the high-speed rail project connecting Quebec City and Toronto. (The Canadian Press)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/OOPD4LRMP5AETFKMD37KF5ZG2E.jpg?auth=1e7719fc2c02075e3a65244719ba9f4cbaccdab928391f1aea68c09744d810b8&amp;smart=true&amp;width=1920&amp;height=1080",
       "_src": "bnn",
       "_ogDesc": "The Parti Québécois is threatening to withdraw Quebec from the federal government’s proposed high-speed rail network if the party wins the October provincial election.",
-      "body": "<p>QUÉBEC — The Parti Québécois is threatening to withdraw Quebec from the federal government’s proposed high-speed rail network if the party wins the October provincial election.</p>\n<p>PQ Leader Paul St-Pierre Plamondon says he can’t justify to Quebecers that their money be spent on what risks becoming a “financial fiasco.”</p>\n<p>Although he did not explain how Quebec would withdraw from the project, the PQ leader’s opposition could create a serious obstacle for federal plans to start building the line before 2030.</p>\n<p>St-Pierre Plamondon says the Bloc Québécois has estimated the project will end up costing $200 billion and that Quebecers’ share would be $40 billion.</p>\n<p>However, the federal corporation overseeing the 1,000-kilometre rail line linking Toronto to Quebec City estimates it will cost between $60 billion and $90 billion.</p>\n<p>Federal Conservative Leader Pierre Poilievre has called on the federal government to cancel the project, describing it as a “boondoggle” that would waste taxpayer dollars.</p>\n<p>On Tuesday farm organizations from Quebec, Ontario and across Canada asked Ottawa to revisit the proposed rail corridor, saying the project could cost far more than projected and cause significant damage to agricultural land.</p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>\n<h2>Related Stories</h2>"
+      "body": "<p>The Parti Québécois is threatening to withdraw Quebec from the federal government’s proposed high-speed rail network if the party wins the October provincial election.</p>\n<p>PQ Leader Paul St-Pierre Plamondon says he can’t justify to Quebecers that their money be spent on what risks becoming a “financial fiasco.”</p>\n<p>Although he did not explain how Quebec would withdraw from the project, the PQ leader’s opposition could create a serious obstacle for federal plans to start building the line before 2030.</p>\n<p>St-Pierre Plamondon says the Bloc Québécois has estimated the project will end up costing $200 billion and that Quebecers’ share would be $40 billion.</p>\n<p>However, the federal corporation overseeing the 1,000-kilometre rail line linking Toronto to Quebec City estimates it will cost between $60 billion and $90 billion.</p>\n<p>Federal Conservative Leader Pierre Poilievre has called on the federal government to cancel the project, describing it as a “boondoggle” that would waste taxpayer dollars.</p>\n<p>On Tuesday farm organizations from Quebec, Ontario and across Canada asked Ottawa to revisit the proposed rail corridor, saying the project could cost far more than projected and cause significant damage to agricultural land.</p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Manitoba premier says ‘Mine, baby, mine’ as he signals regulation pullback",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/09/manitoba-premier-says-mine-baby-mine-as-he-signals-regulation-pullback/",
+      "pubDate": "Tue, 09 Jun 2026 17:21:56 -0400",
+      "description": "Manitoba Premier Wab Kinew says he plans to streamline mining regulations to attract investment.",
+      "content": "<media:description type=\"plain\"><![CDATA[Premier of Manitoba Wab Kinew speaks to media prior to the First Minister’s Meeting in Saskatoon on Monday, June 2, 2025. THE CANADIAN PRESS/Liam Richards]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Liam Richards</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/XETRJNXF36VWRSPXNMH3YZUQGA.jpg?auth=a4dc60ab0f252bdfdffb9abc59a10aa831b1a8ceaeda83e17d6e44cc28e1adf8&amp;smart=true&amp;width=1400&amp;height=931",
+      "_src": "bnn",
+      "_ogDesc": "Manitoba Premier Wab Kinew says he plans to streamline mining regulations to attract investment.",
+      "body": "<p>WINNIPEG — Manitoba's premier says he aims to streamline mining regulations to help the industry drive the economy.</p>\n<p>\"Mine, baby, mine. I think that needs to be our motto here in Manitoba,\" Wab Kinew said Tuesday at a Manitoba Chambers of Commerce event in Winnipeg.</p>\n<p>While the Port of Churchill expansion is still his flagship project, Kinew said Manitoba should also be following the resource-based growth model of Saskatchewan.</p>\n<p>\"There's a lot of interest in advancing mining activity in Manitoba, and I'd just like us to be able to make the most of the resources we have.\"</p>\n<p>He said the NDP government, elected in late 2023, has been focused on health care but that it's now ready to look at regulations in the resource sector.</p>\n<p>\"We’re now at the stage where it’s like, OK, any regulation in the mining space that is not conducive to advancing the health and safety, or respecting the Constitution, why do we have that?\"</p>\n<p>Kinew did not provide specific examples of which rules he might cut.</p>\n<p>He said the province has the potential to boost production of potash, nickel and other critical minerals as well as naturally occurring hydrogen.</p>\n<p>The province shipped $1.4 billion worth of mineral production in 2022, representing four per cent of Manitoba's exports, according to the government.</p>\n<p>Kinew has also been pushing towards an ambitious 2030 target to export natural gas from the Churchill port, and said Canada could look to examples abroad where development has happened faster.</p>\n<p>\"Russia does this. China does this. Our global competitors in the international economy, they do things like this. They dream big, they set aggressive timelines, they build big infrastructure to make their people better off.\"</p>\n<p>Obby Khan, leader of the Opposition Progressive Conservatives, said the premier was looking to the wrong examples.</p>\n<p>\"China and Russia do not have the same environmental controls, the same regulations we do, the same consultation we do, the same labour rights we do,\" said Khan.</p>\n<p>\"The premier did not meet the moment when he talks about mining; he says he's been busy fixing health care.\"</p>\n<p>Khan also raised concerns about how the province just last week turned down a major investment in the province when Kinew said no to a large-scale data centre.</p>\n<p>\"This company was coming forward with $4 billion into this province ... it would have created thousands of jobs,\" said Khan.</p>\n<p>He said he would like a clear answer from the premier on why he's not moving forward with the project.</p>\n<p>Kinew says the massive drain on power from that facility would not have come close to balancing the environmental impact or the number of jobs created.</p>\n<p>This report by The Canadian Press was first published June 9, 2026.</p>\n<p>Ian Bickis, The Canadian Press</p>"
+    },
+    {
+      "title": "One of Canada's most resilient housing markets is now cooling",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxPRHF5QnlMdjkwRTYxeDduWTR6aTkyeEVsVEVRM3Y5ZDQ0LUxxdHV5VnFfSmMyR1FmV0thZkJsQ0ZMVEFpdE56bFhmZU9vemRZaDlVR1Y2TWZ2b0RUbUFwRHBjbWR6a0hxWi1va0dKS2JjQUJDZnZWeTBDU3lHMXBVRUdtMG1iWXhUdElaT25BaXlSQzd2MjQ2Mm9wNDYtYmE3ckw4dUJmeUMybXJELWlvODdsczJYaTAxRThLQ0NWcnV1MkRD?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 20:28:31 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Rents fall as new completions surge and demand slows, but rebound expected: CMHC",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMW16QVRWMHJXdXVSVWdoOHNNNXRGdU5jak5RVlNmTWlQSThIc3dlNFZjVHYxNnc0ODhnSFJFNHdQNGZRVUllOTluaFJyWEpZb1RwVzQ3S2VQT3l5bGlwTU96OGR6NFlNX0huU1pKczVUOC1RSkUxeS14QmQxamhjOS1McnNrVG5nOVgzXzVsSUxqb281anN0QTB0ZmhRdjBXTFc2QUlMS0lIb0pmdnFJ?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 20:03:09 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "CHCH",
+      "_pubUrl": "https://www.chch.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Cineplex box office $60.5 million in May, concession spending per patron sets record",
@@ -174,7 +198,7 @@
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/TSJCFHPSBSFMVSC4ORIKAUSDLY.jpg?auth=38d2db2ac47ddb6c8b26bb5d7848d5c270f01ec73b49f7f8c45cc88a43bc6bac&amp;smart=true&amp;width=1400&amp;height=931",
       "_src": "bnn",
       "_ogDesc": "Cineplex Inc. reported its box office revenue rose to $60.5 million in May, up from $55.3 million in the same month last year, its highest May box office since 2019. ",
-      "body": "<p>TORONTO — Cineplex Inc. reported its box office revenue rose to $60.5 million in May, up from $55.3 million in the same month last year, its highest May box office since 2019.</p>\n<p>The company also said May saw its highest monthly concession spending per patron on record.</p>\n<p>Cineplex says top performing movies for the month included “The Devil Wears Prada 2,” “Michael,” “Obsession,” “Star Wars: The Mandalorian and Grogu,” and “Backrooms.”</p>\n<p>The result for May compared with a $60-million take at the box office in April this year.</p>\n<p>Cineplex says momentum has continued into June, with the month-to-date box office up compared with a year ago, helped by a strong start to the summer slate, including a franchise-record opening for “Scary Movie.”</p>\n<p>Cineplex chief executive Ellis Jacob says the company is seeing consistent momentum at the box office with moviegoers engaging across a well-balanced mix of titles.</p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>\n<h2>Related Stories</h2>"
+      "body": "<p>TORONTO — Cineplex Inc. reported its box office revenue rose to $60.5 million in May, up from $55.3 million in the same month last year, its highest May box office since 2019.</p>\n<p>The company also said May saw its highest monthly concession spending per patron on record.</p>\n<p>Cineplex says top performing movies for the month included “The Devil Wears Prada 2,” “Michael,” “Obsession,” “Star Wars: The Mandalorian and Grogu,” and “Backrooms.”</p>\n<p>The result for May compared with a $60-million take at the box office in April this year.</p>\n<p>Cineplex says momentum has continued into June, with the month-to-date box office up compared with a year ago, helped by a strong start to the summer slate, including a franchise-record opening for “Scary Movie.”</p>\n<p>Cineplex chief executive Ellis Jacob says the company is seeing consistent momentum at the box office with moviegoers engaging across a well-balanced mix of titles.</p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>"
     },
     {
       "title": "Stellantis tells owners of 1.3 million Jeeps to park outside over fire concerns",
@@ -196,18 +220,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/06/Eric-Lombardi-500x337.jpg",
       "_src": "cmt",
       "_ogDesc": "A housing advocate has entered the Ontario Liberal Party leadership race."
-    },
-    {
-      "title": "Will interest rates rise, fall or stay the same? What to expect from the Bank of Canada’s June interest rate decision",
-      "link": "https://news.google.com/articles/CBMi5wFBVV95cUxNbUs4d0tKcE5qR0w3R0lqTmlkZlZBYzM0VWVnV2NmVmRJYllDZzh2SXZVZElNMzhrbExjQS1rUC1oWG5SS0U2Z28zZml5eXpPRFhya3dac09wcmdmeW14dnVoRlIzc3RxNk1SUTFOc2Y4aVc3anBNelJ6aHgtZnFSUDVtMVRUOTVzNGpMR09KMmdnd0tjSG43Q2RWSVFabVhkbm5RNE9ZbVRPUi0wMkJUTWZiakNsdzliT0cxSUpzMnIwZFpCbFItRmtaM2xHVUQ1Ny1LYUMtcktsX1VfN2ZWblhLX0xiOW8?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 15:29:50 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Canada&#8217;s trade surplus widens to largest since before tariffs",
@@ -232,6 +244,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Rental conditions ease in major markets, but affordability challenges remain: CMHC",
+      "link": "https://news.google.com/articles/CBMizgFBVV95cUxOaDBNTjBscWFiclR1ZjJaRTJ3NTcwb2JpSENKOFZTbm51ckdVa3B0OGRFbF9DLUJHYTJ2R0Nid1VuVEJyV0pjZmtHOW1XbHBULWlVRHdSZWdISmlPTWVhdWY2RllxNGFENDhpYWk4MnZ5emt3V0JMc3lkR3hqMFBLVkdOa1gxQmM2YmdqWFVlSHVId3FKRXZZNzV4TkZZODI1VTNUdmVUeENJZDdWai13M2toeUZLSGNWQ3h6ZzhuZFd4UFNmczhNejdxOTNyQQ?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 14:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Newswire Canada",
+      "_pubUrl": "https://www.newswire.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "In-House Podcast: 2026 Mid-Year Rental Market Update",
       "link": "https://news.google.com/articles/CBMikgFBVV95cUxPNS1UeFZKVUJWYWJEaTRFSFI1WDhkeEJKc3FjV2xkZnBPR29lOVZBV2pIcUQtNFF6UXgta19NRllDa3RZb2hhRWdrZDRrdDBjeExRaWZiaDB5d3Z1WDN3d0N0eW1PQzBXMnFpVzhwem5CNFRPNVRvYmkxbTJleXJPSnNVdi1uT05YTXJHeDJMRy1ydw?oc=5",
       "pubDate": "Tue, 09 Jun 2026 13:58:27 GMT",
@@ -245,7 +269,7 @@
     },
     {
       "title": "2026 Mid-Year Rental Market Update",
-      "link": "https://news.google.com/articles/CBMihgFBVV95cUxQemdmLVU1U0RkeUF6UjZIc1VWWnZXQmpzZkNVcWhnUjhRaWliTVppTFltbkFqTC1TcTB2dXhaY0pfaF9QTEp1cGt5aWNKWGJRbXN2dFZFbVVlaFloN0JxWmxLX3RqWTJwZll3V2lLSGJHSEtPTDFoZFJLYkU2MTlfakdUbklRZw?oc=5",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxQTUdGWjBGUUtrNjE4N0g5alN3aXMwOTV4X2JEWWpTOTdPM2lhdnhFTENWcmE1SUhieWhtMUppZ2lSMnd5VjMzT2tselNTcElvYTd2UzEwUVlVTkN6UTVkaE1jT05wbjA2alVzQ2dQcW1yMEl4Z0szaW1ORzVXN1VDSlpn?oc=5",
       "pubDate": "Tue, 09 Jun 2026 13:58:27 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
@@ -263,17 +287,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/ace-display-suites-wesgroup.jpg?id=66820805&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "MPs plan official Taiwan visit as Beijing blasts 'hurtful' trips, bars New Zealanders",
-      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/09/mps-plan-official-taiwan-visit-as-beijing-blasts-hurtful-trips-bars-new-zealanders/",
-      "pubDate": "Tue, 09 Jun 2026 09:33:57 -0400",
-      "description": "A Liberal MP says she and her parliamentary colleagues will take part in a delegation to Taiwan this fall, despite a warning from China’s envoy that such visits are “hurtful” to relations with Beijing.",
-      "content": "<media:description type=\"plain\"><![CDATA[A woman holds up Taiwan's flag with a slogan reading, \"Save our own country!\" in Taipei, Taiwan, Saturday, May 23, 2026. (AP Photo/Chiang Ying-ying)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Chiang Ying-ying</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/P3C6A6FGIVXE4R65SQO2QX5DKQ.jpg?auth=aa58a8497d321bc2c8241912dbc4e8615e5813c93fc09b5525697469bd93b476&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "A Liberal MP says she and her parliamentary colleagues will take part in a delegation to Taiwan this fall, despite a warning from China’s envoy that such visits are “hurtful” to relations with Beijing.",
-      "body": "<p>OTTAWA — A Liberal MP says she and her parliamentary colleagues will take part in a delegation to Taiwan this fall, despite a warning from China’s envoy that such visits are “hurtful” to relations with Beijing.</p>\n<p>MP Judy Sgro, chair of the Canada-Taiwan Parliamentary Friendship Group, told The Canadian Press Liberal and Conservative MPs in the group will visit the self-governing island the week of Oct. 11.</p>\n<p>“It’s extremely important to do these kind of exchanges,” Sgro said, adding Taiwan is “a beacon of hope in that part of the world for democratic principles.”</p>\n<p>In an interview with The Globe and Mail in April, Chinese Ambassador to Canada Wang Di was quoted as saying that Canadian parliamentarians have official status and so any engagement with Taiwan is “hurtful” to efforts to establish stronger bilateral ties.</p>\n<p>New Zealand’s foreign ministry said last week Beijing had banned four MPs from entering China for a year and demanded an apology after they visited Taiwan.</p>\n<p>Prime Minister Mark Carney visited China in January for what his government framed as an effort to recalibrate Canada’s ties with Beijing, after years of strife over the detentions of Canadians, canola tariffs and foreign interference.</p>\n<p>The People’s Republic of China says it’s the sole representative of China and it sees Taiwan as a rogue province that must be reunited with the mainland.</p>\n<p>Canada adheres to a one-China policy which only officially recognizes Beijing as the government of China. The policy does not weigh in on whether Taiwan is a country — though Sgro herself used that term.</p>\n<p>“It’s a democratic country and they have their regular elections. The Taiwanese are immensely proud people and very proud of the fact that they’re living in a democracy in a part of the world that that doesn’t necessarily exist,” she said.</p>\n<p>“They’re very similar to Canadians … They’re respectful, quiet, law-abiding citizens who look at Canada as the model that they want to be like and to promote. And they have a strong economy.”</p>\n<p>Sgro said the Prime Minister’s Office has not contacted her about the trip and MPs have never needed permission for such visits.</p>\n<p>“I don’t need confirmation from the centre. This is a parliamentary friendship group. We’re going on our own time,” she said. “There’s never been any interference or any suggestion, ever, to me that we should not be doing that — not then or now.”</p>\n<p>In January, Liberal MPs Helena Jaczek and Marie-France Lalonde cut short a sponsored trip to Taiwan, just ahead of Carney’s visit to Beijing, while Tory MPs went ahead with the visit. Jaczek and Lalonde issued a statement at the time saying they were informed by advice from the government and wanted to “avoid confusion with Canada’s foreign policy.”</p>\n<p>Sgro said Monday those MPs left on their own accord.</p>\n<p>“There was some concern at the time that it might interfere with the delicate discussions that were going to happen at the same time,” she said.</p>\n<p>“The idea was that the timing wasn’t appropriate, given the fact that the prime minister was having that meeting and did not want to have any distractions.”</p>\n<p>Vina Nadjibulla, vice-president of research and strategy at the Asia Pacific Foundation of Canada, said it’s crucial for the exchanges with Taiwan to continue — particularly those involving multiple political parties — after the unclear message sent when the two MPs had ended their visit early.</p>\n<p>“It’s important from a perspective of democratic solidarity. At a time when democracies are under assault, both internally and from external challenges, we do need to work closely together,” she said.</p>\n<p>Taiwan and Canada can learn from each other as they grapple with disinformation, foreign interference and transnational repression, Nadjibulla said. Canada’s Indo-Pacific strategy also called for deepening economic and scientific collaboration with Taiwan, she noted.</p>\n<p>“The other element is to do with making a point that Canadian foreign policy and Canadian policies on Taiwan and on China are being driven by Canadians here in Canada — rather than being dictated to by demands from either Beijing or any other superpower,” she said, noting China’s ban on the four New Zealand MPs.</p>\n<p>Conservative foreign affairs critic Michael Chong made his own visit to Taiwan last month. He called the visit a show of support in light of Wang’s remarks and said he paid for the trip himself. China’s embassy said his visit violated the one-China policy.</p>\n<p>Chong is among the Conservative and Bloc Québécois MPs who have continually pressed the Liberals to follow through on a trade co-operation framework with Taiwan. Ottawa has provided no explanation for why the deal hasn’t been signed.</p>\n<p>The territory’s envoy to Canada said Ottawa suddenly halted the process and claimed the deal has been ready for signing for more than a year.</p>\n<p>Beijing imposed sanctions on Chong and a House of Commons committee after Ottawa imposed its own sanctions related to Xinjiang officials Canada had accused of human rights abuses against Uyghurs.</p>\n<p>Sgro said parliamentary exchanges are “really important” at a time of geopolitical tumult.</p>\n<p>“Strength comes in friendships, and getting to know each other happens as a result of friendships. And then you better understand why different people act different ways,” she said.</p>\n<p>“It’s unfortunate that not everybody shares that opinion.”</p>\n<p><i>This report by The Canadian Press was first published June 9, 2026.</i></p>\n<p><i>Dylan Robertson, The Canadian Press</i></p>"
     },
     {
       "title": "/R E P E A T — Media Advisory: CMHC to release mid-year Rental Market Update/",
@@ -320,6 +333,18 @@
       "_ogDesc": "The Bank of Canada says most borrowers have managed higher renewal payments, but reduced equity is limiting refinancing options for a concentrated group of highly indebted homeowners."
     },
     {
+      "title": "Bank of Canada not 'in a rush' to rescue housing markets, says top strategist",
+      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNb3lZeXRMRE0xN2tlc05KNGhmOUxCQXU2cnZqdDFjeUZkU053VDJtcmZWV1BITmF1bFJoNWJPbWtIUzNzczNUVWFtcFBFSHRXTkw1clEzQ1dBWWJCTmswcWNOUjdkcE1MYklvRS1OOUNheDBWNXlSbTk3NXRVSVdkSGdvQ041SjFKeTVfOHNlc1RzYTkxdGY1V05VZld4S3lRSXNxV2g5VExzZ25SdXhZNGVWVnp5NkpHZFM5ZXdEZjY?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 10:00:54 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Property transfers for Ottawa County",
       "link": "https://news.google.com/articles/CBMitgFBVV95cUxNNzNqdHAtV0dTdnJtbXVxYzJEazRkcW1fMklBUk44TzJRYm5EdE44eUVuajlKdU9DcnNXcVNTbHFKNWJFWGRTQThCRUVyeVJhTlB5S3RYSXV6M0FyOHZucEU3Nk10OU5PYWFIbTdLVmhPNTNONlN5X0JtV1FvQzNydU5qWndfSEIzQWhSUkZibDZWcUFzbVVDVEloOUVnRVBhNWxnNTJPSmt3NTdNWmZHLUwtbFQ5QQ?oc=5",
       "pubDate": "Tue, 09 Jun 2026 09:14:00 GMT",
@@ -344,6 +369,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Bank Of Canada Expected To Keep Interest Rates At Current Levels",
+      "link": "https://news.google.com/articles/CBMiswFBVV95cUxNWWRCcF9JVXBSZlBZQkNfUG03Q3NEazQtYlpacVFkajZMSUJvMy1KUkNFcE56alhiWnRINUlscVNBaTZ6Qmo2cno5MXpkWWNQbll5NzlHM1BkbDBLMnlibHRyS2tMbkN3enEwbVoyVVJvdnBHVGpqSE9WZURwaE5ITW92emhQR3dfamJCaTJzd1NBaXduc1JVeUxiQWxRQXFaVzhqNDJuUV9MSWIzU0swTzhXa9IBhAFBVV95cUxQcjdLNHlzSXFySHdRMHlmWk9aV2tvSUc2QXVaSmY3SUVCenBFekc3Y0w1ei0tT01uV3JGQWhRc0ZBUHBDMjhfWGVjS01vVVJDampla3JPMl94dFBJMHZXNTRyRWxLSm5uS3FOZjMzR2d2Y3hqTDJTT2xDWFlXYnhwV1RObEQ?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 00:41:22 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Baystreet.ca",
+      "_pubUrl": "https://www.baystreet.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "One Of Four: Converted Townhome Listed In Roncesvalles",
       "link": "https://storeys.com/121r-fermanagh-avenue-roncesvalles-toronto/",
       "pubDate": "Mon, 08 Jun 2026 20:51:15 +0000",
@@ -365,15 +402,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Nearly one in 10 Toronto mortgage holders won’t qualify to refinance next year",
-      "link": "https://news.google.com/articles/CBMiigFBVV95cUxPSjBfbDFNemJpWFBrWVNsQ3pRbXM4VVpfWHp5SXktRjFCNFAtMWU0aXpxcnZOYXQtMjB1SE5uVU5FMlVsc3hKZGIyUXpqTVVkZHhHak5FQWViMzVhcUFmdDNMVkp3Q19NN3RoQWtNRjJQU00xcV83TmZRRGhJNXdwV080UlVXVzFoU2c?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 17:44:32 GMT",
+      "title": "Fiera Real Estate partners with TCU on Ottawa SOUL apt. tower",
+      "link": "https://news.google.com/articles/CBMihwFBVV95cUxOcHdGSDZuZjVGdm53SUFUQU1UUl8tSEZ6Q3ZRX2NKOURtclFCeWNaNTJyN2w3MUxNZnRnRXdVdUdVUFNxenVodldKc3hHZFAzcnBTQVgtY3JlYXVJMlAwU1E4bzhLamZsMG1qd2N2NUpPQlRybVd1ZTlfZmpxY0NiTXptM3F5VHc?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 17:30:49 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Toronto Life",
-      "_pubUrl": "https://torontolife.com",
+      "_src": "gnott",
+      "_publisher": "RENX",
+      "_pubUrl": "https://www.renx.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -385,18 +422,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/06/For-rent-signs-are-seen-on-buildings-in-Montreal-500x318.jpg",
       "_src": "cmt",
       "_ogDesc": "A new report says Canada could be poised for a slower-than-usual summer rental market as average asking rents for May were down approximately $100 from a year earlier."
-    },
-    {
-      "title": "Canada mortgage market outlook: caution rules as 2026 midpoint nears",
-      "link": "https://news.google.com/articles/CBMizwFBVV95cUxNSmJVem1aNl9SSzBvYVJpQTlaZ0YwZGpYWmJmVUZIRUFmdTFYMVNXN0JqNkFST1Rmb1U1ZnlJdG41d09QS3U0b203Yy1PTXNYc3JwTTBIT01XbmRTblgwZW4zZzBxQ3R2dGlkaGtVS0IxekhnUUtSS1Z1Z0dsLVJrYmxiTzlMZVBhdDRVTmg3WGRnU050eVdBSk5jNXJMeVUzMFE2NzA3Q3dlVndDRU13ZXh4ZW43TlRxMzhhdzBibFlsR1FZYV8xOUtwTDRBRXM?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 17:02:09 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "One in three Ontario homes purchased during 2022 peak resold at a loss: Teranet",
@@ -498,14 +523,14 @@
     },
     {
       "title": "/C O R R E C T I O N -- Canada Mortgage and Housing Corporation (CMHC)/",
-      "link": "https://news.google.com/articles/CBMilwFBVV95cUxOLS1aSUExdWxxMkVtc0xsUDVpMmdHdmwweVh6ZGdDWGxFbHVvZEZna1A3eExXTXVISkhKNUVSZUZRMGl0QkM5QnE1WkNyelBpelA5VVNuMHBUX3ptdklRMjhGdzFSZUtqREhZaUd3aVFXd0gtMkdXZDNtWE50aHhVdEwwTTFZSWhwTklLdG9zOVNFcU9SYUFr?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 16:18:00 GMT",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxNdXhacWsyY0xRMUdhaHBUUU41Zy02UWxfNV9UVEFoTXV1ME4yUEk2RzAyX1FmWGpZYkxlM3IyaG1QRTdSZTM3S1cyOW05OVNnRHNlS2YwenEwNGQ1Vkx1VTNFR1Q5NDJObjdZVU12RlFVSldZLXB0dER3LVRNUW80NmxKeUNSeUR6?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 15:30:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -529,18 +554,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/06/Workers-assemble-wood-furniture-at-a-workshop-in-Victoria_sm-500x333.jpg",
       "_src": "cmt",
       "_ogDesc": "Employment in Canada increased by a surprising 87,800 in May after a soft start to the year for the labour market, bringing the jobless rate down to 6.6%."
-    },
-    {
-      "title": "Posthaste: Want to restart housing construction? Cut development fees",
-      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxNVmN4VHpPbFNKQUlNOHRpVW9uMXg4N3NkMmliMDdEUDlab1F2VE02YzZJaU5ra3VVd3dEenpQZE16TDh6cVd2djN6eGxuN1RkeldEQzJqRDBYY1ZrM2lNR2NqaEZETUFObllJMm1mRnNXaDg1T2R5WkhRci1Xd0F2eGJLYU1sNHNuZkNV?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 12:23:04 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Bank of Canada to hold interest rates as prices rise but economy wobbles",
@@ -598,30 +611,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa's budget watchdog predicts Bank of Canada will hike interest rate to 2.75% in 2027",
-      "link": "https://news.google.com/articles/CBMijwFBVV95cUxOMjhoc2E1VUQ0UUViOWJ4TFd3Q09FOTRVTkY1RGhadXFCV3UyVWROQ1B3MjBtVy1ZQVh5QnVESWZZWDZCNkRnYU1BQXlmMVVsYm5NNFBpeXg4dHJ1WURTTXJFemVzaEpCVEZwd1IwX3VQZVNjN1FlOEw1NnYxUUF0STg5ckZtWVdDdmdiUGtvOA?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 18:52:50 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "One policy lever could unlock 16,000 Toronto homes a year",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNRm1XOXRIVFdLM3I4dDJyYmpHempuMl9JWnYtZlJUeUNmclJCNFMyVXFmaVA2c01wWTQxYmpLdzgtM0ZfNHpZcGlzN2ZOYjZSd3RwczE4TTNITkQ1RTRaczBDaDk1NjNXZmd2Y1Q2dlo5TmgycHZHVGJZRUprQmQ2TVJIanF0Ymg1M0tXTV8tZ29JS21GRm02bDdvX0xWT1hIY2lXTEpxZUtlVTBKS0pXVXJ6cWx6ZmxTVk5BYTgzRFA?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 18:33:17 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "It's A Buyer's Market For Cottage Country, But Exceptions Apply",
       "link": "https://storeys.com/cottage-country-spring-summer-2026/",
       "pubDate": "Thu, 04 Jun 2026 16:23:01 +0000",
@@ -664,16 +653,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "CMHC warns of a 'very significant barrier' to fixing the housing crisis",
-      "link": "https://news.google.com/articles/CBMisAFBVV95cUxNSy1lSk5DaERra2dFVlFxMVhLU3FnV3RSVGVkV2s4cS1xMHhCd3JXMlZfRHVlQ3NtOU1qbm4zQkFZc3NOdU5mWWNNRU1KNlBCMmYyVGVCeTdtOUxuTllxY3V5aEQxbmZTVWRPVEFrRjg1MGZhbk9keTk2aVdRUmZSaHZnd2hxYm1oeEdvRkhUUUx1QURtX01NVldFVVRXZ19qRjN5MS01Mm5DYV9PNm1MMA?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 21:03:41 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "National Post",
-      "_pubUrl": "https://nationalpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      "title": "Northern Ontario steel town fights back against U.S. tariffs",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/03/northern-ontario-steel-town-fights-back-against-us-tariffs/",
+      "pubDate": "Wed, 03 Jun 2026 18:09:50 -0400",
+      "description": "Along the shore of the St. Mary River, you’ll find the northern Ontario city of Sault Ste. Marie. For more than a century, those who call 'The Soo' home have had their local economy propped up by the steel industry.",
+      "content": "<media:description type=\"plain\"><![CDATA[A sign for Algoma Steel Inc., the second largest steel producer in Canada, seen in Sault Ste. Marie, Ont., Friday, July 25, 2025. THE CANADIAN PRESS/Nick Iwanyshyn]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Nick Iwanyshyn</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/3GDNI6PW2THPLJUP4TIFR7RAJU.jpg?auth=d05ead10e154f80643da9b4a72ccc7a48693aaa58765a7c1530aa8b9d750c9b3&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Along the shore of the St. Mary River, you’ll find the northern Ontario city of Sault Ste. Marie. For more than a century, those who call &#x27;The Soo&#x27; home have had their local economy propped up by the steel industry. ",
+      "body": "<p>Along the shore of the St. Mary River, you’ll find the northern Ontario city of Sault Ste. Marie. For more than a century, those who call “The Soo” home have had their local economy propped up by the steel industry.</p>\n<p>The recent 50 per cent tariffs placed by the White House on Canadian-made steel has forced the city of roughly 78,000 to bend, though it hasn’t broken just yet.</p>\n<p>“It’s bent, it’s bent pretty sharply, but I think it can snap back,” said <a href=\"https://www.usw2251.ca/\" target=\"_blank\" rel=\"\" title=\"https://www.usw2251.ca/\">Local 2251</a>, United Steelworkers union president, Michael Da Prat.</p>\n<p>The U.S. tariffs have forced Sault Ste. Marie’s largest employer, Algoma Steel, to accelerate plans to pivot to electric steelmaking.</p>\n<p>In December, the company announced <a href=\"https://www.ctvnews.ca/northern-ontario/article/ontario-based-algoma-steel-makes-difficult-decision-to-issue-1000-layoff-notices/\" rel=\"\">roughly 1,000 workers would lose their jobs</a>, marking the largest layoff in Algoma’s more than 125-year history.</p>\n<p>Walk through the core of the small city, and you’ll find boarded up businesses, from the local theatre to appliance stores and laundry mats, all shuttered.</p>\n<p>The concern among many here is the Algoma layoffs will make a difficult economic outlook even worse.</p>\n<p>“The huge impact will be when employment insurance starts running out,” said Da Prat.</p>\n<p>Now the local union boss, Da Prat spent 56 years working at Algoma. He now represents more than 1,200 Algoma workers.</p>\n<p>Speaking to CTV News outside his union office, next door to a derelict part of the city, he says it’s imperative that Canadian steel producers like Algoma diversify from their reliance on the U.S. market.</p>\n<p>“We need to develop our own economy, Canada can’t be a vassal to the U.S.,” Da Prat said.</p>\n<p>South Korean defence company Hanwha has announced that it will use steel made at Algoma’s Sault Ste. Marie plant to build armoured weaponized military vehicles in Canada. The deal is contingent on Hanwha winning the lucrative bid to build Canada’s next-generation submarine fleet.</p>\n<p>Hanwha also announced that it has also signed a memorandum of understanding with Algoma Steel to buy its steel products and provide the company with a low-interest loan to convert its Sault. Ste. Marie plant into one that can make steel beams.</p>\n<p>Sitting in his office, Sault Ste. Marie Mayor Matthew Shoemaker tells CTV News the Hanwha offer is exactly the type of multi-purpose procurement deal the struggling Canadian community needs.</p>\n<p>“This (submarine bid) process needs to be wrapped up so there is some certainty for Algoma and their business outlook,” Shoemaker said. “Frankly, we think the bid that benefits our community is the one that should be selected. I’m aware there’s multiple factors, but this deal would be a big win for Sault Ste. Marie.”</p>\n<p>There are other promising opportunities propelling Sault Ste. Marie’s steel industry. Also in town you’ll find Tenaris, the steel pipe producer employs 800 people in the Ontario town. In May, Tenaris announced a public-private $300-million investment to expand steel pipe production to keep pace with Canada’s oil and gas expansion plans.</p>\n<p>At a recent press conference in May, Industry Minister Melanie Joly told those in attendance that Canada is “fighting back” against stateside economic policies that are hammering Canadian industries.</p>\n<p>The deal,which includes a pledge of more than $70 million from both the Ontario and federal governments, will bring an additional 200 full-time jobs to Tenaris, plus hundreds of separate, spinoff contractor positions over the next three years.</p>\n<p>“This investment comes at a time that we are seeing more activity in the oil and gas industry, our steel pipes are a vital component, and at a time when ‘the Soo’ is going through a rough patch, due to the U.S. steel tariffs that were put in place,” said Tenaris Canada president Martin Castro.</p>\n<p>Speaking to CTV News from his office, Castro says Tenaris is weaning itself off its reliance on the U.S. and is focused on building its domestic output for Canada’s oil and gas sector,<b> </b>and also supports the federal government exploring business opportunities in Asia and Europe.</p>\n<p>“We’re developing more and more of our domestic production for Canada, so our exposure to tariffs is going down,” he said. “Hopefully in a couple months it will be going down to zero.”</p>\n<p>With steely determination, the resilient workforce who call Sault Ste. Marie home are pressing forward.</p>\n<p><i>With files from CTV News correspondent Judy Trinh </i></p>"
     },
     {
       "title": "Slashing development fees is not a cure-all for housing affordability: CMHC",
@@ -694,18 +682,6 @@
       "_src": "storeys"
     },
     {
-      "title": "Development fee cuts alone won’t solve housing affordability crisis: CMHC",
-      "link": "https://news.google.com/articles/CBMirAFBVV95cUxNa1daemRiOXMtcGlGVGU5Yk9aUGNGdE1FeWE5RlZrZS1JWFFUSHNpcER1bXJQc0haeDdYWGdOX056RzVmMS1VS2FMOGJiWUwtZzRLQVBSWWk3QjRXZmlzY0JDOXZwdGtSNWM0ek5HUFc3UE9peHI4RHFmODdWRkJyNzBlaDJzNWItSDhweVduNVh6VjBzUW05RHBVY1BqMS1TU1RSdTZZaHFCVm1P?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 16:02:22 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Investors sue B.C. lender over hidden accounts, missing millions",
       "link": "https://www.timescolonist.com/real-estate/investors-sue-bc-lender-over-hidden-accounts-missing-millions-12348485",
       "pubDate": "Wed, 03 Jun 2026 13:00:00 GMT",
@@ -713,30 +689,6 @@
       "content": "",
       "thumbnail": "https://www.vmcdn.ca/f/files/biv/amber_financial004.jpg;w=960",
       "_src": "timescolonist"
-    },
-    {
-      "title": "Toronto-area home sales up 6% in May as prices fall: real estate board",
-      "link": "https://news.google.com/articles/CBMieEFVX3lxTE5hSUo5Wi1xaGczUzVzWWtUaEh0TWt2ODJJN2FuZUlIN1d3ckNXcnVJMnRFbWRNcENHVjN5MkQyQkxKNkxPS0UzamlOQnFqaVZFbGU5UTZxMDBQRm40RmJrNmNNV1lzVVpSY2w5Y3ZUajVDc0VDSE9vYQ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 12:47:11 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "More Ontario homes selling at a loss, property title data show",
-      "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQR1VNMExGLTVnZ0tuZ3dFZDl3VDFSUFZJdUJCbl9jX0ZxXzhlRXRkSE9xckVNb3pqbGNVb01nZEhLbWd6NGJpYmxiQ0pDbEpCcEJybXBDcjFHMXdqTUs1VHpHd291RGZTY0RjZnRtOW5iLVVJN28zVzZQcTkza0NRUXpWNTY2V1ppVUQ1RF9BNGF4WUZna1FkLWpWQldEU3g5d3N4OFFRV0l0Zw?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Vancouver-area home sales down 3.5% in May as condo market lags: real estate board",
@@ -793,30 +745,6 @@
       "_src": "timescolonist"
     },
     {
-      "title": "A 20% housing drop still leaves Canadians locked out of market",
-      "link": "https://news.google.com/articles/CBMirgFBVV95cUxOelpvQXVaQlBqV0dzTkloLXNSNDhBUlNWTGVwRjhQOTJ0ekdNZlUxSUdrRjJTeUdBNnJCZ19keFI5T0RxeVZTZlVpU1dxVVlmQ0hCd3E2MEVrdWotcVZkT3RIX0o4STItVW5wLU9kNTJqTnI4S2QyaDV4cUFqeUVCd1pIdjNJOEphMHotUW95YkU2cjJjcXZLOS1vSXdqWWNtb0dNemZRdEtCaEg2clE?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 12:41:49 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Housing starts held back by regulatory conditions, structural factors: CMHC",
-      "link": "https://news.google.com/articles/CBMi0AFBVV95cUxOZGVMWFpDUFYtNm0zUVR3bjVEd2tkV1lIbzAyRWdZd2ZTVEJmdEFpVVRTVjJ2eUhsVkY4VUprbFYwTkFMOFdienNaZEhoOTlNMlptN3hJZXdjRmNFTjZqUk9UUTd6RUJtLUlxaEtzV0hHU0JuemJhMkZqbm9NOWdmRHZBUVB2Y2pTV1lKeGhGeXVIcDZHd1hMaGZnVEM1WEV5N2xOZUhSTWlidGszWmlNaTlPR1ZfWF8zTU9aVmp6Tm84MjBFRXlJMjhTMF8tdE9y?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 10:36:45 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
       "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
       "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
@@ -841,6 +769,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Housing starts held back by regulatory conditions, structural factors: CMHC",
+      "link": "https://www.timescolonist.com/national-business/housing-starts-held-back-by-regulatory-conditions-structural-factors-cmhc-12342082",
+      "pubDate": "Thu, 28 May 2026 16:29:00 GMT",
+      "description": "OTTAWA — A new report by the Canada Mortgage and Housing Corp. says regulatory conditions, along with economic and demographic structural factors, have slowed the pace of housing starts and pushed home prices higher.",
+      "content": "",
+      "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/edf1658715a9079296241473117cc518a60e58287a46dc68be35d985c921c8f7.jpg;w=960",
+      "_src": "timescolonist"
+    },
+    {
       "title": "Crown sells 3-building Ottawa office portfolio to Brasswater",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxQODVLSmx6cEo4VWktWVVHVXdsSnhSOU9KTkh4eFlxNXdCQkgzNjR5YlpEUGlzdW1YSUNVSDlVQ05venYyc1N3WVZmZHpZZEZzVTFlaWp5WGRhUUdnYzFuQlZEXzVzR05LVFl6Y3dDQ2c3eXlXX3JOSHRnelAyRngta0p3?oc=5",
       "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -850,6 +787,18 @@
       "_src": "gnott",
       "_publisher": "RENX",
       "_pubUrl": "https://renx.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada's shrinking workforce carries a big warning for the housing market",
+      "link": "https://news.google.com/articles/CBMi1gFBVV95cUxPSWMxeG54My1FTVpuV3g2VXZVZ3dMRkNjOE1qZTJTRGhYMXFrS3NHNTNZb3BRaF9wb01pY1pqM0NYT1RNUWNvTDdTQ3NpQWItRVhUT3ItNDZLcW5paEJMeGF1MVFSQVVfRmgyUXNDTXA1TW5nVmk1eXB2WFZ2cXdfckFfVGd5MFhlNzhQelF4US1jSnlKbHdxV3dnSm5DSmRuYWFyazNSZTFOU0E1ZnZEV051ampvcTJXb2dJbmNGWGR6NnVrM0hkZndiNEx5R2VuQ0JWSGVn?oc=5",
+      "pubDate": "Tue, 26 May 2026 20:13:13 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -889,6 +838,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Vancouver Housing Market Outlook 2026",
+      "link": "https://news.google.com/articles/CBMidEFVX3lxTE1nWmszVGwtOTNHMHVUcVNZcDlnRy1CTi1LUEpoRndYNFoycTg4aVVzdFRremxvSDZHTC1iTEJaVjZKeU1pUVRUMHdOcnNmZk1ISm9INmk4cEdJT2ttYlJvVUROZndwczZ4MHZfd0Z4aVR4N2kt?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa Housing Market | 2026 Home Prices",
       "link": "https://news.google.com/articles/CBMicEFVX3lxTFAycnJsWjBleERSMElQcllBTW1jOE03ZGlzdDctenJUdVE1X0U5dkFOVmgzZ1I5MVZSaWxrTFBMT0NYOFBOTzk3RUtDeE43ZEtwX2k3aUpnVkotMFdpRGNTTUItVElpWFNUT0NIbUhiS3U?oc=5",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
@@ -901,8 +862,20 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "London Housing Market Outlook 2026",
-      "link": "https://news.google.com/articles/CBMicEFVX3lxTE0tOFRNelU0X0NXeE5UZWlHTkxPWjVFUlBhWjM4Nlc4R0s2eURHWW54V3BpeUNQbmNONEI1WFpEbl9JMmlZNFZ1V2tnX2xSZGdfWnVia1I4X1dZVjZZbVdiUVByMVNkS2x6ejhfM2phakU?oc=5",
+      "title": "Ontario Housing Market | 2026 Home Prices",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTE9hREZCbUFJY05rZEN0bjFmcUpTUHF4RHBOOW1MVkhPRVJFUzMzalZSZGJhY1lsZ0EyWFY4M1hZTWxHaFhoTV9xYzZ3VExud3ByQ3oxbjFVYWMxWWRST0cxQ1Nram9xMEVDbGM4Tkh1Uld0QQ?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "nesto.ca",
+      "_pubUrl": "https://www.nesto.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada Housing Market | 2026 Home Prices",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE16YllabVZTN1J3R05GU20xLWJ2aTNvc1V5TnBfVG1FeTZ3ZENXT1QxWFJobnpKUHNJWTUtQWlEWmVHTVZmOWVZNzdrYlFLaWhwV1FiazVPcUFVamd3bEdqeUMxNEhPaEFuZmdhb3NsejJQSWs?oc=5",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
@@ -937,15 +910,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Posthaste: Why the chances of a Canadian housing market rebound in 2026 have 'slipped away'",
-      "link": "https://news.google.com/articles/CBMie0FVX3lxTE5tR3l0MTFzMWtraFlvSERnVzl5S2hvNWpZdk41TUlGYVBMMnFSQThianJWVGtYS1Z1MGxMZ05GRzdIVUNUdkg2U3o1NldPcUtFQ2M3Q2VWUUZZcWIzaVJwNlJRVk0zSnNvN0p0QTc3X1B3R0FmV21IelNYQQ?oc=5",
+      "title": "Housing starts for April 2026",
+      "link": "https://news.google.com/articles/CBMikAFBVV95cUxPdmR4Y1cyQmh0dFZLeXVFNDlzS002MlA0N2dTQWFYUTJ3VFZmbTl6dFFBanJUMDU0WWRETE50Z25hVGdweHFfN05XZVYtREVIQm9KRXlfcmloMEI2U1J0WUdNWFVCQVdYTnFYUEllUm5MVm92aVA5Z3ZmVHRwbW9QZ1VobVdmNTlNaS12aW8xOTk?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada’s housing market sees green shoots and stunted growth this spring",
+      "link": "https://news.google.com/articles/CBMi_wFBVV95cUxNbXM4OV9TZ1pYdzZ1MkZvUllpN2ZLU0dtYW1tTTEwdXBqZDlMN3VqU3pNMnloWWEyenRhMnFBc2RlendYOWozSVFoTUhRVDZRSXpkdDhtREdwTTc3WlcxaV83dGpEX0NPU3Y3emR2ZWFTeUtOUDVvTzU5ZTlJVDEyMFBUYnhxWmZ0b2dGQXZHc0xNLVc3WkZKUGVRVnFrQk9icmVQaXpyUXFVYjNVVHBDcjl4ZHFhdUwtc19ZbFZ2WkdKVUJubFVvRDRJdFJrV3BiTVJ3WldDWHJ4X1Zxc3Qzb19zVDZ2Qnc4SjFOTTVaRm1YUXA5Y2NyMVhNaE5Rdmc?oc=5",
+      "pubDate": "Thu, 14 May 2026 18:45:18 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1021,18 +1006,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "As a housing slump deepens, could the federal government revisit its approach to immigration?",
-      "link": "https://news.google.com/articles/CBMi7wFBVV95cUxQMDBZT0ptQTRkalNBVkxmekJXMG5uWllWZUdnSVBGYWN5LW5RWU9XWGJENDJBb0JzVjRZaFRpVFJURzNkSTZzZGliR2dSWThhNW41MDdlbmxuanFNdzdOcGZ4N2s0N2JXQTJUaGsyMnN2Y0lscFVHZVJ2SWNjczI0TWlqai1qSy15RlptU0tkTXM5V1NvZTVEUlFNWGx2X1U5a0ZZYUZhVXF5dXFUckQtaDNKUTJKWm5Wc0JKNTd0NDBQUW9ZNm9FY2hvamxXOHlZYjVwQmhnQ3FiWWp3ekN2NnFCTDZQYXhzVHMyYnFMRQ?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "No new condo projects launch in Q1 as Toronto market hits a wall",
       "link": "https://news.google.com/articles/CBMimwFBVV95cUxOOC1UTHN3eE5OWGY0c0hWeklmc0M4V3FUY1dOX0FoRE92TEtwTWpCUXlpVHhJcmExX2NyRXEtMGFKSWNtN1kyV3BsdEdhWFhNUmVmYnFEcWFVRGEwbkRlZGZJdHkyRlZXcXlVVG9LTUFxaW54VHlYRjN6THJSVThEMTlHaS1GOTZMYk5TdzN2cWlTQjA4Rlk0U2xWVQ?oc=5",
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
@@ -1105,30 +1078,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canadian Real Estate Association downgrades housing market forecast due to 'oil shock'",
-      "link": "https://news.google.com/articles/CBMihAFBVV95cUxPWDJsTjJtR1lQa3N3VWFiRDVsdVJub2lZWERKV2VZOTNRb0Q3cG8yT05UUlQzWDM4ZEZqUFo4dnhVOGRoWHpXbS1TRFZBaVM3bFdMdENFRVhMcERCckh3Q2lVVHdQbm5jZ1pKeTFNaFp5SDZJOWNYZ0VEbjZrOElRN2JKNWY?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Seven Ottawa-area markets ranked in top 10 for affordable housing in Ontario",
-      "link": "https://news.google.com/articles/CBMifEFVX3lxTFB3NWZKUi1mYjI2eF9La01rTE0tdk45ckl4eGxVN3I3MDVUelYtNjJDWVhCbllyVUctUnlaUjlGUFlUVkQtWXhNckVWRjFWSUxGX1JoNzVLZ25kTVJiMkNOTkQ1WE92cFM5ektuMmhxVUpjY0Z4XzV2b3NZakY?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Toronto finally has funding for Waterfront East LRT, but city could be on the hook if project goes over budget",
       "link": "https://news.google.com/articles/CBMikwFBVV95cUxOZnNUeWRxYXU5QUJaTXpfVmV1UlFsRjNreUdialdQU2V2Mk1kcEhfNDVxbTMxYTlucjRNODRVeUtPQ2hkZVVnMjlrakhEQktnWF9INFNFQ1hpcXVtRFZSLTkwSEE1UUpKSkxzSGNwLUV5QU9TLWwtUVRSMmNvT2NzZFJKYXIyV1JkaVlTZlhob3BzUmM?oc=5",
       "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
@@ -1184,20 +1133,20 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "Newswire.com",
+      "_publisher": "newswire.com",
       "_pubUrl": "https://www.newswire.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "City affordable housing proposal waives requirement for affordable housing",
-      "link": "https://news.google.com/articles/CBMivwFBVV95cUxNQ3YtTGJYdzVSaGJiY3BXeU5XMk5hOENsYklpMWtleWp4MlhYN0hDM01CdmxXNHBCRk1kRWUtejZFM0hLT0tFeHBEdnVsY1VXdzVaZ0FmNUpibGdMUTdTbk52VU9wRFZweHhOWGZNQW1mVHJQVFpXQ1pZRXEwU1RITGI0RU16QnBlX3AzVTVZUS0zZ21SeGZXVDlPVGRxdzJOaFBkX0NaR2k1NlVvRG1NdWVsbGF1aFhZeXMxWmg3dw?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "title": "Ontario’s fragmented housing market: What buyers and sellers need to know in 2026",
+      "link": "https://news.google.com/articles/CBMiygFBVV95cUxOUFd6bjQ5U2JNS2M1cW9oYjdyNW13ZGxPeDRUV3pIdWp6UDdENXQ2bHIzU19HMlJpb2ZSX2JfZFEtLXNUaDMyY1lLVVctSDdpeHhLMkJ2Y1p3QjhHOUZsNjZJZTRkdV9pZDZzdGZVOEh3QlNVdTJTdTFyekk4ak56SXJQampRaUQtaVBJSEpVSV9saHBaQUtPallvZVFvUnh1TDU3dV9pNVB2dlNsQXJwcGx3UEd2UFVrZ05vMklYMzA4OUFZQUgyazV3?oc=5",
+      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
+      "_src": "gnontre",
+      "_publisher": "DurhamRegion.com",
+      "_pubUrl": "https://www.durhamregion.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1234,18 +1183,6 @@
       "_src": "gnontre",
       "_publisher": "rbc.com",
       "_pubUrl": "https://www.rbc.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Vancouver condo prices see huge jump over detached homes in past decade",
-      "link": "https://news.google.com/articles/CBMiekFVX3lxTE4wQUJ1ZjByU3ljVDdvUGV1WjRUUXZneTFjSUxQOHA3bTZMd2tFMkRLWGt1eVVBUktRc21iaTZfdnNuZk50bzFtUGsxVnJLeFZpamRKYUtka205NEFOSHA1czFPNFNfTWc3M0pfcHZNeGV2dUNJVmFXcWxB?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "Daily Hive",
-      "_pubUrl": "https://dailyhive.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1297,18 +1234,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
-      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Immigration could soon account for all of Canada’s population growth: expert",
       "link": "https://news.google.com/articles/CBMitAFBVV95cUxQYVhIZnBkdk5nTUx4NEZMTUJFcEc5ZVVYOHVHUGk0cDVJWHJDWHpaNmZJWUh2MjNzcVBGd3NFYllrNTFBdDVQa2ltdHdwWDRnQ2hWUTRUQllxWk1xMHViX1VacGtPcWh6ZnNEMVh4NDVHdjlDelEzbk5sRUs4UThuQVN4MjNUT180QUpfMlIxOEg4Vk9lSDhGN0t6MnVvTmJTZVNhdmdra1NpdTV1MVBBdEhPOGE?oc=5",
       "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
@@ -1354,6 +1279,18 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Homebuilding slowdown threatens to negate any affordability gains",
+      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxNTE5IX3V4LWNxTk1jM3JPWWQwaVVFa3pXQWVsSmx5UTlaQkdpWGo3dmg1R0Jxa1EzWUxQWjlObFdONjc3cVFxUS1BVDlDeWRqMVFMcHhBWEtYR0lSVWUwTm1DLWE0UDhaU05DLWlGLUx5ZjdqT1pGTWlRQ3NOc2hWcGl2UGZWYnpXR1ZuQXpyRThQcWpGb0xhTXFFMTNMR3R4ZWptZ2tTWm8?oc=5",
+      "pubDate": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Fraser Institute",
+      "_pubUrl": "https://www.fraserinstitute.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1426,6 +1363,18 @@
       "_src": "gnpolicy",
       "_publisher": "constructconnect.com",
       "_pubUrl": "https://canada.constructconnect.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ford government pausing its own affordable housing policy, calling it ‘red tape’",
+      "link": "https://news.google.com/articles/CBMiigFBVV95cUxNUlcxUExRS2hwc011Qzh6RUozNmtwbVNuVnlielotckRURm9zWXpKMzFkWlFvaXVIVXhfdml5cHQzUDlDeFJMRzU3UGQwdFA1ZURkamZqT0hvS3RRZmEzRFJrMXdlbTBtM1FmeEF3b2haV2VmMEprMldPU1A0cjNlcWtWMktwQjdxNEE?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1513,6 +1462,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
+      "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control",
       "link": "https://news.google.com/articles/CBMitAFBVV95cUxPdWpUbU8xaU94VVNLUl9CQVY0N0RKanNEMzRkZHlrNlVYZVgtRHRrY2sxOEc5cktVTDl3MGZqNWlkTlZxRXZ5OXBPanE0WEtFNEw0cmRfa3Q2bXBUS3hKbTJMSkoyajR0SnQ4T0FldTduYzkzcXozRks2QkVwMXVfTGwyeVdEbGd4eVRkTmtUQjh0aDhXeEZKYUVUSkFpNVVkQVV6cmdmX01sN2U1dUV6V0dMZmM?oc=5",
       "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT",
@@ -1561,18 +1522,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Rights-based and ambitious: A new chapter for housing policy in Canada",
-      "link": "https://news.google.com/articles/CBMipgFBVV95cUxNRTVranRjRHRCQ211aV9hb0N0Wk5haHJzaXVROGw4VDdNbkk3UUtOMUp1SGZOZklEWVU1SFJocC1UNTN0QlAzR3plOENndGNvVUg3TFlFU1JtUTk2cktFdVdaMTZuRGZ0TEEyUHNiaEZnUEx5UXZzWVlCcml2VGJsR1N0aW1TLTg1RlZCSGVkT0ZnaUNFcVNoZUhFRm1Tclg3U2FxYlVB?oc=5",
-      "pubDate": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "maytree.com",
-      "_pubUrl": "https://maytree.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa could allow 3-storey buildings in all neighbourhoods under new zoning bylaw",
       "link": "https://news.google.com/articles/CBMivgFBVV95cUxQeVRpTmZUeDIyeGptU2UtbW5ueVhtaEFWMGp4a1FQNHp6cm9icW5uQlhvNTRBWDFBdTJfTldmUXZsS3lPSmg0WXNIcjg2OEtfUEU5TUhRd3MwTDNBNVJ1M0g4d2RtRXNmWjZ4QWJwWlJCS3NtZHdxejJMWERvb1VkOXZyNG5lRGZPU00xUFB3SzlXNEtZdUUzSE9leUo5aXhTUjVKSURVNHN6RzBjOFoyeU9TZy1GazhKVXpFSGxR?oc=5",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
@@ -1597,6 +1546,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Proposed zoning bylaw won't help Ottawa's housing goals, says advocate",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE5vS0dTaG9kNHJBeHVuZWUtaF9GZ3B0a2ktTzc2Y3BoRFlPanVHY3QyQW8tRXctUFI2WHVrYi1FaDBNRTE0RWxOa29pbndpU25tcUc0a0lnQzZ1MXdYMS1qNzlwbGM1WUhObjRDY3VJQ3o5Qms?oc=5",
+      "pubDate": "Sat, 05 Jul 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The roots of our housing crisis: Austerity, debt and extreme speculation",
       "link": "https://news.google.com/articles/CBMiuwFBVV95cUxQMEV1V2JkOHBnZFJwNkhQeTN1Q0MxMks1c3N5dG1mTTRHdEQ3MkdQcDNQUTh3cUJCSUZYRmJZcHVkRFREbmZUdVFSSThyeDBHdWJtZVNVcmJkc1NQWTRrelA4elI4LXJnVXNYNVZSU0VSMmoxaXVRc1NzUFprdW1NZG1NcFFWYlBYT0d4dmFoX19vTUlqdDJYUTY5NUExYTNPRmNQMGVESlllcHFBS3d4dlZsLTJMUDNsMUJN?oc=5",
       "pubDate": "Fri, 11 Apr 2025 09:58:31 GMT",
@@ -1618,18 +1579,6 @@
       "_src": "gnottlrt",
       "_publisher": "PC Party of Ontario",
       "_pubUrl": "https://ontariopc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "The Great Rebuild Seven ways to fix Canada’s housing shortage",
-      "link": "https://news.google.com/articles/CBMi6AFBVV95cUxPLTFlMm1PUjVUaVFfSGRqbW5IZ0tCOVRhcWNtSHEyU3BsR1dneGstNFF5bDN5RWdTOFlVSEk2YnE4SGt0bGVmZDU0NWxsSWpGTFcyMVBuSXdaVGFId0ZBWnZfVXJHLVNaeUJReDRNTTBaWWxUQ29jSmx2VW1VN2RmWXlxOWNSYkJRR3hZM1BKR1lRNkVaVF9qTkpBNGxvdmhCNkxfYld2cEZvMGRMaHhkak9CR2ZEUDl2Rm13SEVfOUdUU3BYaV9qbExGQ3VkUWtFeWZlNDctTUh5NXRBZDVKVDRnQnUyOEF1?oc=5",
-      "pubDate": "Mon, 08 Apr 2024 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
