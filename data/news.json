@@ -1,6 +1,6 @@
 {
-  "ts": 1782212010367,
-  "fetched": "2026-06-23T10:53:30.367Z",
+  "ts": 1782224586533,
+  "fetched": "2026-06-23T14:23:06.533Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,15 +89,137 @@
   ],
   "items": [
     {
-      "title": "Iran conflict sends Canada inflation to two-year high",
-      "link": "https://news.google.com/articles/CBMinwFBVV95cUxNR0lNYW16SkdDUVBYNi1QUUdwb1diZHZwWXlsMEV4THcwV2RnNG9DWmJYRDJCRjNRLTdlaG9nWC1mRVpmZnkyVV9LLWJiTHQyeDZXLWlFMzRIakhnVUdLczE3QlhDOElRem50dm1UQkplcy1NX3BJbkpqLVlNRmZzcVdURlI5MjVLejdVdlJuaTVyTVhIU0JTT1NjVGdWbG8?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 09:00:00 GMT",
+      "title": "SoFi deepens AI-powered trading ambitions with Composer deal",
+      "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/23/sofi-deepens-ai-powered-trading-ambitions-with-composer-deal/",
+      "pubDate": "Tue, 23 Jun 2026 14:14:53 -0400",
+      "description": "Financial services firm SoFi said on Tuesday it has bought Composer, an AI startup that helps retail investors build and execute sophisticated trading strategies that have long been the preserve of Wall Street firms.",
+      "content": "<media:description type=\"plain\"><![CDATA[The SoFi Technologies headquarters in San Francisco, California. Photographer: Justin Sullivan/Getty Images North America]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Justin Sullivan</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/GJKLZQK23JD3BV7G7IDGVYTXVY.jpg?auth=427ef4df10f875f867282d0714fc445f91f6453e32756286ecc1ba666b8049b1&amp;smart=true&amp;width=2000&amp;height=1333",
+      "_src": "bnn",
+      "_ogDesc": "Financial services firm SoFi said on Tuesday it has bought Composer, an AI startup that helps retail investors build and execute sophisticated trading strategies that have long been the preserve of Wall Street firms.",
+      "body": "<p>Financial services firm SoFi said on Tuesday it has bought Composer, an AI startup that helps retail investors build and execute sophisticated trading strategies that have long been the preserve of Wall Street firms.</p>\n<p>While commission-free trading has made it easier for individual investors to buy and sell stocks, access to sophisticated systematic investing tools has remained largely concentrated among hedge funds and institutional firms even in recent years.</p>\n<p>SoFi is betting that AI can help close that gap by allowing mom-and-pop investors to build and test complex trading strategies with little to no coding or specialized AI prompting expertise.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>“If you can explain an investment idea in plain English, you can now build, test, and automate it,” CEO Anthony Noto told Reuters.</p>\n<p>“AI is already a foundational part of investing, and much like how mobile became a foundational part of banking, it will completely transform the industry.”</p>\n<p>SoFi said that following its acquisition of Composer, customers will also be able to access thousands of community-created strategies and automate execution from a single platform. It did not disclose the terms of the deal.</p>\n<p>The San Francisco-based fintech in April reported a 35 per cent jump in members to a record 14.7 million in the first quarter. Its adjusted revenue surged 41 per cent to a record US$1.1 billion over the same period.</p>\n<p>Competition to provide services to retail investors has intensified following the pandemic-era trading boom that brought millions of new customers into financial markets.</p>\n<p>With commission-free trading now ubiquitous and product offerings increasingly similar, brokerages are locked in a fierce battle to stand out in a crowded market.</p>\n<p>Last month, brokerage Robinhood said it would allow customers to create dedicated trading accounts and deploy AI agents to trade stocks on their behalf through its platform.</p>\n<p>Referring to how its customers are responding to recent stock market turbulence, Noto said that “Members are staying engaged through volatility and looking for opportunities rather than retreating from the market.”</p>\n<p><i>(Reporting by Manya Saini in Bengaluru; Editing by Ronojoy Mazumdar)</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Sharp drops in Big Tech companies pull the Nasdaq down 1.5% in early trading",
+      "link": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/06/23/sharp-drops-in-big-tech-companies-pull-the-nasdaq-down-15-in-early-trading/",
+      "pubDate": "Tue, 23 Jun 2026 14:08:29 -0400",
+      "description": "Stocks slumped on Wall Street Tuesday as a sell-off in big technology stocks spread from Asia back to the U.S. over worries about potentially higher interest rates by the end of the year.",
+      "content": "<media:description type=\"plain\"><![CDATA[Anders Opedal, President and CEO of Norway's Equinor, left, meets with specialist Patrick King on the floor of the New York Stock Exchange, after he rang the closing bell, Tuesday, June 16, 2026. (AP Photo/Richard Drew)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Richard Drew</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/HFZHUJGITXKDZSL36SHTNVJM44.jpg?auth=59663adac6fe7280edfe0fea326bf62d0f29e1393eb709046e37683a139862d5&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Stocks slumped on Wall Street Tuesday as a sell-off in big technology stocks spread from Asia back to the U.S. over worries about potentially higher interest rates by the end of the year.",
+      "body": "<p>NEW YORK — Stocks slumped on Wall Street Tuesday as a sell-off in big technology stocks spread from Asia back to the U.S. over worries about potentially higher interest rates by the end of the year.</p>\n<p>The S&amp;P fell one per cent and is coming off 11 weekly gains out of the last 12, led largely by technology stocks. The Dow Jones Industrial Average fell 97 points, or 0.2 per cent as of 9:53 a.m. Eastern. The Nasdaq composite fell 1.5 per cent.</p>\n<p>Markets throughout Asia fell, including a 10 per cent slump for South Korea’s Kospi. Stocks in Europe also slid.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/s-p-500/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/s-p-500/\"><b>S&P 500 market updates here</b></a></li></ul>\n<p>Technology stocks were the biggest weights on the market, especially companies that have seen their values surge amid the frenzy over artificial intelligence technology. Their pricey stock values give them more influence over the broader market’s direction.</p>\n<p>The growing likelihood of interest rate hikes coming up this year has helped deflate the massive run-up in AI-related stocks in recent days as traders worry that the higher rates could hamper economic growth.</p>\n<p>Micron Technology slumped 9.4 per cent and Nvidia fell 2.4 per cent. Samsung Electronics slumped 12.3 per cent in South Korea.</p>\n<p>SpaceX fell 1.8 per cent in a continued reversal from the space exploration and artificial intelligence company’s soaring stock debut less than two weeks ago. The company also plans to raise money through a bond offering, partly to fund artificial-intelligence development.</p>\n<p>Many technology companies have been spending heavily on AI technology. The potential for higher interest rates can stifle future spending and hurt prices for investments. The U.S. Federal Reserve has signaled that it could raise interest rates at least once before the end of the year. Wall Street is betting on a nearly 90 per cent chance that the central bank will raise its benchmark interest rate.</p>\n<p>The yield on the 10-year Treasury fell to 4.48 per cent from 4.51 per cent late Monday. The yield on the 2-year Treasury fell to 4.19 per cent from 4.24 per cent late Monday. Bond yields remain high, though, amid worries about inflation.</p>\n<p>Oil prices eased amid negotiations between the U.S. and Iran to end their war. The price for a barrel of U.S. crude fell 1.1 per cent to US$73.07. The price for a barrel of Brent crude, the international standard, fell 1.2 per cent to $76.97.</p>\n<p><i>AP Senior Producer Mayuko Ono in Tokyo contributed to this report.</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Vedanta’s CopperTech Metals targets US$3.6 billion valuation in U.S. IPO",
+      "link": "https://www.bnnbloomberg.ca/investing/commodities/2026/06/23/vedantas-coppertech-metals-targets-us36-billion-valuation-in-us-ipo/",
+      "pubDate": "Tue, 23 Jun 2026 14:03:09 -0400",
+      "description": "CopperTech Metals is targeting a valuation of up to US$3.57 billion in its U.S. initial public offering, joining a wave of companies tapping the busy summer IPO market.",
+      "content": "<media:description type=\"plain\"><![CDATA[Bundles of copper cables sit at a plant that produces parts for large electric vehicles in Mexico City, on April 2, 2025. (AP Photo/Fernando Llano, File)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VNTQGQL54JCA34DTSTLCEZ46EU.jpg?auth=3c0057857f196253bb2ab177d6d6d2739bbb026a2161fcda7b616be7d8bf0e97&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "CopperTech Metals is targeting a valuation of up to US$3.57 billion in its U.S. initial public offering, joining a wave of companies tapping the busy summer IPO market.",
+      "body": "<p>CopperTech Metals is targeting a valuation of up to US$3.57 billion in its U.S. initial public offering, joining a wave of companies tapping the busy summer IPO market.</p>\n<p>The U.S.-domiciled copper and cobalt producer is seeking up to $423.5 million by offering 23.5 million shares priced between $16 and $18 apiece, it said on Tuesday.</p>\n<p>The IPO market has picked up pace after a brief lull in March as buoyant stock markets and strong investor appetite have created a more favourable backdrop for new listings.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/investing/commodities/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/investing/commodities/\"><b>Latest updates on commodities here</b></a></li></ul>\n<p>E-bike startup Lime, silver miner Sinda, digital infrastructure firm ITG, and Italian technology firm Bending Spoons also launched their U.S. IPOs this week.</p>\n<p>Vedanta Resources, owned by Indian billionaire Anil Agarwal, launched CopperTech Metals last year. CopperTech owns and operates Konkola Copper Mines in Zambia’s Copperbelt province.</p>\n<p>The offering comes as CopperTech plans to spend $2.7 billion over the next five fiscal years to ramp up copper production at Konkola to an average of roughly 270 kilotonnes per annum from fiscal 2030.</p>\n<p>Demand for copper is surging, underpinned by the rapid expansion of AI infrastructure, grid modernization and electrification.</p>\n<p>Vedanta has invested over $3 billion in Konkola and held majority ownership since 2004. The firm regained control of Konkola in July 2024 after the asset was seized by Zambia’s previous administration of former president Edgar Lungu in 2019.</p>\n<p>Konkola is 79.4 per cent owned by CopperTech, while Zambia’s ZCCM Investment owns the rest.</p>\n<p>Citigroup and Cantor are joint book-running managers. CopperTech will list on the NYSE under the symbol “CUX.”</p>\n<p><i>(Reporting by Arasu Kannagi Basil in Bengaluru; Editing by Diti Pujara and Tasim Zahid)</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Iranian president lands in Pakistan as U.S.-Iran teams work to finalize a war-ending deal",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/06/23/iranian-president-lands-in-pakistan-as-us-iran-teams-work-to-finalize-a-war-ending-deal/",
+      "pubDate": "Tue, 23 Jun 2026 13:53:09 -0400",
+      "description": "Iran’s president arrived in Pakistan Tuesday to meet with officials mediating talks on a permanent end to its war with the U.S., as discrepancies emerged on what had been agreed upon so far and violence broke out again in Lebanon.",
+      "content": "<media:description type=\"plain\"><![CDATA[A woman walks past a welcoming billboard featuring Iranian President Masoud Pezeshkian along a roadside in Islamabad, Pakistan, Tuesday, June 23, 2026. (AP Photo/Anjum Naveed)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Anjum Naveed</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/RLKXM5BHFPPFX56IG7OJIWVFQU.jpg?auth=772e1aa5ad39e6f88107f793088e1d163bede2298db46ff75f88c08c35dd1544&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Iran’s president met Tuesday with Pakistani officials mediating talks on a permanent end to its war with the U.S., as discrepancies emerged on what had been agreed upon so far and violence broke out again in Lebanon.",
+      "body": "<p>ISLAMABAD -- Iran’s president met Tuesday with Pakistani officials mediating talks on a permanent end to its war with the U.S., as discrepancies emerged on what had been agreed upon so far and violence broke out again in Lebanon.</p>\n<p>President Masoud Pezeshkian’s visit to Islamabad came as technical teams were working on details following high-level negotiations in Switzerland on Monday between the U.S. and Iran.</p>\n<p>In Tehran, Iran’s capital, Foreign Ministry spokesperson Esmail Baghaei told reporters that no visits were scheduled for the UN watchdog -- the International Atomic Energy Agency -- to examine Iranian nuclear sites bombed by the U.S. last year. U.S. Vice-President JD Vance had said the negotiations he helped lead in Switzerland won an agreement for the inspectors to visit the sites.</p>\n<p>The IAEA has not responded to requests for comment over its possible role. It has been in and out of Iran since Israel’s 12-day war in 2025, but has not been granted access to bombed enrichment sites targeted by the U.S.</p>\n<p>The U.S. said negotiators have discussed “mechanisms” to ensure that the Strait of Hormuz, a key waterway for oil transit that Iran effectively blocked during the war, remains open. Ship traffic is increasing but questions remain about who controls the strait.</p>\n<p>Meanwhile, violence flared again in southern Lebanon as Israeli soldiers opened fire, killing two people. The reports of violence came after two days of calm following a ceasefire brokered on Saturday. Any renewal of heavy fighting could threaten the broader diplomatic talks, since Iran has demanded that a full truce in Lebanon be part of any comprehensive deal.</p>\n<h2>Iran’s president makes his first visit to Islamabad since the war started</h2>\n<p>Pezeshkian and Pakistani President Asif Ali Zardari on Tuesday discussed a range of issues, including regional peace and economic co-operation, according to a statement from the presidency in Islamabad.</p>\n<p>Iran Foreign Minister Abbas Araghchi also joined the delegation that arrived in Islamabad amid tight security.</p>\n<p>It was the Iranian president’s first visit since the U.S. and Israel launched war on Iran on Feb. 28. Pezeshkian and Pakistan Prime Minister Shehbaz Sharif were to hold a joint news conference after the discussions.</p>\n<p>In the initial talks, marking the start of a 60-day process that seeks to reach a permanent deal to end the Iran war, Iran and the U.S. agreed to create a “de-confliction cell” to address the fighting in Lebanon between Israel and the Iranian-backed militant group Hezbollah.</p>\n<p>Ahead of his meetings in Pakistan, <a href=\"https://x.com/drpezeshkian/status/2069288198371508320?s=20\" target=\"_self\" rel=\"\" title=\"https://x.com/drpezeshkian/status/2069288198371508320?s=20\">Pezeshkian cautioned</a> that “the effectiveness of the talks depends on full commitment to the agreed obligations and their precise implementation.”</p>\n<h2>Iran&nbsp;says negotiations focused on sanctions relief, nuclear issues and more</h2>\n<p>Iran suggested that the talks in Switzerland led to the creation of specific negotiation groups, including those focused on sanctions relief, nuclear issues, reconstruction, and monitoring, according to the state-run IRNA news agency.</p>\n<p>The report quoted Kazem Gharibabadi, a deputy foreign minister leading the technical talks, saying the countries also formed a contact mechanism over ships moving through Hormuz and the fighting in Lebanon between Israel and Hezbollah.</p>\n<p>Israel occupies part of Lebanon and insists it must be able to attack militants launching attacks into northern Israel.</p>\n<p>On Tuesday, Israeli forces opened fire and killed two men near the southern Lebanese town of Nabatiyeh al-Fawqa, Lebanon’s state-run National News Agency reported, saying the pair were next to a bulldozer clearing a road.</p>\n<p>The Israeli military said troops fired at four Hezbollah members who were riding a bulldozer and a motorcycle and had entered a security zone and failed to stop despite warning shots.</p>\n<p>No Israeli airstrikes or shelling have been reported since Sunday, a day after a ceasefire was reached, and Hezbollah also has not claimed any attacks in what has been the longest halt in the fighting since the latest Israel-Hezbollah war erupted on March 2.</p>\n<h2>Discrepancy on Iran’s use of unfrozen funds</h2>\n<p>Following the talks in Switzerland, Vance said if Iranian financial assets were unfrozen, they would be used to buy American-grown corn, wheat and soy.</p>\n<p>Vance also said the U.S. and Qatar would have approval over the process. However, Iran has no current demand for U.S. crops and its foreign ministry spokesperson said Tuesday that Tehran’s decisions on what to import would be based on “prices and quality.”</p>\n<p>“It is interesting that the philosophy and goal of the war, which was the destruction of the Iranian civilization and the collapse of Iran, has become enriching American farmers,” Baghaei said.</p>\n<p>Iran’s ambassador in Geneva, Ali Bahreini, questioned Vance’s contention that the U.S. and Qatar would approve how Iran uses unfrozen funds.</p>\n<p>“Iran is the only country who decides what to do with those assets,” he told reporters.</p>\n<h2>Netanyahu raises new questions over fragile Lebanon ceasefire</h2>\n<p>Mediators Pakistan and Qatar said the “de-confliction cell” would include the Lebanese government and “ensure the adherence of the termination of military operations in Lebanon.” But Israeli Prime Minister Benjamin said Monday that his military still has “full freedom of action” to thwart any threats.</p>\n<p>Neither Israel nor Hezbollah is a signatory to the U.S.-Iran deal. Netanyahu has vowed to keep his forces in southern Lebanon until all threats to Israel are eliminated. Hezbollah has refused to halt attacks unless Israel commits to withdrawing.</p>\n<p>When asked about Netanyahu’s comments, U.S. President Donald Trump said “we’re going to take a look at it,” adding that the situation would “get solved.”</p>\n<p>The main highway leading south from Beirut was jammed Tuesday with people displaced from southern Lebanon returning to their homes. Among them was Hawraa Nour El-Din, from the village of Khirbet Selm.</p>\n<p>“We don’t want the negotiations done by the government,” she said. “We want Iran to negotiate on our behalf, and we are returning victorious, whether everyone likes it or not.”</p>\n<p>In Washington, the State Department said a new round of Israel-Lebanon talks began on Tuesday with both political and security issues on the agenda.</p>\n<p><i>By Munir Ahmed, David Rising And Jon Gambrell</i></p>\n<p><i>Rising reported from Bangkok and Gambrell from Dubai, United Arab Emirates. Associated Press writers Abby Sewell in Beirut, Jamey Keaten in Geneva, Nasser Karimi in Tehran, Iran, and Matthew Lee in Washington contributed to this report.</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/06/23/digital-euro-clears-key-hurdle-as-eu-seeks-to-break-free-from-us-credit-cards/",
+      "pubDate": "Tue, 23 Jun 2026 13:50:32 -0400",
+      "description": "The European Central Bank secured key parliamentary backing on Tuesday for the launch of a digital euro, an electronic means of payments aimed at making the euro zone less reliant on U.S. credit cards at a time of fraying transatlantic relationships.",
+      "content": "<media:description type=\"plain\"><![CDATA[The European Bank is pictured in Frankfurt, Germany, Tuesday, June 9, 2026. (AP Photo/Michael Probst)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Michael Probst</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/JLF6PJE7NLAD6J6LPP27VILJPM.jpg?auth=49ca72601fab62c6223254813fc0e2961a295830a02ef6218b541fa980c51ae4&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "The European Central Bank secured key parliamentary backing on Tuesday for the launch of a digital euro, an electronic means of payments aimed at making the euro zone less reliant on U.S. credit cards at a time of fraying transatlantic relationships.",
+      "body": "<p>FRANKFURT &mdash; The European Central Bank secured key parliamentary backing on Tuesday for the launch of a digital euro, an electronic means of payments aimed at making the euro zone less reliant on U.S. credit cards at a time of fraying transatlantic relationships.</p>\n<p>The digital euro, essentially an electronic wallet guaranteed by the central bank but marketed by banks or fintech companies, will allow all euro zone residents to make payments online and in person.</p>\n<p>Six years in the making, the ECB’s digital cash has become a more pressing issue since Donald Trump returned to the White House, slapping tariffs on even established trade partners such as the European Union and raising fears that the U.S. could one day weaponize its dominance over payment networks like Visa and Mastercard.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/international/\" target=\"_blank\"><b>Latest updates on international news here</b></a></li></ul>\n<p>The approval of draft rules by the economic committee of the European Parliament comes after three years of wrangling between the ECB and banks, which have been concerned about deposit outflows and lost revenues and sought to limit the scope of the project.</p>\n<p>“The introduction of the digital euro would... reduce overreliance on non-European providers by becoming a pan-European means of payment and would bring the single currency into the digital era by giving Union citizens the freedom to opt to pay with central bank money in their daily transactions,” the draft regulation says.</p>\n<h2>FINAL APPROVAL BY YEAR-END?</h2>\n<p>Siegbert Frank Droese of the far-right Europe of Sovereign Nations, a political group in the European Parliament, said his group had voted against the proposal, raising the likelihood that a further vote would be needed at the Parliament’s plenary.</p>\n<p>Barring an objection at the plenary, lawmakers should start negotiating with the European Council of EU governments and the European Commission next month, aiming for final approval by the end of the year.</p>\n<p>The ECB, which plans to run a 12-month pilot of the digital euro starting in the second half of next year before a full launch in 2029, said it looked forward to Parliament adopting its final position.</p>\n<p>Outside the euro area, China has been piloting a digital yuan at scale, while countries like India and Brazil have conducted trials. Britain has focused on research, amid concerns over privacy, financial stability and banking-sector impact, while U.S. President Trump has forbidden the Federal Reserve from issuing a digital currency.</p>\n<h2>HOLDING LIMITS, POLITICAL OVERSIGHT POINT TO COMPROMISE</h2>\n<p>Like the European Council before it, the EU’s Parliament laid out key safeguards for banks fearing deposit flights.</p>\n<p>Lawmakers proposed in the draft regulation that the European Commission decide how many digital euros every user could own, based on an ECB recommendation, and review that ceiling at least every two years.</p>\n<p>Businesses would not be allowed to hold digital euros for longer than 24 hours. The digital euro would not earn any interest or cost anything to its users.</p>\n<p>“The proposal reflects political compromises,” Laura Casonato, head of policy at Positive Money Europe, an advocacy group for monetary reform, said. “It keeps commercial banks at the center of distribution, with only a limited role for public channels and other providers, and does not go as far as presenting the digital euro as a true alternative to bank deposits.”</p>\n<p>Such concessions were likely crucial to win over critics such as Fernando Navarrete Rojas, the parliament’s negotiator on this file, who only recently dropped his opposition to making the digital euro available online.</p>\n<p>ECB simulations show depositors could withdraw up to 699 billion euros ($795.88 billion) from euro zone banks if a limit on digital euro holdings was set at 3,000 euros each. This is equal to 8.2 per cent of all retail sight deposits, although the impact would be greater for small market lenders and retail banks.</p>\n<h2>COSTS, COMPENSATION AND EXEMPTIONS ARE OPEN QUESTIONS</h2>\n<p>AukeZijlstra of the far-right Patriots for Europe Group said the only main discussions with other European institutions would revolve around how participating companies should be compensated for the set-up costs, which the ECB put at between four billion euros and six billion euros spread over four years.</p>\n<p>But he added the digital euro may prove “obsolete” by the time it launches given competing initiatives by the private sector. These include instant payment service Wero, backed by a consortium of major European banks.</p>\n<p>Damian Boeselager of the Greens said the digital euro should be cheap for merchants, many of whom will be forced to accept the new means of payments. The Parliament’s proposal contains an exemption for small-business owners and the self-employed.</p>\n<p><i>(Additional reporting by Jesus Aguado in Madrid; Editing by Andrew Heavens and Susan Fenton)</i></p>"
+    },
+    {
+      "title": "Bank of Canada governor raises alarm over global imbalances in Paris speech",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/23/bank-of-canada-governor-raises-alarm-over-global-imbalances-in-paris-speech/",
+      "pubDate": "Tue, 23 Jun 2026 13:33:35 -0400",
+      "description": "The governor of the Bank of Canada is warning about persistent imbalances between major economic powers in a rare speech to a business audience overseas.",
+      "content": "<media:description type=\"plain\"><![CDATA[Bank of Canada Governor Tiff Macklem waits to appear at the finance committee in Ottawa, Monday, May 4, 2026. THE CANADIAN PRESS/Adrian Wyld]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Adrian Wyld</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/L3USBEHUTCXWGUYGNXUBOG3TYM.jpg?auth=483f9a11ee4688f1cd71af50f149652cd9e26596286536acb4ce7002b0c16b5c&amp;smart=true&amp;width=1400&amp;height=911",
+      "_src": "bnn",
+      "_ogDesc": "The governor of the Bank of Canada is warning about persistent imbalances between major economic powers in a rare speech to a business audience overseas.",
+      "body": "<p>The governor of the Bank of Canada is warning about persistent imbalances between major economic powers in a rare speech to a business audience overseas.</p>\n<p>Tiff Macklem is in Paris today where he’s taking aim at global imbalances like overproduction from countries like China and outsized investment flows into the United States.</p>\n<p>He says trade or fiscal imbalances aren’t inherently problematic and can be part of the normal functioning of global financial systems.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/economics/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/economics/\"><b>Latest economic news on BNNBloomberg.ca</b></a></li></ul>\n<p>But he warns that when those imbalances have become too one-sided for too long, they can spill over with consequences for inflation, stock prices and relationships between countries.</p>\n<p>Macklem says innovations like artificial intelligence and cryptocurrencies are exacerbating some of these imbalances and making them harder to track and regulate.</p>\n<p>Protectionism might offer some short-term relief to countries grappling with these imbalances, but Macklem urges financial leaders to lean more into open trade and stronger co-operation across borders to build a more resilient global system.</p>\n<p><i>This report by The Canadian Press was first published June 23, 2026.</i></p>\n<p><i>Craig Lord, The Canadian Press</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Elbows down? Travel to U.S. increases for first time in 15 months",
+      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/23/elbows-down-travel-to-us-increases-for-first-time-in-15-months/",
+      "pubDate": "Tue, 23 Jun 2026 13:14:40 -0400",
+      "description": "Nearly a year and a half after Canadians first started shunning U.S. travel, new data shows trips south of the border are increasing.",
+      "content": "<media:description type=\"plain\"><![CDATA[Canada and U.S. flags fly in the wind at the Douglas-Peace Arch border crossing, in Surrey, B.C., on Monday, March 16, 2020. (THE CANADIAN PRESS/Darryl Dyck)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/26QVOAFJJBEDFOR3CWV2WAYUGU.jpg?auth=b6c99256b947b3d0b8bf3f07c7f4e5b2ee1b0ea220215ded06a2dddf04db4229&amp;smart=true&amp;width=1440&amp;height=810",
+      "_src": "bnn",
+      "_ogDesc": "Nearly a year and a half after Canadians first started shunning U.S. travel, new data shows trips south of the border are increasing.",
+      "body": "<p>Nearly a year and a half after Canadians first started shunning U.S. travel, new data shows trips south of the border are increasing.</p>\n<p>Data released by Statistics Canada Tuesday shows that in April the <a href=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260623/dq260623a-eng.htm\" rel=\"\" title=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260623/dq260623a-eng.htm\">number of Canadian-resident return trips from the United States increased by 1.8 per cent </a><a href=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260623/dq260623a-eng.htm\" rel=\"\" title=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260623/dq260623a-eng.htm\">year-over-year</a>, the first increase since January 2025.</p>\n<p>The increase was largely driven by more trips by car, up 8.1 per cent to 1.5 million, of which 65 per cent were same-day trips. Return trips by air decreased by 7.1 per cent year-over-year to 805,900.</p>\n<p>In total, Canadian residents returned from 2.4 million trips to the United States in April.</p>\n<p>In March, by contrast, <a href=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260521/dq260521a-eng.htm\" rel=\"\" title=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260521/dq260521a-eng.htm\">Canadians returned from 2.6 million trips to the United States</a>, a contraction of 6.4 per cent compared to the same month one year prior.</p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "NatPower, Tesla reach deal on first phase of US$5 billion battery storage plan",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/23/natpower-tesla-reach-deal-on-first-phase-of-5-billion-battery-storage-plan/",
+      "pubDate": "Tue, 23 Jun 2026 12:57:19 -0400",
+      "description": "Independent energy firm NatPower and Tesla said on Tuesday they had reached a deal to build 25 gigawatt hours of battery storage in Italy and Britain, the first phase of a project worth up to US$5 billion.",
+      "content": "<media:description type=\"plain\"><![CDATA[The Tesla company logo shines off the rear deck of a 2020 Model X, April 26, 2020, in Littleton, Colo. (AP Photo/David Zalubowski, File)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/2V5YYJXAAZFOIMCUSQTD7D2K6Y.jpg?auth=b99fa2e3b6a896c679adc86417591caf3af00a9794ffe048f756d8ccb2c049a5&amp;smart=true&amp;width=1020&amp;height=574",
+      "_src": "bnn",
+      "_ogDesc": "Independent energy firm NatPower and Tesla said on Tuesday they had reached a deal to build 25 gigawatt hours of battery storage in Italy and Britain, the first phase of a project worth up to US$5 billion.",
+      "body": "<p>LONDON &mdash; Independent energy firm NatPower and <a href=\"https://www.bnnbloomberg.ca/stock/TSLA:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/TSLA:UN/\">Tesla </a>said on Tuesday they had reached a deal to build 25 gigawatt hours of battery storage in Italy and Britain, the first phase of a project worth up to US$5 billion.</p>\n<p>Countries across Europe are ramping up battery storage projects to help balance the rollout of intermittent renewable power capacity.</p>\n<p>Under the multiyear agreement, NatPower will use Tesla’s Megapack battery storage system.</p>\n<p>NatPower will also use Tesla’s trading technology, which manages when to buy and sell electricity.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\" target=\"_blank\"><b>Latest updates on company news here</b></a></li></ul>\n<p>Five initial projects will be built, the first phase of a program that ultimately aims to exceed 100 GWh of storage capacity, at a construction cost of $4 billion to $5 billion, the companies said. They added that revenue will potentially exceed $15 billion over 20 years.</p>\n<p>“The sector has access to technology and capital but still struggles to deliver infrastructure consistently and within the required timelines. What we have built with Tesla is an ecosystem that enables alignment between capital and execution, and that can be replicated across multiple markets,” said Fabrizio Zago, CEO of NatPower.</p>\n<p><i>(Reporting by Simon Jessop in London; Editing by Matthew Lewis)</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Owner of Paramount Fine Foods and the City of Mississauga are suing each other. Here’s why",
+      "link": "https://www.bnnbloomberg.ca/business/2026/06/23/owner-of-paramount-fine-foods-and-the-city-of-mississauga-are-suing-each-other-heres-why/",
+      "pubDate": "Tue, 23 Jun 2026 10:11:10 -0400",
+      "description": "Mohamad Fakih, the owner of Paramount Fine Foods, is alleging the City of Mississauga defamed him by publicly claiming his company owes more than $1 million in connection with the naming rights of that city’s largest sports and entertainment venue.",
+      "content": "<media:description type=\"plain\"><![CDATA[Mississauga Mayor Carolyn Parrish (left) and Paramount Fine Foods owner Mohamad Fakih are shown in this combination photo. (Canadian Press and Getty Images)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/4ZJBY7GBBBBOZBZ7ETG3LAYUBY.jpg?auth=ec6641353987ebc2f50ad300c909408279b10b171d359e44b663c1837b6beb47&amp;smart=true&amp;width=1920&amp;height=1080",
+      "_src": "bnn",
+      "_ogDesc": "Mohamad Fakih, the owner of Paramount Fine Foods, is alleging the City of Mississauga defamed him by publicly claiming his company owes more than $1 million in connection with the naming rights of that city’s largest sports and entertainment venue.",
+      "body": "<p>Mohamad Fakih, the owner of Paramount Fine Foods, is alleging the City of Mississauga defamed him by publicly claiming his company <a href=\"https://www.cp24.com/local/peel/2026/05/26/mississaugas-paramount-fine-foods-centre-to-be-renamed-heres-why/\" rel=\"\">owes more than $1 million</a> in connection with the naming rights of that city’s largest sports and entertainment venue.</p>\n<p>The municipality announced in late May that it would be renaming Paramount Fine Foods Centre to the Mississauga Sports and Entertainment Centre at the beginning of June, following the termination of its contract with Paramount.</p>\n<p>In an <a href=\"https://x.com/carolynhparrish/status/2059386070555598921/photo/1\" target=\"_self\" rel=\"\" title=\"https://x.com/carolynhparrish/status/2059386070555598921/photo/1\">open letter dated May 26</a>, Mississauga Mayor Carolyn Parrish said the city had been “forced” to end their agreement, alleging the food company owes the city $1.6 million.</p>\n<p>“To recoup these monies, the City will be pursuing legal action after attempting every possible solution acceptable to both parties. It is unfortunate that the owner of Paramount has chosen to move these discussions into the public realm,” Parrish wrote.</p>\n<p>In response, Fakih <a href=\"https://x.com/mohamadfakih8/status/2067681611865276832\" target=\"_self\" rel=\"\" title=\"https://x.com/mohamadfakih8/status/2067681611865276832\">posted a video online</a> expressing his disappointment with the city and its “misleading public statement” about the end of their business relationship. He added that his company had been “ready and willing” to pay the city for more than six months.</p>\n<h2>Fakih launches libel lawsuit</h2>\n<p>Last Friday, Fakih launched a libel lawsuit against the City of Mississauga. In the filing, he alleges both the city and Parrish misrepresented their business relationship, calling their public statements “false,” “defamatory,” and “severely lacking in context.”</p>\n<p>While the city claims Fakih owes $1.6 million, the libel suit alleges the city proposed a discounted settlement of roughly $1.2 million plus tax, which would be paid in equal instalments over 36 months.</p>\n<p>Thirty-six post-dated cheques were provided to the city on May 27, according to the statement of claim.</p>\n<p>The statement of claim also alleges that the city breached its confidentiality agreements by sharing how much money was owed.</p>\n<p>As a result, Fakih is seeking $3 million in general damages for defamation, $750,000 for aggravated and punitive damages, and $500,000 for general damages for alleged breach of confidentiality obligations.</p>\n<p>“In good faith, Paramount offered to mediate the issues with the City of Mississauga and took tangible steps to address the alleged arrears owing,” Fakih’s lawyer, Sam A. Presvelos, said in a statement.</p>\n<p>“Instead, the City and Mayor Parrish decided to litigate the issues. It is unfortunate that resources will be spent fighting when a fair and practical resolution was on the table.”</p>\n<p>In a statement to CP24, the city said it is aware of Fakih’s lawsuit but declined to comment further as the matter is before the courts.</p>\n<p>“We believe it is entirely without merit and will respond in due course through the courts,” Mississauga spokesperson Irene McCutcheon said.</p>\n<h2>City seeking $9M for alleged breach of contract</h2>\n<p>On Monday, the City of Mississauga filed its own lawsuit against Fakih Group Inc. (FGI), formerly Paramount Franchise Inc., for allegedly failing to pay their debts as outlined in the naming rights deal.</p>\n<p>The city is suing Fakih $9 million for breach of contract and conversion, claiming FGI failed to meet its contractual obligations within a year of penning the deal, which was first signed in July 2018.</p>\n<p>The statement of claim alleges FGI was granted exclusivity for 10 years so long as an annual “sponsorship fee” was paid, amounting to $450,000 (plus applicable taxes).</p>\n<p>The company was also expected to hand Mississauga a 10 per cent cut of all the gross sales made through the Paramount-branded concessions.</p>\n<p>By July 2022, the city claimed FGI owed just over $1.6 million. According to the lawsuit, the two parties entered an amended agreement in May 2023 that extended their deal to 2032, and partially waiving the past sponsorship fees owed in the amount of roughly $850,000.</p>\n<p>The lawsuit alleges that FGI and Paramount once again defaulted on their agreement. Fakih Group Inc. requested a revised payment plan, and from October 2023 to May 2026, the lawsuit said the company paid $393,000 of the roughly $1.78 million owed under the new plan.</p>\n<p>In a letter dated May 20, the city said it formally notified FGI and Paramount that it would be ending its agreement by the end of the month, saying it has “incurred significant expense to remove and dispose of advertising and signage.”</p>\n<h2>‘Political stunt’</h2>\n<p>Fakih, in response, said the city’s countersuit is a “political stunt against a man who has spent over a decade investing in, donating to, and serving this city.”</p>\n<p>“The Mayor has repeatedly breached confidentiality and in fact the details of this lawsuit was known to many by Saturday, before the City had even filed the claim. That has no place in public office,” he said in a statement.</p>\n<p>The libel suit also alleges both the city’s and mayor’s statements triggered boycotts against his businesses, adding he received “a substantial volume of anti-Muslim, anti-Arab and related abuse.”</p>\n<p><i>With files from CP24’s Joshua Freeman</i></p>"
+    },
+    {
+      "title": "Canadians say they would consider relocating to one of the country’s 15 most affordable cities: survey",
+      "link": "https://www.bnnbloomberg.ca/business/real-estate/2026/06/23/canadians-say-they-would-consider-relocating-to-one-of-the-countrys-15-most-affordable-cities-survey/",
+      "pubDate": "Tue, 23 Jun 2026 09:00:00 -0400",
+      "description": "Concerns around affordability and a desire for a more relaxed pace of life are pushing more of Canada’s big city residents to consider a move somewhere else.",
+      "content": "<media:description type=\"plain\"><![CDATA[People take in the view of the downtown skyline, north shore mountains and fall foliage from Queen Elizabeth Park in Vancouver on Sunday, November 8, 2020. THE CANADIAN PRESS/Darryl Dyck]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">DARRYL DYCK</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/7CSS2RIRJTIM6NNI7K22HIBM6M.jpg?auth=219ee8fae1bb5ec2be38d13fd6dc430e16b8ece1b9b59fb59c0a67f2e92eee9a&amp;smart=true&amp;width=1400&amp;height=932",
+      "_src": "bnn",
+      "_ogDesc": "Concerns around affordability and a desire for a more relaxed pace of life are pushing more of Canada’s big city residents to consider a move somewhere else.",
+      "body": "<p>Concerns around affordability and a desire for a more relaxed pace of life are pushing more of Canada’s big city residents to consider a move to somewhere else in the country.</p>\n<p><a href=\"https://marketing.rlpnetwork.com/Communications/Royal_LePage_2026_Most_Affordable_Canadian_Cities_chart.pdf\" target=\"_self\" rel=\"\" title=\"https://marketing.rlpnetwork.com/Communications/Royal_LePage_2026_Most_Affordable_Canadian_Cities_chart.pdf\">A new survey by the real estate company Royal LePage</a> found that 55 per cent of respondents in the Greater Toronto Area, 48 per cent in the Greater Montreal Area and 46 per cent in Greater Vancouver Area would consider relocating to one of Canada’s 15 most affordable cities if they were able to find a job or work remotely.</p>\n<p>“Home prices in Canada’s largest cities have moderated over the past couple of years, but for many buyers, the math still doesn’t work,” said Phil Soper, president and CEO of Royal LePage. “As barriers to entry remain high in the country’s most expensive urban centres, relocating to a more affordable city is becoming less of a last resort and more of a deliberate strategy.”</p>\n<p>The report, conducted by Burson for Royal LePage, surveyed 900 Canadians over the age of 18, living in the Greater Toronto, Montreal and Vancouver areas. The data bases affordability on the percentage of income required to service a monthly mortgage payment.</p>\n<p>Lethbridge, Alta. topped the list of Royal LePage’s most affordable cities in Canada where the aggregate price of a home is $338,700 with a monthly mortgage payment of $1,520.85. Saint John, N.B., Thunder Bay, Ont. and Red Deer, Alta. rounded out the top four most affordable cities, with larger cities including Edmonton, Winnipeg, Windsor-Essex, Ont. further down the top 15 list.</p>\n<p>“As housing affordability challenges persist in the country’s largest urban centres, more buyers are widening their search and seriously evaluating markets they may never have considered just a few years ago,” said Soper.</p>\n<p>When broken down by age, the survey found younger Canadians are more likely to consider purchasing a primary residence outside of their current home city. 77 per cent of Gen Z respondents and 56 per cent of Millennials said they would consider such a purchase.</p>\n<p>55 per cent of survey respondents cited a lower cost of living as a main reason to buy a property elsewhere; 42 per cent said they want a more relaxed pace of life; and 41 per cent said they wanted to be closer to nature and would prefer to live in a less populated area.</p>"
+    },
+    {
+      "title": "News | Overseas buyers become increasingly active in Canada's real estate market",
+      "link": "https://news.google.com/articles/CBMitgFBVV95cUxNdGxZQ09DUC1jR09ETnZoeEd3SUVQREprYWFQaHY3OE05cl9LMWhFaDR3SUFPQmdBYVMyMTdMUkZYeU9PaW45YUtEbnVWOEhGci1BNkdtbkdJc1J4TUFwekp4cWpCekpDYl9wdlN1N1JyckJtUGhLR1RDbGFuV3Badl9fVDJmVDlmeGNORWdBQ0EzemZmLUlpZ29sQTVSM01LWGlVVDNZOWd3ZU9scmU1a3Y2NW9RUQ?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 12:20:46 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Canadian Affairs",
-      "_pubUrl": "https://www.canadianaffairs.news",
+      "_src": "gnre",
+      "_publisher": "CoStar",
+      "_pubUrl": "https://www.costar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Posthaste: The surprising city that's bucking Canada's housing affordability trend",
+      "link": "https://news.google.com/articles/CBMilAFBVV95cUxOUGRjSUpXMUtGTlBMTVZHNFpmMWFYUDhlMHNGUDZkWlgwSE1vR0RWTlZDRkJqVjJLM19YSk51dnhZbmdxaHJEdlZNSU94MzZBdjFhT1pnQW11M0Rucy1aTTI1QlEzdWJMc1VoRmhJSGZpbWlnSEJGQ1I0MlhFeTlLcTJMX29sdEZmVTlhWG5MUFJubERC?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 12:03:55 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Financial Post",
+      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -123,83 +245,6 @@
       "body": "<p>When the Bank of Canada started cutting rates in June 2024, the general assumption was that relief would flow through the mortgage market&nbsp;fairly broadly. Rates would fall, affordability would improve, and the renewal wave would hurt less than people feared. That story is largely true. But Statistics Canada&#39;s April 2026 lending data tells a more specific version of it &mdash; and the specifics matter a lot for how brokers talk to clients today.&nbsp;</p>\n<p>The headline figure looks good: the volume-weighted average rate on total insured residential mortgages was 4.16 per cent in April 2026, down from 4.51 per cent a year earlier and 5.63 per cent two years ago. A 147-basis-point drop over two years is meaningful. But that&#39;s an average. Once you break it down by product type, a very different picture emerges.&nbsp;</p>\n<h2><strong>Where the cuts&nbsp;actually&nbsp;went&nbsp;</strong></h2>\n<p>Variable-rate borrowers got the most. The insured variable rate dropped from 6.97 per cent in April 2024 all the way to 3.79 per cent today &mdash; a 318-basis-point decline over two years, slightly more than the policy rate move itself. Uninsured variable borrowers saw something similar: 6.84 per cent to 3.88 per cent, down 296 basis points.&nbsp;</p>\n<p>Shorter-term fixed rates did well too. The insured one-to-three-year fixed fell 156 basis points over two years, from 6.19 per cent to 4.63 per cent. The insured three-to-five-year fixed &mdash; now the market&#39;s most popular term &mdash; dropped from 5.10 per cent to 3.87 per cent, down 123 basis points.&nbsp;</p>\n<p>The long end tells a completely different story. The insured five-year-and-over fixed rate went from 4.92 per cent in April 2024 to 3.98 per cent in April 2025. In April 2026, it&#39;s sitting at 3.97 per cent &mdash; a single basis point lower than a year ago. Essentially&nbsp;all of&nbsp;the two-year improvement happened in the first year. The past twelve months produced nothing.&nbsp;</p>\n<p>The uninsured five-year-and-over has moved from 5.30 per cent two years ago to 4.18 per cent today &mdash; down 112 basis points &mdash; but 100 of those came in the first year. The last twelve months: 12 basis points.&nbsp;</p>\n<h2><strong>Why the long end stopped moving&nbsp;</strong></h2>\n<p>This comes down to how fixed rates are&nbsp;actually priced. Five-year fixed mortgages don&#39;t track the Bank of Canada&#39;s overnight rate &mdash; they track the Government of Canada five-year bond yield. Bond yields reflect where markets think inflation and interest rates are heading over the long run, and those expectations have been pushed around by things that have nothing to do with Tiff Macklem.&nbsp;</p>\n<p>The Middle East conflict pushed oil prices higher and stoked inflation worries. Five-year GoC bond yields, <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/could-variable-rate-mortgages-be-poised-to-bounce-back-in-2026/560272\" rel=\"noreferrer noopener\" target=\"_blank\">as tracked by Canadian Mortgage Professional</a>, rose roughly 69 basis points after the conflict escalated in late February. That rise only partially unwound by April. The result is that borrowers choosing a five-year fixed right now are paying a geopolitical risk premium embedded in the bond market &mdash; whether they know it or not.&nbsp;</p>\n<p>Sal&nbsp;Guatieri&nbsp;at BMO Capital Markets described the macro picture in January: &quot;with rates now at the low end of neutral and inflation still moderately above target, the easing cycle is probably over.&quot; The <a href=\"https://www.mpamag.com/ca/mortgage-industry/market-updates/bank-of-canada-announces-latest-interest-rate-decision/578419\" rel=\"noreferrer noopener\" target=\"_blank\">Bank of Canada held again in June</a> &mdash; fifth time running. <a href=\"https://www.mpamag.com/ca/news/general/bank-of-canada-rate-outlook-2026-points-to-a-long-hold-says-rbc/579002\" rel=\"noreferrer noopener\" target=\"_blank\">RBC Economics</a> isn&#39;t expecting hikes before 2027, but the bond market path &mdash; and with it, five-year fixed pricing &mdash; stays highly sensitive to what happens next in the Middle East and with inflation.&nbsp;</p>\n<h2><strong>A client exercise worth doing&nbsp;</strong></h2>\n<p>The Statistics Canada data makes a specific exercise possible that brokers can&nbsp;actually use. Take a client&#39;s current rate &mdash; based on when they originated and what term they chose &mdash; and map it against where the market sits now.&nbsp;</p>\n<p>A client who took an uninsured five-year fixed in April 2024 locked in at around 5.30 per cent. If they&#39;re renewing today, or approaching maturity, the best available uninsured three-to-five-year fix is 3.89 per cent. That&#39;s 141 basis points. On a $500,000 mortgage, that&#39;s about $400 less per month.&nbsp;</p>\n<p>A client who went insured variable in April 2024 at 6.97 per cent and held it through the cutting cycle is now at 3.79 per cent. Their payments have already fallen by over $1,000 per month on a comparable balance. They might be wondering whether to lock in now. The data suggests the floor on variable is close, and the five-year fixed has barely moved in a year. Whether to lock in &mdash; and at which term &mdash; isn&#39;t a question the data answers. But it&#39;s the question the data makes urgent.&nbsp;</p>\n<h2><strong>The odd thing happening at the short end&nbsp;</strong></h2>\n<p>There&#39;s one more wrinkle worth flagging. The insured one-to-three-year fixed currently sits at 4.63 per cent. The insured five-year-and-over fixed is at 3.97 per cent. That means the shorter term is&nbsp;actually more&nbsp;expensive than the longer one &mdash; the opposite of the normal relationship.&nbsp;</p>\n<p>This inverted pricing reflects a yield curve that sees modest rate increases down the road, combined with heavy lender competition at the five-year point that&#39;s compressed pricing there. For clients who just want the lowest rate available &mdash; first-time buyers, clients renewing with limited equity &mdash; the three-to-five-year fixed at 3.87 per cent (insured) or 3.89 per cent (uninsured) is cheaper than most big bank five-year fixes and cheaper than variable was as recently as last October. That&#39;s a useful fact to have going into a rate conversation.&nbsp;</p>\n<p>As the <a href=\"https://www.mpamag.com/ca/best-in-mortgage/cmp-top-75-brokers-2026/576390\" rel=\"noreferrer noopener\" target=\"_blank\">CMP Top 75 Brokers report noted</a>, what separates the best brokers right now is treating renewal as an advisory conversation, not just an admin task. The Statistics Canada rate data gives you the raw material for that conversation &mdash; where rates have been, where they are, and why the next year probably won&#39;t look as good for long-term fixed borrowers as the last two did.&nbsp;</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\" target=\"_blank\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/news/general/what-to-expect-at-the-women-in-mortgage-summit-canada-2026/579932\">What to expect at the Women in Mortgage Summit Canada 2026</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/mortgage-rates-have-dropped-nearly-15-points-in-a-year-but-not-everyone-got-the-same-deal/579921\">Mortgage rates have dropped nearly 1.5 points in a year. But not everyone got the same deal.</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/market-updates/gta-condo-sales-lag-89-below-average/579837\">GTA condo sales lag 89% below average</a></h3>"
     },
     {
-      "title": "Canada tells Chinese automakers to ‘build where you sell’ when it comes to electric vehicles",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/22/canada-tells-chinese-automakers-to-build-where-you-sell-when-it-comes-to-electric-vehicles/",
-      "pubDate": "Tue, 23 Jun 2026 01:05:36 -0400",
-      "description": "Industry Minister Melanie Joly said she has made it clear to four Chinese electric vehicle makers that getting more access to the Canadian market will require them to “build where you sell.”",
-      "content": "<media:description type=\"plain\"><![CDATA[Models stand next to a latest EV car from Chinese automaker BYD showcased at the Auto China 2026, in Beijing, April 25, 2026. (AP Photo/Andy Wong, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Andy Wong</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/GVBLBKXY3D5AA55ZDPKMPU2V64.jpg?auth=b135f4bf471ad1254d3db9ac1d6c2c84bf65295364add3f0acd1d39a49053354&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Industry Minister Melanie Joly said she has made it clear to four Chinese electric vehicle makers that getting more access to the Canadian market will require them to “build where you sell.”",
-      "body": "<p>TOKYO, Japan - Industry Minister Melanie Joly said she has made it clear to four Chinese electric vehicle makers that getting more access to the Canadian market will require them to “build where you sell.”</p>\n<p>But as she courts Chinese EV manufacturers to build another lifeline for the domestic auto industry as it buckles under the uncertainty of the CUSMA review, Japanese auto manufacturers are voicing concerns about the federal government’s embrace of their biggest regional competitor.</p>\n<p>This past week during a visit to China, Joly met with executives from BYD, Chery, Geely and Shanghai Launch Automotive Technology. The minister said the four companies want to eventually expand beyond the current quota of allowing 49,000 Chinese EVs into Canada this year.</p>\n<p>Earlier this year, during Carney’s trip to Beijing, Canada agreed to allow up to 49,000 Chinese EVS under a reduced tariff of 6.1 per cent, in exchange for China lifting retaliatory tariffs on some Canadian agricultural products.</p>\n<p>Speaking to CTV News on the sidelines of a Team Canada trade mission to Japan, Joly insists strict conditions will be put on potential manufacturers.</p>\n<p>According to Joly, EV assembly plant must be set up as a joint venture with majority Canadian ownership. It must use Canadian supplies and abide by the country’s labour codes. For Chinese companies to make EVs in Canada, they also need to ensure data security. For example, guarantee that user data collected by the vehicle won’t be transferred to the Chinese government when drivers connect their cell phone to the car.</p>\n<p>Joly also implied that progress was made in persuading Chinese auto makers to set up shop in Canada.</p>\n<p>“I don’t expect it to lead to results in days, but there can be positive conversations leading potentially to decisions in future months,” she said.</p>\n<p>But that is a concern to Japanese auto companies operating in Canada.</p>\n<p>Kenichi Kawaji, the President and CEO of Mitsubishi Motor Sales of Canada, tells CTV News that Chinese EVs are difficult to compete against.</p>\n<p>“Chinese EVs are very nice. Its exterior and interior technology is amazing, with a good price. It will be difficult to fight,” Kawaji said, later adding that he doesn’t expect a surge in sales of Chinese EVs in the short term because Canada doesn’t yet have the charging infrastructure in place to support it.</p>\n<p>While Mitsubishi does not have a manufacturing plant in North America, Kawaji says Mitsubishi will adapt by investing more in hybrid alternatives</p>\n<p>After Honda recorded US$15 billion in losses globally, it shelved a plan indefinitely to build EVs at its Alliston, Ont. plant.</p>\n<p><a href=\"https://hondanews.ca/en-CA/hci-corporate/releases/2026-apma-summit-speech-from-dave-jamieson-president-and-ceo-honda-canada\" rel=\"\">In a speech delivered in front of auto parts manufacturers</a> in June, Honda Canada President Dave Jamieson said that “policy decisions here at home are actively making Canada less competitive at exactly the moment we need to be strengthening our position.”</p>\n<p>Jamieson pointed fingers at CUSMA negotiations, U.S. tariff exposure and trade uncertainty, but also blamed “new entrants into Canada.”</p>\n<p>“Canadian auto makers face rising competition from low-cost, state-subsidized, non-market-oriented producers,” Jamieson said according to the transcript of his speech.</p>\n<p>Joly, who also met with Honda executives in Japan, said that she speaks frequently to Jamieson and “rejects the premise” that the government’s China EV policy is putting manufacturing plants run by Canada’s allies at risk. More than 75 per cent of the vehicles assembled in Canada are made at Toyota or Honda plants.</p>\n<p>“We’re not putting any businesses in jeopardy. I reject that premise. We’re offering the best technology for Canadians while protecting 500,000 workers. We want to make sure we’re increasing our manufacturing footprint in Canada,” Joly said.</p>\n<p>Joly also hinted that good news was on the horizon for Honda’s Alliston, Ont. plant, but declined to say if EV production plans were back on track.</p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "‘It’s insane’: Groceries keep squeezing Canadians as tomato prices spike 45%, StatCan says",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/23/tomato-prices-increased-45-in-a-year-as-inflation-accelerates-statcan-says/",
-      "pubDate": "Tue, 23 Jun 2026 00:55:57 -0400",
-      "description": "Groceries were up 4.3% compared with a year ago. That’s the 16th month in a row that food has risen faster than inflation overall, a streak that has steadily eaten into household budgets.",
-      "content": "<media:description type=\"plain\"><![CDATA[Statistics Canada says tomato prices are up 45 per cent over the last year, citing supply problems in Mexico. (CTV News)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/VWYMPPARRFF7PNCFB2ODTTNNNM.jpeg?auth=53227c5fe68819d5e783da8ba705f4a90680461750808a5fd000a06c77b8aa37&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "Groceries were up 4.3% compared with a year ago. That’s the 16th month in a row that food has risen faster than inflation overall, a streak that has steadily eaten into household budgets.",
-      "body": "<p>TORONTO — Christina Notario doesn’t need a government report to tell her food keeps getting more expensive. She sees it every time she goes to the checkout counter.</p>\n<p>“I live on my own, but my grocery bills, I would say, are maybe close to $400 a month, and it’s just for myself,” she said outside a produce market in downtown Toronto. “It’s insane.”</p>\n<p>The latest numbers back her up. Canada’s inflation rate <a href=\"https://www.ctvnews.ca/business/inflation/article/iran-war-ripple-effects-drive-inflation-to-its-highest-level-since-2023/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/business/inflation/article/iran-war-ripple-effects-drive-inflation-to-its-highest-level-since-2023/\">climbed to 3.2 per cent in May</a>, its fastest pace in more than two years. Statistics Canada noted food was again a contributor.</p>\n<p>Groceries were up 4.3 per cent compared with a year ago. That’s the 16th month in a row that food has risen faster than inflation overall, a streak that has steadily eaten into household budgets.</p>\n<p>Produce was the worst of it. Fresh fruit rose 5.3 per cent and fresh vegetables jumped nine per cent, with steep increases for staples like lettuce, broccoli and cauliflower. Tomatoes alone soared 45 per cent, which Statistics Canada blamed on poor growing weather in Mexico and farmers there planting less amid worries about U.S. tariffs.</p>\n<p>Notario said she tries to buy her produce outside downtown Toronto, where she says it’s cheaper.</p>\n<p>“Like, no wonder people go for junk food instead,” she said. “It’s just crazy expensive for produce.”</p>\n<p>Doug Porter, chief economist at BMO, said it isn’t normal to get hit on both fruit and vegetables this time of year.</p>\n<p>“Fruit and vegetables in general both popped in May,” he said. “Usually that’s kind of the month where we get a little bit of relief.”</p>\n<p>Other shoppers told the same story. Olivia Cross, who CTV News spoke to while shopping at a produce market, called rising prices “definitely frustrating” and said she shops around for cheaper grocers. Alisson Zani, who also hunts for deals from store to store, said it’s the gap between prices and paycheques that gets to her.</p>\n<p>“The price is increasing. The rent is. The food. But our salary is not changing,” she said. “So I have a big frustration about that.”</p>\n<p>Of late, there has been a bright spot. At a downtown Toronto gas station where the price was closer to $2 a litre last month, it has slipped below $1.60, and motorist Kam Naidoo is relieved.</p>\n<p>“Honestly, it’s awesome,” she said while topping up her vehicle. “I haven’t filled up with gas in a while because it’s been a bit unaffordable. But this is great.”</p>\n<p>The soaring price of fuel in May is what largely drove overall inflation higher. Pump prices were up more than 33 per cent year-over-year after the Middle East conflict between the United States, Israel and Iran led to the closure of the Strait of Hormuz.</p>\n<p>With gas down about 10 per cent this month, Porter said the May inflation number could be a peak that will now ease.</p>\n<p>“This might represent the high-water mark for inflation this year,” he said.</p>\n<p>He noted with gas stripped out, prices were up a much more modest 2.2 per cent. The cost of air travel did climb 7.4 per cent as airlines paid more for jet fuel.</p>\n<p>Even computers and tech got pricier – up 3.9 per cent – as the data centres powering artificial intelligence gobble up parts like memory and solid-state drives.</p>\n<p>Porter said that last one is a slightly worrying sign, because tech has spent years helping to hold inflation down.</p>\n<p>“There’s a lot of demand for memory chips, of course, which even companies like Apple have warned are starting to lead to higher prices,” he said. “It’s been an area that for years and years has tended to dampen inflation. It’s not good news that it’s actually starting to add a little bit to inflation.”</p>\n<p>Shelter prices rose a more modest 1.7 per cent and household appliance prices fell 2.1 per cent.</p>\n<p>As for where things go from here?</p>\n<p>“I suspect even with some relief at the pumps, we’re still going to end up with inflation close to three per cent in the next couple months,” said Porter.</p>\n<p>“If there’s some good news, it’s that there really aren’t that many signs that this is broadening out to a lot of other areas, but there are some problems.”</p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Air Canada announces 2 new contracts ratified with finance and clerical employees",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/22/air-canada-announces-2-new-contracts-ratified-with-finance-and-clerical-employees/",
-      "pubDate": "Mon, 22 Jun 2026 23:03:59 -0400",
-      "description": "Air Canada says two new contracts with its finance and clerical employees have been ratified. ",
-      "content": "<media:description type=\"plain\"><![CDATA[An Air Canada plane takes off from Montreal-Pierre Elliott Trudeau International Airport in Montreal, Friday, Sept. 13, 2024. THE CANADIAN PRESS/Christinne Muschi]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Christinne Muschi</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KTSJR5N732THZYYXAPHNSPEA44.jpg?auth=1b321e2a72a7f8699cb16231b7ef9544e00dec7ce83385643c1e05b1a855cf8f&amp;smart=true&amp;width=1400&amp;height=901",
-      "_src": "bnn",
-      "_ogDesc": "Air Canada says two new contracts with its finance and clerical employees have been ratified. ",
-      "body": "<p>MONTREAL — Air Canada says two new contracts with its finance and clerical employees have been ratified.</p>\n<p>The airline says employees represented by the International Association of Machinists and Aerospace Workers voted on two of three tentative agreements reached earlier in June.</p>\n<p>The two agreements cover about 170 finance employees and about 115 clerical employees.</p>\n<p>Air Canada says the ratification of a third agreement is in progress, covering about 11,000 maintenance, airport airside operations, cargo and cabin service employees.</p>\n<p>Last week, Air Canada announced it had struck a tentative deal with unionized workers, recognizing the contributions and skills of employees in maintenance, cabin services, airport airside operations, cargo, finance and clerical roles.</p>\n<p>At the time, the International Association of Machinists and Aerospace Workers announced the deal as historic, with landmark wage increases for its members.</p>\n<p><i>This report by The Canadian Press was first published June 22, 2026</i></p>"
-    },
-    {
-      "title": "Manitoba plans to mandate unit pricing to combat shrinkflation",
-      "link": "https://www.bnnbloomberg.ca/business/economics/2026/06/22/manitoba-plans-to-mandate-unit-pricing-to-combat-shrinkflation/",
-      "pubDate": "Mon, 22 Jun 2026 22:22:07 -0400",
-      "description": "In response to concerns about affordability, the Manitoba government has released a study outlining ways to help lower grocery costs.",
-      "content": "<media:description type=\"plain\"><![CDATA[Manitoba aims to make grocery prices easier to compare with unit-pricing plan. (Source: Josh Crabb/CTV News)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/L7MWOZ7PNKENB3EOUOH7EQX3IE.png?auth=b3092ea30f97341b36c0a74d8c31c16d7c7cf3cd35944f714a8d9af0a5fb1569&amp;smart=true&amp;width=1020&amp;height=574",
-      "_src": "bnn",
-      "_ogDesc": "In response to concerns about affordability, the Manitoba government has released a study outlining ways to help lower grocery costs.",
-      "body": "<p>WINNIPEG - Ian Heather is always surprised to see how high prices are when he goes to the grocery store.</p>\n<p>“When you walk out of the store with half a bag of groceries and it’s close to $100, you say, ‘oh wow,’” he said.</p>\n<p>Heather has resorted to just buying the essentials.</p>\n<p>“There’s not much you can do about it if you want the food and you have to eat nutritiously,” he said.</p>\n<p>Randy Van Caeyzeele and his mother are noticing the same thing.</p>\n<p>“I just bought some pop in the last couple of weeks, and I noticed that’s gone (up) like double in price,” he said.</p>\n<p>New figures from Statistics Canada show Manitoba had the third-highest inflation rate among provinces in May compared to April.</p>\n<h2>Manitoba targeting shrinkflation</h2>\n<p>In response to concerns about affordability, the Manitoba government has released a study outlining ways to help lower grocery costs.</p>\n<p>The provincial NDP wants to adopt a new law targeting shrinkflation.</p>\n<p>Shrinkflation is where a product’s size decreases, but consumers are charged the same price.</p>\n<p>The province says it will require the unit price per item to be shown at the grocery store, so consumers know what they are getting for how much.</p>\n<p>Manitoba would join Quebec, which is the only province in Canada to mandate unit pricing by law.</p>\n<p>Finance Minister Adrien Sala says possible legislation would require grocers to establish standardized unit pricing, so consumers can make more informed purchasing decisions.</p>\n<p>“We’ve been able to identify more ways to save you money at the grocery store and we are taking action to bring in these measures right away,” Sala said at a press conference Monday.</p>\n<p>The government also announced $2.5 million for a new transformation centre, where leftover food from farms and grocery stores will be sent to Harvest Manitoba to reduce waste.</p>\n<p>There is also support for a new grocery store in downtown Winnipeg to increase access to affordable food.</p>\n<p>The release of the report comes a week before the PST (provincial sales tax) is removed from groceries in Manitoba, which will bring some relief for consumers.</p>\n<p>But not everyone is convinced the recommendations will make a difference.</p>\n<h2>‘Beyond our control’</h2>\n<p>Grocery store owner Munther Zeid says measures like unit pricing place more responsibility on retailers rather than addressing the root causes of higher prices.</p>\n<p>“Adding a few more lines on a tag isn’t going to bring prices down, and most of the time, people don’t have time to read that. They’re just walking by, and they see a price,” Zeid said, who owns FoodFare in Winnipeg.</p>\n<p>“It won’t change their mind on buying.”</p>\n<p>Zeid feels the government is missing the mark and is bringing even more work to retailers like himself.</p>\n<p>“It seems like the government keeps coming back to the retailer and going, ‘this is the way that we’re going to lower prices,’ well it’s not,” he said.</p>\n<p>“Go after the wholesalers, go after the people that make it. That’s where you’re going to get lower prices. Don’t keep coming back to me and have me do more and more work. That’s really not going to drive prices down.”</p>\n<p>The report comes just over a week after Ottawa unveiled a multibillion-dollar national food strategy aimed at making groceries more affordable.</p>\n<p>The Liberal plan is intended to change the way food is bought, sold, transported and distributed in Canada to better support farmers, small independent players and consumers.</p>\n<p>The government says the strategy is backed by more than $3 billion in investments over 10 years.</p>\n<p>Gary Sands with the Canadian Federation of Independent Grocers (CFIG) says there are similarities between the federal and provincial approaches, but questions whether consumers will see relief anytime soon.</p>\n<p>“By the time they come on stream, will they have lowered prices? That’s a hard prediction to make. It’s not one I would make,” he said.</p>\n<p>“We wish there was something that we could do to reduce prices, to bring them down, but the fact is, there isn’t. A lot of these things are beyond our control.”</p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Couche-Tard reports US$863.4M in Q4 profit, up year-over-year from US$439.4M",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/06/22/couche-tard-reports-us8634m-in-q4-profit-up-year-over-year-from-us4394m/",
-      "pubDate": "Mon, 22 Jun 2026 22:03:41 -0400",
-      "description": "Alimentation Couche-Tard Inc.’s net earnings attributable to shareholders came in at US$863.4 million during the fourth quarter, up from $439.4 million during the same period last year.",
-      "content": "<media:description type=\"plain\"><![CDATA[A Couche-Tard sign is seen in Montreal, Thursday, Sept. 5, 2024. THE CANADIAN PRESS/Christinne Muschi]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Christinne Muschi</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/QUMA5XJZN45PYDCPPJVMJQOXJ4.jpg?auth=9e2d03ce85a1bd25bae169c63e3ec638f873bcd58fe13da98efb4bb2043e4bca&amp;smart=true&amp;width=1400&amp;height=848",
-      "_src": "bnn",
-      "_ogDesc": "Alimentation Couche-Tard Inc.’s net earnings attributable to shareholders came in at US$863.4 million during the fourth quarter, up from $439.4 million during the same period last year. ",
-      "body": "<p>LAVAL — Alimentation Couche-Tard Inc.’s net earnings attributable to shareholders came in at US$863.4 million during the fourth quarter, up from US$439.4 million during the same period last year.</p>\n<p>That amounted to diluted net earnings per share of 94 cents US during the fourth quarter, up from 46 cents US during the prior year quarter.</p>\n<p>The Laval, Que.-based company, which keeps its books in U.S. dollars, says its total revenue came in at US$19.5 billion, rising year-over-year from US$16.27 billion.</p>\n<p>The company says higher average fuel selling prices helped to increase revenue during the period.</p>\n<p>Couche-Tard says its total merchandise and service revenue came in at US$4.5 billion, rising 7.7 per cent from US$4.19 billion.</p>\n<p>Couche-Tard CEO Alex Miller says the company’s strategy, which it unveiled in February, is driving strong momentum across its U.S. business.</p>\n<p><i>This report by The Canadian Press was first published June 22, 2026</i></p>"
-    },
-    {
-      "title": "Canada’s illegal cannabis market leads to national organization suspending operations",
-      "link": "https://www.bnnbloomberg.ca/investing/cannabis/2026/06/22/national-cannabis-organization-suspends-operations-citing-active-illegal-market/",
-      "pubDate": "Mon, 22 Jun 2026 20:58:09 -0400",
-      "description": "A national cannabis lobby group representing licensed producers and processors is suspending operations, citing challenges tied to the unregulated cannabis market.",
-      "content": "<media:description type=\"plain\"><![CDATA[Displays are pictured at an provincially operated cannabis store in Quebec City, Friday, June 19, 2026. THE CANADIAN PRESS/Jacques Boissinot]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jacques Boissinot</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/UMDKNB3QXCFGMBRWDXRJZHRWQI.jpg?auth=1e5470a909a240267aa5d09f69d0f56c704879dc312a68de5ac1a35fa5e4aed7&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "A national cannabis lobby group representing licensed producers and processors is suspending operations, citing challenges tied to the unregulated cannabis market.",
-      "body": "<p>A national cannabis lobby group says it’s suspending its operations, citing the financial challenges to the industry from the illicit market.</p>\n<p>In a news release Monday, the <a href=\"https://stratcann.com/news/cannabis-council-of-canada-ends-active-operations/\" target=\"_self\" rel=\"\" title=\"https://stratcann.com/news/cannabis-council-of-canada-ends-active-operations/\">Cannabis Council of Canada</a> suggested its members don’t have enough money to pay for its lobbying services.</p>\n<p>Financial pressure, complex regulations and the “highly active” illicit market have “constrained the resources available to sustain a national association at its current level of activity,” the council said.</p>\n<p>The council’s president, Paul McCarthy, said in an interview last week the organization has been calling on Ottawa to establish a national strategy for eradicating the unregulated cannabis market.</p>\n<p>“While this is a provincial and territorial responsibility, I would say accountability rests with the federal government … they legalized it, it wasn’t the provinces and territories,” he said Thursday, adding that Ottawa would be best equipped to deal with the complexities of cannabis enforcement.</p>\n<p>The federal departments of health and justice did not immediately respond to a request for comment.</p>\n<p>McCarthy said the businesses the council represents, which include cannabis producers and processors, generate billions of dollars in revenue, but the majority of them remain unprofitable.</p>\n<p>“One of the biggest reasons is because they’re trying to compete against illicit product. They’re eating up market share and they’re driving down price, and the margins are already razor thin,” he said.</p>\n<p>A federal strategy to tackle the unregulated market should involve intelligence gathering to identify illicit operations, disrupt the shipment of product and illegal online sales, and conduct enforcement at brick-and-mortar stores, McCarthy said.</p>\n<p>“Illegal product is being sold and shipped through Canada Post, Purolator or other delivery services. You need to find a way to cut that off, because if someone buys illegal product and it never shows up to their door, guess what they’re not doing again? They’re not going to keep buying through that channel,” he said.</p>\n<p>Instead of each province and territory creating and enacting its own plan to tackle illicit cannabis, the federal government ought to establish a strategy that can be deployed Canada-wide, McCarthy said.</p>\n<p>“Let’s pool resources, pool strategies. We don’t need to build this (enforcement plan) 13 times. Let’s build it once and deploy that everywhere,” he said.</p>\n<p>McCarthy said there are many risks associated with the illicit market, including in the potential health and safety hazard of using an unregulated and potentially inaccurately-labelled product. Another serious concern is the risk of underage Canadians being able to purchase the drug, he said.</p>\n<p>The government’s objectives when legalizing cannabis in 2018 were to displace the illicit market, keep the drug out of the hands of youth and ensure the product is safe, McCarthy said.</p>\n<p>“The illicit market is the … common denominator that is actually the barrier to achieving all of the public policy objectives of legalization,” he said.</p>\n<p>In Monday’s statement, the council said it is proud of the role it played advocating for a responsible, competitive and sustainable legal cannabis industry, and its records will be preserved as the organization becomes dormant.</p>\n<p><i>Lyndsay Armstrong, The Canadian Press</i></p>\n<p><i>This report by The Canadian Press was first published June 22, 2026.</i></p>"
-    },
-    {
-      "title": "Canada unveils nuclear strategy, promises to become energy superpower",
-      "link": "https://www.bnnbloomberg.ca/business/technology/2026/06/22/canada-unveils-nuclear-strategy-promises-to-become-energy-superpower/",
-      "pubDate": "Mon, 22 Jun 2026 18:37:57 -0400",
-      "description": "Promising to “unlock (Canada’s) full potential as an energy superpower,” the federal government unveiled its new Nuclear Energy Strategy on Monday.",
-      "content": "<media:description type=\"plain\"><![CDATA[The Darlington nuclear plant is seen from the CTV News chopper on Wednesday, April 15, 2015. ]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/Y5RLOEAG33LDQVADW35JJPX6I4.jpg?auth=2c9e3192a7a6fa7fdd9d5eb1c99ffec35bcd1cb7e6b2ffa34fa94f56278f9c73&amp;smart=true&amp;width=676&amp;height=380",
-      "_src": "bnn",
-      "_ogDesc": "Promising to “unlock (Canada’s) full potential as an energy superpower,” the federal government unveiled its new Nuclear Energy Strategy on Monday.",
-      "body": "<p>Promising to “unlock (Canada’s) full potential as an energy superpower,” the federal government unveiled its new Nuclear Energy Strategy on Monday, including its hopes to export more Canadian reactors and enable the construction of up to 10 new ones in Canada.</p>\n<p>The 23-page strategy is structured around four pillars: enabling new builds, being a supplier and exporter of choice, expanding uranium production and nuclear fuel opportunities, and developing new nuclear innovations.</p>\n<p>Making the strategy announcement in Newmarket, Ont., on Monday, Energy and Natural Resources Minister Tim Hodgson called the strategy a “co-ordinated targeted plan for the nuclear sector at home and abroad.”</p>\n<p>“A plan that will mean new tools, new partnerships, new builds, and most importantly, a new civilian nuclear renaissance for Canada,” Hodgson said. “It’s a renaissance because this is not the start of something completely new. We are writing the next chapter in one of Canada’s greatest industrial success stories.”</p>\n<p>The Liberal government signalled earlier this year that the strategy would be coming. It follows the <a href=\"https://www.ctvnews.ca/politics/article/pm-carney-unveils-electricity-plan-to-double-grid-lower-costs/\" target=\"_blank\" rel=\"noreferrer\" title=\"https://www.ctvnews.ca/politics/article/pm-carney-unveils-electricity-plan-to-double-grid-lower-costs/\">release of its Clean Electricity Strategy last month</a>, which aims to double Canada’s electricity grid by 2050.</p>\n<p>“Nuclear energy is essential to powering Canada’s future,” reads a press release from Natural Resources Canada. “It provides non-emitting, dependable baseload power, backed by a strong domestic supply chain built on over 70 years of Canadian expertise, innovation and intellectual property.”</p>\n<p>The document also includes a slate of key objectives, including to “ensure a modernized, cost-competitive CANDU (Canada Deuterium Uranium) design is available by 2030,” and to “enable construction of up to ten new large-scale reactors within Canada, with two under construction by 2035 and five more planned or under development by 2040.”</p>\n<p>Citing it as an example of the type of project the strategy will help advance, the press release pointed to the Darlington New Nuclear Project, one of the 15 initiatives under the Major Projects Office.</p>\n<p>Hodgson said the Darlington project will power 300,000 homes and sustain 3,700 jobs annually, including 18,000 jobs during construction.</p>\n<p>“Canada has long been a nuclear leader — and we will continue to lead, under our new Nuclear Energy Strategy,” Hodgson wrote in a release ahead of the announcement. “Together with all members of Team Canada, we are taking action to ensure we have a co-ordinated, strategic approach to diversifying nuclear industry exports and bringing economic growth and security and affordable, reliable power to all Canadians.”</p>\n<p>Asked during a question-and-answer period following his announcement how many new jobs the federal government anticipates the strategy will help create, Hodgson said the goal is to double the current size of the industry.</p>\n<p>“Today, there are about 90,000 direct and indirect jobs in the nuclear industry in Canada,” Hodgson said. “We believe that as the provinces make their choices and roll out nuclear, that will lead to at least a doubling level of employment, so going from roughly 90,000 jobs today to 180,000 plus jobs in the coming decade.”</p>\n<p>The strategy does not include any earmarked funding for specific projects or initiatives. In a technical briefing to reporters ahead of Hodgson’s announcement on Monday, a Natural Resources Canada spokesperson said the federal government has other avenues — such as the Canada Growth Fund and the Canada Infrastructure Bank — if a nuclear project needs funding, but that the type of capital investment in the aggregate that could be required could exceed $100 billion.</p>\n<p>Prime Minister Mark Carney has not been involved in any part of the strategy’s development, according to Natural Resources Canada, because of a conflict-of-interest screen.</p>\n<p>Asked about the conflict during the technical briefing, a Natural Resources Canada spokesperson said the prime minister “does not participate in any discussions or decisions that could inappropriately further the interests of a company listed on his ethical screen.”</p>\n<p>In a statement to CTV News on Monday, Ontario’s Energy and Mines Minister Stephen Lecce said the province believes nuclear power will be “a key driver of jobs, growth, and long-term competitiveness,” and that it has “long called for federal investment to build out the next generation of made-in-Canada nuclear energy.”</p>\n<p>Lecce was with Hodgson for Monday’s strategy announcement.</p>\n<p>Speaking to reporters on Monday ahead of Hodgson’s press conference, Conservative Leader Pierre Poilievre said: “an announcement will not build anything.”</p>\n<p>“This is the problem we’ve had with the Carney Liberals, is their promises are being reported on as results, and so far there have been no results,” Poilievre also said.</p>\n<h2>Related Stories</h2>"
-    },
-    {
       "title": "Higher Gas Prices Send Canada’s Inflation to a Two-Year Peak",
       "link": "https://news.google.com/articles/CBMioAFBVV95cUxNUTRuX3JfOU1oSUI3aWZkeExYc1lyaEpiS3VEZjNkVGhkaDM0MVlHRVpIX085VThoU2NfbmN6VlAwU0ZDY1A5N0VTUjhFVzI1azhlSGFrT1NTSFJQTTRKLXhCWFZOVDVjQ2dzUDB4X2JkRTAxQVR4cWtpd3lOa3hDNHExbDNlLURZeGszRUhsNnVlUVJFSC1OWWxQOThJaTdN?oc=5",
       "pubDate": "Mon, 22 Jun 2026 20:02:51 GMT",
@@ -210,17 +255,6 @@
       "_publisher": "Morningstar",
       "_pubUrl": "https://global.morningstar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Federal government considering high-speed rail stop in Kingston, Ont.",
-      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/22/federal-government-considering-high-speed-rail-stop-in-kingston-ont/",
-      "pubDate": "Mon, 22 Jun 2026 14:50:16 -0400",
-      "description": "Canada’s high-speed rail project could include a stop in Kingston, Ont., according to the federal transport minister.",
-      "content": "<media:description type=\"plain\"><![CDATA[Alto, also known as the Toronto–Quebec City High-Speed Rail Network (photo: Alto)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KLSKUVWDKRALDJ3JHOFQH7UZEI.png?auth=f601de5965c0d7fcff437d60d3fb9f7dc3e332d393c44816d5af9a6e789dfd32&amp;smart=true&amp;width=1366&amp;height=768",
-      "_src": "bnn",
-      "_ogDesc": "Canada’s high-speed rail project could include a stop in Kingston, Ont., according to the federal transport minister.",
-      "body": "<p>Canada’s high-speed rail project could include a stop in Kingston, Ont., according to the federal transport minister.</p>\n<p>Steven MacKinnon was in Kingston on Monday to announce an update on the controversial Alto project, which would build a high-speed rail corridor between Toronto and Quebec City, with stops in Peterborough, Ottawa, Montreal, Laval, and Trois-Rivieres.</p>\n<p>“I have asked Alto to further assess an alignment option that could include Kingston as a potential stop as we continue advancing this transformative project for communities across the Toronto–Québec City corridor,\" MacKinnon said in a statement released on Alto’s website Monday morning.</p>\n<p>Alto said on its website that a proposed stop in Kingston is subject to technical feasibility and project requirements.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters\"><b>Sign up now for daily CTV News Ottawa newsletters</b></a></li></ul>\n<p>“This is an important next step toward building a faster, cleaner and more connected rail network for Canadians,” MacKinnon said.</p>\n<p>The mayors of Kingston and South Frontenac urged the government to <a href=\"https://www.ctvnews.ca/ottawa/article/mayors-call-on-federal-government-to-align-alto-rail-project-along-hwy-401-add-stop-in-kingston/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/ottawa/article/mayors-call-on-federal-government-to-align-alto-rail-project-along-hwy-401-add-stop-in-kingston/\">consider a stop in Kingston</a>, adding the line should run along the Highway 401 corridor in eastern Ontario.</p>\n<p>Kingston is approximately 180 kilometres from Peterborough, the first planned stop heading east from Toronto, and about 200 km from Ottawa via Highways 401 and 416.</p>\n<p>Alto’s 134-page <a href=\"https://www.altotrain.ca/en/news/release-report-and-kingston\" target=\"_blank\" rel=\"noreferrer\" title=\"https://www.altotrain.ca/en/news/release-report-and-kingston\">“What We Heard” report</a>, which was released Monday alongside MacKinnon’s announcement, found that many residents of Kingston expressed a desire to have a high-speed rail stop in the city.</p>\n<p>“Although a station is not currently proposed in Kingston, municipal, stakeholder, resident and community support has emerged for the project, contingent on the inclusion of a Kingston station. The existing VIA Rail station was a suggested location for a Kingston HSR station,” the report says.</p>\n<p>“Participants emphasized that the southern corridor, specifically through Kingston and Belleville with a station in Kingston, could serve a larger population than the northern route.”</p>\n<p>Proponents of a stop in Kingston also noted the city is underserved by air travel options and that Kingston’s Via Rail station is the fourth-busiest station in Canada.</p>\n<p>Alto noted that many residents along the potential southern corridor between Peterborough and Ottawa still oppose the project, but running it closer to Kingston could alleviate some concerns.</p>\n<p>“While there was criticism of the project, many participants in the South corridor expressed conditional support for Alto if it were to include a station in the Kingston area, where there is already a VIA Rail station,” the Alto report says.</p>\n<p>“They argue there is enough demand in this city to support ridership. If the alignment were to move to Kingston, it would also avoid many communities that are currently in the South corridor.”</p>\n<p>Opponents along the south corridor were concerned about potential community fragmentation and a perceived divide between rural and urban interests, Alto said.</p>\n<p>Dozens of protesters opposed to the plan gathered outside the announcement.</p>\n<p>“I might lose my farm because of this,” said Elgin, Ont. resident Sharon Patton.</p>\n<p>“They’re taking our homes, basically generations on generations that are going to have to pay for this. And we don’t want to see it,” said Lindsey Kimmett.</p>\n<p>Construction on the first leg of the project isn’t slated to begin until 2029, and it would connect Ottawa and Montreal at first.</p>\n<p>Alto says the project would create 50,000 jobs during construction and add roughly $24.5 billion annually to Canada’s GDP. The train would “cut travel times between cities in half” compared to current train trips, travelling at speeds of 300 km/h or more, and will offer more frequent departures between major cities like Toronto, Ottawa, Montreal and Quebec City.</p>\n<p>The project, which is estimated to cost between $60 billion and $90 billion, has faced staunch opposition from farmers, landowners, and rural politicians along the two proposed corridors in Ontario. The Parti Québécois has promised to withdraw Quebec from the project if they form government this fall.</p>\n<p>Alto confirmed adding a stop in Kingston would add to the cost of the project.</p>\n<p>“Yes there is additional cost with it but there’s increased ridership to compensate with the extra cost. I’m not going to go into more detail but the warm fuzzy feeling is that economically it makes sense to have the station in Kingston,” said Martin Imbleau, Alto President and CEO</p>\n<h2>Public consultation trends toward approval</h2>\n<p>Alto released its <a href=\"https://www.altotrain.ca/en/news/release-report-and-kingston\" target=\"_blank\" rel=\"noreferrer\" title=\"https://www.altotrain.ca/en/news/release-report-and-kingston\">“What We Heard” report</a> on Monday, outlining the results of more than two dozen open houses across the corridor, 24,000 online surveys, and more messages regarding the project.</p>\n<p>Overall, a majority of respondents to the online survey said the project would have a very positive (45.1 per cent) or somewhat positive (10 per cent) effect on the region. Thirty-five per cent of respondents said it would have a very negative effect, while 6.2 said it would be somewhat negative.</p>\n<p>There was a similar breakdown to the question about being in favour of the project, with 58.8 per cent of respondents saying they were either very much in favour (48.4 per cent) or somewhat in favour (10.4 per cent). Thirty-five per cent of respondents to the online survey were not at all in favour of the project and 5.3 per cent were somewhat not in favour.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/app\"><b>The information you need to know, sent directly to you: Download the CTV News App</b></a></li></ul>\n<p>“The likeness in the breakdown of the responses between the first two survey questions demonstrates that there is a wide range of opinions, as some are in favour and see benefits, while others are not in favour and have concerns,” the report says.</p>\n<p>Respondents listed shorter travel times, improvement of regional connectivity and mobility, and more convenient travel as the top three positive benefits the line would have. The top three negative effects were fragmentation of land and natural habitats, the cost to build the line, and changes to the landscape, including deforestation. Eleven per cent of respondents said the line would have no positive impacts, while just 2.3 per cent said there would not be any negative effects.</p>\n<p>Alto says the majority of respondents to the online survey said they would take high-speed rail at least one to three times per year, while a “significant portion” said they would never use it. The report, however, does not include any figures on these responses, in particular.</p>\n<p>Alto also received 2,155 responses to exit surveys completed after the 26 open houses it hosted during the first public consultation period.</p>\n<p>According to the report, 54 per cent of respondents who filled out exit surveys strongly supported the project, while 14 per cent somewhat supported it. Eighteen per cent were strongly opposed and five per cent were somewhat opposed.</p>\n<p>Most open house attendees did not submit an exit survey. Alto says 10,280 people attended the 26 open houses, but only 21.5 per cent completed the survey.</p>\n<p><i>With files from CTV News Ottawa’s Katie Griffin</i></p>"
     },
     {
       "title": "GTA condo sales lag 89% below average",
@@ -242,17 +276,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/09/An-Aquabus-water-taxi-carrying-tourists-prepares-to-dock-at-Granville-Island-in-Vancouver-500x331.jpg",
       "_src": "cmt",
       "_ogDesc": "Condos are a popular choice for many first-time homebuyers owing to their lower price point and access to amenities such as gyms and pools."
-    },
-    {
-      "title": "Altamira Gold hosts 1.4-million-ounce gold resource across district-scale Cajueiro project in Brazil",
-      "link": "https://www.bnnbloomberg.ca/investment-trends/2026/06/22/altamira-gold-hosts-14-million-ounce-gold-resource-across-district-scale-cajueiro-project-in-brazil/",
-      "pubDate": "Mon, 22 Jun 2026 13:00:00 -0400",
-      "description": "Mike Bennett, President and CEO of Altamira Gold Corp., discusses the company's gold exploration focus on the Cajueiro project in Brazil's highly prospective Juruena Gold Belt, a region with a history of artisanal gold production that runs more than 40 years.",
-      "content": "",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/KOVA24YGFNCJVHD4PDVTVDMI2U.PNG?auth=0fc5f359d2921b4d893180f86a905f1a679c7c7ad59582a5dc62ac09a7277e39&amp;smart=true&amp;width=583&amp;height=362",
-      "_src": "bnn",
-      "_ogDesc": "Mike Bennett, President and CEO of Altamira Gold Corp., discusses the company&#x27;s gold exploration focus on the Cajueiro project in Brazil&#x27;s highly prospective Juruena Gold Belt, a region with a history of artisanal gold production that runs more than 40 years.",
-      "body": "<p><i>Disseminated on behalf of: Altamira Gold Corp.</i></p>\n<p>Mike Bennett, President and CEO of <a href=\"https://altamiragold.com/\" rel=\"\">Altamira Gold Corp</a>. (TSXV: ALTA | OTCQB: EQTRF | FSE: T6UP), discusses the company’s gold exploration focus on the Cajueiro project in Brazil’s highly prospective Juruena Gold Belt, a region with a history of artisanal gold production that runs more than 40 years. Operating across a district-scale land package of more than 90,000 hectares, the company aims to expand upon an established gold resource base of roughly 1.4 million ounces and unlock the wider potential of the Cajueiro district.</p>\n<h2>Cajueiro gold deposits anchor an established resource base</h2>\n<p>Unlike many early-stage explorers working a single prospect, Altamira Gold controls a district-scale position that already hosts two established gold deposits. According to Bennett, “We already host two established gold deposits within that land package with inferred and indicated resources totalling around 1.4 million ounces of gold.”</p>\n<p>That existing resource base sets the company apart, giving it a foundation to build from rather than starting from grassroots exploration. With more than 90,000 hectares under its control, Altamira Gold also has the room to grow these deposits and to test new targets across the district.</p>\n<h2>Brazil gold exploration draws investor interest</h2>\n<p>With investor attention focused on gold and on stable, mining-friendly jurisdictions, Altamira Gold is positioned within a belt that has hosted artisanal gold production for more than 40 years. The Cajueiro project also benefits from excellent infrastructure, including year-round road access, proximity to regional airports, access to grid power, and exploration camp facilities on company-owned land, all of which lower costs and support efficient exploration and any future development on the project. By concentrating resource growth and new discoveries within a single, well-serviced district, the company aims to offer investors leveraged exposure to district-scale gold exploration in Brazil, anchored by established mineral deposits.</p>\n<h2>Drilling expands Cajueiro porphyry gold targets</h2>\n<p>Recent work has expanded known mineralization and confirmed additional porphyry-related gold systems within the Cajueiro district, while the company continues to identify new targets across its land package. Bennett says, “With active drilling programs in place and a steady flow of news ahead, we believe Altamira Gold offers investors a compelling exposure to district-scale gold discovery and resource growth in Brazil.”</p>\n<p>Looking ahead, the company expects further drill results as its active programs continue, with each new target offering the potential to add to the district’s resource base.</p>\n<h2>Altamira Gold builds discovery potential in Brazil</h2>\n<p>As Altamira Gold continues to drill and define gold across the Cajueiro district, the company pairs an established resource base with district-scale exploration upside in Brazil. With active drilling underway and results expected through the year, investors gain early exposure to that growth.</p>\n<h2>Transcript</h2>\n<p><b>Mike Bennett: </b>Altamira Gold is a Brazil-focused gold exploration company advancing the Cajueiro project in the highly prospective Juruena Gold Belt, a region with a 40-plus-year history of artisanal gold production. And what makes our story stand out is the scale of this opportunity. We control a district-scale land package, covering more than 90,000 hectares. We already host two established gold deposits within that land package with inferred and indicated resources totalling around 1.4 million ounces of gold.</p>\n<p>We continue to identify new targets throughout the district. Recent drilling has expanded mineralization both beyond the existing deposit boundaries and also has confirmed additional porphyry-related gold systems. This highlights the broader potential of the Cajueiro district.</p>\n<p>In addition to the exploration upside, Cajueiro benefits from excellent infrastructure, including year-round road access, proximity to regional airports, access to grid power, and exploration camp facilities on company-owned land, which are all important for future exploration and development.</p>\n<p>With active drilling programs in place and a steady flow of news ahead, we believe Altamira Gold offers investors a compelling exposure to district-scale gold discovery and resource growth in Brazil.</p>\n<p>To learn more and follow our progress, please visit our webpage, <a href=\"https://altamiragold.com/\" target=\"_self\" rel=\"\" title=\"https://altamiragold.com/\">AltamiraGold.com</a>.</p>\n<h2>About Altamira Gold Corp.</h2>\n<p>Altamira Gold Corp. (TSXV: ALTA | OTCQB: EQTRF | FSE: T6UP) is focused on the exploration and development of gold projects within western central Brazil, strategically advancing four projects spanning over 100,000 hectares within the prolific Juruena Gold Belt — an area that has historically yielded more than six million ounces of placer gold.</p>\n<p><i>Learn more at </i><a href=\"http://altamiragold.com/\" rel=\"\"><i>altamiragold.com</i></a></p>\n<p><i>Follow Altamira Gold on </i><a href=\"https://www.facebook.com/altamiragoldcorp\" rel=\"\"><i>Facebook</i></a><i>, </i><a href=\"https://x.com/Altamiragold\" rel=\"\"><i>X</i></a><i>, </i><a href=\"https://www.linkedin.com/company/altamiragold/\" rel=\"\"><i>LinkedIn</i></a><i>, and </i><a href=\"https://www.youtube.com/@altamiragold2256/featured\" rel=\"\"><i>YouTube</i></a></p>\n<p><i>The scientific and technical information contained within this article has been reviewed and approved by Fernando Benegas, FAusIMM, a consultant to the company, who is a Qualified Person, as defined under the terms in National Instrument 43-101.</i></p>"
     },
     {
       "title": "Here's what economists say about rate cut chances after latest CPI jump",
@@ -294,17 +317,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/image.jpg?id=34678001&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "Christopher Liew: Common financial regrets of retirees, and how to avoid them",
-      "link": "https://www.bnnbloomberg.ca/business/2026/06/22/christopher-liew-common-financial-regrets-of-retirees-and-how-to-avoid-them/",
-      "pubDate": "Mon, 22 Jun 2026 10:28:42 -0400",
-      "description": "Personal finance contributor Christopher Liew walks through 10 of the most common financial regrets he hears from Canadian retirees, and what you can do now to make sure they don’t become yours.",
-      "content": "<media:description type=\"plain\"><![CDATA[(Pexels.com)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/5USECMTHPURHYEIQIEDQJKMQTI.jpg?auth=96a594bb07801492a673748948bfd11a254f623fdcf10bb47908fcabdaf4ce51&amp;smart=true&amp;width=1020&amp;height=574",
-      "_src": "bnn",
-      "_ogDesc": "Personal finance contributor Christopher Liew walks through 10 of the most common financial regrets he hears from Canadian retirees, and what you can do now to make sure they don’t become yours.",
-      "body": "<p><i>Christopher Liew is a CFP®, CFA Charterholder and former financial advisor. He writes personal finance tips for thousands of daily Canadian readers at</i><a href=\"https://blueprintfinancial.ca\" rel=\"\"><i> Blueprint Financial</i></a><i>.</i></p>\n<p>I talk to a lot of people who are either retired or close to it, and the same thing comes up again and again: it isn’t the big market crashes they regret. It’s the small, quiet decisions, the ones that felt fine at the time but quietly cost them later. The good news is that most of these regrets are completely avoidable if you see them coming.</p>\n<p>Below, I’ll walk through 10 of the most common financial regrets I hear from Canadian retirees, and what you can do now to make sure they don’t become yours.</p>\n<h2>1. They didn’t save enough during their peak earning years</h2>\n<p>This is the regret almost everyone shares to some degree. Your 40s and 50s are usually your highest-earning, lowest-cost years, once the mortgage is manageable and the kids are older, and that window closes faster than people expect.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/opinion/\" rel=\"\" title=\"https://www.ctvnews.ca/opinion/\"><b>More opinions and expert analyses</b></a></li></ul>\n<p>Too many let lifestyle creep swallow every raise instead of banking it. Nudging your savings rate up even just a few per cent during those peak years can mean a dramatically different retirement on the other side.</p>\n<h2>2. They relied too much on CPP and OAS</h2>\n<p>Here’s the thing: these programs were never designed to fully fund your lifestyle.<a href=\"https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-enhancement.html\" rel=\"\"> CPP was built to replace</a> only about a quarter of your average working income, growing toward a third under the recent enhancement. That’s it.</p>\n<p>If you went into retirement assuming the government cheques would carry you, you’re in for a surprise. The retirees who feel comfortable are the ones who treated CPP and OAS as a floor, not the whole house.</p>\n<h2>3. They didn’t start investing early enough</h2>\n<p>Money left sitting in a savings account feels safe, but it barely grows, and the years you skip investing are exactly the ones compounding would have rewarded most.</p>\n<p>A dollar invested in your 30s does far more heavy lifting than a dollar invested in your 50s, and you can’t buy that time back. If you’re younger and reading this, start now, even if it’s small.</p>\n<h2>4. They didn’t plan for a long enough retirement</h2>\n<p><a href=\"https://www150.statcan.gc.ca/n1/daily-quotidien/260109/dq260109b-eng.htm\" rel=\"\">Statistics Canada figures</a> show a 65-year-old today can expect to live roughly another 20 years on average, and plenty of Canadians sail well past 90.</p>\n<p>If your plan only stretches to your early 80s, that could be a problem. I’d rather you plan to age 95 than plan to 82 and come up short.</p>\n<h2>5. They walked into retirement still carrying debt</h2>\n<p>A mortgage or a line of credit doesn’t disappear when your paycheque does. I’ve watched retirees burn through savings just to service debt that could have been knocked out a few years earlier.</p>\n<p>This one stings a lot because it’s so fixable. If you’re still working, throwing extra at high-interest debt now is one of the best returns you’ll ever get.</p>\n<h2>6. They had no plan for which accounts to draw down first</h2>\n<p>The order you pull money from — RRSP, TFSA, or non-registered — can change your lifetime tax bill by tens of thousands of dollars. Most people just wing it.</p>\n<p>The wrong sequence can push you into a higher bracket or trigger benefit clawbacks you never saw coming. I broke down the most common money decisions Canadians end up regretting, including this one, in a<a href=\"https://www.youtube.com/watch?v=TVdx1dgVZ_I\" rel=\"\"> recent Blueprint Financial video</a> if you want to go deeper.</p>\n<h2>7. They got blindsided by the OAS clawback</h2>\n<p>This one catches people every year. Once your net income tops $95,323, the<a href=\"https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/recovery-tax.html\" rel=\"\"> Canada Revenue Agency</a> starts clawing back 15 cents of every extra dollar of OAS.</p>\n<p>A big RRIF withdrawal, a property sale, or even strong investment income can quietly push you over. The fix is planning your income years in advance, not in the moment. If you’re<a href=\"https://www.ctvnews.ca/business/article/turning-65-soon-watch-out-for-these-changing-credits-and-benefits-christopher-liew/\" rel=\"\"> turning 65 soon</a>, it’s worth knowing how these credits and benefits change.</p>\n<h2>8. They bankrolled their adult kids before securing themselves</h2>\n<p>I get it, you want to help your kids with a down payment or a wedding. But too many retirees gave generously and then found themselves stretched thin a decade later.</p>\n<p>You can’t get a loan for retirement the way your kids can get a mortgage. Secure your own plan first, then help where you can. It’s not selfish, it’s the opposite.</p>\n<h2>9. They left TFSA room on the table</h2>\n<p>The TFSA is one of the most powerful tools we have in Canada, and it’s wildly underused. Withdrawals are completely tax-free and, crucially, they don’t count toward the OAS clawback.</p>\n<p>Retirees who built up their TFSA have a tax-free lever to pull whenever they need cash, without any nasty side effects. If you’ve got unused room, filling it should be near the top of your list.</p>\n<h2>10. They waited too long to make a plan</h2>\n<p>The single biggest regret? Not sitting down with a real plan until retirement was already here. By then, a lot of the best moves, delaying CPP, managing your tax brackets, topping up your TFSA, are off the table or far less effective.</p>\n<p>If you’re<a href=\"https://www.ctvnews.ca/business/article/christopher-liew-what-to-do-if-youre-behind-on-retirement-savings/\" rel=\"\"> feeling behind</a>, don’t panic, but don’t wait either. There’s almost always something you can still do to improve your position.</p>\n<h2>Final thoughts</h2>\n<p>None of these regrets comes from being reckless. They come from being busy, optimistic, or simply not knowing what to look for. The retirees who feel genuinely secure aren’t the ones who earned the most, they’re the ones who planned with intention. If even one of these made you pause, that’s a good thing, because you’ve still got time to act on it.</p>"
     },
     {
       "title": "May inflation data raises stakes for Bank of Canada's July call",
@@ -596,18 +608,6 @@
       "_src": "storeys"
     },
     {
-      "title": "Canada’s real estate thaws in May after slow start to busy season",
-      "link": "https://news.google.com/articles/CBMiowFBVV95cUxNenh6SGNtSDdPVHA2QThCNmtaalFBZWl2YUsyN3VYYTB3OHZVYzZPUHY0dy1aUXo4WXVLR0dUMDlIYXVFSWNsWl9iWDlHY3d0Y0x5SzI5bDRvVFVhZjVRclZsM0tZNzVrdnAwNHdzbGFKbXp5RGRNNUpHSGdJY1MtRDg0YTg0SzEtY0NzXzJ3M3hJUUc5SjZ1T1o5SjlRX0pWYmlv?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 15:01:52 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Calgary Herald",
-      "_pubUrl": "https://calgaryherald.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada's fastest-growing luxury real estate market is not Toronto or Vancouver. It's Edmonton",
       "link": "https://news.google.com/articles/CBMimgFBVV95cUxOSm1oSnRiREgyQ1FQSnV6bzM2MDNGMTdhZVBrRzEzQkNwRlhSbG1GaGhTZDdIYURDYlFTTExSNDVhazdsMXp0VmNDbWlNOWNkbVNsTmQ3d3g5Y0llYUtmNS0wNEpWbkl3cDMzbVV1UFlHQURCNjE2Y3J2VHV4OW05RFJ3TW1sZ1RaMWI2VkVaWWdXSm56YzB0T0x3?oc=5",
       "pubDate": "Thu, 18 Jun 2026 11:06:06 GMT",
@@ -751,6 +751,30 @@
       "_src": "timescolonist"
     },
     {
+      "title": "CMHC reports annual pace of housing starts down in May compared with April",
+      "link": "https://news.google.com/articles/CBMi0gFBVV95cUxNLXdXRmdoUjRUS1NWWnJGcmJqd2hGYkJWVjkya0kteEQwUEV2REdxQlhmVWpIUjNjaXBia2tkLTRqdXVuWVdpbzh4d2x6UDVVTXNLOHdkZUQtVnh2eDVLbElyeHEzQ0RmM3dnLTlHQkFjQ1ppbVBLallRZ1BjYUo0RVVnTTBNUjNUNGtxNVhTWENOR2NKX3FiWkh1Z3RHSDkyZzlyeGtkbVJYaWRILUh4V2tPOWdBMHdibXl0WjJKaHF2RDMxVkxjOHFOLVAzVUZua2c?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 10:51:03 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "constructconnect.com",
+      "_pubUrl": "https://canada.constructconnect.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada housing starts in May 2026 held near flat",
+      "link": "https://news.google.com/articles/CBMimgFBVV95cUxQVngySmVOd1AxUFlCU3ZwWU1zWW5mNVM5R1RPX25NS0RKaU5ObHdHSVYzdjJlY2kwMUhwM05icFptd2hPd240eGc4M0NvUFZyUV95OVBkUFhMUXVjOHRwaklwdDZrZFVXdWhJeVAwRlVNX3lsWVBRNXp1WlhtTHItbWpCSGNaVEpzOG00VHVJZEt6enBrNmlDa3ln?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 09:52:14 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Much fewer detached houses being built in Metro Vancouver",
       "link": "https://www.timescolonist.com/real-estate/much-fewer-detached-houses-being-built-in-metro-vancouver-12398338",
       "pubDate": "Mon, 15 Jun 2026 20:30:00 GMT",
@@ -772,6 +796,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "What would it take for the Bank of Canada to move interest rates?",
+      "link": "https://news.google.com/articles/CBMiygFBVV95cUxQQnN0UDZ2RFVDQXhJTjhyWkRiOHZtd0MwbmdZTU16VzdvRGFiOWY4dTRVLWZiT1I1M0lzYkVhb2hfMy02ZG0yVWJnZFZGRlBNc2xOWlNIelR6QW52SlJWRTBDUDlwazdHUVBjaTJmdjRsYUpmLTF3aVNxVkdwMGc1clltZjFpcWx4VVVYZTF5dEhMblBIWUdzazFDM1AxOTBfTjkwVEJOR28xbEoxOG8xU3ZMNTRxVjlJTHJEVDdQOXhlaG40NWk2YUVB?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 18:34:48 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "mpamag.com",
+      "_pubUrl": "https://www.mpamag.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Toronto Rail Yards Would Bring 4,000 Homes To Downtown Rail Corridor",
       "link": "https://storeys.com/toronto-rail-yards-downtown-homes/",
       "pubDate": "Mon, 15 Jun 2026 18:25:32 +0000",
@@ -779,18 +815,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/fengate.png?id=66941128&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "CMHC reports annual pace of housing starts down in May compared with April",
-      "link": "https://news.google.com/articles/CBMivwFBVV95cUxOMmZDelJ4ckN0ZVd3Z3luR084YTdxRENSb3Vfb250OFBnVmM5NG9WdEwxazhKMU1NeXpDb0ZfZTVtVXloTUJuYzNMcW1YVjFkOEpxaUxseHlPd1dfblp3Y3NaZHl2c1lHZVJOc0J1OFVJMktTRE5NZWJvNlhfTUpvRm1JaVZPSzZCMzFodDdiemg1ZzN0OXdya0JydWMtUDA1VTJUV3JCeEtGVWEyb1RLbDAzc0x2RUlNU0laUkZsSQ?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 15:50:25 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Housing starts and construction data for May 2026",
@@ -847,6 +871,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "2026 Mid-Year Rental Market Update",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxQTUdGWjBGUUtrNjE4N0g5alN3aXMwOTV4X2JEWWpTOTdPM2lhdnhFTENWcmE1SUhieWhtMUppZ2lSMnd5VjMzT2tselNTcElvYTd2UzEwUVlVTkN6UTVkaE1jT05wbjA2alVzQ2dQcW1yMEl4Z0szaW1ORzVXN1VDSlpn?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The End of Natural Population Growth Won’t End Canada's Housing Shortage",
       "link": "https://news.google.com/articles/CBMigwFBVV95cUxNdk9VbXI4X3Fiem9KN0hxQ3Y1SVdGQm1OZzFOcm9pQ0pRVmk1VjE4VUV0TC1WNlI5YmEyRXFVdXB0OWg1enpSVW1OcGc1Ny14YW1TT2tBOFRPUV83ekM5REVFS2JkM1NqS2ZhX2E4YTNNRHEzaUxuNFNWQzJSMzF6WDdlYw?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
@@ -883,6 +919,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Single-family home sells for $305,000 in Ottawa",
+      "link": "https://news.google.com/articles/CBMimwFBVV95cUxQRHp4cmpOVzFVTXFfeWFlOV93VDl0TW1vcXNWUkdZNFNjU3hmLTEyWHpqZEFBNmUwY3BTOGJnRGdLbkRmajNjaWY4S3VJYTBMZEtjU1d6NkdYVHMxUWRKYkVvYmM5SVJ6X1NqWXhORXZYN2llNHNCWGc4cmpFVmdja2hNbHR3YW1iNFpaTy14NHRmTzNkT3NlNU5PMA?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Shaw Local",
+      "_pubUrl": "https://www.shawlocal.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa Real Estate Market Update: May 2026 — What Buyers &amp; Sellers Need to Know",
       "link": "https://news.google.com/articles/CBMirgFBVV95cUxNU1JWSUYtYlZ3TVpYd3RvOGRpUVZQQjN5S2NIakNadmwyT0NNR2gwRXQzbnJLZEpsNUpXbkRWMU1TOGFaa01NQms3N21yNVRLck9zZkJLRkJyTXJGeFdnUXFNWGZlclVPLTU3bWgxVmRsRnNXaW1QQnlLOFFJTHJFTGlSN0pSSWxRU1l5OVlDa2FyNG5CX2oteXhPZDlFV1FtTVlOTkpZLUZRSHZBZUE?oc=5",
       "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
@@ -892,18 +940,6 @@
       "_src": "gnott",
       "_publisher": "weknowottawa.com",
       "_pubUrl": "https://www.weknowottawa.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "An attractive solution for aspiring homebuyers priced out of the market",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxPVVhCLTZfVnlwd3J3WjMtU1Q3Zi1NaW9tcnptNC1JZXFZMElwS3JVZzZUbDExZW10UWpjS1d6Q0M2ZHlWbUtZRzVmOFFyY1RqR2JjZFk3NnkzWUt1Y2R3SVVzQU0wbEZuSjFseXFBVEhlRDRObkNYeTh0Nl9yenRKRWNEY09fNXdkdWlsWGdOektzcTI1cy04TzVEd25OSjBTNjRmZkZ1OUI?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -943,6 +979,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Expert: 5 Policy Changes That Could Actually Fix Ontario's Housing Market",
+      "link": "https://news.google.com/articles/CBMiakFVX3lxTE1FWDhVaXlYLXRiM19EemNWcXN0U2VVMm1pU2lLZ2pYWEhLMFQtOGpJWUZ0cUVjVVRHOXJuNFJmbW9QNVFXU1VLWW1VVHNpWVUzT05VWW5NYTluaGZFbXZUal9Sa2lNMFdJM3c?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 15:56:52 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Storeys",
+      "_pubUrl": "https://storeys.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa sees 10% drop in homes sales in May",
       "link": "https://news.google.com/articles/CBMihgFBVV95cUxQV2IzTTBrdHZHaHIwSWJia0ZLcXQ4TUV5c2k2cnpWQklPOExtUTZGSFFUMUVPVHZNejItNjRTYjVrTkdzOTIzaXQ3LWl6ZnZnSXB1ZnhYamFacGFCVUw0dnRUd3JXR1FDRXZOY0VTTjRRMlVDaVRPbzJpbi0wckJNRXpFUW5BZw?oc=5",
       "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
@@ -976,18 +1024,6 @@
       "_src": "gnre",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Development charges: cities aren’t created equally",
-      "link": "https://news.google.com/articles/CBMinAFBVV95cUxNQkFBLWtFWC1ubk9EYXRKQnpaNVZhVzNENWVEQnA5WDV3OGJLeFd2QThaak5Xaklkak5kQkhNT0ZOVnU3WEdzRlhEZ283OFZFNVNjTGNjVzJMUFdCbDBQSmdqQklIRTBSSEdXb3NpbVlZaWNOYXc2bFFxTXAwMTZFVThzNXFRUEIwS2d4a1VFMVRVWHJNQ0IyaFhTSHQ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1087,18 +1123,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Housing starts for April 2026",
-      "link": "https://news.google.com/articles/CBMikAFBVV95cUxPdmR4Y1cyQmh0dFZLeXVFNDlzS002MlA0N2dTQWFYUTJ3VFZmbTl6dFFBanJUMDU0WWRETE50Z25hVGdweHFfN05XZVYtREVIQm9KRXlfcmloMEI2U1J0WUdNWFVCQVdYTnFYUEllUm5MVm92aVA5Z3ZmVHRwbW9QZ1VobVdmNTlNaS12aW8xOTk?oc=5",
-      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada Turns to Immigration to Fill Skilled Trades Gap in Housing Push",
       "link": "https://news.google.com/articles/CBMimgFBVV95cUxQQ3FEZ1hOS2pfd0Q5SjBvYUQ2U1dWYTUyU0RTOVVYRXB6UzdwZkFuSGctVDhHQy0zLVdFbjZCTWx2R2ppQVZ6NGhPVDItTkk4YkZYUEpXZXFfRkdrRmdEeklrVXNJU2Q0bjJ0TDh5bG1memdhdlN6Wl95aDRpNnhETUktUzktSG1VX3lIeTJxNG12NlU0VC1KSWdn?oc=5",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
@@ -1156,30 +1180,6 @@
       "_src": "gnontre",
       "_publisher": "crea.ca",
       "_pubUrl": "https://www.crea.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CMHC Releases Annual Report for 2025",
-      "link": "https://news.google.com/articles/CBMikwFBVV95cUxQWmljcWpEMy1rc0RZeWVhUVNUbktrb2dhUkxpeXVCRnVFUk5faUo2bkI1LU9BQmRNSzdlV2ptUWlDWF9XcTdOMGUyRlNmZmY3TGxBWnlOV0JjUkdrSngwYXZmYWlGNGh6LVRyanZMVjNJd2ZFZ3lYWlExMmVjb0pWcGY5OEltTlozcjRudnZMc1NHaEU?oc=5",
-      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Newswire Canada",
-      "_pubUrl": "https://www.newswire.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "May &amp; June Ottawa Real Estate Market Update",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxPcThXYlc2ZmpmMmpRNXpIRkVvRWFoNkxySTdCT2JLbjdzc2xoajRoR0lqRzBoY0FJWDdSaUtFYU4yVGIzLXFydGJVeUxTZ0YwWndzczRzQnVpWXdwU2FQYU1hc0ZTS3ptWjVrSDRYSy02RFZQV2hEVDkzZE9yMUVHY2hn?oc=5",
-      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "weknowottawa.com",
-      "_pubUrl": "https://www.weknowottawa.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1279,18 +1279,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Toronto finally has funding for Waterfront East LRT, but city could be on the hook if project goes over budget",
-      "link": "https://news.google.com/articles/CBMikwFBVV95cUxOZnNUeWRxYXU5QUJaTXpfVmV1UlFsRjNreUdialdQU2V2Mk1kcEhfNDVxbTMxYTlucjRNODRVeUtPQ2hkZVVnMjlrakhEQktnWF9INFNFQ1hpcXVtRFZSLTkwSEE1UUpKSkxzSGNwLUV5QU9TLWwtUVRSMmNvT2NzZFJKYXIyV1JkaVlTZlhob3BzUmM?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Report finds Victoria condo prices soared over past decade",
       "link": "https://news.google.com/articles/CBMilAFBVV95cUxNclg3TWE1X2pYaUZvRnJPWUlnU1dCWEtRcW0tN2EySUtIMzZDdENRVWdtakM2QjZKYmFtcUxmd0lZUV9QZ0xfN0xfcDROMjJ0My1zSnN6M0MtaEFEVGVNbmxNT0hyQkRuSXdsUGtJRGFLV2NWZHdxM1VsM2lha1k3OGlDUUZPWTRPcmd4MmxadzU2bDRK?oc=5",
       "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
@@ -1339,18 +1327,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ontario’s fragmented housing market: What buyers and sellers need to know in 2026",
-      "link": "https://news.google.com/articles/CBMiygFBVV95cUxOUFd6bjQ5U2JNS2M1cW9oYjdyNW13ZGxPeDRUV3pIdWp6UDdENXQ2bHIzU19HMlJpb2ZSX2JfZFEtLXNUaDMyY1lLVVctSDdpeHhLMkJ2Y1p3QjhHOUZsNjZJZTRkdV9pZDZzdGZVOEh3QlNVdTJTdTFyekk4ak56SXJQampRaUQtaVBJSEpVSV9saHBaQUtPallvZVFvUnh1TDU3dV9pNVB2dlNsQXJwcGx3UEd2UFVrZ05vMklYMzA4OUFZQUgyazV3?oc=5",
-      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "DurhamRegion.com",
-      "_pubUrl": "https://www.durhamregion.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "City affordable housing proposal waives requirement for affordable housing",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxNQ3YtTGJYdzVSaGJiY3BXeU5XMk5hOENsYklpMWtleWp4MlhYN0hDM01CdmxXNHBCRk1kRWUtejZFM0hLT0tFeHBEdnVsY1VXdzVaZ0FmNUpibGdMUTdTbk52VU9wRFZweHhOWGZNQW1mVHJQVFpXQ1pZRXEwU1RITGI0RU16QnBlX3AzVTVZUS0zZ21SeGZXVDlPVGRxdzJOaFBkX0NaR2k1NlVvRG1NdWVsbGF1aFhZeXMxWmg3dw?oc=5",
       "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
@@ -1387,15 +1363,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "It’s been four years since Ottawa’s LRT public inquiry. Where does the train stand now?",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxNbnVwWWZwVDgwMU1mbEhfbjdHQ2VSZzZuc3JRNnVqTFRDMGc5dGYyWHFOY0JDVXJ3c2hwMHZVNXViYVFvVm56M19QZXo1cnBoZGpyVUJrZXJ3SkpDMnJrNl9pblRUZUVyWjRIMzFuX1dwZlRFVXBXcHBYMEFvMFJCTnEwbmpoNXc5VVZNeFNlLW81bldfLWhGRDRsNUtmcXdEYnRTeXB6d3JoTjZaVy1XQzB0d29HTDBCTzN4SkxpV1hPZw?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "title": "Vancouver condo prices see huge jump over detached homes in past decade",
+      "link": "https://news.google.com/articles/CBMiekFVX3lxTE4wQUJ1ZjByU3ljVDdvUGV1WjRUUXZneTFjSUxQOHA3bTZMd2tFMkRLWGt1eVVBUktRc21iaTZfdnNuZk50bzFtUGsxVnJLeFZpamRKYUtka205NEFOSHA1czFPNFNfTWc3M0pfcHZNeGV2dUNJVmFXcWxB?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "iPolitics",
-      "_pubUrl": "https://www.ipolitics.ca",
+      "_src": "gnhprice",
+      "_publisher": "Daily Hive",
+      "_pubUrl": "https://dailyhive.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1495,6 +1471,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Logement préfabriqué : le pari réglementaire de Maisons Canada",
+      "link": "https://news.google.com/articles/CBMid0FVX3lxTE5PVDBfbXNFekc2U3VqeHEwSEFMdnFKbncwVkRYSlpyNFFwREptaGdoWTdHWkhiaUVMSFhHaGtXbFZLU2ctNUd0VU1SM0o0SzFVa2lCOWk3WVlaZGZBTmk2Mk1BSEtKa0FEY25NTHQ4eGk1QmNMcjlJ?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Options",
+      "_pubUrl": "https://policyoptions.irpp.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Opinion | Why the Ontario government’s proposal to pause affordable housing rule makes sense right now",
       "link": "https://news.google.com/articles/CBMikAJBVV95cUxNMDEtUDNKOHdjcE56S3NGUHhETEpLQ2ZGLVVBaTB2eHUzeGZyMXhCN0VNcFo4OXhOY1Rxbk03Wk1CQVFaOFcxLUxpbGIydUwzeERXRkd1QzRMVjNlZ2Q4Zmt3Rnlwb2pOTXozajBJZWp4Y0l4NzIzQk9QbnhpWGVMSmxvbDV5WlVYMVVieHNHNllBNUx0UXJEN0lheXRSc2dyTlFuZXVZUkI2TVg5THU5TVVOYmtSbkstbkJJaVdzSnhoY2Z0U1FyRU9SaWg4WFBJaGxhYUZIa29rcGUtdFFBWWVmOE5JNXYtSF9OVi1uU05MNlhSMEZwZTBJUC1ta2daUXRZMkN0SnNjSUs1ZllnZQ?oc=5",
       "pubDate": "Sat, 31 Jan 2026 08:00:00 GMT",
@@ -1555,15 +1543,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Home prices are now dropping for all property types in Canada",
-      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
+      "title": "Nowhere to stay: How Canada’s housing crisis is failing international students",
+      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxQLW92b3pNeVRkeGZLZXl1a293V1R1WEFRc0FTa3RGcDRTdG9pdmcxLWpwUUJDVTJrTVl1NEZJWVJXWTVibmJUZVRJWjVWM2FiTFR1NW9wYjMtX041bnlOelJYTUZfZHBOSjI3dnBHdGNTMkE5YmJRd0NhMTdrb1FaSi01TjcxTGtMRVMxai1naU1jVVpTamptcTF2UXJZbXEzRFRZdUE3YW96dWN1c2hkR1E4bXZ4c01YTXVzNUI0RHg?oc=5",
       "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "INsauga",
-      "_pubUrl": "https://www.insauga.com",
+      "_src": "gnpolicy",
+      "_publisher": "Canadian Immigrant",
+      "_pubUrl": "https://canadianimmigrant.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1579,15 +1567,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "How the new zoning bylaw will reshape Ottawa's neighbourhoods",
-      "link": "https://news.google.com/articles/CBMiakFVX3lxTFBhQWgyNXkyQmVxQzZIRjV3bFVjd0JQeVJGNW16MWk2OUlmaEE0WlVOR1IxTFAwSFVBSVctVUhrbmlMMXRFVU5ZdDJFbHozMEQyZzZFdm1felNwS3B5eEdiZGkxdnVWd0dNSGc?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "title": "Ford government pausing its own affordable housing policy, calling it ‘red tape’",
+      "link": "https://news.google.com/articles/CBMiigFBVV95cUxNUlcxUExRS2hwc011Qzh6RUozNmtwbVNuVnlielotckRURm9zWXpKMzFkWlFvaXVIVXhfdml5cHQzUDlDeFJMRzU3UGQwdFA1ZURkamZqT0hvS3RRZmEzRFJrMXdlbTBtM1FmeEF3b2haV2VmMEprMldPU1A0cjNlcWtWMktwQjdxNEE?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
+      "_src": "gnpolicy",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1615,18 +1603,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Building the future of transit and transportation across Ontario",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxOYWFhQ18wREVaSV9nWldpLVlrcUV2Z1h6Q05HYWRSRnRpMU42TkdsenJiOWRBdTItQlNwYWNJaHNhOHZKcE5jYXlTRmtMSFNPVDlpeENLc21FbERmYS10RWhiY2ktMWp1OVp1OVNxcGFrSERPVnR6Q0xueWtBYlV6UkhLbXlEckVvVnhRb24wa3hweEhtSlZTMnR0dHRXWThISF9uWWo1QlYtekpyajg3bjJMOTlyczFxaGV4RWN4MVZhNVV5SjIxOUFSaw?oc=5",
-      "pubDate": "Wed, 10 Dec 2025 14:26:36 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Infrastructure Ontario",
-      "_pubUrl": "https://www.infrastructureontario.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ontario’s housing affordability crisis extends far beyond Toronto",
       "link": "https://news.google.com/articles/CBMiqwFBVV95cUxNcHlqZnFVMkRWMGJlT0VvZTNOMlA0d3g3Uzdha05UMjlLRTkyUllCZFNWRFNUYVlKMWpyM3BfUDlnaFkxWGQ2eUI2NVJVeFpuZ2szYkx0a05tV1JMdUpSSDBKVzVqTm9mVmQ2NXlJWlhFdGdfWVNtZmIwVWhiMG5BaWtiaGFBSHNCSll0TENCRUE5ak1EUWJBTFg1LVhnc21FSGJ1VHR2clBBekk?oc=5",
       "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
@@ -1636,6 +1612,18 @@
       "_src": "gnpolicy",
       "_publisher": "Fraser Institute",
       "_pubUrl": "https://www.fraserinstitute.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "The unintended consequences of Canada’s rising housing costs and delays",
+      "link": "https://news.google.com/articles/CBMijgFBVV95cUxNZWZvRGlMMkl2ZzZ4VWc3bGY1Q18xMTJqb1lIUkN2cVEwM19RTnB6VUZ6ZkxxRzBiT3BOVlIwMjVYQU45RzkzdDJWMm5BZVdVd0JreEJzNHR0M2RubjJqVG5VMFVTb0liSmxsc1dNT2Y0elBPaE9TaTFfMmtmRzhJaUxuRy0zX1BXUnVyb053?oc=5",
+      "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Altus Group",
+      "_pubUrl": "https://www.altusgroup.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1651,18 +1639,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Alternative federal budget 2026: Affordable housing and homelessness",
-      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
-      "pubDate": "Thu, 28 Aug 2025 04:40:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Government, not greed, is behind Canada’s housing problem: Anthony De Luca-Baratta for Inside Policy",
       "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQcWRiUUc2c1VTVXR5eUVidDhnODBvSS1SLVdIUTRmS2M5b0FVOHVkTy13X1Z6Wlo3ZHBjSnlmZ21pV0xlX3hvQ1pka2pGSldjbUJ6WXBrbGw4bTNOZjJBdk9zOFhpTVZTV01wbmxyaE01RXNoeHVjaWU3UlpIVDV6OERidlFmUjJUaHFGdHNxUUM4ZUpvVkdxS0V5cV9OVW9ucDlQWE9vWVh4bnRzb3RCQU5vOURPM2dmN2V4bm9takJXWDA?oc=5",
       "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT",
@@ -1675,6 +1651,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Building Smarter, Faster: Technology and Policy Solutions for Canada’s Housing Crisis",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQbXR3cWNIdzRzM3BJaWxjbGZxQlVkcnVuZFVPYTNhT0dPVGhGQXpkcjkxTXM2YTdGVXFlSU10SW9hbDhsay1ZSW10WXd3aThpN3RSdnBBVU5nSS1PUVRmaC1PMjJVV1ZNSncxb3FzRi1LVktOOWp2bkJxNmFtbF9udVBSLS1tSUYyaHNzdmpKVjBnYmZFak16ZFNfSUcybVlYa3dWNEJEaGs2UnpIVDEyVmpKOXM?oc=5",
+      "pubDate": "Tue, 29 Jul 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "C.D. Howe Institute",
+      "_pubUrl": "https://cdhowe.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Proposed zoning bylaw won't help Ottawa's housing goals, says advocate",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE5vS0dTaG9kNHJBeHVuZWUtaF9GZ3B0a2ktTzc2Y3BoRFlPanVHY3QyQW8tRXctUFI2WHVrYi1FaDBNRTE0RWxOa29pbndpU25tcUc0a0lnQzZ1MXdYMS1qNzlwbGM1WUhObjRDY3VJQ3o5Qms?oc=5",
+      "pubDate": "Sat, 05 Jul 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Committee approves zoning for residential developments in Orléans, Barrhaven",
       "link": "https://news.google.com/articles/CBMiqwFBVV95cUxQbkg0b3UwUlgyN1JETXdqS3Y0aDFtVGE3X2pUanlYblR3cjlKVGVPanhUVExkQXptN21iNENyWW14ejJRdlZsVi0tMlZaWkh6RmI0QW8yWE9CVGlzSWZENjA4MW4xWV94MHlkU2pkNHhlWFI3dE53RDRxbXN5dGFvLV9NNTlYY1dhZWpSbTVMUExmVmRGVy1HVGhlQ1FqQWtjYkZ1aVNwZXh4cFU?oc=5",
       "pubDate": "Sun, 08 Jun 2025 07:00:00 GMT",
@@ -1684,138 +1684,6 @@
       "_src": "gnottdev",
       "_publisher": "CityNews Ottawa",
       "_pubUrl": "https://ottawa.citynews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Canadian Federal Housing Plan: The 500k Marathon",
-      "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5NZDhVTGItSmxPbVQwT1JqeFJfMUhkVVdiQkpYdXAyNGNRVmcydEhIakxYWFctWlBzb2NrYmhOLVptcUR6Wkt1SmMxeEZhM1o1NHJYajgwZFZMdDZt?oc=5",
-      "pubDate": "Tue, 03 Jun 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "TD Economics",
-      "_pubUrl": "https://economics.td.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Jon Love: The housing crisis has a simple solution — and it doesn't involve yet another government program",
-      "link": "https://news.google.com/articles/CBMingFBVV95cUxPVlNBNUFlVXVWNm5fNHBmWHdiNTJCQjhqTWRGb05UemlrSzJ3djNMdlAxemJfWUtnUlZVVnpORHh0U09tcHlLcWlDQ3E2R2lJSzB0NVI2eG1aN29GYVg3RFVCREQ5YXdXcEljTkc2TmpOS09CbXNrdktEUTd2a3JzcGs5YWZEYmxBLUxNZHZ4ZERua1dFX2tzUTdMMjNBZw?oc=5",
-      "pubDate": "Wed, 02 Apr 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "How To Fix Canada’s Housing Crisis",
-      "link": "https://news.google.com/articles/CBMickFVX3lxTE00N3JJZWpyMnRxcXNmdmdtRmFxSVF2RHd5NmtlczBZS0plbGRNOTlVcFhhaE42anJaalFSWnVHUkpqVWhSZ0JuU2pVVC01ZWJzLTc3VFJvNE1zelMwODJwYmZ1OTZua213cW1JV2VtTmtfdw?oc=5",
-      "pubDate": "Mon, 17 Mar 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Macleans.ca",
-      "_pubUrl": "https://macleans.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Only Doug Ford and the Ontario PCs Will Protect Ottawa’s Economy",
-      "link": "https://news.google.com/articles/CBMinAFBVV95cUxPNDhDemdzY2tzVkFCb0VnVDlybzJMNzBfbmxkUWhSbU9mQXlQUXplRG5lMHc1eURpdjc3OW5RNGxZUHk5bl8wbVJrdjJqWTF6MlZPd1JqdkJKbXAtUmJkSWluYXpwd1BwVEVWWmNSTmM4aXQyYWlSdzUxeGV1Y1JqeWRXU1NCQWpaZFk1cTlVdXYta3YtdHdMZEctTjQ?oc=5",
-      "pubDate": "Tue, 04 Feb 2025 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "PC Party of Ontario",
-      "_pubUrl": "https://ontariopc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "A toolkit for understanding housing supply",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxPU3dRX0dSMnpXdEJYVUttYlBPRXgyRUVCbXFkS2lBTHMxbFJydkhINXlxSDBTbzZ5V2pUSzA4d0FrT1pSdTlGbFFaUVdPNWwtcnoyQTZjSktiMF9LRnVOMHMzYmNDNGhWNS1mYV81M2RSc2NFMjhhc3Z3S2JUZ2xIV2d3?oc=5",
-      "pubDate": "Wed, 25 Oct 2023 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Statistique Canada",
-      "_pubUrl": "https://www150.statcan.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa LRT and the Future of P3s: Public (interest), Private (collaboration) &amp; (meaningful) Partnerships",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxOanhhcXcwQWI5SWlraEtrUGZLYlNISVd0cUd2eWhNb283dlRseFY1UGNyNUFnN3RLZGppYXpfbzlLdDVqUFRIVWZ4RkZ1Njd0TjJ2VHpYWUw4dG9qc3VDdkRIQWxtYl9XLS1xalRZTmxhMkpBQkNtZ296SGpFZGlsYmljOERhU25IcW04b3hFMkRrWWJNOS1nRVR3U293UUlVNUE2ZVRFMG83bC10ZVluZzdrMi1OY0xNajNLYUVtMmlfdw?oc=5",
-      "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "McMillan LLP",
-      "_pubUrl": "https://mcmillan.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Rideau Transit Group, P3 council issue statements following scathing Ottawa LRT inquiry",
-      "link": "https://news.google.com/articles/CBMi6gFBVV95cUxPcGN6QmFBeXhHem5hMTZQcnFPMmlhT2FJX2FrVVNlejk4Z2E1alA4UG1ONlFaWDF3eEgyak8zLU91VWxoN19UMWdGMlMtYXl5SzhfM3VGVjNKdDVCM2prNmVGYTMzWUxONHY2dUNwcG4zT0tielhTdjFRZjZKSlRCZjFQcXNDNHl1MmF3dDB3Z2QycUt0UTJCWkxwSll5U1ZpNkEwUVl5eGxlSWdtaTZHYnpnSllpNWRfYWNreGNTeEZwRXFqbWUtRnh2VVg3SVhzNEZpMi1Xa3JuNUdGYjNVV1JKdDN4Y20zcFE?oc=5",
-      "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects",
-      "link": "https://news.google.com/articles/CBMiggJBVV95cUxQU3YydHVDZWRxMi1Tc1ZjZUZORS01Nl9xd1VLNVl0LVE3dVJtZDNLRTF0RElhSG9xSEF5RU1rS3BMOXdZX1dzbHVZZmI1WHdNUG9yRDJ0X1lad29sb2QzVTR6ak9aMnVBZXZPYl9KZ3Q3LWVyV0E3V3czZXJhYXBDeDRsMG1YRURJdXRCT2Jrdkx4azB2RFZObzB1UlpSMWIyeWlUcFU5cFk2ZjIya0lVZDhfWXdLQW43RUs1M1ZvenRoblZrYUZsZGJ2S1BLa3FyQVhhTHFXeDhCNkVCYjU3R2ZJZ0tLSFNha3dveWtZeVhfS19OV2ZfX00wbmVodGpKaXc?oc=5",
-      "pubDate": "Mon, 28 Nov 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "canada.ca",
-      "_pubUrl": "https://www.canada.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa’s colossal LRT debacle: A brief-ish history",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxOam1sZ0FlR1hLM1B6ckZsYzR6YnB5a1FuVEF4S3lXZGUzMVNhVEx1NXlnVEhrUll6ZTdua1lwcTBHamhHTUZ2NnE3ZHl4ZlVCQlowRTlUdDR4UHRtNVZEUk1VTzFjamhZTjhaR0tuV2pjb2c5TGE4ZWM3M1dfY3V1UF930gGCAUFVX3lxTFBETEhaOWhSVkhfUlE4cXNrSkE2bmRFRDhtOEFPeVgtanVkQmtKRGFTRnJmQnBnVUR3ZFVkSUdzSzZNcTQ2blNYZzJCenJnVERvLTR6TzZWRHZsYmhKTTVIamRQUE80M21Td1YwTDlQWkZwYWpKSDVpRG14bmRqZng3cGc?oc=5",
-      "pubDate": "Fri, 14 Jan 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "TVO.org",
-      "_pubUrl": "https://www.tvo.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Government of Canada…",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxORWdtVzhzY0VySzZxSFJRT01JVXJyNEZENTJnOUZrZDhGQlpVanlLMXZvRW02ZHk2QzI2SUhhUVkxdDE1ZkJRNW5KcnJmYlJkdnp2UlYtektEckF3NHo4c3BCbmV4T0k1YkhlUkFTbUtzTkd1dkduV0t3OEFyT0FWVGFSejYwOEJRazh6YjVTY2U0MGJaMmJPc19CVVpGUUUyVnVreHdYM0pUaWQxRE5BZU9SMTN4TzZYSFZWLWFXejk4dw?oc=5",
-      "pubDate": "Wed, 16 Jun 2021 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Ottawa International Airport Authority",
-      "_pubUrl": "https://www.yow.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
-      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
