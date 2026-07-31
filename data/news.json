@@ -1,6 +1,6 @@
 {
-  "ts": 1785444886739,
-  "fetched": "2026-07-30T20:54:46.739Z",
+  "ts": 1785462294325,
+  "fetched": "2026-07-31T01:44:54.325Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,6 +89,105 @@
   ],
   "items": [
     {
+      "title": "Anthropic says Claude AI hacked three companies during cyber tests",
+      "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/07/31/anthropic-says-claude-ai-hacked-three-companies-during-cyber-tests/",
+      "pubDate": "Fri, 31 Jul 2026 01:36:25 -0400",
+      "description": "Anthropic said its AI model Claude hacked into the systems of three firms during testing after a configuration error gave it internet access, days after rival OpenAI disclosed a rogue-agent episode.",
+      "content": "<media:description type=\"plain\"><![CDATA[A person uses a computer, which is displaying Anthropic's website for its \"Claude\" AI  product, in a photo illustration made in Toronto on June 4, 2024. (Giordano Ciampini / The Canadian Press)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Giordano Ciampini</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/CJGDTJSPZNGNPNB4UORVMBUDTY.JPG?auth=7592c69295caabfecea567794da43cbfab658de674075ee8a1144ff4100b8157&amp;smart=true&amp;width=6000&amp;height=4000",
+      "_src": "bnn",
+      "_ogDesc": "Anthropic said its AI model Claude hacked into the systems of three firms during testing after a configuration error gave it internet access, days after rival OpenAI disclosed a rogue-agent episode.",
+      "body": "<p>Anthropic said on Thursday its AI model Claude hacked into the systems of three companies during testing after a configuration error gave it internet access, days after rival OpenAI disclosed a rogue-agent episode involving AI firm Hugging Face.</p>\n<p>Anthropic said a misconfiguration allowed Claude models to reach the internet from testing environments that were supposed to be isolated, leading to unauthorized access to three organizations’ systems.</p>\n<p>The company said it identified the incidents after reviewing 141,006 test sessions, a process it launched following OpenAI’s <a href=\"https://www.reutersconnect.com/all?search=all%3AL6N43N17H&amp;linkedFromStory=true\" rel=\"\">disclosure</a> last week that an autonomous agent powered by its AI models went rogue during a security test and triggered a hack that compromised the infrastructure of Hugging Face.</p>\n<p>The breaches signal that AI’s expanding capabilities are already fuelling the security threat experts long feared and even top developers can be caught off-guard by flaws their models can exploit.</p>\n<p>“Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints,” it said.</p>\n<p>Anthropic said the incidents involved three separate models: Claude Opus 4.7, Claude Mythos 5 and an internal research model. The earliest cases dated back to April and occurred in evaluation environments that lacked what the company described as standard safeguards.</p>\n<p>The breaches occurred during the so-called “capture-the-flag” exercises, in which models are tasked with finding hidden information in simulated networks. The company said its prompts told the models they had no internet access, but a misunderstanding with its evaluation partner Irregular left the systems connected to the public internet.</p>\n<p>Anthropic said it began reviewing evaluation transcripts on July 23 and suspended all cyber evaluations the same day after finding evidence that Claude may have accessed the internet. It identified all three incidents by July 24 and notified the affected organizations on July 27.</p>\n<p>Two of the organizations were unaware of the activity before being contacted, Anthropic said, adding that it was still trying to reach the third.</p>\n<p>The findings underscore the need for stronger controls in both internal and third-party testing environments as AI models become increasingly capable of carrying out real-world cyber activities, Anthropic said.</p>\n<p><i>(Reporting by Mrinmay Dey in Mexico City; Editing by Alan Barona, Shilpi Majumdar and Sherry Jacob-Phillips)</i></p>"
+    },
+    {
+      "title": "Mercedes-Benz recalls nearly 37,000 vehicles in Canada over rollaway risk",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/mercedes-benz-recalls-nearly-37000-vehicles-in-canada-over-rollaway-risk/",
+      "pubDate": "Thu, 30 Jul 2026 23:49:22 -0400",
+      "description": "Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.",
+      "content": "<media:description type=\"plain\"><![CDATA[A logo of the German car manufacturer Mercedes Benz is pictured in Berlin, Germany, June 25, 2021. (AP Photo/Michael Sohn, File)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/F2R7YPZSAQWRO273V5GNHCHVKE.jpg?auth=de2ff530c2e787fbb09b60bcc747951740117423c7bade702f49c75eb587f1a8&amp;smart=true&amp;width=1020&amp;height=575",
+      "_src": "bnn",
+      "_ogDesc": "Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.",
+      "body": "<p>Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.</p>\n<p>According to a recall triggered by the automaker and <a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026364\" target=\"_self\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026364\">published by Transport Canada</a>, certain vehicles from the 2019-26 models of the A-Class, C-Class, CLA-Class, CLE-Class, GLA-Class, GLB-Class and GLC-Class contain a flaw with the driver-side lock microswitch, as moisture could enter and cause it to corrode.</p>\n<p>“As a result, the microswitch may fail to automatically engage the parking brake and/or the auto park feature when the door is opened,” the recall said. “If this happens, the vehicle could roll away.”</p>\n<p>The defect could also cause the radio or interior lights to remain on after the vehicle is parked.</p>\n<p>“A parked vehicle that rolls away could create the risk of an injury or a crash,” the recall added.</p>\n<p>As a precaution, the German automaker recommends that owners always use the parking brake when parking.</p>\n<p>The company will notify the impacted owners by mail of a dealership appointment to replace the lock free of charge. Owners can also check the<a href=\"https://www.mercedes-benz.ca/en/recalls\" target=\"_self\" rel=\"\" title=\"https://www.mercedes-benz.ca/en/recalls\"> Mercedes-Benz Canada recall website</a> for more information.</p>\n<p>A similar <a href=\"https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf\" target=\"_self\" rel=\"\" title=\"https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf\">recall</a> has also been announced in the United States. According to the U.S. National Highway Traffic Safety Administration, more than 300,000 vehicles are affected by the same issue, with dealers also replacing the driver’s door lock at no cost.</p>\n<p>Owners in the U.S. can check whether their vehicle is included through the <a href=\"https://www.nhtsa.gov/recalls\" target=\"_self\" rel=\"\" title=\"https://www.nhtsa.gov/recalls\">NHTSA recall lookup</a>.</p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/some-robotaxis-approved-to-operate-without-steering-wheels-and-losing-the-brake-pedal-could-be-next/",
+      "pubDate": "Thu, 30 Jul 2026 23:10:11 -0400",
+      "description": "Federal regulators are clearing the way for robotaxis to operate without steering wheels or eventually even brake pedals as the rules start to catch up to the evolving technology.",
+      "content": "<media:description type=\"plain\"><![CDATA[People view a Zoox self-driving vehicle at the company's booth during the CES tech show, Jan. 7, 2025, in Las Vegas. (AP Photo/John Locher, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">John Locher</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/5SXCT7VC27GOCMXLKKT6GKD46M.jpg?auth=7f0bd6ab3c99a9d87ba7415e114c8859558cc855c576e16b6aea03252502845c&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Federal regulators are clearing the way for robotaxis to operate without steering wheels or eventually even brake pedals as the rules start to catch up to the evolving technology. ",
+      "body": "<p>Federal regulators are clearing the way for robotaxis to operate without manual controls like steering wheels or eventually even brake pedals as the rules start to catch up to the evolving technology.</p>\n<p>Amazon’s fully autonomous Zoox vehicles got approval Thursday to begin charging customers for rides in the specially designed cars that feature four inward-facing seats once they secure state and local approval. Zoox has already been offering free rides in Las Vegas and San Francisco since last year. At least a couple people were waiting at most stops Thursday afternoon for rides up and down the Vegas strip aboard one of the distinctive boxy-shaped vehicles.</p>\n<p>“It’s kind of scary at first, but when I just got used to it, it’s really cool and chilling. I really liked the music and how you can adjust the temperature,” Chloe Huu from Ann Arbor, Michigan, said after taking a ride in a Zoox Thursday. But the projected wait time for the ride kept changing, which made it hard to plan.</p>\n<p>The U.S. National Highway Traffic Safety Administration (NHTSA) also proposed a rule last month to allow robotaxis to operate without brake pedals, but that proposal is still pending. Administrator Jonathan Morrison said his agency wants to update the regulations to fit these fully autonomous vehicles while still acting as the “cop on the beat to make sure that this is being done right.”</p>\n<p>Most vehicle safety regulations were written decades ago, always with the assumption that there would be a human driver behind the wheel. But Morrison said that things like steering wheels, windshield wipers and side-view mirrors aren’t really needed in an autonomous vehicle.</p>\n<p>“If you’re going to be developing a standard in the 1970s, 1980s, 1990s, nobody at that time had this imagination, nobody had a crystal ball that you might have technologies that would enable the vehicle to drive itself,” Morrison said.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/international/\" target=\"_blank\"><b>Latest updates on international news here</b></a></li></ul>\n<h2>Questions remain about robotaxi safety</h2>\n<p>The Advocates for Highway and Auto Safety group raised concerns about Zoox’s plan to operate without a steering wheel or other standard controls because the company didn’t provide detailed evidence to show that its vehicles could operate safely on public roads.</p>\n<p>“Lots of promises, lots of glossy language, lots of `We believe, we think we’ll do this.’ Yet there really was no data behind the promises, and that’s really concerning to us,” said Peter Kurdock, who is general counsel for the Advocates group.</p>\n<p>Morrison said this technology does offer the promise of never driving distracted or drunk like human drivers do, but robotaxis have had some problems. Sometimes they’re just weird behaviors like stopping in the middle of the road or struggling to get out of a parking lot. But he said NHTSA responded to the incidents of autonomous cars passing school buses or interfering with first responders, with investigations, recalls and calls to action.</p>\n<p>“Sometimes we have seen unsafe behaviors, and we jump on that really quickly again. That’s our job at NHTSA,” Morrison said. But he said Americans shouldn’t be terribly worried about the safety of these robotaxis.</p>\n<p>“By and large we’re really excited about the promise of this technology and we want to see that promise fulfilled,” he said.</p>\n<p>The Insurance Institute for Highway Safety said recently that the limited crash data the government requires autonomous vehicle companies to submit makes it hard to assess the safety record of these robotaxis as they continue to expand across the country.</p>\n<p>Most companies don’t report how many miles their autonomous vehicles drove, which makes it impossible to calculate a crash rate, according to the IIHS. And there isn’t a clear standard for which incidents must be reported. So autonomous vehicle companies are reporting many more minor incidents than human drivers, who tend to only report a crash when there is significant damage or injuries.</p>\n<h2>Robotaxi industry is expanding quickly nationwide</h2>\n<p>Zoox and Tesla are working to catch up to the industry-leading Waymo that already operates in multiple cities. Waymo is owned by Google’s parent company, Alphabet.</p>\n<p>Zoox CEO Aicha Evans said this approval is an important milestone for autonomous vehicles.</p>\n<p>“This achievement reflects a shared commitment to enabling innovation while maintaining the highest standards of safety,” Evans said.</p>\n<p>Amazon hopes to eventually produce as many as 10,000 robotaxis a year at a plant near Silicon Valley as it works to challenge Waymo. Amazon paid US$1.2 billion to acquire self-driving startup Zoox. Initially, Zoox will only be allowed to deploy up to 2,500 vehicles without steering wheels over the next two years as it works to prove the technology is safe. The company said that more than half a million people have already ridden in its vehicles.</p>\n<p><i>Josh Funk, The Associated Press</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Canada opening exports office as part of strategy to diversify trade",
+      "link": "https://www.bnnbloomberg.ca/tariffs/2026/07/30/canada-opening-exports-office-as-part-of-strategy-to-diversify-trade/",
+      "pubDate": "Thu, 30 Jul 2026 21:48:59 -0400",
+      "description": "The federal government is opening a new strategic exports office as part of its plan to diversify trade.",
+      "content": "<media:description type=\"plain\"><![CDATA[Minister of International Trade Maninder Sidhu speaks at a press conference in Toronto on Friday, July 24, 2026. THE CANADIAN PRESS/Sammy Kogan]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Sammy Kogan</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/GVMOS7M35C6E2LENX6JDYW2M3A.jpg?auth=6f872a45e70dc6ab559c17dd8202bf2d1ccd4f77f7e7558da385b8c518e632e4&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "The federal government is opening a new strategic exports office as part of its plan to diversify trade.",
+      "body": "<p>OTTAWA — The federal government is opening a new strategic exports office as part of its plan to diversify trade.</p>\n<p>The office, announced in Budget 2025, will be housed under Global Affairs Canada and will be tasked with removing trade irritants, lifting market access barriers and addressing infrastructure gaps.</p>\n<p>The government says the office will help Canada secure international business opportunities in sectors that include aerospace, defence, infrastructure and energy.</p>\n<p>International Trade Minister Maninder Sidhu told a press conference Thursday the office will help Canada’s “best companies win the biggest contracts in the toughest markets around the world.”</p>\n<p>Global Affairs Canada said the office will identify export opportunities, co-ordinate government engagement to support Canadian firms and support advocacy by senior government officials.</p>\n<p>“Think of the strategic export office as your government-level deal-maker,” said Sidhu. “It brings strategic advocacy, government financing and diplomatic support together in one place.”</p>\n<p>Speaking to reporters Thursday, Sidhu said boards of trade and commerce organizations across the country have indicated to him that Canada is losing out on business because it’s not as co-ordinated as other countries.</p>\n<p>“They would get to the finish line, another state leader would swoop in, a trade minister would swoop and make a call, and billions of dollars of deals would be lost,” he said. “Better coordination is what’s required.”&nbsp;</p>\n<p>Conservative MP and international trade critic Stephanie Kusie said Thursday that Liberals have had more than a decade to get co-ordinated on international trade.</p>\n<p>“Now their answer is another government office with no clear targets, timeline or measurable results,” she said. “Canadian exporters need action from their government, not another bureaucratic announcement or advisory council.”</p>\n<p>The Liberals have set a goal of doubling non-U.S. exports over the next decade.</p>\n<p>The government’s spring economic update said non-U.S. goods and services exports increased by $33 billion in 2025 over 2024.</p>\n<p>Samantha Lafleur, a spokesperson for Global Affairs Canada, said in an email last week that in the first quarter of this year, non-U.S. exports of goods and services were worth $96.2 billion.</p>\n<p>Prime Minister Mark Carney’s government has boasted of signing more than 20 strategic trade and defence agreements around the world over the past year.</p>\n<p>Ottawa signed a free trade deal with Ecuador last Friday. The same day, the governments of Canada and the United Arab Emirates announced they had concluded negotiations on a free-trade agreement.</p>\n<p>On Thursday, Sidhu also announced the launch a strategic exports advisory council.&nbsp;</p>\n<p>Global Affairs Canada said the council will provide a space for “strategic dialogue” between the government and private sector leaders on trade diversification and the operations of the strategic exports office.</p>\n<p>Members of the council include the heads of OpenText, the Canadian Chamber of Commerce and Bombardier.&nbsp;</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026. </i></p>\n<p><i>Catherine Morrison, The Canadian Press</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Producer sues Netflix for US$105 million over missing Nicolas Cage movie",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/producer-sues-netflix-for-us105-million-over-missing-nicolas-cage-movie/",
+      "pubDate": "Thu, 30 Jul 2026 21:40:08 -0400",
+      "description": "A movie producer is seeking US$105 million in damages from Netflix after he says a copy of his unreleased Nicolas Cage movie was stolen from the streaming service’s studios in Hollywood.",
+      "content": "<media:description type=\"plain\"><![CDATA[A Netflix sign is displayed atop a building in Los Angeles on Dec. 18, 2025. (Jae C. Hong / AP Photo)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jae C. Hong</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/TG34L5PHRJBL7JFQCP4EIINJAE.jpg?auth=b6b6ab2e8fc4bd8b7d01c2cd55a16fe6cfcbb7f9a6a51ffcbe860731eaa4c83e&amp;smart=true&amp;width=2429&amp;height=1620",
+      "_src": "bnn",
+      "_ogDesc": "A movie producer is seeking US$105 million in damages from Netflix after he says a copy of his unreleased Nicolas Cage movie was stolen from the streaming service’s studios in Hollywood.",
+      "body": "<p>LOS ANGELES — A movie producer is seeking US$105 million in damages from Netflix after he says a copy of his unreleased Nicolas Cage movie was stolen from the streaming service’s studios in Hollywood.</p>\n<p>Attorneys for producer Simon Afram said in a lawsuit filed on Wednesday in California that the filmmakers had delivered an unencrypted master copy of the Second World War drama “Fortitude” to Netflix in June at the company’s request. Afram invested more than $45 million in the production, which took seven years to complete, and he was in the process of trying to sell the movie to Netflix or another distributor.</p>\n<p>Nine days later, the plaintiffs were informed via a Netflix email that “someone stole a good amount of drives from our desks this past week,” including the one containing “Fortitude,” the lawsuit said.</p>\n<p>The producers argue that the film’s value has been “destroyed” because distributors are unlikely to buy a film that could appear on piracy sites. They said Netflix should have better secured the hard drive.</p>\n<p>“It is not fathomable that a sophisticated buyer would invest tens of millions of dollars to acquire the film — and tens of millions more to market it — while facing the constant risk that it could appear online to be viewed widely for free at any time,\" the lawsuit said.</p>\n<p>The lawsuit asks for at least $105 million in damages. In a statement, Netflix said it “disputes any claim that it bears the risk of loss for a film delivered without the proper industry-standard safeguards.”</p>\n<p>“While we do not own the rights to ‘Fortitude,’ we take content security seriously and have taken extra measures to support the filmmaker and his team,” including investigating the theft and monitoring piracy sites for unauthorized distribution of the film, the company said.</p>\n<p>Netflix also said it had declined to share information from the investigation with Afram’s attorneys “given their hostile attempts to extort money from Netflix over this situation ... rather than work with us in good faith.”</p>\n<p><i>(Reporting by Lisa Richwine; Editing by David Gregorio)</i></p>\n<p><i>Lisa Richwine, Reuters</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Algoma Steel Q2 loss of $96M driven by U.S. tariffs, transition to electric steelmaking",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/algoma-steel-q2-loss-of-96m-driven-by-us-tariffs-transition-to-electric-steelmaking/",
+      "pubDate": "Thu, 30 Jul 2026 21:19:00 -0400",
+      "description": "Algoma Steel in Sault Ste. Marie reported a second-quarter loss of $96 million this week, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line.",
+      "content": "<media:description type=\"plain\"><![CDATA[Algoma Steel in Sault Ste. Marie reported a second-quarter loss of $96 million this week, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line. (File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Nick Iwanyshyn</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/Y36Y4RY36E5UP5XHWR7QA6GHWY.jpg?auth=24c61cb1ce736495c12b9bf7c9abbe87bdea702ddd6851f691f3ef2410c34330&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Algoma Steel in Sault Ste. Marie reported a second-quarter loss of $96 million this week, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line.",
+      "body": "<p><a href=\"https://www.algoma.com/\" target=\"_blank\" rel=\"\" title=\"https://www.algoma.com/\">Algoma Steel</a> in Sault Ste. Marie, Ont., reported a second-quarter loss of <a href=\"https://ir.algoma.com/financial-information/quarterly-results\" target=\"_blank\" rel=\"\" title=\"https://ir.algoma.com/financial-information/quarterly-results\">$96 million this week</a>, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line.</p>\n<p>U.S. President Donald Trump’s trade war with Canada and other countries forced Algoma to accelerate its transition to electric arc furnace (EAF) steelmaking, leading to <a href=\"https://www.ctvnews.ca/northern-ontario/article/final-shift-for-laid-off-workers-at-algoma-steel/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/northern-ontario/article/final-shift-for-laid-off-workers-at-algoma-steel/\">1,000 layoffs in March of this year</a>.</p>\n<p>“Comparisons between Q2 2026 and Q2 2025 were significantly impacted by the transition from legacy blast furnace operations to the company’s EAF platform,” Algoma said in a news release announcing its latest results.</p>\n<p>The company said the 50 per cent tariff “fundamentally altered and permanently disrupted the company’s historical cross-border business model, effectively foreclosing its traditional access to the U.S. market.”</p>\n<p>The $96 million net loss compared to its net loss of $110.6 million in Q2 of 2025. Direct tariff costs were $18.7 million, compared to $64.1 million in 2025.</p>\n<h2>Record steel plate sales</h2>\n<p>“The second quarter demonstrated the resilience of our transformed business against a stubbornly challenging industry backdrop,” Algoma CEO Rajat Marwah said in the news release.</p>\n<p>“We delivered a second consecutive quarter of record plate sales, our first EAF unit continued to ramp up as expected, and transition costs declined meaningfully from the first quarter.”</p>\n<p>Marwah said Algoma is almost through the most difficult transition in its history, with EAF-related costs expected to decline.</p>\n<p>“While the 50 per cent U.S. Section 232 tariffs continue to effectively foreclose our traditional access to the U.S. market, our pivot to a Canada-centric, plate-first strategy is working,” he said.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/app/\" target=\"_blank\"><strong>Download the CTV News app now</strong></a></li></ul>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters/\" target=\"_blank\"><strong>Sign up for breaking news alerts</strong></a></li></ul>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters/\" target=\"_blank\"><strong>Get daily newsletters with the top local stories emailed to your inbox</strong></a></li></ul>\n<p>“As Canada’s only producer of discrete plate, we are uniquely positioned to serve growing infrastructure, construction, and defence demand, and the recent rise in steel prices is encouraging.”</p>\n<p>“We are grateful for the continued support of the federal and provincial governments as we complete this transition and build a stronger, more sustainable Canadian steel industry,” Marwah added.</p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "U.S. and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
+      "link": "https://www.bnnbloomberg.ca/business/international/2026/07/30/the-us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution/",
+      "pubDate": "Thu, 30 Jul 2026 21:11:47 -0400",
+      "description": "The United States and Iran each fired barrages of missiles Thursday, as the pattern of back-and-forth strikes took hold again and hope dimmed for a quick end to the five-month conflict.",
+      "content": "<media:description type=\"plain\"><![CDATA[A man sits on a surfboard as a container ship and other commercial vessels appear anchored in the Strait of Hormuz off Bandar Abbas, Iran, Monday, July 27, 2026. (Razieh Poudat/ISNA via AP)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Razieh Poudat</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/5TAT4BR2YZILP52XWIXFQVR4NI.jpg?auth=f683b06aa11c735a0f9f08328054c16325102a27fbb537e9bc30ffa0aa251893&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "The United States and Iran each fired barrages of missiles Thursday, as the pattern of back-and-forth strikes took hold again and hope dimmed for a quick end to the five-month conflict.",
+      "body": "<p>CAIRO — The United States and Iran each fired barrages of missiles Thursday, as the pattern of back-and-forth strikes took hold again and hope dimmed for a quick end to the five-month conflict.</p>\n<p>Following a few days of respite, fears of a wider war have grown, with renewed fighting threatening to engulf even more countries. Jordan said Thursday it intercepted Iranian missiles for the second consecutive day, while Kuwait said a strike in the northern part of the country killed one person. Also this week, drones caused fires on ships at an Egyptian port, and Saudi Arabia said it came under fire from Iran-backed militias in Iraq.</p>\n<p>The war -- which in its early days U.S. President Donald Trump said would last four to five weeks, although he warned it could take longer -- has caused the price of fuel to spike and roiled the global economy. As months have passed, concerns have deepened about using up the stockpile of weapons the U.S. needs to defend its bases and allies.</p>\n<p>The war is unpopular among Americans, and a new AP-NORC poll says Trump’s approval rating on Iran has dipped slightly since last month.</p>\n<p>The recent pause in fighting, which began over the weekend and spurred hopes among mediators of diplomatic progress, ended with increasing missile and drone attacks across many countries in the Middle East.</p>\n<p>“We note with concern that the security situation remains precarious,” said Pakistani Foreign Ministry spokesperson Tahir Andrabi, whose country has been a key mediator.</p>\n<p>Talks “are ongoing to normalize the situation, particularly the situation in the Strait of Hormuz,” he told reporters.</p>\n<h2>The U.S. and Iran trade strikes</h2>\n<p>An Iranian strike hit a Chinese firm’s building in Kuwait on Thursday, severely damaging the structure and killing a worker, Kuwait’s military said, hours after Jordan’s air defences shot down five missiles launched from Iran.</p>\n<p>No injuries were reported from Jordan’s interception, the country’s state-run Petra news agency said, quoting the spokesman for the country’s armed forces. Both Jordan and Kuwait host American troops.</p>\n<p>The attacks came after the U.S. military said it completed “a heavy wave of strikes against Iran” in response to an earlier Iranian missile attack on a U.S. base in Jordan.</p>\n<p>U.S. Central Command said U.S. forces struck dozens of targets belonging to Iran’s Revolutionary Guard, including military command centers, missile and drone facilities, and coastal surveillance and defence sites.</p>\n<p>Iran’s official IRNA news agency said three people were killed and two were wounded in a strike on the island of Qeshm, which lies off the Iranian mainland in the Strait of Hormuz -- a crucial waterway for the world’s energy supplies that has been at the center of the conflict.</p>\n<p>The latest barrage came after the U.S. partnered with Saudi Arabia on Wednesday to strike Iran-backed militias in Iraq, killing at least 20 fighters and six Iranian advisers.</p>\n<h2>Fires reported on two natural gas vessels at an Egyptian port</h2>\n<p>Also on Wednesday, British maritime security firm Ambrey said drone strikes ignited fires on two natural gas vessels at the Egyptian port of Damietta. It was not immediately clear who was responsible for the strikes on a U.S.-owned floating storage facility and a Greek-owned tanker. No injuries were reported.</p>\n<p>The office of the Egyptian prime minister said initial investigations showed the fires had been caused by a drone. In a cabinet meeting, Prime Minister Mustafa Madbouly said investigators were able to recover traces of the drone and will try to determine where it came from.</p>\n<p>Egypt, a close U.S. ally and regional mediator, has until now been spared direct military action during the war. A strike by Iran or its allies, if confirmed, would mark a significant widening of the conflict. The Iran-backed Houthi rebels in Yemen have denied they were behind the attack.</p>\n<p>Iranian Foreign Minister Seyed Abbas Araghchi didn’t outright deny Iranian involvement but said: “Egypt is an important friend and partner in the region, and its security is of utmost importance to us.”</p>\n<p>“We must all be vigilant against Israeli plots and false-flag operations designed to undermine regional peace,” he said on X. “The threat is clear, mutual, and fearful of Muslim solidarity.”</p>\n<h2>The war has wreaked havoc on the global economy</h2>\n<p>The conflict has wreaked havoc on the global economy as energy shipments through the Strait of Hormuz have ground to a near halt. Much of the diplomacy around ending the war has focused on reopening the strait, through which 20 per cent of oil and natural gas shipments passed in peacetime.</p>\n<p>The already limited traffic through the strait has plunged to wartime lows during the recent exchange of strikes, from 82 ships during the week of July 13-19 to just 39 from July 20-26, Lloyd’s List Intelligence, a shipping data and analysis firm, said in an webinar.</p>\n<p>Fighting elsewhere has squeezed energy supplies further.</p>\n<p>Saudi Arabia has accused Iraqi militias of firing drones against its oil facilities over the past days. An umbrella group of Iraqi militias initially denied the allegations, while the Houthi rebels said they had attacked Saudi energy facilities as part of a separate but related conflict.</p>\n<p>The Houthis have also declared a blockade of Saudi shipping and threatened to choke off another crucial Middle East trade route, the Bab el-Mandeb Strait from the Red Sea into the Gulf of Aden. That route became even more important during the war, as Saudi Arabia used it to bypass the Strait of Hormuz.</p>\n<p>While some Saudi oil exports are continuing through the Bab al-Mandab Strait despite the blockade, Lloyd’s List Intelligence said much of that oil now follows an expensive and time-consuming workaround: It travels from Saudi Arabia on tankers to the Egyptian city of Ain Sokhna on the Red Sea coast before being pumped overland through a pipeline to the Mediterranean port of Sidi Kerir. Then it’s loaded on tankers again.</p>\n<p>The Suez Canal is not deep enough to handle the largest and most economical tankers when they are fully loaded with oil.</p>\n<p>Saudi Defence Minister Khalid bin Salman met Wednesday with Trump and Vice-President JD Vance, according to two people familiar with the matter who were not authorized to comment publicly about the private meetings.</p>\n<p>They said the Saudi decision to join the U.S. attacks against the Iraqi militias was meant to send a message to Iran that the kingdom would not tolerate Iran or its proxies targeting the Saudi oil industry and other critical infrastructure. At the same time, the defence minister underscored to Trump and Vance that the Saudis want to see a de-escalation in the war and for Washington and Tehran to return to negotiations.</p>\n<p><i>Samy Magdy and Elena Becatoros, The Associated Press</i></p>\n<p><i>Becatoros reported from Athens, Greece. Associated Press writers Konstantin Toropin and Aamer Madhani in Washington; Qassim Abdul-Zahra in Baghdad; Fatma Khaled in Cairo; and Christopher Weber in Los Angeles contributed.</i></p>"
+    },
+    {
+      "title": "TC Energy increases demand outlook for natural gas amid data centre boom",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/tc-energy-reports-987m-second-quarter-profit-up-from-833m-last-year/",
+      "pubDate": "Thu, 30 Jul 2026 21:05:33 -0400",
+      "description": "TC Energy Corp. has raised its forecast for North American natural gas demand in the coming years and is considering ways its vast Canadian and U.S. pipeline network can respond to the surge.",
+      "content": "<media:description type=\"plain\"><![CDATA[TC Energy headquarters in Calgary, Alta., Tuesday, July 30, 2024. THE CANADIAN PRESS/Todd Korol]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Todd Korol</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/WJ3J4SAODZHX5ZYP5RHI3OHGNA.jpg?auth=35b5831c0e5ff2a8caecaeed67cca8e44ae3553d2b16d0b8fcac04959c6c0650&amp;smart=true&amp;width=1400&amp;height=973",
+      "_src": "bnn",
+      "_ogDesc": "TC Energy Corp. has raised its forecast for North American natural gas demand in the coming years and is considering ways its vast Canadian and U.S. pipeline network can respond to the surge. ",
+      "body": "<p>CALGARY &mdash; <a href=\"https://www.bnnbloomberg.ca/stock/TRP:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/TRP:UN/\">TC Energy Corp. has raised its forecast for North American natural gas demand</a> in the coming years and is considering ways its vast Canadian and U.S. pipeline network can respond to the surge.</p>\n<p>The Calgary-based company is expecting 51 billion cubic feet per day in demand growth from 2025 levels through to 2035, driven by liquefied natural gas exports, gas-fired power generation and industrial growth. In late 2024, it had forecast 40 bcf/d. As recently as February of this year it had been calling for 46 bcf/d.&nbsp;</p>\n<p>“Importantly, nearly 70 per cent of this demand growth is concentrated in the U.S. heartland, Alberta, and Mexico — regions where TC Energy has a strong incumbent position and significant existing infrastructure,” TC chief executive François Poirier told analysts on a conference call after the company reported a bump in second-quarter profits.</p>\n<p>TC offered additional natural gas shipping services in the Greater Edmonton Area in March of this year, and all of that pipeline capacity was snapped up. Another offering for space on TC’s intra-Alberta network between 2030 and 2032 saw record amounts of participation from data centre developers, Poirier added.&nbsp;</p>\n<p>“Given this strong customer interest, we are exploring opportunities to expand this offering to better meet customer demand.”&nbsp;</p>\n<p>In the U.S., TC is expecting to make a final investment decision on its Crossroads project in the fourth quarter of this year. Crossroads is a 365-kilometre pipeline in Indiana and Ohio and the company has announced plans to expand the system by 1.5 bcf/d. TC said in May that there was 2.5 times as much interest in the Crossroads expansion than the initial capacity offered.&nbsp;</p>\n<p>TC has signed agreements with some shippers for that project and is in advanced discussions with more potential customers.&nbsp;</p>\n<p>“We continue to evaluate opportunities to expand the project’s scope with additional shippers,” Poirier said.&nbsp;</p>\n<p>Data centre development is expected to be a big demand draw for natural gas in Canada and the U.S. The facilities house the computing hardware needed in a variety of tech applications and their scale has ballooned with the boom in artificial intelligence. Some facilities require enough power daily to power a whole city.&nbsp;</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\" target=\"_blank\"><b>Latest updates on company news here</b></a></li></ul>\n<p>In Canada, data centre industry growth has been centred on Alberta, which has been actively courting<b>&nbsp;</b>big tech titans to set up shop in the province. The provincial government is prioritizing projects that provide their own power generation so as to not overburden the grid — and that power is coming mainly from natural gas-fired generation.&nbsp;</p>\n<p>The surge in data centre development has given rise to local community concerns over pollution, noise, water use and utility bills, but the opposition hasn’t led to a slowdown in the opportunities TC has before it, Poirier said.&nbsp;</p>\n<p>Earlier Thursday, TC reported $987 million in net income attributable to common shareholders for its second quarter, up from $833 million a year earlier.</p>\n<p>The profit amounted to 95 cents per share for the quarter ended June 30, an increase from 80 cents per share in the second quarter of 2025.</p>\n<p>TC Energy says its comparable earnings for its latest quarter amounted to 94 cents per share, up from 82 cents per share a year earlier.</p>\n<p>Revenue for the quarter totalled $3.96 billion, up from $3.74 billion in the same quarter last year.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026.</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Strong iPhone sales propel Apple's fiscal Q3 results past Wall Street's expectations",
+      "link": "https://www.bnnbloomberg.ca/business/technology/2026/07/30/strong-iphone-sales-propel-apples-fiscal-q3-results-past-wall-streets-expectations/",
+      "pubDate": "Thu, 30 Jul 2026 21:00:14 -0400",
+      "description": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street’s expectations thanks to strong sales of the iPhone and MacBook computers.",
+      "content": "<media:description type=\"plain\"><![CDATA[The Apple logo is illuminated at a store in Munich, April 2, 2026. (AP Photo/Matthias Schrader, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Matthias Schrader</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/DZUNQ2J6R4EUBNL4FUFJU74R7M.jpg?auth=0c2da3741676531a390227c9ba5bcb8551d81d3ec4569a1f2227b55cdeac0f01&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street’s expectations thanks to strong sales of the iPhone and MacBook computers. ",
+      "body": "<p><a href=\"https://www.bnnbloomberg.ca/stock/AAPL:UN\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/AAPL:UN\">Apple posted a solid fiscal third quarter on Thursday</a>, climbing past Wall Street’s expectations thanks to strong sales of the iPhone and MacBook computers.</p>\n<p>Apple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brought on by the artificial intelligence boom. The company had called the demand spike an “unprecedented challenge” for the consumer electronics industry. While it hasn’t yet raised iPhone prices, analysts and consumers expect that to happen later this year.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/technology/\" target=\"_blank\"><b>Latest technology news on </b></a><a href=\"http://BNNBloomberg.ca\" target=\"_blank\"><b>BNNBloomberg.ca</b></a></li></ul>\n<p>The maker of the iPhone and iPad said Thursday it earned $29.79 billion, or $2.02 per share, in the April-June period. That is up 27 per cent from $23.43 billion, or $1.57 per share, in the same period a year earlier.</p>\n<p>Revenue grew 16 per cent to $$109.42 billion from $94.04 billion.</p>\n<p>Analysts, on average, were expecting earnings of $1.89 per share on revenue of $109 billion, according to a poll by FactSet. Tariff refunds of 11 cents per share contributed to the quarter’s earnings.</p>\n<p>“Today, Apple is proud to report our strongest June quarter ever, with double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment,” said Tim Cook, Apple’s CEO.</p>\n<p>Shares of Cupertino, California-based Apple, which recently regained its title as the world’s most valuable company from Nvidia, fell $7.52, or 2.3 per cent, to $325.91 in after-hours trading.</p>\n<p><i>Barbara Ortutay, The Associated Press</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
       "title": "Canadian, U.S. markets rise on earnings strength, as oil prices ease slightly",
       "link": "https://www.bnnbloomberg.ca/business/2026/07/30/basic-materials-send-sptsx-composite-higher-us-stock-markets-also-rise/",
       "pubDate": "Thu, 30 Jul 2026 20:43:29 -0400",
@@ -100,108 +199,41 @@
       "body": "<p>Canadian and U.S. stock markets gained ground on Thursday as investors sifted through fresh corporate earnings reports on both sides of the border.</p>\n<p>The S&amp;P/TSX composite index was up 172.06 points at 35,505.84. On the TSX, the gains in the basic materials and financial sectors offset losses in the technology and industrials sectors.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/tsx/\" target=\"_blank\"><b>Real-time TSX market updates here</b></a></li></ul>\n<p>Brianne Gardner, senior wealth manager of Velocity Investment Partners at Raymond James Ltd., said Canada’s main stock index benefited from firmer precious metals prices and strong earnings.</p>\n<p>“Investors are ... continuing to rotate into precious metals and diversified miners, especially with this ongoing uncertainty, and elevated commodity prices are really supporting that space,” she said.</p>\n<p>Gardner said <a href=\"https://www.bnnbloomberg.ca/bank-tracker-canada/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/bank-tracker-canada/\">Canadian banks</a> were also providing stability in the market after the sector saw some recent weakness.</p>\n<p>Meanwhile, <a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/bombardier-tops-profit-estimates-free-cash-flow-turns-positive-on-strong-jet-demand/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/bombardier-tops-profit-estimates-free-cash-flow-turns-positive-on-strong-jet-demand/\">Bombardier Inc.</a> weighed on the TSX, with its shares falling 7.9 per cent after it reported a second-quarter profit of US$191 million Thursday.</p>\n<p><a href=\"https://www.bnnbloomberg.ca/markets/2026/07/30/microsoft-leads-a-rally-on-wall-street-while-worries-about-inflation-remain-in-the-bond-market/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/2026/07/30/microsoft-leads-a-rally-on-wall-street-while-worries-about-inflation-remain-in-the-bond-market/\">In New York,</a> the Dow Jones industrial average was up 613.92 points at 52,208.06. The S&amp;P 500 index was up 121.48 points at 7,437.63, while the Nasdaq composite was up 679.24 points at 25,122.18.</p>\n<p><a href=\"https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/\">Microsoft led the U.S. market </a>and leaped 15.5 per cent for its best day in nearly 18 years after reporting a stronger profit for the latest quarter than analysts expected. Growth was strong for its Azure cloud business, and CEO Satya Nadella said it reflects how customers are using Microsoft to move into AI.</p>\n<p>Perhaps just as importantly for Wall Street, Microsoft did not announce a big increase in how much it plans to spend on AI investments, something that several other big tech rivals have done. Worries are high that such spending is eating into companies’ cash flows and may not ultimately be worth it if AI underdelivers on productivity and profits.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\" target=\"_blank\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>Meta Platforms helped demonstrate such fears. The parent company of Facebook and Instagram fell eight per cent after it reported a weaker profit for the latest quarter than analysts expected, even though it made slightly more in revenue than expected. It also raised the lower end of its forecast range for spending on investments this year.</p>\n<p>“This earnings season is reminding investors that not all AI companies will benefit equally,” Gardner said.</p>\n<p>In the oil market, prices eased. The September crude oil contract for North American benchmark West Texas Intermediate was down 87 cents US at US$83.59 per barrel.</p>\n<p>Brent crude, the international standard, fell 1.4 per cent to settle at US$86.88 per barrel.</p>\n<p>It had swung as low as US$72 early this month and as high as US$102 last week on uncertainty about whether the United States and Iran could reach a deal to allow oil tankers to move freely again from the Middle East to customers worldwide.</p>\n<p>The decline in oil prices Thursday comes after sharp gains a day before.</p>\n<p>“Supply disruptions haven’t really materialized drastically yet, and I think markets are going to reassess the risk premium,” Gardner said.</p>\n<p>“Investors are recognizing that while tensions remain elevated, the market has priced in the worst-case scenario yesterday, and today’s trading suggests a lot of investors are dialing back some of those fears until there’s evidence of an actual supply interruption.”</p>\n<p>Looking ahead, Gardner said there could be some volatility in equity markets as August is historically one of the weakest months of the year.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\" target=\"_blank\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>The Canadian dollar traded for 71.36 cents US compared with 71.01 cents US on Wednesday.</p>\n<p>The December gold contract was up US$63.60 at US$4,160.60 an ounce.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026. </i></p>\n<p><i>— With files from The Associated Press</i></p>"
     },
     {
-      "title": "Microsoft’s best day since 2008 leads U.S. stocks, while inflation worries remain in the bond market",
-      "link": "https://www.bnnbloomberg.ca/markets/2026/07/30/microsoft-leads-a-rally-on-wall-street-while-worries-about-inflation-remain-in-the-bond-market/",
-      "pubDate": "Thu, 30 Jul 2026 20:38:59 -0400",
-      "description": "A monster day for Microsoft’s stock following signals that its big spending on AI is translating into profits led a powerful rebound on Wall Street Thursday, while computer-chip companies regained some of their sharp recent losses. In the bond market, though, worries remained about inflation potentially remaining high for years.",
-      "content": "<media:description type=\"plain\"><![CDATA[A trader works on the floor of the New York Stock Exchange, Thursday, July 30, 2026, in New York. (AP Photo/Yuki Iwamura)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Yuki Iwamura</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/J2Z4TTU77ZFUTJX4GZVAJU7IDY.jpg?auth=164c29d97217fefd65c20550c3e6321102d18c547cbe45571592029f956124aa&amp;smart=true&amp;width=7991&amp;height=5327",
-      "_src": "bnn",
-      "_ogDesc": "A monster day for Microsoft’s stock following signals that its big spending on AI is translating into profits led a powerful rebound on Wall Street Thursday, while computer-chip companies regained some of their sharp recent losses. In the bond market, though, worries remained about inflation potentially remaining high for years.",
-      "body": "<p>A monster day for Microsoft’s stock following signals that its <a href=\"https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/\">big spending on AI is translating into profits </a>led a powerful rebound on Wall Street Thursday, while computer-chip companies regained some of their sharp recent losses. In the bond market, though, worries remained about inflation potentially remaining high for years.</p>\n<p>The S&amp;P 500 rallied 1.7 per cent and more than recovered its drop from the day before, which was its worst in seven weeks.</p>\n<p>The Dow Jones Industrial Average jumped 613 points, or 1.2 per cent. The Nasdaq composite, which is full of artificial-intelligence stocks, rallied 2.8 per cent a day after it fell 9.8 per cent below its record set last month.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/dow-jones/\" target=\"_blank\"><b>Dow Jones updates here</b></a></li></ul>\n<p>Microsoft led the way and leaped 15.5 per cent for its best day in nearly 18 years after reporting a stronger profit for the latest quarter than analysts expected. Growth was strong for its Azure cloud business, and CEO Satya Nadella said it reflects how customers are using Microsoft to move into AI.</p>\n<p>Perhaps just as importantly for Wall Street, Microsoft did not announce a big increase in how much it plans to spend on AI investments, something that several other Big Tech rivals have done. Worries are high that such spending is eating into companies’ cash flows and may not ultimately be worth it if AI does not produce as much productivity and profits as promised.</p>\n<p>Meta Platforms helped demonstrate such fears after falling 8 per cent. The parent company of Facebook and Instagram reported a weaker profit for the latest quarter than analysts expected, even though it made slightly more in revenue than expected. It also raised the lower end of its forecasted range for spending on investments this year.</p>\n<p>Companies involved in the making of the computer memory and processors that such “hyperscalers” are buying to power their AI efforts rose Thursday, recovering some of the big losses they’ve taken on worries their stock prices shot too high in the euphoria around AI.</p>\n<p>Micron Technology jumped 18.4 per cent, for example, to trim its loss for the week to 5 per cent. It was the strongest force lifting the S&amp;P 500 after Microsoft.</p>\n<p>Lam Research, a supplier to the semiconductor industry, soared 18 per cent after reporting stronger profit and revenue for the latest quarter than analysts expected. Chip giant Advanced Micro Devices rallied 13 per cent.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/technology/\" target=\"_blank\"><b>Latest technology news on </b></a><a href=\"http://BNNBloomberg.ca\" target=\"_blank\"><b>BNNBloomberg.ca</b></a></li></ul>\n<p>On the losing end of <a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/jersey-mikes-valued-at-us67-billion-after-shares-fall-in-nyse-debut/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/jersey-mikes-valued-at-us67-billion-after-shares-fall-in-nyse-debut/\">Wall Street was Jersey Mike’s Subs.</a> The sandwich chain’s stock fell 6 per cent in its first day of trading on the New York Stock Exchange.</p>\n<p>All told, the S&amp;P 500 rose 121.48 to 7,437.63. The Dow Jones Industrial Average climbed 613.92 to 52,208.06, and the Nasdaq composite leaped 679.24 to 25,122.18.</p>\n<p>In the bond market, longer-term Treasury yields held steadier following their sharp accelerations Wednesday. They had jumped after the chairman of the Federal Reserve, Kevin Warsh, gave few clues about what the central bank will do with interest rates to combat the painfully high inflation that continues to hurt the country.</p>\n<p>Higher rates could keep a lid on inflation, but they can also slow the economy and undercut prices for stocks and other investments.</p>\n<p>The yield on the 10-year Treasury was 4.67 per cent, the same as late Wednesday. The 30-year Treasury yield ticked up to 5.22 per cent from 5.20 per cent, a day after it shot up from 5.09 per cent. Those yields move with investors’ expectations for inflation and economic growth in upcoming years.</p>\n<p>Warsh reaffirmed on Wednesday the Fed wants to get inflation back to 2 per cent, even though the central bank decided not to raise interest rates despite inflation remaining higher than that. He also implied the bond market may already be doing some of the Fed’s work to restrain inflation, and he pointed to how yields have climbed since the central bank’s last meeting six weeks earlier.</p>\n<p>That leaves investors questioning whether the Fed is prepared to act if inflation worsens, or whether it is relying on financial markets to achieve the same outcome, according to Seema Shah, chief global strategist at Principal Asset Management.</p>\n<p>“If investors conclude that the latter is true, the credibility of the Fed’s inflation-fighting commitment could come under increasing scrutiny. Arguably, it already is.”</p>\n<p>President Donald Trump, who nominated Warsh to lead the Fed, has lobbied for lower interest rates even though they could cause inflation to accelerate.</p>\n<p>Reports released Thursday suggested the U.S. economy’s growth slowed by more during the spring than economists expected. A measure of Inflation, meanwhile, remained worse last month than the Federal Reserve’s target, but it slowed from May’s level.</p>\n<p>In the oil market, prices eased. Brent crude, the international standard, fell 1.4 per cent to settle at $86.88 per barrel.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\" target=\"_blank\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>It had swung as low as $72 early this month and as high as $102 last week on uncertainty about whether the United States and Iran could reach a deal to allow oil tankers to move freely again from the Middle East to customers worldwide.</p>\n<p>In stock markets worldwide, indexes were mixed in Europe and Asia. South Korea’s Kospi fell 1.2 per cent, and France’s CAC 40 rose 0.9 per cent for two of the world’s bigger moves.</p>\n<p>Seoul’s market has been at the center of AI’s huge swings because it’s dominated by two tech titans, Samsung Electronics and SK Hynix. After more than doubling through this year’s first six months, the Kospi has plunged 34 per cent so far in July.</p>\n<p>Its drop on Thursday came as <a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom/\">Samsung Electronics dipped 0.7 per cent.</a> The tech giant reported a record profit for the spring and said demand for its chips continues to outpace supply, but its earnings nevertheless fell shy of analysts’ high expectations.</p>\n<p><i>AP Business Writers Chan Ho-him and Matt Ott contributed to this report.</i></p>"
+      "title": "HomeEquity Bank adds medical voice to the retirement-planning conversation",
+      "link": "https://www.canadianmortgagetrends.com/2026/07/homeequity-bank-adds-medical-voice-to-the-retirement-planning-conversation/",
+      "pubDate": "Thu, 30 Jul 2026 23:46:46 +0000",
+      "description": "Geriatrician Dr. Samir Sinha joins the reverse mortgage provider in a newly created role focused on healthy aging and aging in place.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/07/Dr.-Samir-Sinha-Feature-image-500x333.png",
+      "_src": "cmt",
+      "_ogDesc": "Geriatrician Dr. Samir Sinha joins the reverse mortgage provider in a newly created role focused on healthy aging and aging in place."
     },
     {
-      "title": "Costco Canada recall includes food, appliances and toys. Here’s what you need to know",
-      "link": "https://www.bnnbloomberg.ca/business/2026/07/30/immediately-stop-using-costco-canada-recalls-these-three-items-over-safety-concerns/",
-      "pubDate": "Thu, 30 Jul 2026 20:32:20 -0400",
-      "description": "Costco Canada is alerting customers about recalls involving a Panasonic toaster oven, an Aston Martin ride-on go-kart and Alfa croissants.",
-      "content": "<media:description type=\"plain\"><![CDATA[Customers are warned about three separate products sold at Costco Canada including a toaster oven, a children’s ride-on go-kart and packaged croissants. Images courtesy of Costco Canada.]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/IOMFEL6EMNAP7N5XQTJDJAZW5I.jpeg?auth=5a23ce984719950edf361c14acb0f79c6a4aa1a8dd67e212e929c2355815af86&amp;smart=true&amp;width=1920&amp;height=1080",
-      "_src": "bnn",
-      "_ogDesc": "Costco Canada is alerting customers about recalls involving a Panasonic toaster oven, an Aston Martin ride-on go-kart and Alfa croissants.",
-      "body": "<p>Costco Canada is informing customers about three voluntary product recalls involving a toaster oven, a children’s ride-on go-kart and packaged croissants sold in its stores.</p>\n<p>Shoppers are being urged to check whether they have the affected products and follow the instructions provided.</p>\n<h2>Panasonic toaster oven</h2>\n<p>The Panasonic toaster oven <a href=\"https://help.na.panasonic.com/answers/nb-g200-205-product-recall-information-july-2026/\" target=\"_self\" rel=\"\" title=\"https://help.na.panasonic.com/answers/nb-g200-205-product-recall-information-july-2026/\">recall</a> affects certain NB-G205 stainless steel electric models. According to <a href=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1019901/session/L3RpbWUvMTc4NTMzNzA4OS9nZW4vMTc4NTMzNzA4OS9zaWQvZlUxNFQ2ZzVoQzRuUE5uTmZVRFhwblFOVExXcUNiSWJHT0JVSk9oZW1EM3Qwb3RWS3JUbjRabjZMdE1uRUNQempNMWtGUlNOb211anpPMl9zMXZ5elhMZk0wMU9VS0QyenVGblY1X3BJTTU1SEE0VlhZT0FMdVpRJTIxJTIx\" target=\"_self\" rel=\"\" title=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1019901/session/L3RpbWUvMTc4NTMzNzA4OS9nZW4vMTc4NTMzNzA4OS9zaWQvZlUxNFQ2ZzVoQzRuUE5uTmZVRFhwblFOVExXcUNiSWJHT0JVSk9oZW1EM3Qwb3RWS3JUbjRabjZMdE1uRUNQempNMWtGUlNOb211anpPMl9zMXZ5elhMZk0wMU9VS0QyenVGblY1X3BJTTU1SEE0VlhZT0FMdVpRJTIxJTIx\">Costco</a> , the appliances may have insufficient power cord insulation, creating a potential shock and fire hazard. No injuries or deaths have been reported.</p>\n<p>“Stop using the product immediately,” Costco wrote in its recall.</p>\n<p>Customers can <a href=\"mailto:Panasonic6895@sedgwick.com\" target=\"_self\" rel=\"\" title=\"mailto:Panasonic6895@sedgwick.com\">contact</a> the company for return instructions and a refund, or return the product to any Costco warehouse customer service counter for a full refund.</p>\n<h2>Children’s go-kart</h2>\n<p>The Aston Martin Formula One 36V Go-Kart <a href=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1019927/session/L3RpbWUvMTc4NTMzNzA4OS9nZW4vMTc4NTMzNzA4OS9zaWQvZlUxNFQ2ZzVoQzRuUE5uTmZVRFhwblFOVExXcUNiSWJHT0JVSk9oZW1EM3Qwb3RWS3JUbjRabjZMdE1uRUNQempNMWtGUlNOb211anpPMl9zMXZ5elhMZk0wMU9VS0QyenVGblY1X3BJTTU1SEE0VlhZT0FMdVpRJTIxJTIx\" target=\"_self\" rel=\"\" title=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1019927/session/L3RpbWUvMTc4NTMzNzA4OS9nZW4vMTc4NTMzNzA4OS9zaWQvZlUxNFQ2ZzVoQzRuUE5uTmZVRFhwblFOVExXcUNiSWJHT0JVSk9oZW1EM3Qwb3RWS3JUbjRabjZMdE1uRUNQempNMWtGUlNOb211anpPMl9zMXZ5elhMZk0wMU9VS0QyenVGblY1X3BJTTU1SEE0VlhZT0FMdVpRJTIxJTIx\">recall</a> involves the units sold at Costco warehouses and Costco.ca between November 2025 and June 2026.</p>\n<p>Hunter Products USA, the manufacturer of the product, says a faulty accelerator pedal could cause the go-kart to accelerate immediately when the battery is connected, creating a risk of serious injury. Six incidents have been reported, including at least one injury.</p>\n<p>Owners should “immediately stop using” the go-kart and <a href=\"mailto:service@hunterproducts.com.au\" target=\"_self\" rel=\"\" title=\"mailto:service@hunterproducts.com.au\">contact</a> Hunter Products USA for a free repair kit that includes updated replacement parts. Customers can also return the go-kart to Costco for a full refund.</p>\n<h2>Alfa croissants</h2>\n<p>The Alfa Croissants <a href=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1019967/accessType/popular/session/L3RpbWUvMTc4NTQzMDY1Ny9nZW4vMTc4NTQzMDY1Ny9zaWQvZlVtdEZwR1JRX19razdibF9YNEhkWUxuU1FhcEw1S3JZTWsyNDltdTg0ZkpWNFNmb3FXSjFGcjQ5c3hFZ3JaZXdRY3lTaTN1SGYlN0Vza1U5cXVJSmVOa0w0M0hITFBsUHN5YkdxR0d4Z285cGJwMWpSVWVQTmFlX1ElMjElMjE=\" target=\"_self\" rel=\"\" title=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1019967/accessType/popular/session/L3RpbWUvMTc4NTQzMDY1Ny9nZW4vMTc4NTQzMDY1Ny9zaWQvZlVtdEZwR1JRX19razdibF9YNEhkWUxuU1FhcEw1S3JZTWsyNDltdTg0ZkpWNFNmb3FXSjFGcjQ5c3hFZ3JaZXdRY3lTaTN1SGYlN0Vza1U5cXVJSmVOa0w0M0hITFBsUHN5YkdxR0d4Z285cGJwMWpSVWVQTmFlX1ElMjElMjE=\">recall</a> affects those with cocoa cream filling in 24-count packages, with lot codes 10726 and 08626.</p>\n<p>Distribution M.F.G Inc. says the products may contain mould.</p>\n<p>“Please do not consume, serve, use, sell or distribute the Alfa Croissants that are being recalled,” the recall said.</p>\n<p>Customers with questions can <a href=\"mailto:info@groupmiron.com\" target=\"_self\" rel=\"\" title=\"mailto:info@groupmiron.com\">contact</a> Distribution M.F.G Inc. for more information.</p>"
+      "title": "Northern home prices keep rising despite sharply different sales trends",
+      "link": "https://www.canadianmortgagetrends.com/2026/07/northern-home-prices-keep-rising-despite-sharply-different-sales-trends/",
+      "pubDate": "Thu, 30 Jul 2026 23:03:49 +0000",
+      "description": "Sales rebounded in Whitehorse and Yellowknife but declined further in Iqaluit, as limited supply kept upward pressure on prices across all three markets.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/07/Whitehorse_sm-500x334.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Sales rebounded in Whitehorse and Yellowknife but declined further in Iqaluit, as limited supply kept upward pressure on prices across all three markets."
     },
     {
-      "title": "Canada opening exports office as part of strategy to diversify trade",
-      "link": "https://www.bnnbloomberg.ca/tariffs/2026/07/30/canada-opening-exports-office-as-part-of-strategy-to-diversify-trade/",
-      "pubDate": "Thu, 30 Jul 2026 20:29:42 -0400",
-      "description": "The federal government is opening a new strategic exports office as part of its plan to diversify trade.",
-      "content": "<media:description type=\"plain\"><![CDATA[Minister of International Trade Maninder Sidhu speaks at a press conference in Toronto on Friday, July 24, 2026. THE CANADIAN PRESS/Sammy Kogan]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Sammy Kogan</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/GVMOS7M35C6E2LENX6JDYW2M3A.jpg?auth=6f872a45e70dc6ab559c17dd8202bf2d1ccd4f77f7e7558da385b8c518e632e4&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "The federal government is opening a new strategic exports office as part of its plan to diversify trade.",
-      "body": "<p>OTTAWA — The federal government is opening a new strategic exports office as part of its plan to diversify trade.</p>\n<p>The office, announced in Budget 2025, will be housed under Global Affairs Canada and will be tasked with removing trade irritants, lifting market access barriers and addressing infrastructure gaps.</p>\n<p>The government says the office will help Canada secure international business opportunities in sectors that include aerospace, defence, infrastructure and energy.</p>\n<p>International Trade Minister Maninder Sidhu told a press conference Thursday the office will help Canada’s “best companies win the biggest contracts in the toughest markets around the world.”</p>\n<p>Global Affairs Canada said the office will identify export opportunities, co-ordinate government engagement to support Canadian firms and support advocacy by senior government officials.</p>\n<p>“Think of the strategic export office as your government-level deal-maker,” said Sidhu. “It brings strategic advocacy, government financing and diplomatic support together in one place.”</p>\n<p>The Liberals have set a goal of doubling non-U. S. exports over the next decade.</p>\n<p>The government’s spring economic update said non-U. S. goods and services exports increased by $33 billion in 2025 over 2024.</p>\n<p>Samantha Lafleur, a spokesperson for Global Affairs Canada, said in an email last week that in the first quarter of this year, non-U. S. exports of goods and services were worth $96.2 billion.</p>\n<p>Prime Minister Mark Carney’s government has boasted of signing more than 20 strategic trade and defence agreements around the world over the past year.</p>\n<p>Ottawa signed a free trade deal with Ecuador last Friday. The same day, the governments of Canada and the United Arab Emirates announced they had concluded negotiations on a free-trade agreement.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026. </i></p>\n<p><i>Catherine Morrison, The Canadian Press</i></p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Amazon beats estimates for quarterly cloud revenue growth",
-      "link": "https://www.bnnbloomberg.ca/business/technology/2026/07/30/amazon-beats-estimates-for-quarterly-cloud-revenue-growth/",
-      "pubDate": "Thu, 30 Jul 2026 20:27:46 -0400",
-      "description": "Amazon.com topped market expectations for quarterly cloud revenue growth on Thursday on the back of surging enterprise AI spending, signaling the company’s hefty investments were bearing fruit.",
-      "content": "<media:description type=\"plain\"><![CDATA[Logo of Amazon Web Services Inc (AWS) displayed in Davos, Switzerland, on Monday, Jan. 21, 2019. (Jason Alden/Bloomberg/Getty Images)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\"></media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/I65NBDHYZ6NL35ENVHJUJGUVP4.jpg?auth=e07fbe836a2c210279665f7e0f4bd044811f2b326b243ea5f2fe8bbd4a171f04&amp;smart=true&amp;width=1020&amp;height=574",
-      "_src": "bnn",
-      "_ogDesc": "Amazon.com topped market expectations for quarterly cloud revenue growth on Thursday on the back of surging enterprise AI spending, signaling the company’s hefty investments were bearing fruit.",
-      "body": "<p><a href=\"https://www.bnnbloomberg.ca/stock/AMZN:UN\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/AMZN:UN\">Amazon.com topped market expectations</a> for quarterly cloud revenue growth on Thursday on the back of surging enterprise AI spending, signaling the company’s hefty investments were bearing fruit.</p>\n<p>Revenue at its cloud computing unit, Amazon Web Services, jumped 37 per cent to $42.2 billion in the second quarter ended June 30, compared with analysts’ consensus estimate of a 31.21 per cent increase, according to data compiled by LSEG.</p>\n<p>Shares of the Seattle, Washington-based company were up about 6 per cent in extended trading, having risen about 4 per cent during the session.</p>\n<p>Amazon said it burned $7.6 billion of cash on a trailing twelve months basis in the second quarter, compared to $18.2 billion in free cash flow a year earlier.</p>\n<p>The strong showing from the world’s No. 1 cloud services provider mirrors solid performances from smaller rivals Microsoft and Alphabet’s Google, both of which comfortably beat Wall Street estimates for cloud revenue.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/technology/\" target=\"_blank\"><b>Latest technology news on </b></a><a href=\"http://BNNBloomberg.ca\" target=\"_blank\"><b>BNNBloomberg.ca</b></a></li></ul>\n<p>The upbeat results could help quell some concerns over Big Tech’s relentless AI investments — set to exceed $700 billion this year — which have strained cash flows at the traditionally cash-rich companies and sparked worries that they might be overbuilding capacity.</p>\n<p>Companies, however, have argued that the outlays are crucial to help ease capacity constraints that have prevented them from fully meeting AI-driven demand, pointing to their ballooning contract backlogs.</p>\n<p>Amazon Web Services has benefited from a growing roster of partnerships this year, including massive cloud infrastructure and chip supply deals with OpenAI, Anthropic, Meta META.O, Pinterest PINS.N and Snowflake SNOW.N.</p>\n<p>The company said earlier this year that AWS’ annual AI revenue run rate has surpassed $15 billion and was growing in a triple-digit percentage range, looking to reassure investors that its investments were generating clear returns.</p>\n<p>Analysts have said Amazon will be able to sustain that level of growth as more data center capacity comes online over the next several months.</p>\n<p>In its e-commerce business, Amazon has been rolling out faster delivery services globally and expanding to more rural areas of the U.S. to draw more shoppers.</p>\n<p>The company also held its annual Prime Day event in the quarter, running from June 23 through June 26. The online shopping event featuring steep discounts saw customers snap up electronics, appliances and everyday essentials, with an Adobe Analytics estimate pegging total spending at over $26.4 billion.</p>\n<p><i>(Reporting by Deborah Sophia in Bengaluru; Editing by Sriraj Kalluvila)</i></p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "WestJet flight attendants' union serves airline 72-hour strike notice",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/westjet-flight-attendants-union-serves-airline-72-hour-strike-notice/",
-      "pubDate": "Thu, 30 Jul 2026 20:14:52 -0400",
-      "description": "Intense bargaining between WestJet and the union representing its flight attendants ratcheted up further on Thursday after CUPE issued a 72-hour strike notice, paving the runway for a possible airline shutdown during the busy summer travel season.",
-      "content": "<media:description type=\"plain\"><![CDATA[WestJet passenger jets parked at departure gates at the Calgary International Airport on Wednesday, May 31, 2023. THE CANADIAN PRESS/Jeff McIntosh]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jeff McIntosh</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/D4YFPVD3FMV3TBREEJPOLHWQSY.jpg?auth=5615458a97d547bb42450365b02238aad6f9281d57eae3237722240db1315a90&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Intense bargaining between WestJet and the union representing its flight attendants ratcheted up further on Thursday after CUPE issued a 72-hour strike notice, paving the runway for a possible airline shutdown during the busy summer travel season.",
-      "body": "<p>CALGARY -- Intense bargaining between WestJet and the union representing its flight attendants ratcheted up further on Thursday after CUPE issued a 72-hour strike notice, paving the runway for a possible airline shutdown during the busy summer travel season.</p>\n<p>The Canadian Union of Public Employees cancelled a news conference in Calgary on Thursday morning, saying it wanted to focus on hammering out a deal.</p>\n<p>The union representing 4,400 cabin crew at WestJet said the two sides remain far apart on key issues.</p>\n<p>“We have been clear about what needs to change, and we have worked hard to reach a fair deal,” Alia Hussain, chair of the union’s WestJet contingent, said in a news release early Thursday.</p>\n<p>“There’s still time to avoid a strike,” Hussain added. “We will continue to bargain around the clock until this is resolved.”</p>\n<p>WestJet responded to the union’s strike notice by issuing a 72-hour lockout notice.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/canada/article/what-to-know-as-possible-westjet-flight-attendant-strike-looms/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/what-to-know-as-possible-westjet-flight-attendant-strike-looms/\"><b>WestJet flight attendants could strike this weekend. What does that mean for travellers?</b></a></li></ul>\n<p>The carrier — the second-largest in Canada — said it is still negotiating to reach a deal.</p>\n<p>“The decision to issue a lockout notice in response to the actions taken by the union was not one that was made lightly. We sincerely regret the inconvenience and uncertainty this continues to cause for our guests,” said CEO Alexis von Hoensbroech in a statement.</p>\n<p>“We greatly value the work and contributions of our cabin crew, and it is our responsibility to ensure the integrity of our network and to minimize the risk of stranding our guests, crew and aircraft.”</p>\n<p>While serving notice does not commit the union to a strike, job action could begin as soon as Sunday at 12:01 a.m. MT if the two sides don’t reach a deal.</p>\n<p>Unless a tentative agreement is reached, some flights could start to be grounded by Friday.</p>\n<p>At the Calgary International Airport, WestJet passengers held a medley of emotions about the impending strike.&nbsp;</p>\n<p>Some were troubled about the threat of a walkout by workers of the Calgary-based airline. Others were indifferent and a small faction were unaware.&nbsp;</p>\n<p>Marni Reid, from Medicine Hat, was leaving for Copenhagen with six other family members on a trip to visit family.</p>\n<p>“I’m a little worried; I’m scared, actually,” she said at the airport Thursday morning.</p>\n<p>The family is set to return on Aug. 13, which means they have nearly two weeks for the two sides to come to a resolution.</p>\n<p>“We have a travel agent that is on standby, and if we have to, we’ll split up ... to get us home on different flights,” Reid said.</p>\n<p>Richard and Janice Buchynski, from Prince Albert, Sask., were travelling to Whitehorse, also to see family, and are set to return home on a WestJet flight to Saskatoon on Tuesday.</p>\n<p>“We’re not sure how we’re getting home,” said Richard Buchynski. “We’ll see how it pans out.”</p>\n<p>“We might have to take a bus or whatever to get home,” Janice Buchynski said with a nervous laugh.&nbsp;</p>\n<p>She added that WestJet sent the pair an email detailing how it would help find alternative travel if needed.</p>\n<p>Federal Transport Minister Steven MacKinnon said Wednesday that “talks are progressing” and he remained hopeful a new collective agreement could be negotiated.</p>\n<p>WestJet has been allowing passengers with flights scheduled between July 30 and Aug. 4 to make a one-time change or cancel it with no fee.</p>\n<p>Travellers booked on the regional WestJet Encore service or code-share flights run by an airline partner such as Delta Air Lines will not be affected by a strike, the carrier said.</p>\n<p>Should flight delays or cancellations occur, the airline said impacted guests will be refunded or reaccommodated “as applicable.”&nbsp;</p>\n<p>The two sides this week also signed an agreement — shared with union members and obtained by The Canadian Press — that lays out how to ground planes and get cabin crew home in the event of a work stoppage.</p>\n<p>Cabin crew working a flight when any job action begins would complete the trip to the destination. Those who can’t immediately return to their home city would receive hotel accommodation for up to a week or a plane ride back to another Canadian city “subject to seat availability.”</p>\n<p>The union has said key issues include unpaid work for tasks such as ground duties. WestJet has said all duties are compensated through a “credit hour” system rather than an hourly rate.</p>\n<p>The office of Patty Hajdu, minister of Jobs and Families, said in an emailed statement Thursday that “Canadians are experiencing uncertainty on many fronts, and they are counting on both parties to work together to reach a deal at the bargaining table.”</p>\n<p>John Gradek, who teaches aviation management at McGill University, has said even a brief shutdown would cost the carrier millions of dollars during the height of summer travel.</p>\n<p>The airline says it operates more than 600 flights per day, carrying legions of passengers — more than 70,000 on some days.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026.</i></p>\n<p><i>By Aaron Sousa in Edmonton, Christopher Reynolds in Montreal and Dayne Patterson in Calgary</i></p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Canada Goose downplays latest U.S. tariff threats, maintains revenue forecast",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/canada-goose-beats-quarterly-revenue-estimates-on-steady-demand/",
-      "pubDate": "Thu, 30 Jul 2026 20:09:51 -0400",
-      "description": "Canada Goose Holdings Inc. isn’t bracing for much of a financial impact if U.S. President Donald Trump makes good on his latest tariff threats.",
-      "content": "<media:description type=\"plain\"><![CDATA[Canada Goose jackets and clothing is on display at the Harry Rosen store in Toronto, Tuesday, Sept. 17, 2024. THE CANADIAN PRESS/Nathan Denette]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Nathan Denette</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/UWWW5YUC6ZFF577CJD6T3EGUUY.jpg?auth=3c3747b3d5d28d39d148f19704dede5cb81cbed283dd16c6c3bb5db997e8e7c6&amp;smart=true&amp;width=1400&amp;height=987",
-      "_src": "bnn",
-      "_ogDesc": "Canada Goose Holdings Inc. isn’t bracing for much of a financial impact if U.S. President Donald Trump makes good on his latest tariff threats.",
-      "body": "<p><a href=\"https://www.bnnbloomberg.ca/stock/GOOS:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/GOOS:CT/\">Canada Goose Holdings Inc.</a> isn’t bracing for much of a financial impact if U.S. President Donald Trump makes good on his latest tariff threats.</p>\n<p>The Toronto-based luxury parka maker said Thursday that some of its products would be affected by the 50 per cent duties the U.S. wants to start applying to imports, including some jackets, T-shirts, sweaters and mittens, next month.</p>\n<p>If the tariffs move ahead and Canada Goose does nothing to mitigate the impacts, chief financial officer Neil Bowden thinks they could shave less than two percentage points off its fiscal 2027 operating margins.</p>\n<p>However, the threat of the tariffs wasn’t enough to convince him to change Canada Goose’s outlook for the remainder of the year.</p>\n<p>His company is sticking with previous predictions it made, placing its likely revenue increase for fiscal 2027 in the low-single digits. Its fiscal 2026 ended with revenue up about 12 per cent from 2025 to more than $1.5 billion.</p>\n<p>Bowden said the 2027 outlook assumes the tariff environment will be a lot like last year. Since Trump has been in office, he has teased duties but often chickened out when it came time to implement them.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/tariffs/\" target=\"_blank\"><b>Trade War coverage on </b></a><a href=\"http://BNNBloomberg.ca\" target=\"_blank\"><b>BNNBloomberg.ca</b></a></li></ul>\n<p>While the situation remains “fluid,” Bowden was confident his company could handle whatever materializes this time.</p>\n<p>“We are actively evaluating mitigation measures and believe we have a range of options available to help minimize potential impact,” he told analysts on a Thursday call.</p>\n<p>The confidence in the previous guidance struck BNP Paribas Equity Research senior analyst Laurent Vasilescu as “interesting.”</p>\n<p>In a note to investors, he pointed out most of the company’s products are made in Canada, so the tariffs will have a material impact on the business as a whole but especially on its U.S. profitability.</p>\n<p>Bowden’s remarks came after Canada Goose reported a first-quarter loss attributable to shareholders of $90.8 million.</p>\n<p>The loss amounted to 93 cents per diluted share for the quarter ended June 28, compared with a loss of $125.2 million or $1.29 per diluted share a year earlier.</p>\n<p>Revenue totalled $118.9 million for the quarter, up from $107.8 million.</p>\n<p>Direct-to-consumer revenue reached $84.8 million for the quarter, up from $78.1 million, while wholesale revenue amounted to $29.8 million, up from $17.9 million. Other revenue came in at $4.3 million, down from $11.8 million a year earlier.</p>\n<p>On an adjusted basis, the loss was 89 cents per diluted share in its latest quarter, compared with an adjusted loss of 91 cents per diluted share a year earlier.</p>\n<p>The quarter spanned a period when CEO Dani Reiss conceded customer traffic among some pockets of stores was “lower than we would have liked.”</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\" target=\"_blank\"><b>Latest updates on company news here</b></a></li></ul>\n<p>He put the blame on a “soft macro environment,” but said he was feeling encouraged because more customers had flocked to the brand lately and e-commerce traffic has grown.</p>\n<p>While most people associate the company with its pricy down-filled parkas, Reiss said apparel, rain gear and windwear accounted for nearly 40 per cent of Canada Goose’s first-quarter revenue.</p>\n<p>“To put that in perspective, these categories generated as much revenue this quarter as our entire company did in the first quarter eight years ago,” he said.</p>\n<p>“That is a remarkable illustration of how Canada Goose has evolved.”</p>\n<p>The trio of categories made up just five per cent of the company’s business in fiscal 2022. This year, they’re about 15 per cent of its total revenue and according to Reiss, not cannibalizing its star product. Down-filled outerwear also saw growth in sales in the latest quarter, he said.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026.</i></p>\n<p><i>This is a corrected story. A previous version misattributed some statements to CEO Dani Reiss. In fact, they were said by chief financial officer Neil Bowden.</i></p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Microsoft set for record one-day market cap gain after upbeat Azure forecast",
-      "link": "https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/",
-      "pubDate": "Thu, 30 Jul 2026 20:04:08 -0400",
-      "description": "Microsoft’s shares soared more than 16 per cent on Thursday, putting the company on track for a record one-day gain in market value after it said it expects to keep generating cash through its new fiscal year and forecast cloud growth above Wall Street expectations.",
-      "content": "<media:description type=\"plain\"><![CDATA[This July 3, 2014, file photo, shows the Microsoft Corp. logo outside the Microsoft Visitor Center in Redmond, Wash. (AP Photo Ted S. Warren, File)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/S5KETJBQRXVTZGGHANEVYGTXJM.jpg?auth=aab1e90d0526bd7b04d8f5c532980069a2b651b7e7c147cec985866d76b12045&amp;smart=true&amp;width=1020&amp;height=574",
-      "_src": "bnn",
-      "_ogDesc": "Microsoft’s shares soared more than 16 per cent on Thursday, putting the company on track for a record one-day gain in market value after it said it expects to keep generating cash through its new fiscal year and forecast cloud growth above Wall Street expectations.",
-      "body": "<p><a href=\"https://www.bnnbloomberg.ca/stock/MSFT:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/MSFT:UN/\">Microsoft’s shares</a> soared more than 16 per cent on Thursday, putting the company on track for a record one-day gain in market value after it said it expects to keep generating cash through its new fiscal year and forecast cloud growth above Wall Street expectations.</p>\n<p>If gains hold, the software giant would add more than US$485 billion to its market value, surpassing chip giant Nvidia’s previous record of $441 billion on April 9, 2025, according to LSEG data.</p>\n<p>“Microsoft reported a very strong quarter and it struck the tone markets are looking to hear as the key drivers of growth came from the cloud and AI divisions,” said Brian Mulberry, chief market strategist at Zacks Investment Management.</p>\n<p>The company has lagged some of its “Magnificent Seven” peers this year; its stock was down more than 18 per cent, up to Wednesday’s close.</p>\n<p>At least nine brokerages raised the target price on the stock, with the mean target now $560.90.</p>\n<p>The results offered fresh evidence that Microsoft’s massive AI investments are beginning to pay off, helping ease investor concerns that heavy spending on data centers and computing infrastructure could outpace demand.</p>\n<p>The company said its spending plans remain unchanged and that it expects capital expenditures of $50 billion for the fiscal first quarter of 2027 and $175 billion for the 2026 calendar year.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\" target=\"_blank\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>In its first quarter, Microsoft expects a 45 per cent growth on a constant currency basis for its Azure cloud computing unit, well above analyst estimates of 40.92 per cent, according to data from Visible Alpha.</p>\n<p>“The key question was whether it could shift the conversation from how much it is spending on AI to what it is earning from those investments, and the results suggested meaningful progress,” Direxion’s head of capital markets, Jake Behan, said.</p>\n<p><i>(Reporting by Anhata Rooprai in Bengaluru, additional reporting by Noel Randewich in San Francisco; Editing by Sahal Muhammed)</i></p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "Algoma Steel Q2 loss of $96M driven by U.S. tariffs, transition to electric steelmaking",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/algoma-steel-q2-loss-of-96m-driven-by-us-tariffs-transition-to-electric-steelmaking/",
-      "pubDate": "Thu, 30 Jul 2026 20:00:00 -0400",
-      "description": "Algoma Steel in Sault Ste. Marie reported a second-quarter loss of $96 million this week, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line.",
-      "content": "<media:description type=\"plain\"><![CDATA[Algoma Steel in Sault Ste. Marie reported a second-quarter loss of $96 million this week, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line. (File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Nick Iwanyshyn</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/Y36Y4RY36E5UP5XHWR7QA6GHWY.jpg?auth=24c61cb1ce736495c12b9bf7c9abbe87bdea702ddd6851f691f3ef2410c34330&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Algoma Steel in Sault Ste. Marie reported a second-quarter loss of $96 million this week, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line.",
-      "body": "<p><a href=\"https://www.algoma.com/\" target=\"_blank\" rel=\"\" title=\"https://www.algoma.com/\">Algoma Steel</a> in Sault Ste. Marie, Ont., reported a second-quarter loss of <a href=\"https://ir.algoma.com/financial-information/quarterly-results\" target=\"_blank\" rel=\"\" title=\"https://ir.algoma.com/financial-information/quarterly-results\">$96 million this week</a>, as 50 per cent tariffs on steel into the United States continue to impact the steelmaker’s bottom line.</p>\n<p>U.S. President Donald Trump’s trade war with Canada and other countries forced Algoma to accelerate its transition to electric arc furnace (EAF) steelmaking, leading to <a href=\"https://www.ctvnews.ca/northern-ontario/article/final-shift-for-laid-off-workers-at-algoma-steel/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/northern-ontario/article/final-shift-for-laid-off-workers-at-algoma-steel/\">1,000 layoffs in March of this year</a>.</p>\n<p>“Comparisons between Q2 2026 and Q2 2025 were significantly impacted by the transition from legacy blast furnace operations to the company’s EAF platform,” Algoma said in a news release announcing its latest results.</p>\n<p>The company said the 50 per cent tariff “fundamentally altered and permanently disrupted the company’s historical cross-border business model, effectively foreclosing its traditional access to the U.S. market.”</p>\n<p>The $96 million net loss compared to its net loss of $110.6 million in Q2 of 2025. Direct tariff costs were $18.7 million, compared to $64.1 million in 2025.</p>\n<h2>Record steel plate sales</h2>\n<p>“The second quarter demonstrated the resilience of our transformed business against a stubbornly challenging industry backdrop,” Algoma CEO Rajat Marwah said in the news release.</p>\n<p>“We delivered a second consecutive quarter of record plate sales, our first EAF unit continued to ramp up as expected, and transition costs declined meaningfully from the first quarter.”</p>\n<p>Marwah said Algoma is almost through the most difficult transition in its history, with EAF-related costs expected to decline.</p>\n<p>“While the 50 per cent U.S. Section 232 tariffs continue to effectively foreclose our traditional access to the U.S. market, our pivot to a Canada-centric, plate-first strategy is working,” he said.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/app/\" target=\"_blank\"><strong>Download the CTV News app now</strong></a></li></ul>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters/\" target=\"_blank\"><strong>Sign up for breaking news alerts</strong></a></li></ul>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters/\" target=\"_blank\"><strong>Get daily newsletters with the top local stories emailed to your inbox</strong></a></li></ul>\n<p>“As Canada’s only producer of discrete plate, we are uniquely positioned to serve growing infrastructure, construction, and defence demand, and the recent rise in steel prices is encouraging.”</p>\n<p>“We are grateful for the continued support of the federal and provincial governments as we complete this transition and build a stronger, more sustainable Canadian steel industry,” Marwah added.</p>\n<h2>Related Stories</h2>"
-    },
-    {
-      "title": "TC Energy increases demand outlook for natural gas amid data centre boom",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/tc-energy-reports-987m-second-quarter-profit-up-from-833m-last-year/",
-      "pubDate": "Thu, 30 Jul 2026 18:03:22 -0400",
-      "description": "TC Energy Corp. has raised its forecast for North American natural gas demand in the coming years and is considering ways its vast Canadian and U.S. pipeline network can respond to the surge.",
-      "content": "<media:description type=\"plain\"><![CDATA[TC Energy headquarters in Calgary, Alta., Tuesday, July 30, 2024. THE CANADIAN PRESS/Todd Korol]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Todd Korol</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/WJ3J4SAODZHX5ZYP5RHI3OHGNA.jpg?auth=35b5831c0e5ff2a8caecaeed67cca8e44ae3553d2b16d0b8fcac04959c6c0650&amp;smart=true&amp;width=1400&amp;height=973",
-      "_src": "bnn",
-      "_ogDesc": "TC Energy Corp. has raised its forecast for North American natural gas demand in the coming years and is considering ways its vast Canadian and U.S. pipeline network can respond to the surge. ",
-      "body": "<p>CALGARY &mdash; <a href=\"https://www.bnnbloomberg.ca/stock/TRP:UN/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/TRP:UN/\">TC Energy Corp. has raised its forecast for North American natural gas demand</a> in the coming years and is considering ways its vast Canadian and U.S. pipeline network can respond to the surge.</p>\n<p>The Calgary-based company is expecting 51 billion cubic feet per day in demand growth from 2025 levels through to 2035, driven by liquefied natural gas exports, gas-fired power generation and industrial growth. In late 2024, it had forecast 40 bcf/d. As recently as February of this year it had been calling for 46 bcf/d.</p>\n<p>“Importantly, nearly 70 per cent of this demand growth is concentrated in the U.S. heartland, Alberta, and Mexico — regions where TC Energy has a strong incumbent position and significant existing infrastructure,” TC chief executive François Poirier told analysts on a conference call after the company reported a bump in second-quarter profits.</p>\n<p>TC offered additional natural gas shipping services in the Greater Edmonton Area in March of this year, and all of that pipeline capacity was snapped up. Another offering for space on TC’s intra-Alberta network between 2030 and 2032 saw record amounts of participation from data centre developers, Poirier added.</p>\n<p>“Given this strong customer interest, we are exploring opportunities to expand this offering to better meet customer demand.”</p>\n<p>In the U.S., TC is expecting to make a final investment decision on its Crossroads project in the fourth quarter of this year. Crossroads is a 365-kilometre pipeline in Indiana and Ohio and the company has announced plans to expand the system by 1.5 billion bcf/d. TC said in May that there was 2.5 times as much interest in the Crossroads expansion than the initial capacity offered.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\" target=\"_blank\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>TC has signed agreements with some shippers for that project and is in advanced discussions with more potential customers.</p>\n<p>“We continue to evaluate opportunities to expand the project’s scope with additional shippers,” Poirier said.</p>\n<p>Data centre development is expected to be a big demand draw for natural gas in Canada and the U.S. The facilities house the computing hardware needed in a variety of tech applications and their scale has ballooned with the boom in artificial intelligence. Some facilities require enough power daily to power a whole city.</p>\n<p>In Canada, data centre industry growth has been centred on Alberta, which has been actively courting big tech titans to set up shop in the province. The provincial government is prioritizing projects that provide their own power generation so as to not overburden the grid — and that power is coming mainly from natural gas-fired generation.</p>\n<p>The surge in data centre development has given rise to local community concerns over pollution, noise, water use and utility bills, but the opposition hasn’t led to a slowdown in the opportunities TC has before it, Poirier said.</p>\n<p>Earlier Thursday, TC reported $987 million in net income attributable to common shareholders for its second quarter, up from $833 million a year earlier.</p>\n<p>The profit amounted to 95 cents per share for the quarter ended June 30, an increase from 80 cents per share in the second quarter of 2025.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\" target=\"_blank\"><b>Latest updates on company news here</b></a></li></ul>\n<p>TC Energy says its comparable earnings for its latest quarter amounted to 94 cents per share, up from 82 cents per share a year earlier.</p>\n<p>Revenue for the quarter totalled $3.96 billion, up from $3.74 billion in the same quarter last year.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026.</i></p>\n<h2>Related Stories</h2>"
+      "title": "Residential home in Ottawa sells for $229,000",
+      "link": "https://news.google.com/articles/CBMimAFBVV95cUxQSE8zVGx1TWQ3NGk2MFhKeGpRZFZNaVN4bFZncVpNS2llNUJFcUpaR3Y1Umd0N3dFT3N4SEJqSzFxdHVyVEpZS2dBbkJCcWFuU2FwZllYSy1KREo0bEVZdW5udldGYzJzdUNDcFpxS1lDQUJ1a0hDUXRJbWdYU05YZ2V0R0NzNUFDb0hGd0xZeUlZX3BmUkNyZA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 23:00:01 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Shaw Local",
+      "_pubUrl": "https://www.shawlocal.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "CREA Revises Resale Housing Market Forecast",
       "link": "https://news.google.com/articles/CBMieEFVX3lxTE8zOXA5eGtSWGZDVDRhNXZwVzhLZXpZY1kxSFcxNWMwZ1B6bTFBbmV6Y3JxcTJYYUx1Z0p4aHRWWExrSFMxcnhHWVZXREVSSVhiUWZOZmNrTjhhWno3aTUwaElmcDdscGRxOGhFSEZSQmJzWEVEZ0RIUA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 19:30:00 GMT",
+      "pubDate": "Thu, 30 Jul 2026 19:36:54 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -466,7 +498,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "PR Newswire Canada",
+      "_publisher": "Newswire Canada",
       "_pubUrl": "https://www.newswire.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -489,7 +521,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "Business in Vancouver",
+      "_publisher": "biv.com",
       "_pubUrl": "https://www.biv.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -526,14 +558,14 @@
     },
     {
       "title": "Seven building development proposed at auto dealership lot in Ottawa’s west end",
-      "link": "https://news.google.com/articles/CBMivAFBVV95cUxQV2xMbHNYaWtfb0tiZnVvV3lrSVhSTW9yZ2xwYkZ0WHRZX0lpX2NmeHB6NTg3NWFMU293NlJ6MEJNWXY1QlQ2dWxJbktDYzVkbTFmM0Rja2g4eGo1OTVOaVBsUVR0WXBDS1djNXB4Z3JaNzNDSjR5WHlDa0xYeExMb1RXTmVYUG94SXUwTlJRdmhOSVpHZEgzaW1GS1o5eS03cm5mZU51WmhJYzJmNmt6VmQyRkNLN3NYYmY0eA?oc=5",
+      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxNd2cxem4yXy11VDVlWDR0TGg4NTZqV18yYzEySGVaZFFBSzl6VGhvRUZBRGVsMC12X3hmNG5tbnFMWUV0Mkx2VEpwdmpnNWgzN2hBUFozMm92NU9GTHJzSkZrelhSM3JFeTRhNlZYRUhzTFhYY05xMnRQOXpLWTNIX09QdmxobUo5aktRVV9oREdtQ3FUN2dRVXJBWWdqZURxZHl1NC1HZWVUZGFPMm51OEl1Y0t4anZp?oc=5",
       "pubDate": "Wed, 29 Jul 2026 10:26:54 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
+      "_src": "gnottdev",
       "_publisher": "CTV News",
-      "_pubUrl": "https://guelph.ctvnews.ca",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -545,16 +577,6 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/07/Canadian-population_sm-500x362.jpg",
       "_src": "cmt",
       "_ogDesc": "Upcoming revisions could add hundreds of thousands of residents to official estimates, potentially reshaping assumptions about Canada’s economic and housing outlook."
-    },
-    {
-      "title": "TD warns U.S. dollar set to drop as market misprices Fed rate risk",
-      "link": "https://www.canadianmortgagetrends.com/2026/07/td-warns-u-s-dollar-set-to-drop-as-market-misprices-fed-rate-risk/",
-      "pubDate": "Wed, 29 Jul 2026 01:41:44 +0000",
-      "description": "The U.S. dollar will weaken if the Federal Reserve leaves interest rates unchanged this week, according to TD Securities.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/07/US-dollar-1_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The U.S. dollar will weaken if the Federal Reserve leaves interest rates unchanged this week, according to TD Securities. "
     },
     {
       "title": "Canadian Population Underreported, Artificially Improving Job Data: CIBC",
@@ -644,7 +666,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnott",
-      "_publisher": "realestatemagazine.ca",
+      "_publisher": "Real Estate Magazine Canada",
       "_pubUrl": "https://realestatemagazine.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -699,16 +721,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canadians’ pessimism about economy is fading despite trade war, poll says",
-      "link": "https://www.canadianmortgagetrends.com/2026/07/canadians-pessimism-about-economy-is-fading-despite-trade-war-poll-says/",
-      "pubDate": "Mon, 27 Jul 2026 13:16:36 +0000",
-      "description": "Canadians are shaking off months of economic pessimism as worries about weak growth and higher energy prices fade.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/04/454590174-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Canadians are shaking off months of economic pessimism as worries about weak growth and higher energy prices fade."
-    },
-    {
       "title": "Metro Vancouver’s industrial market shows signs of recovery",
       "link": "https://www.timescolonist.com/real-estate/metro-vancouvers-industrial-market-shows-signs-of-recovery-12585619",
       "pubDate": "Mon, 27 Jul 2026 13:00:00 GMT",
@@ -753,6 +765,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Prominent Ottawa real estate broker, CFRA host Paul Rushforth passes away at 52",
+      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxNanFzLWRaNEhJTWVuMkI0eVJWb1g3bmNuRW5CVnRfSGNGakFFMVZVXzRTeXp0U2hfNWMyeDFaUWVYUHJwVXRSTjVvLU4xOVJOZjlDZ20xaDQ0cl9pT25DSjIxcHZ4UUkwbnZLaWpDY1loWnI5aVNMbjVrbE5IYmF6NUVrTWlqbmR2NnpYa0NmYlVMMXNMbzRMaXVsSFJ2dXNTdDlsSjNla21hN0J4ejZBZkNJc2tqRGdh?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 17:48:57 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Canada’s Housing “Downturn”: East Coast Prices Jump Up To $28k In A Month",
       "link": "https://betterdwelling.com/canadas-housing-downturn-east-coast-prices-jump-up-to-28k-in-a-month/",
       "pubDate": "Fri, 24 Jul 2026 21:54:57 +0000",
@@ -781,7 +805,7 @@
       "thumbnail": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/07/web1_a01-07242026-vtc-news-ramada-lawsuit.jpeg;w=960",
       "_src": "timescolonist",
       "_ogDesc": "The Duncan Ramada suffered damage, including burns from guests smoking and using drugs, as well as defecating and urinating in their rooms, the manager said.",
-      "body": "<p>The province breached its obligation to restore a Duncan hotel used as temporary housing during the COVID-19 pandemic to its original condition, and failed to pay rent while the hotel was in unusable condition, a judge has ruled.</p>\n<p>The Ramada hotel&rsquo;s general manager &ldquo;provided considerable, and at times, graphic evidence about what occurred at the hotel while it was occupied by the vulnerable population, including but not limited to significant drug use, sex work and the premises being used as bicycle &lsquo;chop shops,&rsquo; &rdquo; Justice Karrie A. Wolfe said in a decision at B.C. Supreme Court in Victoria.</p>\n<p>He described damage from guests &shy;smoking and using drugs in rooms, including burns on carpets, furnishing and mattresses, ceiling fans detached and guests defecating and urinating in their rooms instead of using bathrooms.</p>\n<p>The 34-room hotel just off the highway was leased temporarily by the Cowichan branch of the Canadian Mental Health Association, with rent paid to the owner by B.C. Housing.</p>\n<p>B.C. Housing later took over the CMHA Cowichan branch&rsquo;s lease obligations.</p>\n<p>All residents associated with B.C. Housing vacated the hotel by the end of April 2022.</p>\n<p>The hotel&rsquo;s owners subsequently launched a lawsuit against B.C. Housing and the CMHA Cowichan branch, arguing the two breached their agreement by failing to restore the hotel to its original &shy;condition and failing to pay rent for the rooms when the building was still unfit for habitation after the lease ended.</p>\n<p>While the hotel owners initially named the CMHA Cowichan branch as a defendant in the lawsuit, they dropped the claim against the mental health association shortly before the trial started in November.</p>\n<p>Both the owners and the province accepted there was an agreement between them that allowed B.C. Housing to use the property as housing between Dec. 1, 2020, and April 30, 2022.</p>\n<p>But B.C. Housing only continued &shy;paying rent until the end of September 2022, the point at which it believed repairs would &shy;reasonably have been completed if not for what it argued were &ldquo;obstacles and delays&rdquo; on the part of the hotel.</p>\n<p>An engineer tasked by B.C. Housing to assess damage found there was &ldquo;significant damage&rdquo; to the rooms, including to walls, baseboard trims, door trims and casings, window coverings, mattresses and box springs, carpets, furniture and bathroom fixtures. He found there was no possibility to restore furniture to consumer use, and any items salvaged would only be suitable for donation.</p>\n<p>Exterior repairs needed included removal of debris and minor graffiti, privacy-fencing upgrades, painting, minor landscaping and general cleaning, the engineer determined.</p>\n<p>In August 2022, B.C. Housing staff emailed the hotel manager with two options for restoration: B.C. Housing could pay an engineer to complete repairs estimated at just over $1 million, but it would not be responsible for any delays caused by the hotel owners, or B.C. Housing could pay the amount to the hotel owners as a settlement and leave the owners to work directly with the engineer.</p>\n<p>The hotel manager said the engineer summarized the majority of work needed, but more repairs would be required and he had asked the engineer to provide an updated quote.</p>\n<p>No revised quote was ever prepared, the decision says.</p>\n<p>A B.C. Housing employee accused the hotel manager of purposely delaying its response to B.C. Housing&rsquo;s offer to do the restoration work, something the manager denied.</p>\n<p>At the end of August 2022, the B.C. Housing employee sent the hotel manager an email &shy;saying B.C. Housing would make a final payment of $178,250 and &shy;consider its obligations under the lease fulfilled.</p>\n<p>Both parties agree that by the end of September 2022, B.C. Housing had paid $867,675 to the hotel owners as compensation for the loss of use of the rooms from May to September 2022, $60,041 for security and fencing and $45,568 to the engineering company for consulting.</p>\n<p>Wolfe said there was &ldquo;little doubt&rdquo; that the province breached its obligation to restore the hotel.</p>\n<p>All 34 rooms had been &shy;gutted as of May 20, 2022, and have not been restored, leaving &ldquo;no question&rdquo; the hotel has not been restored to a functioning Ramada hotel, Wolfe said in her decision.</p>\n<p>She acknowledged the &shy;province said it did everything reasonably possible to move the restoration forward but was hampered by a disagreement over the scope of the work and what it alleged was non-responsiveness from the hotel owners, something they dispute.</p>\n<p>Both parties agreed that assessing the hotel&rsquo;s conduct with respect to its contractual obligations should be left to the second phase of the trial.</p>\n<p>Costs will also be addressed at a future date.</p>\n<p>B.C. Housing said through a spokesperson that the parties could not agree on final terms to return the building to its final condition.</p>\n<p>&ldquo;We respect the court process, and have a range of views on this matter, which we will continue to advance through appropriate legal avenues,&rdquo; a spokesperson said.</p>\n<p>B.C. Housing declined to &shy;comment further while the &shy;matter continues through the court process.</p>\n<p>Lawyers for the owners declined to comment because the second phase of the trial remains before the courts.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"84f6e1e3e5eaa9e1e8e8edebf0f0c4f0ede9e1f7e7ebe8ebeaedf7f0aae7ebe9\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12586094&amp;t=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#38074b4d5a525d5b4c056b50594a5d5c1d0a085e4a57551d0a086c51555d4b1d0a087b57545756514b4c1d0b791d0a08684a574e51565b5d1d0a085a4a5d595b505d5c1d0a085c4d4c411d0a084c571d0a084a5d4b4c574a5d1d0a0850574c5d541d0a084d4b5d5c1d0a08594b1d0a0850574d4b51565f1d0b791d0a08524d5c5f5d1e595548035a575c4105504c4c484b1d0b791d0a7e1d0a7e4f4f4f164c51555d4b5b57545756514b4c165b57551d0a7e54575b595415565d4f4b1d0a7e484a574e51565b5d155a4a5d595b505d5c155c4d4c41154c57154a5d4b4c574a5d1550574c5d54154d4b5d5c15594b1550574d4b51565f15524d5c5f5d15090a0d000e08010c1d0b7e4d4c55674b574d4a5b5d1d0b7c7d55595154676b50594a5d1d0a0e4d4c5567555d5c514d551d0b7c7d55595154676b50594a5d1d0a0e4d4c55675b59554859515f561d0b7c7d55595154676b50594a5d1d087c1d08791d087c1d087979544b571d0b791d0a085a5d1d0a084b4d4a5d1d0a084c571d0a085b505d5b531d0a08574d4c1d0a085954541d0a08575e1d0a084c575c59411d0a0f4b1d0a0854594c5d4b4c1d0a08565d4f4b1d0a08594c1d0a08504c4c484b1d0b791d0a7e1d0a7e4f4f4f164c51555d4b5b57545756514b4c165b57551d087c1d08791d087c1d08797451535d1d0a085f5d4c4c51565f1d0a0841574d4a1d0a08565d4f4b1d0a085a411d0a085d555951541d0b7e1d0a086b515f561d0a084d481d0a085e574a1d0a08574d4a1d0a08565d4f4b545d4c4c5d4a1d0a08594c1d0a08504c4c484b1d0b791d0a7e1d0a7e4f4f4f164c51555d4b5b57545756514b4c165b57551d0a7e5c59515441\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=Province%20breached%20duty%20to%20restore%20hotel%20used%20as%20housing%3A%20judge%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
+      "body": "<p>The province breached its obligation to restore a Duncan hotel used as temporary housing during the COVID-19 pandemic to its original condition, and failed to pay rent while the hotel was in unusable condition, a judge has ruled.</p>\n<p>The Ramada hotel&rsquo;s general manager &ldquo;provided considerable, and at times, graphic evidence about what occurred at the hotel while it was occupied by the vulnerable population, including but not limited to significant drug use, sex work and the premises being used as bicycle &lsquo;chop shops,&rsquo; &rdquo; Justice Karrie A. Wolfe said in a decision at B.C. Supreme Court in Victoria.</p>\n<p>He described damage from guests &shy;smoking and using drugs in rooms, including burns on carpets, furnishing and mattresses, ceiling fans detached and guests defecating and urinating in their rooms instead of using bathrooms.</p>\n<p>The 34-room hotel just off the highway was leased temporarily by the Cowichan branch of the Canadian Mental Health Association, with rent paid to the owner by B.C. Housing.</p>\n<p>B.C. Housing later took over the CMHA Cowichan branch&rsquo;s lease obligations.</p>\n<p>All residents associated with B.C. Housing vacated the hotel by the end of April 2022.</p>\n<p>The hotel&rsquo;s owners subsequently launched a lawsuit against B.C. Housing and the CMHA Cowichan branch, arguing the two breached their agreement by failing to restore the hotel to its original &shy;condition and failing to pay rent for the rooms when the building was still unfit for habitation after the lease ended.</p>\n<p>While the hotel owners initially named the CMHA Cowichan branch as a defendant in the lawsuit, they dropped the claim against the mental health association shortly before the trial started in November.</p>\n<p>Both the owners and the province accepted there was an agreement between them that allowed B.C. Housing to use the property as housing between Dec. 1, 2020, and April 30, 2022.</p>\n<p>But B.C. Housing only continued &shy;paying rent until the end of September 2022, the point at which it believed repairs would &shy;reasonably have been completed if not for what it argued were &ldquo;obstacles and delays&rdquo; on the part of the hotel.</p>\n<p>An engineer tasked by B.C. Housing to assess damage found there was &ldquo;significant damage&rdquo; to the rooms, including to walls, baseboard trims, door trims and casings, window coverings, mattresses and box springs, carpets, furniture and bathroom fixtures. He found there was no possibility to restore furniture to consumer use, and any items salvaged would only be suitable for donation.</p>\n<p>Exterior repairs needed included removal of debris and minor graffiti, privacy-fencing upgrades, painting, minor landscaping and general cleaning, the engineer determined.</p>\n<p>In August 2022, B.C. Housing staff emailed the hotel manager with two options for restoration: B.C. Housing could pay an engineer to complete repairs estimated at just over $1 million, but it would not be responsible for any delays caused by the hotel owners, or B.C. Housing could pay the amount to the hotel owners as a settlement and leave the owners to work directly with the engineer.</p>\n<p>The hotel manager said the engineer summarized the majority of work needed, but more repairs would be required and he had asked the engineer to provide an updated quote.</p>\n<p>No revised quote was ever prepared, the decision says.</p>\n<p>A B.C. Housing employee accused the hotel manager of purposely delaying its response to B.C. Housing&rsquo;s offer to do the restoration work, something the manager denied.</p>\n<p>At the end of August 2022, the B.C. Housing employee sent the hotel manager an email &shy;saying B.C. Housing would make a final payment of $178,250 and &shy;consider its obligations under the lease fulfilled.</p>\n<p>Both parties agree that by the end of September 2022, B.C. Housing had paid $867,675 to the hotel owners as compensation for the loss of use of the rooms from May to September 2022, $60,041 for security and fencing and $45,568 to the engineering company for consulting.</p>\n<p>Wolfe said there was &ldquo;little doubt&rdquo; that the province breached its obligation to restore the hotel.</p>\n<p>All 34 rooms had been &shy;gutted as of May 20, 2022, and have not been restored, leaving &ldquo;no question&rdquo; the hotel has not been restored to a functioning Ramada hotel, Wolfe said in her decision.</p>\n<p>She acknowledged the &shy;province said it did everything reasonably possible to move the restoration forward but was hampered by a disagreement over the scope of the work and what it alleged was non-responsiveness from the hotel owners, something they dispute.</p>\n<p>Both parties agreed that assessing the hotel&rsquo;s conduct with respect to its contractual obligations should be left to the second phase of the trial.</p>\n<p>Costs will also be addressed at a future date.</p>\n<p>B.C. Housing said through a spokesperson that the parties could not agree on final terms to return the building to its final condition.</p>\n<p>&ldquo;We respect the court process, and have a range of views on this matter, which we will continue to advance through appropriate legal avenues,&rdquo; a spokesperson said.</p>\n<p>B.C. Housing declined to &shy;comment further while the &shy;matter continues through the court process.</p>\n<p>Lawyers for the owners declined to comment because the second phase of the trial remains before the courts.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"eb998e8c8a85c68e878782849f9fab9f82868e98888487848582989fc5888486\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12586094&amp;t=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#407f3335222a2523347d13282132252465727026322f2d65727014292d2533657270032f2c2f2e29333465730165727010322f36292e2325657270223225212328252465727024353439657270342f657270322533342f3225657270282f34252c657270353325246572702133657270282f3533292e276573016572702a3524272566212d307b222f24397d28343430336573016572066572063737376e34292d2533232f2c2f2e2933346e232f2d6572062c2f23212c6d2e25373365720630322f36292e23256d22322521232825246d243534396d342f6d322533342f32256d282f34252c6d353325246d21336d282f3533292e276d2a352427256d717275787670797465730635342d1f332f35322325657304052d21292c1f132821322565727635342d1f2d252429352d657304052d21292c1f132821322565727635342d1f23212d302129272e657304052d21292c1f1328213225657004657001657004657001012c332f657301657270222565727033353225657270342f657270232825232b6572702f3534657270212c2c6572702f26657270342f242139657277336572702c21342533346572702e253733657270213465727028343430336573016572066572063737376e34292d2533232f2c2f2e2933346e232f2d6570046570016570046570010c292b2565727027253434292e27657270392f35326572702e2537336572702239657270252d21292c6573066572701329272e6572703530657270262f326572702f35326572702e2537332c2534342532657270213465727028343430336573016572066572063737376e34292d2533232f2c2f2e2933346e232f2d6572062421292c39\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=Province%20breached%20duty%20to%20restore%20hotel%20used%20as%20housing%3A%20judge%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
     },
     {
       "title": "BoC set to hold as inflation and growth concerns fade",
@@ -881,15 +905,15 @@
       "_src": "storeys"
     },
     {
-      "title": "Canada Housing Market Outlook: Summer 2026",
-      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxQZUdsVzJGY0NpSU83MTI5NGtGRXBRS0tUUGtWX1A1NVk5U3Raa3F3eVdjVlRaYzh2VEhhWUdBVE1kMkNJWHlmNnhNSWxJM29MdTY2U0J1NWJlSFlhQUVudGVNOTlDeThQVHBjZGJmV0ZncDE3OFN6blRyU01Ta2pUckRxRGFhSFZLbXFR?oc=5",
+      "title": "CMHC predicts weak housing market activity for rest of year in updated forecast",
+      "link": "https://news.google.com/articles/CBMizAFBVV95cUxPTnhIdjFMbjl6VkZYS2FlVTVJYkQ0eVViem94TkVOcU5WX3NHNXBWbWRGcmJQRVl3RkxockFDSldWd0FmNGVjUUdqZzVlV3hwY1VKUEc4SDhMcEFrbjNCUVhuMFBTdTFlNEFWenVmd3RScFhwZ1d6dDF5dXZqRkRNZzZYUTNWZkNGdGowTjBvUWdrUXJRMGlJTkQwR2FLZHBfODNfYWJLcFhfaVZqYXlVT3pBNkFyOWdTR3p4MjByMUo4ckFBYmZzTndFMGw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_src": "gnontre",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -958,7 +982,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "BNN Bloomberg",
+      "_publisher": "bnnbloomberg.ca",
       "_pubUrl": "https://www.bnnbloomberg.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1011,18 +1035,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
-      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The Bank of Canada holds its interest rate on July 15",
       "link": "https://news.google.com/articles/CBMigAFBVV95cUxOY1I1Mk44TnpNUzNBSGFVblFnd2V2YTBkd1VHTWRjd3N6Q1dwa3JpVDU0VUpBT1JfTUlXcUJYZ1cyeTNmQmFtSU95a2M1NjcwZFRNbmlzY0h2S09pRnlXbFZZMEpDMWRzelFaV0czWjU4cFBXQjBkeUpHeXdrOW5GSA?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1047,6 +1059,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Bank of Canada holds rates at 2.25% as Iran war risks future hikes",
+      "link": "https://news.google.com/articles/CBMigAFBVV95cUxQaTlpT2Joak5teEpsb0ZzdGpKc3JKa3RSZXZsTDNxeGYxcFZ2eEdqa3Z1STE0Z2tpdFNDVElIVVh5MXFycGxrVnhXTlJUN1ZlUDJmcDJ1ZEg1bE96b1I3MTBGZy1FZndFRGtlYjJNenRiamZfYldSRmFVeWJhSHo2cg?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Canadian Home Sales Jump Following Slower Spring Start",
       "link": "https://news.google.com/articles/CBMilwFBVV95cUxQekd1dlo3bF9ScDZJcnNZSnE3MEtrSGVXU3l4R3VqZ2xqVjFhMDBkU1NfempoUndFd1UwdU9RbWZBd05STDg2eXotWmZPSGN2aFRSN29XcGtBYl8xR194bDRaRVBFbTBPckJ5NktHUl9mZGllVkZLcGtraHZDV0JKaUg2WFQ0YXkwTlk2V3d3N1Z5dzlScXFr?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1059,6 +1095,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Expert: Bank of Canada’s interest rate announcement",
+      "link": "https://news.google.com/articles/CBMinwFBVV95cUxPZkMyejRybzU3WWtRQ0V2MGp5Qm1IT0pLTTJ0czdqWllyZmhSWWpiWS13RmE3SC1pSEdRR202M1d3TWFsMDliQTdlel9US2xGblNRRlg0aUotdl9BVi1LMndwNkpZUTluaEJIZk4zRGFndS1TTkYzcWV5S1VTcmowcmlYVTBoMEFmdWRuX19fRlY2UVJvZVNtNUhWdDRtcDg?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "McGill University",
+      "_pubUrl": "https://www.mcgill.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Home sales in Ottawa down nearly 5% in June",
       "link": "https://news.google.com/articles/CBMiiAFBVV95cUxNamZQbWgyZVJRX2NnbW1zbzhhdm5lUTJ1cFRfX0s3OGI5cHZMQnFqTmVWWm9uZTlEOWpmNDdrb1d4VmVpTGxzY0Nkc1hBYloycWZMUGZsNmthMnh3eVl5S21yV2FMbi1NakpEWk9jdnVoS0JMM2FfQTRENzgyQkFPLTJvUjlQNnR5?oc=5",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
@@ -1068,18 +1116,6 @@
       "_src": "gnott",
       "_publisher": "CTV News",
       "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Crown Expands Ottawa Property Management Portfolio with Minto Place",
-      "link": "https://news.google.com/articles/CBMipAFBVV95cUxPcnFaU3lCckJEc0VTbnhEb09GN3ZPbHlQdWRYRWtyeDNDaDdEVDdueXdOX0ttYkZGekRFTl83U0FiMU1YZE5OMWdiY19VR3JnQkVaMXhubFFHclpqdld0Rkw0dUhGbVVtNUZWT2piU3QyM2NqNW9iRnBUWmw4RWVOSHdsRnlVbUJMcjh1aEZCZ0gwTEt3Q3d0cHRrTGNvYWE3b2NCTw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Yahoo Finance",
-      "_pubUrl": "https://finance.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1137,7 +1173,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
+      "_src": "gnontre",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -1162,7 +1198,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "Statistics Canada",
+      "_publisher": "statcan.gc.ca",
       "_pubUrl": "https://www150.statcan.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1203,30 +1239,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada keeps key interest rate at 2.25%, says path remains uncertain",
-      "link": "https://news.google.com/articles/CBMioAFBVV95cUxNRnBvTjB0YXFSME5JX3YzNjFDSlVRN3NWTDNTS3N6M25ibUZFQm53QnB3UzNHWXdfa3B5Tm95S1BVUXpOREs1cU5MTkF4MDhQRzdDY1Q5ZVJnVkZHbDF4NDFmQlVpdGdwRzNqOE9oZmlDcEYzZG5PTDJRZG14cktfemFUYzFWXy16OUdxREFGQUFHRVI2SnUtLWdjZGVkUklm?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "theglobeandmail.com",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada keeps key interest rate at 2.25% as it tries to balance competing economic risks",
-      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxPVDhmV3l4WFRWcmxoejRxdVEteDJnd01RdkJRbGhBYjRJdmhLNHNfbFVjdTY1VTBkUlN2LTVYWlRHR0hmTzJGMzliNXdTajFFS05RWDgxZktONnBGQlRQYml3QVRRdDdnQ1NUamtwSGExLVZ4WWc5eUZHamVtTzN4aEZQWl9xRkpX?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ottawa municipal committee approves zoning for nearly 500 new homes in Woodpark, Kanata",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxPVVVpLWFzYnFIeGVLaEpTZnNwU2JybzcxbjFhd2E5eVFnckc1dk53Qkt6R0F1VHdCNTNTZlV0QkRTdEJMMVZiZ0hIYTE5bXQ2TzJzVmc1RW1qTVAzam5JOFFkNWxIclhpYkprX0R0elJiT2xvbEVnZ3Q4NGEtNkdaQUNHUl9qQWp3ckFfd1ItR0p2RXh5UmMzZDV3Q3dmTUFlVXNwM3MtLUhhOWVRbG5IZGVFWHVucGdGV0JRV3FvYw?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
@@ -1236,18 +1248,6 @@
       "_src": "gnottdev",
       "_publisher": "Ontario Construction News",
       "_pubUrl": "https://ontarioconstructionnews.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "The End of Natural Population Growth Won’t End Canada's Housing Shortage",
-      "link": "https://news.google.com/articles/CBMigwFBVV95cUxNdk9VbXI4X3Fiem9KN0hxQ3Y1SVdGQm1OZzFOcm9pQ0pRVmk1VjE4VUV0TC1WNlI5YmEyRXFVdXB0OWg1enpSVW1OcGc1Ny14YW1TT2tBOFRPUV83ekM5REVFS2JkM1NqS2ZhX2E4YTNNRHEzaUxuNFNWQzJSMzF6WDdlYw?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "missingmiddleinitiative.ca",
-      "_pubUrl": "https://www.missingmiddleinitiative.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1263,15 +1263,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Spring Home Sales Stronger Than Last Year",
-      "link": "https://news.google.com/articles/CBMia0FVX3lxTE93dkY1RHdrbjYxR1czNjh5YjBCS3lJOHZPY2YwSy1WdUhxcWw1ZE5ISWFNQ3pVYlR0cjBWZV9YTk1LMURJdC0tR3FyQjZNd0tad3F3Wm43ZTNiR01CMTVPcWpORnNXV0IzUmdZ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "TRREB",
-      "_pubUrl": "https://trreb.ca",
+      "_src": "gnimmig",
+      "_publisher": "Reuters",
+      "_pubUrl": "https://www.reuters.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1294,7 +1294,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "Business in Vancouver",
+      "_publisher": "biv.com",
       "_pubUrl": "https://www.biv.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1311,18 +1311,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Three cities where Canada’s housing market is changing fast",
-      "link": "https://news.google.com/articles/CBMixAFBVV95cUxNcm11ZE1UMW5BUlZNb055UGdNSHJlUmpRVnQwQlZOV0I4SU1IeUhiX1Y0Ny1vQTNpazFtVGdDTXUzNEdmNlRGOWhxWlQzUTJkaXJuYjRvbzUtbWFVdV9IMWltQUpESzFMNkdfSHl1bVM1ajVlVUhrWUtyczF4SklJNkw2RVV0a2Q4WHRvQlp6ZWhfbUdXYlFSX3Z1Y3JFNng3dXk1OFlFSXhmWXZXX1BkMUJqVEcxTVhvdndraEU4Ynh5NXBJ?oc=5",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "theglobeandmail.com",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada Housing Demand Framework Reveals Immigration Impact",
       "link": "https://news.google.com/articles/CBMiiwFBVV95cUxOYUJ6N180MkxaM3lfRlk1OWF6UFNEa2JzblR2aC1zOXVqNUd6ckJ2VDR4aWpURGpwTW9mLTdjUUk4bDZ1UEZabktwNzN6S2NoVFdyQVhKbG8ycDJZbkdNUThYMEhmZ0NJdnFQcEVDVERvMy04bjNCU1hkRU54R2U0QzhOSTROU25RMTZr?oc=5",
       "pubDate": "Sat, 09 May 2026 07:00:00 GMT",
@@ -1330,7 +1318,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "ImmigCanada Immigration Consulting Services",
+      "_publisher": "ImmigCanada",
       "_pubUrl": "https://immigcanada.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1359,6 +1347,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "GTA home sales up 7% in April as prices shrink: real estate board",
+      "link": "https://news.google.com/articles/CBMid0FVX3lxTE81bXYtUFpuMlZnc1RjRFVKUk12WHJNNU1KSXFGd3l4Z1diUW45Y29MM1A3akJ6VUdfYWZqYl9NbnpCdGcyOFg1RldxdDlCZVNfWmZlUzR2OS1PSUF5akRxUVE0MDFpbjVBVXlacFVuRFpITHdCay04?oc=5",
+      "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ontario Begins Civil and Utility Work for Hamilton LRT",
+      "link": "https://news.google.com/articles/CBMingFBVV95cUxOMDZUMVZkSG1USHN4QjZ0dGc5Y1hDb1RseGFzNDZTb3Bab1JyMDctVlRhZ2lRR25rZmVZeDhMMGhDdnZqZFF2emVGRHhWZjRZejBja0hxMUwzazlWMFdwQ0dFRENkNG1wLUlCZjltSW9STWlycE5xektBaVE2SXMxeENJNVdnYk9nTE05YU5VelV6WUFKRFpEQzN1dy01Zw?oc=5",
+      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "news.ontario.ca",
+      "_pubUrl": "https://news.ontario.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "As a housing slump deepens, could the federal government revisit its approach to immigration?",
       "link": "https://news.google.com/articles/CBMi7wFBVV95cUxQMDBZT0ptQTRkalNBVkxmekJXMG5uWllWZUdnSVBGYWN5LW5RWU9XWGJENDJBb0JzVjRZaFRpVFJURzNkSTZzZGliR2dSWThhNW41MDdlbmxuanFNdzdOcGZ4N2s0N2JXQTJUaGsyMnN2Y0lscFVHZVJ2SWNjczI0TWlqai1qSy15RlptU0tkTXM5V1NvZTVEUlFNWGx2X1U5a0ZZYUZhVXF5dXFUckQtaDNKUTJKWm5Wc0JKNTd0NDBQUW9ZNm9FY2hvamxXOHlZYjVwQmhnQ3FiWWp3ekN2NnFCTDZQYXhzVHMyYnFMRQ?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -1378,7 +1390,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "realestatemagazine.ca",
+      "_publisher": "Real Estate Magazine Canada",
       "_pubUrl": "https://realestatemagazine.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1390,7 +1402,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "Toronto Star",
+      "_publisher": "thestar.com",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1402,20 +1414,8 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "BNN Bloomberg",
+      "_publisher": "bnnbloomberg.ca",
       "_pubUrl": "https://www.bnnbloomberg.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Calgary housing market holds steady, condo prices fall: report",
-      "link": "https://news.google.com/articles/CBMiogFBVV95cUxQU0xmeG5pUjRScl81MF9adVJlNS1FcTNucFpVV1VSa3JuWjY5YVlRcjBKNExWb2VGWnVMQmRkYW84T0xFcGFPUWR0THRrbm9TYnpoTVZLcUtmV1BrN3hZMm9ncmhoUVE2R00waWMxYWxWUmhWU3BmbTQ0ZlFvdzBySENnZGNXT2JPZ1l5RmxQMEtkZGZfOE1VMTl6NFl0Ulk0QlE?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1467,18 +1467,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Vancouver home sales remain nearly 32% below normal as demand stalls - CMT News",
-      "link": "https://news.google.com/articles/CBMitgFBVV95cUxQZncyc281c2FWSjNOT1BxM1pRZHU2emcxaUJ0b2lNYVc1aF9tTlg1RWtDUWhncGtsRkdlUFJicUhrYmlmdlBQREZvY1BZQVN0aEJ2R2RYREc1cElaOVE3THh6ejliZWk2QWczdFVZVTFPWXpvTHVEamZJLW1xeU0xQlZoZGFOaWpaaXNIai13RnVzcUprMlZjZmtUVFNocVNNNTN1WnRobnVFRVR0ZDEwQ2tzS2JKZw?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Housing in Action",
       "link": "https://news.google.com/articles/CBMiYkFVX3lxTE5TWGVvTktTTGh3ak44enBuMFFCQWpBRzhGSGFQVGYySHlWTXFid2dNWEd5cWwzQ00zeG53QTFKRFItY0dzc0hBN29kVGp3WnN6LVVRdmpNOWR0T291LXJ3ajJn?oc=5",
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
@@ -1510,7 +1498,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "thenorthwestern.com",
+      "_publisher": "Oshkosh Northwestern",
       "_pubUrl": "https://www.thenorthwestern.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1563,6 +1551,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Calgary home sales down 11 per cent in February as condo activity slips: board",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxNOVpKMXZKY2R1VFVmZW5ubXNhT0w2MkRKOXpaNThyNEdMcHh5UjVxLU1vWjhKOHRCSDZwdUdzNGJzU2xpX1Z1d2lkbTlYT01iMDVqM0E1Z0ZucHNKblZoaUkyUjlXOGUyVkpMLTRWeF8wZFVvQTlVY3N0WW5sdzhnNUUyWGxmUHh1cTluS3ZpZVNOOG10bi1WR3Vzay1MRjlsdkUtY0NzMzlCaUdaZDItY0ZlQnJlTmNGY3lDZlFNd3ZUU1RfeU85Z3R6cnFBeVR6Ylo0cmJBeUhudGJW?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "constructconnect.com",
+      "_pubUrl": "https://canada.constructconnect.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
       "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -1575,6 +1575,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Calgary home sales fall 11% in February as condo oversupply weighs on prices",
+      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNUEZscXBNS2FBOF9aS1BObWI5RzhvTW1iZ3JrS3ZiM0t2ZEdZYkE4LUx1RDFoQzZoM2hjaDVWREI1T3ZOTmNsUG1CdkpiaGpZVlIxcVRLRG5CakNMS0JLdkVwMjJvM3RzM3pkckc5N0dzX0hDdlo3emEyalNZUG9EeHhxVl9wZFBKZWZnSXFsZ2h5UkhNLWZuVnNsS3ctS01qSDkzTEI2blNpZGg0bEt2X05sQ1Rib0daNng0N0w1NzQ?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Reality check: Did Trudeau and Carney’s immigration cuts make housing cheaper? Here’s what actually happened",
       "link": "https://news.google.com/articles/CBMixgFBVV95cUxQVDU1c0tFcEYtbDduaFJqak8zZmR4UnRFdVA2WkhGcEZKZ1FIMW1vMHRKc3JWM0k3dFNJcEgtYWpoR3NLeXhqX2ZHc1dPYkRLTTNiaTZHMFp6cE5qckhja2RkVmdLWUZCYlI2d1pWMW95X0k1Y2h0enE0MS1EX2dZUnpvMjFEcFNiYjhWT1QzMTFBcWM2bzhFR0NKUEtpaHp4X2dBc2NoNWhjS3NEdkxTaU1jQzVJalJSemVnMVBGYjhPdGpoZ2c?oc=5",
       "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
@@ -1582,7 +1594,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "Toronto Star",
+      "_publisher": "thestar.com",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1606,7 +1618,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Toronto Star",
+      "_publisher": "thestar.com",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1620,6 +1632,18 @@
       "_src": "gnottdev",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Home prices are now dropping for all property types in Canada",
+      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
+      "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "INsauga",
+      "_pubUrl": "https://www.insauga.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1731,18 +1755,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Alternative federal budget 2026: Affordable housing and homelessness",
-      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
-      "pubDate": "Thu, 28 Aug 2025 04:40:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "Policy Alternatives",
-      "_pubUrl": "https://www.policyalternatives.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Government, not greed, is behind Canada’s housing problem: Anthony De Luca-Baratta for Inside Policy",
       "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQcWRiUUc2c1VTVXR5eUVidDhnODBvSS1SLVdIUTRmS2M5b0FVOHVkTy13X1Z6Wlo3ZHBjSnlmZ21pV0xlX3hvQ1pka2pGSldjbUJ6WXBrbGw4bTNOZjJBdk9zOFhpTVZTV01wbmxyaE01RXNoeHVjaWU3UlpIVDV6OERidlFmUjJUaHFGdHNxUUM4ZUpvVkdxS0V5cV9OVW9ucDlQWE9vWVh4bnRzb3RCQU5vOURPM2dmN2V4bm9takJXWDA?oc=5",
       "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT",
@@ -1752,6 +1764,18 @@
       "_src": "gnpolicy",
       "_publisher": "The Macdonald-Laurier Institute",
       "_pubUrl": "https://macdonaldlaurier.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Building Smarter, Faster: Technology and Policy Solutions for Canada’s Housing Crisis",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQbXR3cWNIdzRzM3BJaWxjbGZxQlVkcnVuZFVPYTNhT0dPVGhGQXpkcjkxTXM2YTdGVXFlSU10SW9hbDhsay1ZSW10WXd3aThpN3RSdnBBVU5nSS1PUVRmaC1PMjJVV1ZNSncxb3FzRi1LVktOOWp2bkJxNmFtbF9udVBSLS1tSUYyaHNzdmpKVjBnYmZFak16ZFNfSUcybVlYa3dWNEJEaGs2UnpIVDEyVmpKOXM?oc=5",
+      "pubDate": "Tue, 29 Jul 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "C.D. Howe Institute",
+      "_pubUrl": "https://cdhowe.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1812,18 +1836,6 @@
       "_src": "gnottlrt",
       "_publisher": "Global News",
       "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
-      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "ottawacitizen.com",
-      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
