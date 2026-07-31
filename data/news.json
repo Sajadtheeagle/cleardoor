@@ -1,6 +1,6 @@
 {
-  "ts": 1785462294325,
-  "fetched": "2026-07-31T01:44:54.325Z",
+  "ts": 1785479774105,
+  "fetched": "2026-07-31T06:36:14.105Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,6 +89,17 @@
   ],
   "items": [
     {
+      "title": "‘Risk of injury’: Mercedes-Benz recalls thousands of vehicles because of defect",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/mercedes-benz-recalls-nearly-37000-vehicles-in-canada-over-rollaway-risk/",
+      "pubDate": "Fri, 31 Jul 2026 05:36:28 -0400",
+      "description": "Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.",
+      "content": "<media:description type=\"plain\"><![CDATA[A logo of the German car manufacturer Mercedes Benz is pictured in Berlin, Germany, June 25, 2021. (AP Photo/Michael Sohn, File)]]></media:description>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/F2R7YPZSAQWRO273V5GNHCHVKE.jpg?auth=de2ff530c2e787fbb09b60bcc747951740117423c7bade702f49c75eb587f1a8&amp;smart=true&amp;width=1020&amp;height=575",
+      "_src": "bnn",
+      "_ogDesc": "Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.",
+      "body": "<p>Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.</p>\n<p>According to a recall triggered by the automaker and <a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026364\" target=\"_self\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026364\">published by Transport Canada</a>, certain vehicles from the 2019-26 models of the A-Class, C-Class, CLA-Class, CLE-Class, GLA-Class, GLB-Class and GLC-Class contain a flaw with the driver-side lock microswitch, as moisture could enter and cause it to corrode.</p>\n<p>“As a result, the microswitch may fail to automatically engage the parking brake and/or the auto park feature when the door is opened,” the recall said. “If this happens, the vehicle could roll away.”</p>\n<p>The defect could also cause the radio or interior lights to remain on after the vehicle is parked.</p>\n<p>“A parked vehicle that rolls away could create the risk of an injury or a crash,” the recall added.</p>\n<p>As a precaution, the German automaker recommends that owners always use the parking brake when parking.</p>\n<p>The company will notify the impacted owners by mail of a dealership appointment to replace the lock free of charge. Owners can also check the<a href=\"https://www.mercedes-benz.ca/en/recalls\" target=\"_self\" rel=\"\" title=\"https://www.mercedes-benz.ca/en/recalls\"> Mercedes-Benz Canada recall website</a> for more information.</p>\n<p>A similar <a href=\"https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf\" target=\"_self\" rel=\"\" title=\"https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf\">recall</a> has also been announced in the United States. According to the U.S. National Highway Traffic Safety Administration, more than 300,000 vehicles are affected by the same issue, with dealers also replacing the driver’s door lock at no cost.</p>\n<p>Owners in the U.S. can check whether their vehicle is included through the <a href=\"https://www.nhtsa.gov/recalls\" target=\"_self\" rel=\"\" title=\"https://www.nhtsa.gov/recalls\">NHTSA recall lookup</a>.</p>\n<h2>Related Stories</h2>"
+    },
+    {
       "title": "Anthropic says Claude AI hacked three companies during cyber tests",
       "link": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/07/31/anthropic-says-claude-ai-hacked-three-companies-during-cyber-tests/",
       "pubDate": "Fri, 31 Jul 2026 01:36:25 -0400",
@@ -97,18 +108,7 @@
       "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/CJGDTJSPZNGNPNB4UORVMBUDTY.JPG?auth=7592c69295caabfecea567794da43cbfab658de674075ee8a1144ff4100b8157&amp;smart=true&amp;width=6000&amp;height=4000",
       "_src": "bnn",
       "_ogDesc": "Anthropic said its AI model Claude hacked into the systems of three firms during testing after a configuration error gave it internet access, days after rival OpenAI disclosed a rogue-agent episode.",
-      "body": "<p>Anthropic said on Thursday its AI model Claude hacked into the systems of three companies during testing after a configuration error gave it internet access, days after rival OpenAI disclosed a rogue-agent episode involving AI firm Hugging Face.</p>\n<p>Anthropic said a misconfiguration allowed Claude models to reach the internet from testing environments that were supposed to be isolated, leading to unauthorized access to three organizations’ systems.</p>\n<p>The company said it identified the incidents after reviewing 141,006 test sessions, a process it launched following OpenAI’s <a href=\"https://www.reutersconnect.com/all?search=all%3AL6N43N17H&amp;linkedFromStory=true\" rel=\"\">disclosure</a> last week that an autonomous agent powered by its AI models went rogue during a security test and triggered a hack that compromised the infrastructure of Hugging Face.</p>\n<p>The breaches signal that AI’s expanding capabilities are already fuelling the security threat experts long feared and even top developers can be caught off-guard by flaws their models can exploit.</p>\n<p>“Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints,” it said.</p>\n<p>Anthropic said the incidents involved three separate models: Claude Opus 4.7, Claude Mythos 5 and an internal research model. The earliest cases dated back to April and occurred in evaluation environments that lacked what the company described as standard safeguards.</p>\n<p>The breaches occurred during the so-called “capture-the-flag” exercises, in which models are tasked with finding hidden information in simulated networks. The company said its prompts told the models they had no internet access, but a misunderstanding with its evaluation partner Irregular left the systems connected to the public internet.</p>\n<p>Anthropic said it began reviewing evaluation transcripts on July 23 and suspended all cyber evaluations the same day after finding evidence that Claude may have accessed the internet. It identified all three incidents by July 24 and notified the affected organizations on July 27.</p>\n<p>Two of the organizations were unaware of the activity before being contacted, Anthropic said, adding that it was still trying to reach the third.</p>\n<p>The findings underscore the need for stronger controls in both internal and third-party testing environments as AI models become increasingly capable of carrying out real-world cyber activities, Anthropic said.</p>\n<p><i>(Reporting by Mrinmay Dey in Mexico City; Editing by Alan Barona, Shilpi Majumdar and Sherry Jacob-Phillips)</i></p>"
-    },
-    {
-      "title": "Mercedes-Benz recalls nearly 37,000 vehicles in Canada over rollaway risk",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/mercedes-benz-recalls-nearly-37000-vehicles-in-canada-over-rollaway-risk/",
-      "pubDate": "Thu, 30 Jul 2026 23:49:22 -0400",
-      "description": "Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.",
-      "content": "<media:description type=\"plain\"><![CDATA[A logo of the German car manufacturer Mercedes Benz is pictured in Berlin, Germany, June 25, 2021. (AP Photo/Michael Sohn, File)]]></media:description>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/F2R7YPZSAQWRO273V5GNHCHVKE.jpg?auth=de2ff530c2e787fbb09b60bcc747951740117423c7bade702f49c75eb587f1a8&amp;smart=true&amp;width=1020&amp;height=575",
-      "_src": "bnn",
-      "_ogDesc": "Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.",
-      "body": "<p>Mercedes-Benz is recalling nearly 37,000 vehicles in Canada because of a defect that could cause a parked vehicle to roll away.</p>\n<p>According to a recall triggered by the automaker and <a href=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026364\" target=\"_self\" rel=\"\" title=\"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&amp;rn=2026364\">published by Transport Canada</a>, certain vehicles from the 2019-26 models of the A-Class, C-Class, CLA-Class, CLE-Class, GLA-Class, GLB-Class and GLC-Class contain a flaw with the driver-side lock microswitch, as moisture could enter and cause it to corrode.</p>\n<p>“As a result, the microswitch may fail to automatically engage the parking brake and/or the auto park feature when the door is opened,” the recall said. “If this happens, the vehicle could roll away.”</p>\n<p>The defect could also cause the radio or interior lights to remain on after the vehicle is parked.</p>\n<p>“A parked vehicle that rolls away could create the risk of an injury or a crash,” the recall added.</p>\n<p>As a precaution, the German automaker recommends that owners always use the parking brake when parking.</p>\n<p>The company will notify the impacted owners by mail of a dealership appointment to replace the lock free of charge. Owners can also check the<a href=\"https://www.mercedes-benz.ca/en/recalls\" target=\"_self\" rel=\"\" title=\"https://www.mercedes-benz.ca/en/recalls\"> Mercedes-Benz Canada recall website</a> for more information.</p>\n<p>A similar <a href=\"https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf\" target=\"_self\" rel=\"\" title=\"https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf\">recall</a> has also been announced in the United States. According to the U.S. National Highway Traffic Safety Administration, more than 300,000 vehicles are affected by the same issue, with dealers also replacing the driver’s door lock at no cost.</p>\n<p>Owners in the U.S. can check whether their vehicle is included through the <a href=\"https://www.nhtsa.gov/recalls\" target=\"_self\" rel=\"\" title=\"https://www.nhtsa.gov/recalls\">NHTSA recall lookup</a>.</p>\n<h2>Related Stories</h2>"
+      "body": "<p>Anthropic said on Thursday its AI model Claude hacked into the systems of three companies during testing after a configuration error gave it internet access, days after rival OpenAI disclosed a rogue-agent episode involving AI firm Hugging Face.</p>\n<p>Anthropic said a misconfiguration allowed Claude models to reach the internet from testing environments that were supposed to be isolated, leading to unauthorized access to three organizations’ systems.</p>\n<p>The company said it identified the incidents after reviewing 141,006 test sessions, a process it launched following OpenAI’s <a href=\"https://www.reutersconnect.com/all?search=all%3AL6N43N17H&amp;linkedFromStory=true\" rel=\"\">disclosure</a> last week that an autonomous agent powered by its AI models went rogue during a security test and triggered a hack that compromised the infrastructure of Hugging Face.</p>\n<p>The breaches signal that AI’s expanding capabilities are already fuelling the security threat experts long feared and even top developers can be caught off-guard by flaws their models can exploit.</p>\n<p>“Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints,” it said.</p>\n<p>Anthropic said the incidents involved three separate models: Claude Opus 4.7, Claude Mythos 5 and an internal research model. The earliest cases dated back to April and occurred in evaluation environments that lacked what the company described as standard safeguards.</p>\n<p>The breaches occurred during the so-called “capture-the-flag” exercises, in which models are tasked with finding hidden information in simulated networks. The company said its prompts told the models they had no internet access, but a misunderstanding with its evaluation partner Irregular left the systems connected to the public internet.</p>\n<p>Anthropic said it began reviewing evaluation transcripts on July 23 and suspended all cyber evaluations the same day after finding evidence that Claude may have accessed the internet. It identified all three incidents by July 24 and notified the affected organizations on July 27.</p>\n<p>Two of the organizations were unaware of the activity before being contacted, Anthropic said, adding that it was still trying to reach the third.</p>\n<p>The findings underscore the need for stronger controls in both internal and third-party testing environments as AI models become increasingly capable of carrying out real-world cyber activities, Anthropic said.</p>\n<p><i>(Reporting by Mrinmay Dey in Mexico City; Editing by Alan Barona, Shilpi Majumdar and Sherry Jacob-Phillips)</i></p>\n<h2>Related Stories</h2>"
     },
     {
       "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
@@ -188,15 +188,15 @@
       "body": "<p><a href=\"https://www.bnnbloomberg.ca/stock/AAPL:UN\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/AAPL:UN\">Apple posted a solid fiscal third quarter on Thursday</a>, climbing past Wall Street’s expectations thanks to strong sales of the iPhone and MacBook computers.</p>\n<p>Apple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brought on by the artificial intelligence boom. The company had called the demand spike an “unprecedented challenge” for the consumer electronics industry. While it hasn’t yet raised iPhone prices, analysts and consumers expect that to happen later this year.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/technology/\" target=\"_blank\"><b>Latest technology news on </b></a><a href=\"http://BNNBloomberg.ca\" target=\"_blank\"><b>BNNBloomberg.ca</b></a></li></ul>\n<p>The maker of the iPhone and iPad said Thursday it earned $29.79 billion, or $2.02 per share, in the April-June period. That is up 27 per cent from $23.43 billion, or $1.57 per share, in the same period a year earlier.</p>\n<p>Revenue grew 16 per cent to $$109.42 billion from $94.04 billion.</p>\n<p>Analysts, on average, were expecting earnings of $1.89 per share on revenue of $109 billion, according to a poll by FactSet. Tariff refunds of 11 cents per share contributed to the quarter’s earnings.</p>\n<p>“Today, Apple is proud to report our strongest June quarter ever, with double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment,” said Tim Cook, Apple’s CEO.</p>\n<p>Shares of Cupertino, California-based Apple, which recently regained its title as the world’s most valuable company from Nvidia, fell $7.52, or 2.3 per cent, to $325.91 in after-hours trading.</p>\n<p><i>Barbara Ortutay, The Associated Press</i></p>\n<h2>Related Stories</h2>"
     },
     {
-      "title": "Canadian, U.S. markets rise on earnings strength, as oil prices ease slightly",
-      "link": "https://www.bnnbloomberg.ca/business/2026/07/30/basic-materials-send-sptsx-composite-higher-us-stock-markets-also-rise/",
-      "pubDate": "Thu, 30 Jul 2026 20:43:29 -0400",
-      "description": "Canadian and U.S. stock markets gained ground on Thursday as investors sifted through fresh corporate earnings reports on both sides of the border.",
-      "content": "<media:description type=\"plain\"><![CDATA[A sign board displays the TSX record first close over 20,000 points in Toronto, Friday, June 4, 2021.  THE CANADIAN PRESS/Frank Gunn]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Frank Gunn</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/PF7TFIQ2J5BKTCP3JMNKYD3OEQ.JPG?auth=aa88811cf0dbe7893678f000cde877f5a8cb3a2e2830f122c97af7397a2ec88b&amp;smart=true&amp;width=2688&amp;height=1953",
+      "title": "WestJet flight attendants' union serves airline 72-hour strike notice",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/07/30/westjet-flight-attendants-union-serves-airline-72-hour-strike-notice/",
+      "pubDate": "Thu, 30 Jul 2026 20:14:52 -0400",
+      "description": "Intense bargaining between WestJet and the union representing its flight attendants ratcheted up further on Thursday after CUPE issued a 72-hour strike notice, paving the runway for a possible airline shutdown during the busy summer travel season.",
+      "content": "<media:description type=\"plain\"><![CDATA[WestJet passenger jets parked at departure gates at the Calgary International Airport on Wednesday, May 31, 2023. THE CANADIAN PRESS/Jeff McIntosh]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Jeff McIntosh</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/D4YFPVD3FMV3TBREEJPOLHWQSY.jpg?auth=5615458a97d547bb42450365b02238aad6f9281d57eae3237722240db1315a90&amp;smart=true&amp;width=1400&amp;height=933",
       "_src": "bnn",
-      "_ogDesc": "Canadian and U.S. stock markets gained ground on Thursday as investors sifted through fresh corporate earnings reports on both sides of the border.   ",
-      "body": "<p>Canadian and U.S. stock markets gained ground on Thursday as investors sifted through fresh corporate earnings reports on both sides of the border.</p>\n<p>The S&amp;P/TSX composite index was up 172.06 points at 35,505.84. On the TSX, the gains in the basic materials and financial sectors offset losses in the technology and industrials sectors.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/tsx/\" target=\"_blank\"><b>Real-time TSX market updates here</b></a></li></ul>\n<p>Brianne Gardner, senior wealth manager of Velocity Investment Partners at Raymond James Ltd., said Canada’s main stock index benefited from firmer precious metals prices and strong earnings.</p>\n<p>“Investors are ... continuing to rotate into precious metals and diversified miners, especially with this ongoing uncertainty, and elevated commodity prices are really supporting that space,” she said.</p>\n<p>Gardner said <a href=\"https://www.bnnbloomberg.ca/bank-tracker-canada/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/bank-tracker-canada/\">Canadian banks</a> were also providing stability in the market after the sector saw some recent weakness.</p>\n<p>Meanwhile, <a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/bombardier-tops-profit-estimates-free-cash-flow-turns-positive-on-strong-jet-demand/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/company-news/2026/07/30/bombardier-tops-profit-estimates-free-cash-flow-turns-positive-on-strong-jet-demand/\">Bombardier Inc.</a> weighed on the TSX, with its shares falling 7.9 per cent after it reported a second-quarter profit of US$191 million Thursday.</p>\n<p><a href=\"https://www.bnnbloomberg.ca/markets/2026/07/30/microsoft-leads-a-rally-on-wall-street-while-worries-about-inflation-remain-in-the-bond-market/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/markets/2026/07/30/microsoft-leads-a-rally-on-wall-street-while-worries-about-inflation-remain-in-the-bond-market/\">In New York,</a> the Dow Jones industrial average was up 613.92 points at 52,208.06. The S&amp;P 500 index was up 121.48 points at 7,437.63, while the Nasdaq composite was up 679.24 points at 25,122.18.</p>\n<p><a href=\"https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/business/technology/2026/07/30/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast/\">Microsoft led the U.S. market </a>and leaped 15.5 per cent for its best day in nearly 18 years after reporting a stronger profit for the latest quarter than analysts expected. Growth was strong for its Azure cloud business, and CEO Satya Nadella said it reflects how customers are using Microsoft to move into AI.</p>\n<p>Perhaps just as importantly for Wall Street, Microsoft did not announce a big increase in how much it plans to spend on AI investments, something that several other big tech rivals have done. Worries are high that such spending is eating into companies’ cash flows and may not ultimately be worth it if AI underdelivers on productivity and profits.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/artificial-intelligence/\" target=\"_blank\"><b>Latest updates on artificial intelligence news here</b></a></li></ul>\n<p>Meta Platforms helped demonstrate such fears. The parent company of Facebook and Instagram fell eight per cent after it reported a weaker profit for the latest quarter than analysts expected, even though it made slightly more in revenue than expected. It also raised the lower end of its forecast range for spending on investments this year.</p>\n<p>“This earnings season is reminding investors that not all AI companies will benefit equally,” Gardner said.</p>\n<p>In the oil market, prices eased. The September crude oil contract for North American benchmark West Texas Intermediate was down 87 cents US at US$83.59 per barrel.</p>\n<p>Brent crude, the international standard, fell 1.4 per cent to settle at US$86.88 per barrel.</p>\n<p>It had swung as low as US$72 early this month and as high as US$102 last week on uncertainty about whether the United States and Iran could reach a deal to allow oil tankers to move freely again from the Middle East to customers worldwide.</p>\n<p>The decline in oil prices Thursday comes after sharp gains a day before.</p>\n<p>“Supply disruptions haven’t really materialized drastically yet, and I think markets are going to reassess the risk premium,” Gardner said.</p>\n<p>“Investors are recognizing that while tensions remain elevated, the market has priced in the worst-case scenario yesterday, and today’s trading suggests a lot of investors are dialing back some of those fears until there’s evidence of an actual supply interruption.”</p>\n<p>Looking ahead, Gardner said there could be some volatility in equity markets as August is historically one of the weakest months of the year.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/markets/oil/\" target=\"_blank\"><b>Stay on top of your portfolio with real-time data, historical charts and the latest news on oil</b></a></li></ul>\n<p>The Canadian dollar traded for 71.36 cents US compared with 71.01 cents US on Wednesday.</p>\n<p>The December gold contract was up US$63.60 at US$4,160.60 an ounce.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026. </i></p>\n<p><i>— With files from The Associated Press</i></p>"
+      "_ogDesc": "Intense bargaining between WestJet and the union representing its flight attendants ratcheted up further on Thursday after CUPE issued a 72-hour strike notice, paving the runway for a possible airline shutdown during the busy summer travel season.",
+      "body": "<p>CALGARY -- Intense bargaining between WestJet and the union representing its flight attendants ratcheted up further on Thursday after CUPE issued a 72-hour strike notice, paving the runway for a possible airline shutdown during the busy summer travel season.</p>\n<p>The Canadian Union of Public Employees cancelled a news conference in Calgary on Thursday morning, saying it wanted to focus on hammering out a deal.</p>\n<p>The union representing 4,400 cabin crew at WestJet said the two sides remain far apart on key issues.</p>\n<p>“We have been clear about what needs to change, and we have worked hard to reach a fair deal,” Alia Hussain, chair of the union’s WestJet contingent, said in a news release early Thursday.</p>\n<p>“There’s still time to avoid a strike,” Hussain added. “We will continue to bargain around the clock until this is resolved.”</p>\n<p>WestJet responded to the union’s strike notice by issuing a 72-hour lockout notice.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/canada/article/what-to-know-as-possible-westjet-flight-attendant-strike-looms/\" target=\"_self\" rel=\"\" title=\"https://www.ctvnews.ca/canada/article/what-to-know-as-possible-westjet-flight-attendant-strike-looms/\"><b>WestJet flight attendants could strike this weekend. What does that mean for travellers?</b></a></li></ul>\n<p>The carrier — the second-largest in Canada — said it is still negotiating to reach a deal.</p>\n<p>“The decision to issue a lockout notice in response to the actions taken by the union was not one that was made lightly. We sincerely regret the inconvenience and uncertainty this continues to cause for our guests,” said CEO Alexis von Hoensbroech in a statement.</p>\n<p>“We greatly value the work and contributions of our cabin crew, and it is our responsibility to ensure the integrity of our network and to minimize the risk of stranding our guests, crew and aircraft.”</p>\n<p>While serving notice does not commit the union to a strike, job action could begin as soon as Sunday at 12:01 a.m. MT if the two sides don’t reach a deal.</p>\n<p>Unless a tentative agreement is reached, some flights could start to be grounded by Friday.</p>\n<p>At the Calgary International Airport, WestJet passengers held a medley of emotions about the impending strike.&nbsp;</p>\n<p>Some were troubled about the threat of a walkout by workers of the Calgary-based airline. Others were indifferent and a small faction were unaware.&nbsp;</p>\n<p>Marni Reid, from Medicine Hat, was leaving for Copenhagen with six other family members on a trip to visit family.</p>\n<p>“I’m a little worried; I’m scared, actually,” she said at the airport Thursday morning.</p>\n<p>The family is set to return on Aug. 13, which means they have nearly two weeks for the two sides to come to a resolution.</p>\n<p>“We have a travel agent that is on standby, and if we have to, we’ll split up ... to get us home on different flights,” Reid said.</p>\n<p>Richard and Janice Buchynski, from Prince Albert, Sask., were travelling to Whitehorse, also to see family, and are set to return home on a WestJet flight to Saskatoon on Tuesday.</p>\n<p>“We’re not sure how we’re getting home,” said Richard Buchynski. “We’ll see how it pans out.”</p>\n<p>“We might have to take a bus or whatever to get home,” Janice Buchynski said with a nervous laugh.&nbsp;</p>\n<p>She added that WestJet sent the pair an email detailing how it would help find alternative travel if needed.</p>\n<p>Federal Transport Minister Steven MacKinnon said Wednesday that “talks are progressing” and he remained hopeful a new collective agreement could be negotiated.</p>\n<p>WestJet has been allowing passengers with flights scheduled between July 30 and Aug. 4 to make a one-time change or cancel it with no fee.</p>\n<p>Travellers booked on the regional WestJet Encore service or code-share flights run by an airline partner such as Delta Air Lines will not be affected by a strike, the carrier said.</p>\n<p>Should flight delays or cancellations occur, the airline said impacted guests will be refunded or reaccommodated “as applicable.”&nbsp;</p>\n<p>The two sides this week also signed an agreement — shared with union members and obtained by The Canadian Press — that lays out how to ground planes and get cabin crew home in the event of a work stoppage.</p>\n<p>Cabin crew working a flight when any job action begins would complete the trip to the destination. Those who can’t immediately return to their home city would receive hotel accommodation for up to a week or a plane ride back to another Canadian city “subject to seat availability.”</p>\n<p>The union has said key issues include unpaid work for tasks such as ground duties. WestJet has said all duties are compensated through a “credit hour” system rather than an hourly rate.</p>\n<p>The office of Patty Hajdu, minister of Jobs and Families, said in an emailed statement Thursday that “Canadians are experiencing uncertainty on many fronts, and they are counting on both parties to work together to reach a deal at the bargaining table.”</p>\n<p>John Gradek, who teaches aviation management at McGill University, has said even a brief shutdown would cost the carrier millions of dollars during the height of summer travel.</p>\n<p>The airline says it operates more than 600 flights per day, carrying legions of passengers — more than 70,000 on some days.</p>\n<p><i>This report by The Canadian Press was first published July 30, 2026.</i></p>\n<p><i>By Aaron Sousa in Edmonton, Christopher Reynolds in Montreal and Dayne Patterson in Calgary</i></p>\n<h2>Related Stories</h2>"
     },
     {
       "title": "HomeEquity Bank adds medical voice to the retirement-planning conversation",
@@ -342,18 +342,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of England about to announce latest decision on interest rates",
-      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNZnUtaGRpQV8zeTQ0TnltdnFUbWxmMVZQUHlyUjQtelhPMzlOM096RW82bXhKa2M4LS1jbG11UkU2WUwtbmRfeFpFSUJFV0psVGlFcnBCczR5QnBfa0luLTlnZTN5ZWFseENILV9SREpuTDNPX2JRUUJ6dko1SHhQVENCRGp2MmR3M0tWbUt5UQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 10:50:07 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Yahoo! Finance Canada",
-      "_pubUrl": "https://ca.finance.yahoo.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canada’s Real Estate Industry Is Slashing Sales &#038; Price Forecasts Again",
       "link": "https://betterdwelling.com/canadas-real-estate-industry-is-slashing-sales-price-forecasts-again/",
       "pubDate": "Thu, 30 Jul 2026 00:43:18 +0000",
@@ -393,7 +381,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -405,18 +393,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/realtor-ca.png?id=67558512&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "Northern housing costs squeeze supply despite affordability gains",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxQZVlRMlZnOHhPcDNmcDc3WVI4eXl5R29qbXhmb2tMOTZtZU80YlFEMTY3UmRfTDlRTDdQUlRzNkREQVB1aGdoTmZiOVQ2RUtfdkZVVWtXMHQ1QnhrbXJJNkUzTFBkM2s3M3Z0UnZzX1NyZFVTcnVWa2VrU1V6aXlQLW9weDFqMENDblpkTGszSG1WOGNXc29TT3U5QTExNURuUjEzOHRVRXhqQ25WcHpHRV9hMG1hdlk1RFpGZUQ2c1NraklMZDhfS2N2Zw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 20:28:53 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "10 reasons every Canadian broker should be at MortgageFest Canada in 2026",
@@ -448,6 +424,17 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2022/04/Housing-affordability-worsens_med-500x282.jpg",
       "_src": "cmt",
       "_ogDesc": "Canada would need to roughly double investment in new residential construction over the next decade, potentially intensifying competition for capital and keeping borrowing costs higher."
+    },
+    {
+      "title": "Northern housing costs squeeze supply despite affordability gains",
+      "link": "https://www.mpamag.com/ca/mortgage-industry/market-updates/northern-housing-costs-squeeze-supply-despite-affordability-gains/584224",
+      "pubDate": "2026-07-29T18:47:31Z",
+      "description": "CMHC data shows territorial construction costs running up to 1.5 times higher than in Calgary",
+      "content": "&lt;p&gt;CMHC data shows territorial construction costs running up to 1.5 times higher than in Calgary&lt;/p&gt;&lt;img src=\"https://cdn-res.keymedia.com/cms/images/us/074/0388_639209457429257278.png\" alt=\"\" style=\"max-width:240px\" /&gt;",
+      "thumbnail": "https://cdn-res.keymedia.com/cms/images/us/074/0388_639209457429257278.png",
+      "_src": "mpamag",
+      "_ogDesc": "CMHC data shows territorial construction costs running up to 1.5 times higher than in Calgary",
+      "body": "<p>Canada&#39;s northern housing markets edged toward recovery in 2025 even as structural barriers kept supply well below national norms, <a href=\"https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/housing-market/northern-housing-report\">according to the Canada Mortgage and Housing Corporation (CMHC)&#39;s 2026 Northern Housing Report (NHR)</a>.</p>\n<p>The report examines conditions in the three territorial capitals &mdash; Whitehorse, Yellowknife and Iqaluit. It&nbsp;found that while affordability pressures have eased from their 2023 peak, investment in residential construction remained below 2021 levels, and per-capita housing starts continued to lag significantly behind the rest of Canada.</p>\n<blockquote>The national housing market will shrink in 2026 rather than grow, Canada Mortgage and Housing Corporation (CMHC) warned in its 2026 <a href=\"/ca/glossary/housing-market/539795\">Housing Market</a> Outlook Mid-Year Update, marking a significant pullback from the agency&#39;s February forecast.<a href=\"https://t.co/3hQo2DUhZ3\">https://t.co/3hQo2DUhZ3</a> &mdash; Canadian Mortgage Professional Magazine (@CMPmagazine) <a href=\"https://x.com/CMPmagazine/status/2080354378871869766?ref_src=twsrc%5Etfw\">July 23, 2026</a></blockquote>\n<h2><strong>Sales activity rebounded,&nbsp;but unevenly</strong></h2>\n<p>Home sales in Whitehorse climbed 21% in 2025, supported by strong public-sector employment, low unemployment and lower borrowing costs following Bank of Canada rate cuts beginning in June 2024, CMHC said. The average home price rose 7.4% to a record high, driven primarily by single-detached homes.</p>\n<p>Yellowknife posted a 7.4% rebound in sales and a 5.8% rise in average prices as new listings increased 10.1%.</p>\n<p>Iqaluit told a different story. Land-title transfers fell to just 20 in 2025,&nbsp;nearly half the recent average,&nbsp;as working-age resident outflows and severe affordability constraints limited demand.</p>\n<p>The average sales price edged up just 1.9%, with lower interest rates having limited effect as many households remained priced out of the market.</p>\n<p>The dynamics mirror broader fragmentation in Canadian housing. Elan Weintraub, a Toronto-based mortgage broker at Mortgage Outlet, <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/canada-mortgage-market-outlook-caution-rules-as-2026-midpoint-nears/578110\">previously told <em>Mortgage Professional America</em></a>: &quot;I think real estate is very cloudy and volatile. It&#39;s extremely micro-fragmented. Certain pockets might be lukewarm to hot.&quot;</p>\n<p>CMHC 2026 Northern Housing Report</p>\n<p>Home sales across Canada&#39;s territorial capitals, 2025</p>\n<p>Sales (year-over-year)</p>\n<p>Sales (year-over-year)</p>\n<p>Land-title transfers* (&darr; ~&frac12; recent avg)</p>\n<p>* Iqaluit operates under a leasehold land system. Ownership transactions are recorded as land-title transfers, not sales, and are not directly comparable to figures for Whitehorse or Yellowknife.</p>\n<p>Source: Canada Mortgage and Housing Corporation (CMHC), 2026 Northern Housing Report</p>\n<h2><strong>Construction costs are the defining constraint</strong></h2>\n<p>Construction hard costs per square foot in Yellowknife have consistently run approximately 1.5 times those in Calgary since 2021; Whitehorse sits around 1.3 times higher, per CMHC data.</p>\n<p>These premiums reflect a combination of short construction seasons, reliance on ice roads and water barges for material delivery, and limited local trades that force expensive reliance on transient workers from the south.</p>\n<p>Social housing is filling much of the resulting gap. In 2025, it accounted for approximately 35% of new residential construction investment in Yukon, 36% in the Northwest Territories, and 93% in Nunavut &mdash; compared with roughly 6% nationally, according to CMHC.</p>\n<p>That pattern is consistent with findings in <a href=\"https://www.mpamag.com/ca/mortgage-industry/industry-trends/cmhc-warns-soaring-development-charges-are-reshaping-canadas-housing-costs/559195\">CMHC&#39;s research on how municipal cost structures reshape housing supply across Canada</a>.</p>\n<p>Rental conditions remained exceptionally tight. In Whitehorse and Yellowknife, roughly 1 in 5 households could not afford private rental housing in 2025; in Iqaluit, that figure rose to nearly 1 in 2, CMHC found.</p>\n<p>The NHR&#39;s Indigenous housing spotlight examined projects such as the Kivalliq Senior&#39;s Long-Term Care Facility in Rankin Inlet, Nunavut, which incorporates Arctic-adapted building orientation, passive heating and natural daylighting features.</p>\n<p>Aled ab Iorwerth, Deputy Chief Economist at CMHC in Ottawa, said: &quot;Addressing persistent barriers such as high construction costs, limited serviced land and labour shortages will be essential to improving housing outcomes in the North. At the same time, Indigenous-led and Indigenous-partnered approaches continue to demonstrate the importance of housing solutions that reflect local needs, cultures and Arctic conditions.&quot;</p>\n<p>CMHC projects private-market supply to increase across all three capitals in 2026, but cautioned this growth will not be sufficient to close the per-capita starts gap with the rest of Canada.</p>\n<p>Brokers tracking inventory conditions should monitor whether territorial projects translate into meaningful new stock before year-end,&nbsp;a question directly relevant to the <a href=\"https://www.mpamag.com/ca/mortgage-industry/market-updates/canadas-housing-starts-extend-slide-as-builders-pull-back/582632\">national housing starts decline that continues to weigh on Canadian construction pipelines</a>.</p>\n<p><em>Make sure to get all the latest news to your inbox on Canada&rsquo;s mortgage and housing markets by signing up for our free daily newsletter&nbsp;<a href=\"https://www.mpamag.com/ca/newsletter?email=\" target=\"_blank\">here</a>.</em></p>\n<h3>Free e-newsletter</h3>\n<h3>LATEST NEWS</h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/what-could-a-hawkish-federal-reserve-mean-for-the-bank-of-canada/584408\">What could a hawkish Federal Reserve mean for the Bank of Canada?</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/canadas-rolling-slowdown-defies-the-recession-label-td-says/584399\">Canada&#x27;s rolling slowdown defies the recession label, TD says</a></h3>\n<h3><a class=\"top-down-list__item--flex-title clamp clamp-3\" href=\"/ca/mortgage-industry/industry-trends/broker-questions-rent-to-own-math-in-bc-condo-purchase-plan/584376\">Broker questions rent-to-own math in BC condo purchase plan</a></h3>"
     },
     {
       "title": "Fed holds rates steady, three officials dissent favouring a hike",
@@ -498,7 +485,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Newswire Canada",
+      "_publisher": "newswire.ca",
       "_pubUrl": "https://www.newswire.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -521,7 +508,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "biv.com",
+      "_publisher": "Business in Vancouver",
       "_pubUrl": "https://www.biv.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -543,7 +530,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -558,14 +545,14 @@
     },
     {
       "title": "Seven building development proposed at auto dealership lot in Ottawa’s west end",
-      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxNd2cxem4yXy11VDVlWDR0TGg4NTZqV18yYzEySGVaZFFBSzl6VGhvRUZBRGVsMC12X3hmNG5tbnFMWUV0Mkx2VEpwdmpnNWgzN2hBUFozMm92NU9GTHJzSkZrelhSM3JFeTRhNlZYRUhzTFhYY05xMnRQOXpLWTNIX09QdmxobUo5aktRVV9oREdtQ3FUN2dRVXJBWWdqZURxZHl1NC1HZWVUZGFPMm51OEl1Y0t4anZp?oc=5",
+      "link": "https://news.google.com/articles/CBMivAFBVV95cUxQV2xMbHNYaWtfb0tiZnVvV3lrSVhSTW9yZ2xwYkZ0WHRZX0lpX2NmeHB6NTg3NWFMU293NlJ6MEJNWXY1QlQ2dWxJbktDYzVkbTFmM0Rja2g4eGo1OTVOaVBsUVR0WXBDS1djNXB4Z3JaNzNDSjR5WHlDa0xYeExMb1RXTmVYUG94SXUwTlJRdmhOSVpHZEgzaW1GS1o5eS03cm5mZU51WmhJYzJmNmt6VmQyRkNLN3NYYmY0eA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 10:26:54 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
+      "_src": "gnott",
       "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
+      "_pubUrl": "https://guelph.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -648,7 +635,7 @@
     },
     {
       "title": "Canadian home prices remain soft - but the story varies significantly outside big metropolitan centers",
-      "link": "https://news.google.com/articles/CBMihgJBVV95cUxQd0NzZnQ4UFphNzVhcEprOG1fYV9lM0ZMTk5laE52YnJLQ1JzZzFEN2NvN3ZRZ1NkcllGVmUzZGhsUW1MeTR3V0JqOVlXWV9kUUNTb3hlWjVLM2c1b0Q4MDJJX2h4NzViT2dQTjhjMHVkUloyVGpnZE13VFZLa29RLVRwcHJpdHhwRHBxVkQ1SVBQN0N5Sy1KYVJpVC1WY21OVndNeU53b3F4U3Z0NkZPZzh2OGFMY01OWkptVVVZM1dUdmRkVUc4ZUhqTlpudGFaYjZQV0lsYWFoNGNUQXpRejNLYWxSYzZFVnJ1YkN3V0RFXy1WU3NKRi0yTHBKcFllNTRDSVZn?oc=5",
+      "link": "https://news.google.com/articles/CBMiggJBVV95cUxPLVB4cGo3LXhjcTYzc1pFa0tNZk1jQ0dvYlQxVkhrN3dsT2NHaXJuTWZ3STk0aVBTN0t3eXJ6ZEdIMENlVkhtSExaRW1VelFLZUJCUkpYcWFZLTNjeDhwci1QV0FlS1pmRm5jWGdOdkVUVk5WQUtvUTFCVWxHN2pQM1lycldpM2tGc3M3ZTRrVDkwOERhZEgyNmtzQi1vS09SSmYwYlRyTzFQNzJQR01iaVAwTkpoeXo1MjVaTjBmb1JxMV9JWVY0Tkg4d1JqVk5kNHVESjVmU0FvSDRMaWF2OU9pcTZQLVA2WkNXS0hZNmJmU0loaW9OamwxdENkRnVmMlE?oc=5",
       "pubDate": "Tue, 28 Jul 2026 11:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
@@ -805,7 +792,7 @@
       "thumbnail": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/07/web1_a01-07242026-vtc-news-ramada-lawsuit.jpeg;w=960",
       "_src": "timescolonist",
       "_ogDesc": "The Duncan Ramada suffered damage, including burns from guests smoking and using drugs, as well as defecating and urinating in their rooms, the manager said.",
-      "body": "<p>The province breached its obligation to restore a Duncan hotel used as temporary housing during the COVID-19 pandemic to its original condition, and failed to pay rent while the hotel was in unusable condition, a judge has ruled.</p>\n<p>The Ramada hotel&rsquo;s general manager &ldquo;provided considerable, and at times, graphic evidence about what occurred at the hotel while it was occupied by the vulnerable population, including but not limited to significant drug use, sex work and the premises being used as bicycle &lsquo;chop shops,&rsquo; &rdquo; Justice Karrie A. Wolfe said in a decision at B.C. Supreme Court in Victoria.</p>\n<p>He described damage from guests &shy;smoking and using drugs in rooms, including burns on carpets, furnishing and mattresses, ceiling fans detached and guests defecating and urinating in their rooms instead of using bathrooms.</p>\n<p>The 34-room hotel just off the highway was leased temporarily by the Cowichan branch of the Canadian Mental Health Association, with rent paid to the owner by B.C. Housing.</p>\n<p>B.C. Housing later took over the CMHA Cowichan branch&rsquo;s lease obligations.</p>\n<p>All residents associated with B.C. Housing vacated the hotel by the end of April 2022.</p>\n<p>The hotel&rsquo;s owners subsequently launched a lawsuit against B.C. Housing and the CMHA Cowichan branch, arguing the two breached their agreement by failing to restore the hotel to its original &shy;condition and failing to pay rent for the rooms when the building was still unfit for habitation after the lease ended.</p>\n<p>While the hotel owners initially named the CMHA Cowichan branch as a defendant in the lawsuit, they dropped the claim against the mental health association shortly before the trial started in November.</p>\n<p>Both the owners and the province accepted there was an agreement between them that allowed B.C. Housing to use the property as housing between Dec. 1, 2020, and April 30, 2022.</p>\n<p>But B.C. Housing only continued &shy;paying rent until the end of September 2022, the point at which it believed repairs would &shy;reasonably have been completed if not for what it argued were &ldquo;obstacles and delays&rdquo; on the part of the hotel.</p>\n<p>An engineer tasked by B.C. Housing to assess damage found there was &ldquo;significant damage&rdquo; to the rooms, including to walls, baseboard trims, door trims and casings, window coverings, mattresses and box springs, carpets, furniture and bathroom fixtures. He found there was no possibility to restore furniture to consumer use, and any items salvaged would only be suitable for donation.</p>\n<p>Exterior repairs needed included removal of debris and minor graffiti, privacy-fencing upgrades, painting, minor landscaping and general cleaning, the engineer determined.</p>\n<p>In August 2022, B.C. Housing staff emailed the hotel manager with two options for restoration: B.C. Housing could pay an engineer to complete repairs estimated at just over $1 million, but it would not be responsible for any delays caused by the hotel owners, or B.C. Housing could pay the amount to the hotel owners as a settlement and leave the owners to work directly with the engineer.</p>\n<p>The hotel manager said the engineer summarized the majority of work needed, but more repairs would be required and he had asked the engineer to provide an updated quote.</p>\n<p>No revised quote was ever prepared, the decision says.</p>\n<p>A B.C. Housing employee accused the hotel manager of purposely delaying its response to B.C. Housing&rsquo;s offer to do the restoration work, something the manager denied.</p>\n<p>At the end of August 2022, the B.C. Housing employee sent the hotel manager an email &shy;saying B.C. Housing would make a final payment of $178,250 and &shy;consider its obligations under the lease fulfilled.</p>\n<p>Both parties agree that by the end of September 2022, B.C. Housing had paid $867,675 to the hotel owners as compensation for the loss of use of the rooms from May to September 2022, $60,041 for security and fencing and $45,568 to the engineering company for consulting.</p>\n<p>Wolfe said there was &ldquo;little doubt&rdquo; that the province breached its obligation to restore the hotel.</p>\n<p>All 34 rooms had been &shy;gutted as of May 20, 2022, and have not been restored, leaving &ldquo;no question&rdquo; the hotel has not been restored to a functioning Ramada hotel, Wolfe said in her decision.</p>\n<p>She acknowledged the &shy;province said it did everything reasonably possible to move the restoration forward but was hampered by a disagreement over the scope of the work and what it alleged was non-responsiveness from the hotel owners, something they dispute.</p>\n<p>Both parties agreed that assessing the hotel&rsquo;s conduct with respect to its contractual obligations should be left to the second phase of the trial.</p>\n<p>Costs will also be addressed at a future date.</p>\n<p>B.C. Housing said through a spokesperson that the parties could not agree on final terms to return the building to its final condition.</p>\n<p>&ldquo;We respect the court process, and have a range of views on this matter, which we will continue to advance through appropriate legal avenues,&rdquo; a spokesperson said.</p>\n<p>B.C. Housing declined to &shy;comment further while the &shy;matter continues through the court process.</p>\n<p>Lawyers for the owners declined to comment because the second phase of the trial remains before the courts.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"eb998e8c8a85c68e878782849f9fab9f82868e98888487848582989fc5888486\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12586094&amp;t=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#407f3335222a2523347d13282132252465727026322f2d65727014292d2533657270032f2c2f2e29333465730165727010322f36292e2325657270223225212328252465727024353439657270342f657270322533342f3225657270282f34252c657270353325246572702133657270282f3533292e276573016572702a3524272566212d307b222f24397d28343430336573016572066572063737376e34292d2533232f2c2f2e2933346e232f2d6572062c2f23212c6d2e25373365720630322f36292e23256d22322521232825246d243534396d342f6d322533342f32256d282f34252c6d353325246d21336d282f3533292e276d2a352427256d717275787670797465730635342d1f332f35322325657304052d21292c1f132821322565727635342d1f2d252429352d657304052d21292c1f132821322565727635342d1f23212d302129272e657304052d21292c1f1328213225657004657001657004657001012c332f657301657270222565727033353225657270342f657270232825232b6572702f3534657270212c2c6572702f26657270342f242139657277336572702c21342533346572702e253733657270213465727028343430336573016572066572063737376e34292d2533232f2c2f2e2933346e232f2d6570046570016570046570010c292b2565727027253434292e27657270392f35326572702e2537336572702239657270252d21292c6573066572701329272e6572703530657270262f326572702f35326572702e2537332c2534342532657270213465727028343430336573016572066572063737376e34292d2533232f2c2f2e2933346e232f2d6572062421292c39\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=Province%20breached%20duty%20to%20restore%20hotel%20used%20as%20housing%3A%20judge%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
+      "body": "<p>The province breached its obligation to restore a Duncan hotel used as temporary housing during the COVID-19 pandemic to its original condition, and failed to pay rent while the hotel was in unusable condition, a judge has ruled.</p>\n<p>The Ramada hotel&rsquo;s general manager &ldquo;provided considerable, and at times, graphic evidence about what occurred at the hotel while it was occupied by the vulnerable population, including but not limited to significant drug use, sex work and the premises being used as bicycle &lsquo;chop shops,&rsquo; &rdquo; Justice Karrie A. Wolfe said in a decision at B.C. Supreme Court in Victoria.</p>\n<p>He described damage from guests &shy;smoking and using drugs in rooms, including burns on carpets, furnishing and mattresses, ceiling fans detached and guests defecating and urinating in their rooms instead of using bathrooms.</p>\n<p>The 34-room hotel just off the highway was leased temporarily by the Cowichan branch of the Canadian Mental Health Association, with rent paid to the owner by B.C. Housing.</p>\n<p>B.C. Housing later took over the CMHA Cowichan branch&rsquo;s lease obligations.</p>\n<p>All residents associated with B.C. Housing vacated the hotel by the end of April 2022.</p>\n<p>The hotel&rsquo;s owners subsequently launched a lawsuit against B.C. Housing and the CMHA Cowichan branch, arguing the two breached their agreement by failing to restore the hotel to its original &shy;condition and failing to pay rent for the rooms when the building was still unfit for habitation after the lease ended.</p>\n<p>While the hotel owners initially named the CMHA Cowichan branch as a defendant in the lawsuit, they dropped the claim against the mental health association shortly before the trial started in November.</p>\n<p>Both the owners and the province accepted there was an agreement between them that allowed B.C. Housing to use the property as housing between Dec. 1, 2020, and April 30, 2022.</p>\n<p>But B.C. Housing only continued &shy;paying rent until the end of September 2022, the point at which it believed repairs would &shy;reasonably have been completed if not for what it argued were &ldquo;obstacles and delays&rdquo; on the part of the hotel.</p>\n<p>An engineer tasked by B.C. Housing to assess damage found there was &ldquo;significant damage&rdquo; to the rooms, including to walls, baseboard trims, door trims and casings, window coverings, mattresses and box springs, carpets, furniture and bathroom fixtures. He found there was no possibility to restore furniture to consumer use, and any items salvaged would only be suitable for donation.</p>\n<p>Exterior repairs needed included removal of debris and minor graffiti, privacy-fencing upgrades, painting, minor landscaping and general cleaning, the engineer determined.</p>\n<p>In August 2022, B.C. Housing staff emailed the hotel manager with two options for restoration: B.C. Housing could pay an engineer to complete repairs estimated at just over $1 million, but it would not be responsible for any delays caused by the hotel owners, or B.C. Housing could pay the amount to the hotel owners as a settlement and leave the owners to work directly with the engineer.</p>\n<p>The hotel manager said the engineer summarized the majority of work needed, but more repairs would be required and he had asked the engineer to provide an updated quote.</p>\n<p>No revised quote was ever prepared, the decision says.</p>\n<p>A B.C. Housing employee accused the hotel manager of purposely delaying its response to B.C. Housing&rsquo;s offer to do the restoration work, something the manager denied.</p>\n<p>At the end of August 2022, the B.C. Housing employee sent the hotel manager an email &shy;saying B.C. Housing would make a final payment of $178,250 and &shy;consider its obligations under the lease fulfilled.</p>\n<p>Both parties agree that by the end of September 2022, B.C. Housing had paid $867,675 to the hotel owners as compensation for the loss of use of the rooms from May to September 2022, $60,041 for security and fencing and $45,568 to the engineering company for consulting.</p>\n<p>Wolfe said there was &ldquo;little doubt&rdquo; that the province breached its obligation to restore the hotel.</p>\n<p>All 34 rooms had been &shy;gutted as of May 20, 2022, and have not been restored, leaving &ldquo;no question&rdquo; the hotel has not been restored to a functioning Ramada hotel, Wolfe said in her decision.</p>\n<p>She acknowledged the &shy;province said it did everything reasonably possible to move the restoration forward but was hampered by a disagreement over the scope of the work and what it alleged was non-responsiveness from the hotel owners, something they dispute.</p>\n<p>Both parties agreed that assessing the hotel&rsquo;s conduct with respect to its contractual obligations should be left to the second phase of the trial.</p>\n<p>Costs will also be addressed at a future date.</p>\n<p>B.C. Housing said through a spokesperson that the parties could not agree on final terms to return the building to its final condition.</p>\n<p>&ldquo;We respect the court process, and have a range of views on this matter, which we will continue to advance through appropriate legal avenues,&rdquo; a spokesperson said.</p>\n<p>B.C. Housing declined to &shy;comment further while the &shy;matter continues through the court process.</p>\n<p>Lawyers for the owners declined to comment because the second phase of the trial remains before the courts.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"15677072747b387079797c7a616155617c787066767a797a7b7c66613b767a78\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12586094&amp;t=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#043b7771666e61677039576c6576616021363462766b69213634506d696177213634476b686b6a6d777021374521363454766b726d6a676121363466766165676c61602136346071707d213634706b213634766177706b76612136346c6b7061682136347177616021363465772136346c6b71776d6a632137452136346e71606361226569743f666b607d396c707074772137452136422136427373732a706d696177676b686b6a6d77702a676b69213642686b676568296a61737721364274766b726d6a67612966766165676c6160296071707d29706b29766177706b7661296c6b7061682971776160296577296c6b71776d6a63296e71606361293536313c32343d302137427170695b776b717667612137404169656d685b576c6576612136327170695b6961606d71692137404169656d685b576c6576612136327170695b67656974656d636a2137404169656d685b576c6576612134402134452134402134454568776b213745213634666121363477717661213634706b213634676c61676f2136346b71702136346568682136346b62213634706b60657d213633772136346865706177702136346a61737721363465702136346c707074772137452136422136427373732a706d696177676b686b6a6d77702a676b69213440213445213440213445486d6f61213634636170706d6a632136347d6b71762136346a617377213634667d2136346169656d68213742213634576d636a2136347174213634626b762136346b71762136346a61737768617070617621363465702136346c707074772137452136422136427373732a706d696177676b686b6a6d77702a676b6921364260656d687d\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=Province%20breached%20duty%20to%20restore%20hotel%20used%20as%20housing%3A%20judge%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
     },
     {
       "title": "BoC set to hold as inflation and growth concerns fade",
@@ -905,6 +892,18 @@
       "_src": "storeys"
     },
     {
+      "title": "Canada Housing Market Outlook: Summer 2026",
+      "link": "https://news.google.com/articles/CBMiiwFBVV95cUxQZUdsVzJGY0NpSU83MTI5NGtGRXBRS0tUUGtWX1A1NVk5U3Raa3F3eVdjVlRaYzh2VEhhWUdBVE1kMkNJWHlmNnhNSWxJM29MdTY2U0J1NWJlSFlhQUVudGVNOTlDeThQVHBjZGJmV0ZncDE3OFN6blRyU01Ta2pUckRxRGFhSFZLbXFR?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "CMHC predicts weak housing market activity for rest of year in updated forecast",
       "link": "https://news.google.com/articles/CBMizAFBVV95cUxPTnhIdjFMbjl6VkZYS2FlVTVJYkQ0eVViem94TkVOcU5WX3NHNXBWbWRGcmJQRVl3RkxockFDSldWd0FmNGVjUUdqZzVlV3hwY1VKUEc4SDhMcEFrbjNCUVhuMFBTdTFlNEFWenVmd3RScFhwZ1d6dDF5dXZqRkRNZzZYUTNWZkNGdGowTjBvUWdrUXJRMGlJTkQwR2FLZHBfODNfYWJLcFhfaVZqYXlVT3pBNkFyOWdTR3p4MjByMUo4ckFBYmZzTndFMGw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -951,6 +950,18 @@
       "body": "<p>Canadian inflation is slowing, but those living outside Ottawa’s models may struggle to feel relief. <a href=\"https://www.statcan.gc.ca/en/start\">Statistics Canada’s (StatCan)</a> latest Consumer Price Index (CPI) shows growth decelerated in June, largely due to gasoline and shelter. In reality, gas prices remain more than 20% higher than last year, while shelter’s slowdown is driven by modelled ownership costs—not rents, property taxes, or many of the bills homeowners actually pay.</p>\n<h2><strong>Canadian CPI Inflation Slows But Remains Broad</strong></h2>\n<p>Annual CPI growth slowed to 2.8% in June, down 0.4 percentage points from May. On a seasonally adjusted basis, prices fell 0.1%—the first monthly decline since April 2025. StatCan highlighted that five of the eight major components decelerated, though only four were running below the Bank of Canada’s 2% target. Inflation cooled, but much of the basket remains elevated.</p>\n<p>Gasoline provided the biggest drag on inflation. Prices were still 20.5% higher than last year, but that was a sharp slowdown from 33.2% in May. They also fell 10.2% in June, the largest monthly decline since April 2025, when the consumer carbon levy was removed.</p>\n<h2><strong>Shelter Divergence: Rents Still Soaring, Ownership Costs Slow</strong></h2>\n<p><em>Canadian rent inflation: annual growth rate. </em></p>\n<p><em>Source: StatCan; Better Dwelling. </em></p>\n<p>Annual growth of CPI shelter slowed to just 1.5% in June, but it was a very different story for renters and owners. Rent inflation eased to 3.5% in June, its lowest rate since January 2022. That sounds encouraging until you remember it’s slowing from a 2024 peak not seen since the early 1980s. It also remains above the Bank of Canada’s target and more than double overall shelter inflation.</p>\n<p>There was also a hint that slowing rents may not last. Seasonally adjusted rents rose 0.4% in June, equivalent to a 4.9% annualized pace. One month does not make a trend, but sustained growth at that rate would reverse much of the recent cooling.</p>\n<p>So how did shelter inflation fall to just 1.5%? Statistically, much of the relief came from homeownership costs—though owners may struggle to realize any of these modelled savings in their budgets.</p>\n<h2><strong>Canadian Homeownership Inflation Falls To A 13-Year Low </strong></h2>\n<p><em>Canadian ownership costs: annual growth rate. </em></p>\n<p><em>Source: StatCan; Better Dwelling. </em></p>\n<p>Annual growth in homeownership costs slowed to just 0.2% in June, the weakest pace since June 2013. Owners may have trouble recognizing that relief, since the measure blends actual carrying costs with the modelled cost of purchasing a new home.</p>\n<p>Homeowners’ replacement cost—which largely reflects new-home prices—fell 2.4% from last year. That component accounted for virtually all of the downward pressure on shelter and was the largest drag on CPI overall.</p>\n<p>Mortgage interest cost growth fell 0.3% year-over-year, providing another notable drag, while maintenance and repair costs rose just 0.4%—well below their usual pace. Other ownership expenses remain much less cooperative.</p>\n<p>Property taxes and special charges rose 5.6%, still elevated after hitting their fastest pace since the early 1990s in September of last year. Home and mortgage insurance eased to 3.9%, its slowest rate since early 2021, but remains unusually high. It has not fallen below 3% since early 2018, allowing years of elevated growth to compound.</p>\n<p>Canada’s shelter inflation is cooling, but the relief is tied to new-home prices. With virtually no sales, builders’ list prices are being compared with previously inflated values, producing statistical relief that renters and homeowners are unlikely to recognize in their bills.</p>"
     },
     {
+      "title": "Chinese immigrants play outsized role in Canada’s housing scene amid foreign ban",
+      "link": "https://news.google.com/articles/CBMixwFBVV95cUxPRTVmSHdYaDZ0N3Rza0dCSkIwazZXbEpaRTJFNkhsNjA5cWx6VjVQZ09nSHltZTdWWFZvQTREd3RMbzI2emo4U2dKME5qYlE1cW9VenRYMldFc2lfZDFUZVAxUWo5QzRPMVhhejV3b3ByVzRETkF1NVFaNlh3QUUtNXBjYmdvUGxEWGRzeUZ1a2VjcVFXMG5hblBsdlktMldJaVJ2ay0zeUkyRUo4R3ZfSm0ybXA3NExCQzNYQzBaVnJMeTFHdlFr0gHHAUFVX3lxTFBFVVk5amtpZVd5MmVTaHp6RWE3bEJjQUtkSVREUUJnNnpvYVVnaTBuVjItb0RDUm9qU3NmekVQUVlKUjVJOURyVTFFRFVTQlFWYjZLUTRYeGIwRS1QYm1PVUozUXpYTHpQS3M0OFpEOWlCa1NxM3ZmUl9hc081QTk3bDZTQ1NYUkd5ZE1ZV0hMeHNESlRKS3AwRnNMN3hta0NEZFhwTG1ZLTZPN1FMMXRob3Rvazlha2NWbS1HeFdvcWx0X2FPYUU?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "South China Morning Post",
+      "_pubUrl": "https://www.scmp.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Hamilton Housing Market Outlook 2026",
       "link": "https://news.google.com/articles/CBMic0FVX3lxTE1QY2MtTW1Yci10ZnlqemlDamtURFUxYV9LN0Ntd3dwazg2U05nWmxUcXh3dkVrcTRaREdsRWx1SEw4Q0RpNUhsWGt2UWNjc0xJbFpxWGo1dzIzZ0JaZ3hGR2VmWFQxemU1Um5xWEt4aTNZN0E?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -982,7 +993,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "bnnbloomberg.ca",
+      "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1035,6 +1046,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada maintains the policy rate at 2¼%",
+      "link": "https://news.google.com/articles/CBMic0FVX3lxTE16YWhDVlVUaXJ2bWc4aWdtejVlMmFxd2RkWFRoWGlhSktyWW1vaHc2T2V4by1UbVEyeEtOekx4VmIzWVdkTjNhbHl4cTBJUWhlazNoVlg0TE9aVG93T3NkaEpYN1RuQmJTaFlnR3NPc0VZejA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "Bank of Canada",
+      "_pubUrl": "https://www.bankofcanada.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The Bank of Canada holds its interest rate on July 15",
       "link": "https://news.google.com/articles/CBMigAFBVV95cUxOY1I1Mk44TnpNUzNBSGFVblFnd2V2YTBkd1VHTWRjd3N6Q1dwa3JpVDU0VUpBT1JfTUlXcUJYZ1cyeTNmQmFtSU95a2M1NjcwZFRNbmlzY0h2S09pRnlXbFZZMEpDMWRzelFaV0czWjU4cFBXQjBkeUpHeXdrOW5GSA?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1059,30 +1094,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada holds rates at 2.25% as Iran war risks future hikes",
-      "link": "https://news.google.com/articles/CBMigAFBVV95cUxQaTlpT2Joak5teEpsb0ZzdGpKc3JKa3RSZXZsTDNxeGYxcFZ2eEdqa3Z1STE0Z2tpdFNDVElIVVh5MXFycGxrVnhXTlJUN1ZlUDJmcDJ1ZEg1bE96b1I3MTBGZy1FZndFRGtlYjJNenRiamZfYldSRmFVeWJhSHo2cg?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Global News",
-      "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
-      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Canadian Home Sales Jump Following Slower Spring Start",
       "link": "https://news.google.com/articles/CBMilwFBVV95cUxQekd1dlo3bF9ScDZJcnNZSnE3MEtrSGVXU3l4R3VqZ2xqVjFhMDBkU1NfempoUndFd1UwdU9RbWZBd05STDg2eXotWmZPSGN2aFRSN29XcGtBYl8xR194bDRaRVBFbTBPckJ5NktHUl9mZGllVkZLcGtraHZDV0JKaUg2WFQ0YXkwTlk2V3d3N1Z5dzlScXFr?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1092,30 +1103,6 @@
       "_src": "gnontre",
       "_publisher": "crea.ca",
       "_pubUrl": "https://www.crea.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Expert: Bank of Canada’s interest rate announcement",
-      "link": "https://news.google.com/articles/CBMinwFBVV95cUxPZkMyejRybzU3WWtRQ0V2MGp5Qm1IT0pLTTJ0czdqWllyZmhSWWpiWS13RmE3SC1pSEdRR202M1d3TWFsMDliQTdlel9US2xGblNRRlg0aUotdl9BVi1LMndwNkpZUTluaEJIZk4zRGFndS1TTkYzcWV5S1VTcmowcmlYVTBoMEFmdWRuX19fRlY2UVJvZVNtNUhWdDRtcDg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "McGill University",
-      "_pubUrl": "https://www.mcgill.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Home sales in Ottawa down nearly 5% in June",
-      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxNamZQbWgyZVJRX2NnbW1zbzhhdm5lUTJ1cFRfX0s3OGI5cHZMQnFqTmVWWm9uZTlEOWpmNDdrb1d4VmVpTGxzY0Nkc1hBYloycWZMUGZsNmthMnh3eVl5S21yV2FMbi1NakpEWk9jdnVoS0JMM2FfQTRENzgyQkFPLTJvUjlQNnR5?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1162,7 +1149,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1173,7 +1160,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
+      "_src": "gnhprice",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -1186,7 +1173,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnott",
-      "_publisher": "Made in CA",
+      "_publisher": "madeinca.ca",
       "_pubUrl": "https://madeinca.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1198,7 +1185,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "statcan.gc.ca",
+      "_publisher": "Statistics Canada",
       "_pubUrl": "https://www150.statcan.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1239,6 +1226,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Bank of Canada keeps key interest rate at 2.25%, says path remains uncertain",
+      "link": "https://news.google.com/articles/CBMioAFBVV95cUxNRnBvTjB0YXFSME5JX3YzNjFDSlVRN3NWTDNTS3N6M25ibUZFQm53QnB3UzNHWXdfa3B5Tm95S1BVUXpOREs1cU5MTkF4MDhQRzdDY1Q5ZVJnVkZHbDF4NDFmQlVpdGdwRzNqOE9oZmlDcEYzZG5PTDJRZG14cktfemFUYzFWXy16OUdxREFGQUFHRVI2SnUtLWdjZGVkUklm?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada keeps key interest rate at 2.25% as it tries to balance competing economic risks",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxPVDhmV3l4WFRWcmxoejRxdVEteDJnd01RdkJRbGhBYjRJdmhLNHNfbFVjdTY1VTBkUlN2LTVYWlRHR0hmTzJGMzliNXdTajFFS05RWDgxZktONnBGQlRQYml3QVRRdDdnQ1NUamtwSGExLVZ4WWc5eUZHamVtTzN4aEZQWl9xRkpX?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa municipal committee approves zoning for nearly 500 new homes in Woodpark, Kanata",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxPVVVpLWFzYnFIeGVLaEpTZnNwU2JybzcxbjFhd2E5eVFnckc1dk53Qkt6R0F1VHdCNTNTZlV0QkRTdEJMMVZiZ0hIYTE5bXQ2TzJzVmc1RW1qTVAzam5JOFFkNWxIclhpYkprX0R0elJiT2xvbEVnZ3Q4NGEtNkdaQUNHUl9qQWp3ckFfd1ItR0p2RXh5UmMzZDV3Q3dmTUFlVXNwM3MtLUhhOWVRbG5IZGVFWHVucGdGV0JRV3FvYw?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
@@ -1263,18 +1274,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
-      "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
-      "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "Reuters",
-      "_pubUrl": "https://www.reuters.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "6250 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan",
       "link": "https://news.google.com/articles/CBMiuAFBVV95cUxQWkVnYmpoMUdHdnRlVDNXYzI1YkNLU1RMUy1RNDJWenZyeTdnY1NrYXo1WjhnamVSVnFxdlRIZEFVX19DMGdMRU1oWDQxczNQbEl4OG1XQjVMeElDWjdtcXNwTDY5RV9WLU1TemRCb1lsVzNkMVRzMVF1YlJEV3hPRFBNZ21DdDdpMGp1X3liaUhzcEN2T3UyelhHTEpDc0VGWmxrdW5BMEVRcW96dTFUNXg1LTFDMERw?oc=5",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
@@ -1294,7 +1293,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "biv.com",
+      "_publisher": "Business in Vancouver",
       "_pubUrl": "https://www.biv.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1311,6 +1310,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Three cities where Canada’s housing market is changing fast",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxNcm11ZE1UMW5BUlZNb055UGdNSHJlUmpRVnQwQlZOV0I4SU1IeUhiX1Y0Ny1vQTNpazFtVGdDTXUzNEdmNlRGOWhxWlQzUTJkaXJuYjRvbzUtbWFVdV9IMWltQUpESzFMNkdfSHl1bVM1ajVlVUhrWUtyczF4SklJNkw2RVV0a2Q4WHRvQlp6ZWhfbUdXYlFSX3Z1Y3JFNng3dXk1OFlFSXhmWXZXX1BkMUJqVEcxTVhvdndraEU4Ynh5NXBJ?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "The Globe and Mail",
+      "_pubUrl": "https://www.theglobeandmail.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Canada Housing Demand Framework Reveals Immigration Impact",
       "link": "https://news.google.com/articles/CBMiiwFBVV95cUxOYUJ6N180MkxaM3lfRlk1OWF6UFNEa2JzblR2aC1zOXVqNUd6ckJ2VDR4aWpURGpwTW9mLTdjUUk4bDZ1UEZabktwNzN6S2NoVFdyQVhKbG8ycDJZbkdNUThYMEhmZ0NJdnFQcEVDVERvMy04bjNCU1hkRU54R2U0QzhOSTROU25RMTZr?oc=5",
       "pubDate": "Sat, 09 May 2026 07:00:00 GMT",
@@ -1320,18 +1331,6 @@
       "_src": "gnimmig",
       "_publisher": "ImmigCanada",
       "_pubUrl": "https://immigcanada.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa completes 53 per cent of Housing Acceleration Plan actions as committees review progress",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPakxpOGktcmNjeTF4c1VSbXFPcE9aT0JubG91TU5WVlhyX0p5LUdqZVFOcW5QYUtCUDhVRDI1QXVuVkZoVlFDdzVwWlN3V3haSGhPb2NFal9FZll5SFFySUNycUhWaDZwOHhtNEtsNHBrYmFWY1JYcFFMR1M2Q0JTanhXdGNWZlBaaHI0b1FkaU9VUFkyU1U2QkxzekhUcXcwenB3MUcxTnNOaDdqbWJ3Slk4UHB1TlkydVkwdG8weXlaaTluUmM2UkQ4dw?oc=5",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1347,15 +1346,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "GTA home sales up 7% in April as prices shrink: real estate board",
-      "link": "https://news.google.com/articles/CBMid0FVX3lxTE81bXYtUFpuMlZnc1RjRFVKUk12WHJNNU1KSXFGd3l4Z1diUW45Y29MM1A3akJ6VUdfYWZqYl9NbnpCdGcyOFg1RldxdDlCZVNfWmZlUzR2OS1PSUF5akRxUVE0MDFpbjVBVXlacFVuRFpITHdCay04?oc=5",
-      "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+      "title": "What $500K Buys You Across Canada in 2026",
+      "link": "https://news.google.com/articles/CBMicEFVX3lxTE9VZ1NWbUhvSWxLWTFxT014ZW4zN19mcGZLekpJUWlTckowY1NlSlozWDhRVGxBaE1EanVWSjR5bUFjSnFleE1vVHB2QVpFVzV1a3p3ZEY3OURlOWJsejFCV0NUUkJzNDRXTVFJcHJrc0M?oc=5",
+      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
+      "_publisher": "Remax",
+      "_pubUrl": "https://blog.remax.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1366,7 +1365,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "news.ontario.ca",
+      "_publisher": "Ontario Newsroom",
       "_pubUrl": "https://news.ontario.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1402,7 +1401,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "thestar.com",
+      "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1414,20 +1413,8 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "bnnbloomberg.ca",
+      "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa municipal official warns of limited local autonomy under provincial Bill 98 standardization",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxQTExZanNaZHFqREtXbWRzY1VPNUpreHF6b3B6UENTdjlFTXV0VVoyNzVuVThFdGlVMXZ4aDIySmZRSHFFdXQ1eUZIRlZJaVJncFZCanJfWk9VWE5PM1I2VGdRZEFFbWZhZHhJbTJmMFlIc0RFQmJ3THFHaXVTbURCcGhmSnFIZENiVWNiMVJtWUo0ejZlczEwenU0YkpnaWhLWW85VHpYQjVjVGVRYUZZdHpNWmxnckhUcmRpNXdBb3pKdw?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1450,7 +1437,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1464,6 +1451,18 @@
       "_src": "gnhprice",
       "_publisher": "Victoria News",
       "_pubUrl": "https://vicnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Vancouver home sales remain nearly 32% below normal as demand stalls - CMT News",
+      "link": "https://news.google.com/articles/CBMitgFBVV95cUxQZncyc281c2FWSjNOT1BxM1pRZHU2emcxaUJ0b2lNYVc1aF9tTlg1RWtDUWhncGtsRkdlUFJicUhrYmlmdlBQREZvY1BZQVN0aEJ2R2RYREc1cElaOVE3THh6ejliZWk2QWczdFVZVTFPWXpvTHVEamZJLW1xeU0xQlZoZGFOaWpaaXNIai13RnVzcUprMlZjZmtUVFNocVNNNTN1WnRobnVFRVR0ZDEwQ2tzS2JKZw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnhprice",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1551,18 +1550,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Calgary home sales down 11 per cent in February as condo activity slips: board",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxNOVpKMXZKY2R1VFVmZW5ubXNhT0w2MkRKOXpaNThyNEdMcHh5UjVxLU1vWjhKOHRCSDZwdUdzNGJzU2xpX1Z1d2lkbTlYT01iMDVqM0E1Z0ZucHNKblZoaUkyUjlXOGUyVkpMLTRWeF8wZFVvQTlVY3N0WW5sdzhnNUUyWGxmUHh1cTluS3ZpZVNOOG10bi1WR3Vzay1MRjlsdkUtY0NzMzlCaUdaZDItY0ZlQnJlTmNGY3lDZlFNd3ZUU1RfeU85Z3R6cnFBeVR6Ylo0cmJBeUhudGJW?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
       "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -1575,18 +1562,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Calgary home sales fall 11% in February as condo oversupply weighs on prices",
-      "link": "https://news.google.com/articles/CBMiwAFBVV95cUxNUEZscXBNS2FBOF9aS1BObWI5RzhvTW1iZ3JrS3ZiM0t2ZEdZYkE4LUx1RDFoQzZoM2hjaDVWREI1T3ZOTmNsUG1CdkpiaGpZVlIxcVRLRG5CakNMS0JLdkVwMjJvM3RzM3pkckc5N0dzX0hDdlo3emEyalNZUG9EeHhxVl9wZFBKZWZnSXFsZ2h5UkhNLWZuVnNsS3ctS01qSDkzTEI2blNpZGg0bEt2X05sQ1Rib0daNng0N0w1NzQ?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Reality check: Did Trudeau and Carney’s immigration cuts make housing cheaper? Here’s what actually happened",
       "link": "https://news.google.com/articles/CBMixgFBVV95cUxQVDU1c0tFcEYtbDduaFJqak8zZmR4UnRFdVA2WkhGcEZKZ1FIMW1vMHRKc3JWM0k3dFNJcEgtYWpoR3NLeXhqX2ZHc1dPYkRLTTNiaTZHMFp6cE5qckhja2RkVmdLWUZCYlI2d1pWMW95X0k1Y2h0enE0MS1EX2dZUnpvMjFEcFNiYjhWT1QzMTFBcWM2bzhFR0NKUEtpaHp4X2dBc2NoNWhjS3NEdkxTaU1jQzVJalJSemVnMVBGYjhPdGpoZ2c?oc=5",
       "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
@@ -1594,7 +1569,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "thestar.com",
+      "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1618,8 +1593,20 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "thestar.com",
+      "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa approves landmark zoning by-law to boost housing density; city buys $95 million landfill site",
+      "link": "https://news.google.com/articles/CBMizwFBVV95cUxPQl9md2puZlRHQWZNa0xwanFSZWRnb1JiTHgxblVKUEpmRUVoWHd4aFIxTFNTMkJTd1ViWFVEWGhSWjE0Y3kyS3FDTDZZNUxTOGJLbl9COGxJRENENmVNckd0bkxyckxhWmpLZEtUNUFyUWtlTXN3M1FzaUJUTklFMjhxcTRZUm5ZbXMxOXk1T0huY1ZfR25oV3hZUlFKNFhZTV9nazZpSVM1cVhMY2p6SXBxMVdqOFl5VzB6RERlVFNDVDQ5NGhja3lyc2txcGM?oc=5",
+      "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1632,18 +1619,6 @@
       "_src": "gnottdev",
       "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Home prices are now dropping for all property types in Canada",
-      "link": "https://news.google.com/articles/CBMijwFBVV95cUxNMS1DZXFGRXUxakRQTXhqcEZqeEREeFNpOENMeUs3SElJb0VrelIyV0ZYQmdodF9MVGVwSjFfdzZ5M25kc0phNFVFVFhOQTdLTk1IdFJaZGduRUVjM1UyMHVFUVRPU2FUWWZCSkdoMTFVTXRsZEYxN25HMXJVV200dU9fQm1XZlduZ3ZLcl9oSQ?oc=5",
-      "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "INsauga",
-      "_pubUrl": "https://www.insauga.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1678,7 +1653,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "ottawacitizen.com",
+      "_publisher": "Ottawa Citizen",
       "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1692,6 +1667,18 @@
       "_src": "gnottdev",
       "_publisher": "Glen Gower",
       "_pubUrl": "https://glengower.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
+      "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1755,6 +1742,30 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa could allow 3-storey buildings in all neighbourhoods under new zoning bylaw",
+      "link": "https://news.google.com/articles/CBMivgFBVV95cUxQeVRpTmZUeDIyeGptU2UtbW5ueVhtaEFWMGp4a1FQNHp6cm9icW5uQlhvNTRBWDFBdTJfTldmUXZsS3lPSmg0WXNIcjg2OEtfUEU5TUhRd3MwTDNBNVJ1M0g4d2RtRXNmWjZ4QWJwWlJCS3NtZHdxejJMWERvb1VkOXZyNG5lRGZPU00xUFB3SzlXNEtZdUUzSE9leUo5aXhTUjVKSURVNHN6RzBjOFoyeU9TZy1GazhKVXpFSGxR?oc=5",
+      "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Alternative federal budget 2026: Affordable housing and homelessness",
+      "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
+      "pubDate": "Thu, 28 Aug 2025 04:40:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnpolicy",
+      "_publisher": "Policy Alternatives",
+      "_pubUrl": "https://www.policyalternatives.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Government, not greed, is behind Canada’s housing problem: Anthony De Luca-Baratta for Inside Policy",
       "link": "https://news.google.com/articles/CBMiwwFBVV95cUxQcWRiUUc2c1VTVXR5eUVidDhnODBvSS1SLVdIUTRmS2M5b0FVOHVkTy13X1Z6Wlo3ZHBjSnlmZ21pV0xlX3hvQ1pka2pGSldjbUJ6WXBrbGw4bTNOZjJBdk9zOFhpTVZTV01wbmxyaE01RXNoeHVjaWU3UlpIVDV6OERidlFmUjJUaHFGdHNxUUM4ZUpvVkdxS0V5cV9OVW9ucDlQWE9vWVh4bnRzb3RCQU5vOURPM2dmN2V4bm9takJXWDA?oc=5",
       "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT",
@@ -1767,18 +1778,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Building Smarter, Faster: Technology and Policy Solutions for Canada’s Housing Crisis",
-      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQbXR3cWNIdzRzM3BJaWxjbGZxQlVkcnVuZFVPYTNhT0dPVGhGQXpkcjkxTXM2YTdGVXFlSU10SW9hbDhsay1ZSW10WXd3aThpN3RSdnBBVU5nSS1PUVRmaC1PMjJVV1ZNSncxb3FzRi1LVktOOWp2bkJxNmFtbF9udVBSLS1tSUYyaHNzdmpKVjBnYmZFak16ZFNfSUcybVlYa3dWNEJEaGs2UnpIVDEyVmpKOXM?oc=5",
-      "pubDate": "Tue, 29 Jul 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnpolicy",
-      "_publisher": "C.D. Howe Institute",
-      "_pubUrl": "https://cdhowe.org",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Rideau Transit Group, P3 council issue statements following scathing Ottawa LRT inquiry",
       "link": "https://news.google.com/articles/CBMi6gFBVV95cUxPcGN6QmFBeXhHem5hMTZQcnFPMmlhT2FJX2FrVVNlejk4Z2E1alA4UG1ONlFaWDF3eEgyak8zLU91VWxoN19UMWdGMlMtYXl5SzhfM3VGVjNKdDVCM2prNmVGYTMzWUxONHY2dUNwcG4zT0tielhTdjFRZjZKSlRCZjFQcXNDNHl1MmF3dDB3Z2QycUt0UTJCWkxwSll5U1ZpNkEwUVl5eGxlSWdtaTZHYnpnSllpNWRfYWNreGNTeEZwRXFqbWUtRnh2VVg3SVhzNEZpMi1Xa3JuNUdGYjNVV1JKdDN4Y20zcFE?oc=5",
       "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
@@ -1788,18 +1787,6 @@
       "_src": "gnottlrt",
       "_publisher": "constructconnect.com",
       "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Public Inquiry finds there were failures on both sides of Ottawa LRT project",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxQY2FDZGdlWHNZOGlkcm1fQXAtNHUwOFVhejhkdWQzckEtTkpHMk0yZjJYeTR5Vi1tVk9ZQzZfM2RGVTZ6TDhKT0JaV3RsN1BFa2FKcU5QT2gwT1RVN0lIWW14cE11cnFPdXRoc2Fva2pHNTlYbDF4Q3RIQ0lmdkh3aE41WUtRakY1NjBDU283eWF3UDZMLWVINWJraXFKQW95TGhlWHdZMUo?oc=5",
-      "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "ReNew Canada",
-      "_pubUrl": "https://www.renewcanada.net",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1839,6 +1826,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Council OKs $4.6B Stage 2 transit contracts, the largest infrastructure approval in Ottawa's history",
+      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxOQmJwaGNDXzlINl9hUlIzSEtMaEhnVENIb0N1YkdqTHB5OXY3R1VUVVl2TGRaMnFBSFBISi1VTFZBUG1CSlNaYU4wenNLSkhrcURObWtpT21icGc0aDhURmFQZ2Ntd1VvNzJob0g4SkUzbS1vU2dCVENOeXpyYVNzeDFmZFljYkljdW5GcElsNjRRdkZ6MGxqOXVkX2pRNEpKZlJSV3phcTBtTjk0U2RlWmpSMkQ3cWpZS3dkZFNXSVNNbWgxemsyM2tGaWpVcmg3ZmNZbXZwMXFLWkNE?oc=5",
+      "pubDate": "Thu, 07 Mar 2019 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Prime Minister announces significant funding to extend Ottawa’s Light Rail Transit system",
       "link": "https://news.google.com/articles/CBMiuwFBVV95cUxOcUJkVDdzbHU0NVBKemVYU2stUEM5UFBQUDkxQ0lhTTZfQnBRV1lEeGlERG1yekpGLVFOelhJZUFDVWxKc1NJQkQ5eGtLemtadk1INFRveUkwS2lJajdVdnlfSDBYZ2tKZ3Nmb1NTeUE3cHdOUjVQZzVmTjhxSDhzQnFSVm5lU3VnVkdXdXl1cmlsNTN6VVRRdGRlY25fYy01OG56NVpKcVQ1NDBkLWNoWlFURFMwRTFFTUEw?oc=5",
       "pubDate": "Fri, 16 Jun 2017 07:00:00 GMT",
@@ -1849,17 +1848,6 @@
       "_publisher": "pm.gc.ca",
       "_pubUrl": "https://www.pm.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada maintains the policy rate at 2¼%",
-      "link": "https://www.bankofcanada.ca/2026/07/fad-press-release-2026-07-15/",
-      "pubDate": "",
-      "description": "The Bank of Canada today held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-      "content": "",
-      "thumbnail": "https://www.bankofcanada.ca/wp-content/uploads/2022/01/default-og-image.jpg",
-      "_src": "boc",
-      "_ogDesc": "The Bank of Canada today held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-      "body": "<p>The Bank of Canada today held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.</p>\n<p>Canada’s economy is showing signs of improvement. Growth is picking up and inflation is projected to ease gradually from its recent spike. There are still important risks and uncertainties related to the war in the Middle East and US trade policy.</p>\n<p>Since the April <em>Monetary Policy Report</em> (MPR), global economic prospects have been dented by higher oil prices stemming from the Middle East conflict. At the same time, the build-out of artificial intelligence (AI) is supporting economic activity in a growing number of countries. Oil prices are still lower than their peak in April but the situation in the Middle East remains volatile. The path for global inflation is highly dependent on how the conflict unfolds.</p>\n<p>The US economy is growing at about 2½%, mostly because of strong consumption and booming AI investment. China’s economy is expanding solidly thanks to robust exports. Economic activity in the euro area has been weighed down by high energy prices, but is expected to strengthen in the second half of the year if energy prices come down as anticipated.</p>\n<p>The Bank projects global GDP growth will slow to 2¾% in 2026, mostly because of the effects of the Middle East conflict, and recover to around 3¼% in 2027 and 2028.</p>\n<p>Financial conditions in Canada have eased since April and global equity markets have been buoyant. US bond yields have risen, while those in Canada are little changed. This differential has contributed to the depreciation of the Canadian dollar.</p>\n<p>Canada’s GDP data over the past year was choppy and growth stalled as the economy adjusted to new tariffs, high uncertainty and slower population growth. Labour market conditions have remained soft, reflecting ongoing economic slack. The unemployment rate was 6.5% in June and has hovered in a range of 6½%-7% since the end of 2024. There are clear signs that economic growth has resumed in the second quarter, with growth estimated at 2½%. While this largely reflects the unwinding of temporary factors, sources of economic growth appear to be broadening.</p>\n<p>Recent indicators point to continued solid consumer spending. Housing activity has been weak but looks to be stabilizing. Export growth has resumed and is expected to continue to strengthen, albeit on a lower path. Business investment is projected to pick up modestly, boosted in the near term by the oil and gas sector. Although the Canada-US-Mexico Agreement is now subject to annual reviews, more businesses report they are finding ways to navigate through the uncertainty. Government spending also contributes to higher economic activity over the projection.</p>\n<p>Following GDP growth of 0.7% in 2026, the Bank projects the economy will grow by 1.8% in both 2027 and 2028. As the recovery proceeds, economic slack will be gradually absorbed.</p>\n<p>CPI inflation rose further to 3.2% in May, mainly because of higher gasoline prices linked to the war in the Middle East. Excluding gasoline, inflation was 2.2% and measures of core inflation remained close to 2%. Near-term inflation expectations are sensitive to changes in gasoline prices but longer-term inflation expectations remain well anchored. War-related cost pressures are still working their way through some consumer prices but are being offset by downward pressure on other prices from continued economic slack. CPI inflation is expected to stay elevated in June and then ease gradually in the coming months, returning to around 2% in early 2027, although this forecast is dependent on the path for oil and gasoline prices. Inflation is forecast to average around 2% in 2027 and 2028, albeit with some monthly fluctuations because of base-year effects.</p>\n<p>Governing Council judges the current policy rate remains appropriate to sustain the economic recovery and bring inflation back to the 2% target, in line with the MPR projections. Uncertainty is still high. Governing Council will continue to assess the strength of the Canadian economy and the outlook for inflation, and is prepared to adjust monetary policy as needed. The Bank is committed to maintaining Canadians’ confidence in price stability through this period of global upheaval.</p>\n<h2>Information note</h2>\n<p>The next scheduled date for announcing the overnight rate target is September 2, 2026. The Bank’s next MPR will be released on October 28, 2026.</p>\n<h2>Monetary Policy Report—July 2026</h2>\n<p>Canada’s economy has been weak but is showing signs of improvement. Growth is expected to pick up, and inflation is projected to ease to around 2%. Uncertainty remains elevated.</p>\n<h2>Press Conference: Monetary Policy Report – July 2026</h2>\n<p><em>Release of the Monetary Policy Report</em> – Press conference by Governor Tiff Macklem and Senior Deputy Governor Carolyn Rogers (10:45 (ET) approx.).</p>\n<h2>Monetary Policy Report Press Conference Opening Statement</h2>\n<p>Governor Tiff Macklem discusses the <em>Monetary Policy Report</em> and the key issues involved in the Governing Council’s deliberations about the monetary policy decision.</p>\n<h2>Summary of Governing Council deliberations: Fixed announcement date of July 15, 2026</h2>\n<p>This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the monetary policy decision on July&nbsp;15, 2026.</p>"
     },
     {
       "title": "Bank of Canada publishes report on  monetary policy framework consultations",
