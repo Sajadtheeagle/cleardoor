@@ -1,6 +1,6 @@
 {
-  "ts": 1785675320191,
-  "fetched": "2026-08-02T12:55:20.191Z",
+  "ts": 1785689124230,
+  "fetched": "2026-08-02T16:45:24.230Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,6 +89,17 @@
   ],
   "items": [
     {
+      "title": "Michigan Supreme Court rejects permit for Enbridge oil pipeline under Great Lakes",
+      "link": "https://www.bnnbloomberg.ca/markets/oil/2026/08/02/michigan-supreme-court-rejects-permit-for-enbridge-oil-pipeline-under-great-lakes/",
+      "pubDate": "Sun, 02 Aug 2026 15:55:42 -0400",
+      "description": "Enbridge wants to bury the pipeline in a tunnel under the straits. Environmentalists and Michigan Gov. Gretchen Whitmer want to move the pipeline away from the waterway altogether saying a spill would be catastrophic to the Great Lakes and surrounding area.",
+      "content": "<media:description type=\"plain\"><![CDATA[This photo provided by the Michigan Department of Environment, Great Lakes, and Energy in June 2020 shows damage to anchor support EP-17-1 on the east leg of the Enbridge Line 5 pipeline in the Straits of Mackinac in Michigan, displayed on a television screen. (Michigan Department of Environment, Great Lakes, and Energy via AP, File)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Uncredited</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/OM5AFYD2MTCRRRSNSBDVD4AITA.jpg?auth=57c8458b52552b30474b2d1bc51e4243b4bd22b0e656758809d7094c6b6d44b9&amp;smart=true&amp;width=1400&amp;height=933",
+      "_src": "bnn",
+      "_ogDesc": "Enbridge wants to bury the pipeline in a tunnel under the straits. Environmentalists and Michigan Gov. Gretchen Whitmer want to move the pipeline away from the waterway altogether saying a spill would be catastrophic to the Great Lakes and surrounding area.",
+      "body": "<p>The Michigan Supreme Court has ordered state regulators to reconsider a key permit that allowed a planned tunnel to carry an oil pipeline under part of the Great Lakes to move forward.</p>\n<p>The 6-1 decision further clouds the future of the 73-year-old pipeline owned by Canadian energy transportation company Enbridge that carries petroleum from Superior, Wisconsin, to Sarnia, Ontario.</p>\n<p>The part of the pipeline in question, called Line 5, runs for 4 miles (6 kilometers) along the bottom of the Straits of Mackinac where Lakes Huron and Michigan meet.</p>\n<p>Enbridge wants to bury the pipeline in a tunnel under the straits. Environmentalists and Michigan Gov. Gretchen Whitmer want to move the pipeline away from the waterway altogether saying a spill would be catastrophic to the Great Lakes and surrounding area.</p>\n<p>The Michigan Public Service Commission granted a permit to build the tunnel in 2023. Four Michigan tribal nations along with several environmental groups sued.</p>\n<p>The Michigan Supreme Court ruled Friday that when they granted the permit, regulators failed to consider if the tunnel project will extend the lifetime of the pipeline, resulting in more harm to the environment.</p>\n<p>The ruling also said the Public Service Commission wasn’t consistent when it compared alternatives to the pipeline like using trucks or trains to move the oil and didn’t assess how the tunnel might impact fishing, boating and other public trust rights on the Great Lakes.</p>\n<p>Opponents of the pipeline say this type of project has never been done anywhere else and would turn the Straits of Mackinac, which is a sacred site for the Indigenous Anishinaabe tribes, into a construction site for years.</p>\n<p>“Whether Line 5 is suspended in the water or encased in a tunnel, it is simply a terrible idea to pump more than half a million barrels of oil every day through the middle of the Great Lakes,” attorney David Gover with the Native American Rights Fund said in a statement.</p>\n<p>Enbridge is reviewing its legal options after the ruling and said it is disappointed for another delay in a project that has been under review for nearly a decade and would “enhance environmental protection of the Great Lakes while maintaining critical energy reliability for the region,” spokesman Ryan Duffy said in a statement.</p>\n<p>Enbridge proposed the pipeline tunnel nearly a decade ago around the time a ship anchor dented part of the line. The company said the tunnel would massively reduce the possibility of an oil spill, but environmentalists said building the tunnel under the bottom of the Straits of Mackinac would cause noise, vibrations and permanent environmental damage.</p>\n<p>In a different set of court cases, Gov. Whitmer and other state officials have been trying since 2020 to shut down the pipeline under the straits.</p>\n<p><i>Jeffrey Collins, The Associated Press</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
       "title": "The Week Ahead: Earnings from Shopify, Uber",
       "link": "https://www.bnnbloomberg.ca/investing/2026/08/02/the-week-ahead-earnings-from-shopify-uber/",
       "pubDate": "Sun, 02 Aug 2026 10:00:00 -0400",
@@ -156,18 +167,6 @@
       "body": "<p>A Canadian artificial intelligence expert says society should ensure that AI is “properly governed” amid a push in the United States to place guardrails on the rapidly advancing technology.</p>\n<p>This week, key players from major AI and technology companies <a href=\"https://www.ctvnews.ca/sci-tech/article/employees-at-the-worlds-biggest-ai-companies-are-calling-for-a-slowdown-in-ai-development/\" rel=\"\">wrote an open letter</a> urging the U.S. government to support a global effort to develop tools that can “deliberately pace the frontier of automated AI development.”</p>\n<p>The signees wrote that “industry, government, and society at large may need the option to buy time to address emerging risks, develop security measures, and strengthen oversight.”</p>\n<p>The letter was signed by more than 1,000 staff, including the chief scientist of OpenAI, one of the ChatGPT developer’s original co-founder, and vice-presidents at Meta and Google, CNN reported. The petition was created in the wake of an “unprecedented” breach by a <a href=\"https://www.ctvnews.ca/business/article/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-at-startup/\" rel=\"\">rogue OpenAI autonomous agent</a>.</p>\n<p>“There should be caution and hesitancy to make sure this technology is properly governed, because things like the hack that OpenAI system did can happen,” Mark Daley, chief AI officer at Western University in London, Ont., said in an interview with CTV Your Morning on Thursday.</p>\n<p>However, Daley suggests AI can also provide massive benefits, including in the medical field.</p>\n<p>“Those very same systems could help us discover cures to rare diseases that we otherwise wouldn’t have the bandwidth to research,” he said, adding there’s potential for “so much possible public good” to come from AI.</p>\n<p>“That’s what excites me.”</p>\n<h2>U.S. lawmakers propose ‘AI kill switch’ bill</h2>\n<p>Due to security risks from the rising power of AI, U.S. lawmakers have recently proposed an <a href=\"https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can\" rel=\"\">“AI Kill Switch Act,”</a> enabling federal officials to require AI companies to shut down models that pose a danger to humans and the economy. A bipartisan group in Washington also proposed a bill<b> </b>that ​would require<b> </b>independent security audits for powerful AI models.<b> </b></p>\n<p>But these efforts may face pushback. Daley said the petitioners may find it challenging to get the U.S. government’s support, because of the “geostrategic race” between the U.S. and China.</p>\n<p>“If the U.S. slows down, China could move ahead, and that’s obviously not in the interest of the U.S.,” he said.</p>\n<p>Daley said the world needs a global mechanism that requires participation from countries, similar to nuclear weapons and arms control verification.</p>\n<p>This mechanism would “verify what level of capability everyone has, and that’s the lynchpin ensuring a safe future,” he said.</p>\n<p><i>With files from CNN and Reuters</i></p>\n<p><i>Watch the video above for the full interview</i></p>\n<h2>Related Stories</h2>"
     },
     {
-      "title": "Single-family home in Ottawa goes for $357,000",
-      "link": "https://news.google.com/articles/CBMimgFBVV95cUxQaEN3ME1qMGZLX1M5MVh1ZllwcXo1NHVwNExzSmdsWmwtamk2Vkt2VW5YZzRqbUI1TTlpRjJVd293TmVuOHdjeXZYS1hpa0FSaGdiWGNQck1oMEF5NldSbzA4OFQtSEJweEhXMVZCSWlhV2FVaWd5eXRQLWVnR3ZOQ2pUNEJSWlRxNVRxNXhVWTUyQnV0dllCUjdR?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 11:00:01 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Shaw Local",
-      "_pubUrl": "https://www.shawlocal.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Bank of Canada's Macklem defends use of replacement workers during strike",
       "link": "https://www.bnnbloomberg.ca/business/politics/2026/07/31/bank-of-canadas-macklem-defends-use-of-replacement-workers-during-strike/",
       "pubDate": "Sat, 01 Aug 2026 01:28:50 -0400",
@@ -210,17 +209,6 @@
       "_src": "bnn",
       "_ogDesc": "The federal government confirmed Friday that it has approved plans for the Crawford Nickel Project, a project estimated to add up to $70 billion to Canada’s GDP.",
       "body": "<p>The federal government confirmed Friday that it has approved plans for the Crawford Nickel Project, a project estimated to add up to $70 billion to Canada’s GDP.</p>\n<p>The new mine, owned by <a href=\"https://canadanickel.com/\" target=\"_blank\" rel=\"\" title=\"https://canadanickel.com/\">Canada Nickel</a>, was one of the <a href=\"https://www.ctvnews.ca/northern-ontario/article/excitement-as-crawford-nickel-project-put-on-the-fast-track-by-the-federal-government/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/northern-ontario/article/excitement-as-crawford-nickel-project-put-on-the-fast-track-by-the-federal-government/\">special projects fast-tracked last November</a> by the federal government as part of the response to the trade war launched by the United States.</p>\n<p>Located in the Timmins Nickel District in northeastern Ontario, Crawford is expected to be one of the world’s largest nickel sulphide projects and is designed to produce low-carbon nickel while incorporating proprietary carbon mineralization technologies capable of permanently storing carbon dioxide.</p>\n<p>“The federal government is working to ensure major projects get built that create high-paying jobs for Canadians and greater economic resilience for Canada, all while protecting the environment and upholding Indigenous rights,” said a July 31 news release from the <a href=\"https://www.canada.ca/en/impact-assessment-agency/news/2026/07/the-federal-government-announces-major-milestone-for-the-crawford-nickel-project.html\" target=\"_blank\" rel=\"\" title=\"https://www.canada.ca/en/impact-assessment-agency/news/2026/07/the-federal-government-announces-major-milestone-for-the-crawford-nickel-project.html\">Impact Assessment Agency of Canada</a>.</p>\n<p>“Today, the Minister of the Environment, Climate Change and Nature issued her decision statement for the Crawford Nickel Project in Ontario, determining that the potential effects within federal jurisdiction are justified when taking into account the benefits this project will provide.”</p>\n<p><a href=\"https://wp-canadanickel-2025.s3.ca-central-1.amazonaws.com/media/2026/07/CNC-NR_Crawford_Final_Decision_Statement_VFF.pdf\" target=\"_blank\" rel=\"\" title=\"https://wp-canadanickel-2025.s3.ca-central-1.amazonaws.com/media/2026/07/CNC-NR_Crawford_Final_Decision_Statement_VFF.pdf\">In its news release</a>, Canada Nickel said Crawford will supply chromium and nickel sulphide in support of “critical supply chains in defence, aerospace, stainless steel, electric vehicle batteries, and advanced manufacturing.”</p>\n<p>“The Crawford Nickel Project also underpins Canada Nickel’s broader vision for the potential to establish a zero-carbon industrial cluster in northeastern Ontario, leveraging the company’s innovative carbon mineralization technologies and downstream processing opportunities.”</p>\n<p>The company has already <a href=\"https://www.ctvnews.ca/northern-ontario/article/canada-nickel-signs-agreement-with-three-northern-ont-first-nations/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/northern-ontario/article/canada-nickel-signs-agreement-with-three-northern-ont-first-nations/\">signed agreements with First Nations in the area</a>, including a $20 million equity investment by Taykwa Tagamou Nation – the largest known First Nation investment in a critical minerals project in Canada.</p>\n<p>The project is an open-pit nickel-cobalt mine and on-site metal mill, located 42 kilometres north of Timmins on Highway 655 near the Highway 11 intersection.</p>\n<p>It is one of the largest nickel deposits in the world and, once operational, would have a mine ore production capacity of 240,000 tonnes per day and a mill ore input capacity of 120,000 tonnes per day.</p>\n<p>The project would operate for about 41 years and create about 4,000 jobs. Federal approval will help Canada Nickel raise the r<a href=\"https://www.ctvnews.ca/northern-ontario/article/canada-nickel-close-to-securing-676m-loan-to-develop-massive-nickel-deposit-near-timmins/\" target=\"_blank\" rel=\"\" title=\"https://www.ctvnews.ca/northern-ontario/article/canada-nickel-close-to-securing-676m-loan-to-develop-massive-nickel-deposit-near-timmins/\">emaining financing for construction costs</a>, estimated at more than $2 billion.</p>\n<p>“The project will serve as an anchor of Canada’s global leadership in clean industrial materials and is expected to attract $5 billion in investment and could create 4,000 new careers, securing Canada’s place at the forefront of the clean economy,” said the release from the <a href=\"https://www.canada.ca/en/impact-assessment-agency/news/2026/07/the-federal-government-announces-major-milestone-for-the-crawford-nickel-project.html\" target=\"_blank\" rel=\"\" title=\"https://www.canada.ca/en/impact-assessment-agency/news/2026/07/the-federal-government-announces-major-milestone-for-the-crawford-nickel-project.html\">Impact Assessment Agency of Canada</a>.</p>\n<p>“The proponent will still be required to obtain any necessary authorizations and permits.”</p>\n<p>Mark Selby, CEO of Canada Nickel, welcomed the federal government’s decision.</p>\n<ul><li><a href=\"https://www.ctvnews.ca/app/\" target=\"_blank\"><strong>Download the CTV News app now</strong></a></li></ul>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters/\" target=\"_blank\"><strong>Sign up for breaking news alerts</strong></a></li></ul>\n<ul><li><a href=\"https://www.ctvnews.ca/newsletters/\" target=\"_blank\"><strong>Get daily newsletters with the top local stories emailed to your inbox</strong></a></li></ul>\n<p>“Today’s decision recognizes the strategic importance of responsibly developing Canada’s critical mineral resources in partnership with all levels of government and Indigenous Nations while maintaining rigorous environmental standards,” Selby said.</p>\n<p>“I am very proud of our team, which completed this key federal permit in just four years and advanced Crawford from its fifth drill hole through feasibility study to today’s milestone in under seven years - substantially faster than typically required for large-scale projects.”</p>\n<p>However, Carol Anstey, Conservative shadow minister for Natural Resources, was less impressed.</p>\n<p>“Seven years. One project. Still zero shovels in the ground. That’s the Liberal record under the Impact Assessment Act,” Anstey said in a statement to CTV News.</p>\n<p>“Carney claims his government is building at speeds never seen before, yet it took seven years for a single project to receive approval, and construction still has not begun. Meanwhile, the same Liberal anti-development laws still stand in the way of mines, pipelines, LNG facilities and other major projects across Canada.”</p>"
-    },
-    {
-      "title": "Liberals block hearings on Gordie Howe bridge deal as government MP admits confusion",
-      "link": "https://www.bnnbloomberg.ca/business/politics/2026/07/29/house-committee-meeting-today-to-debate-gordie-howe-bridge-deal/",
-      "pubDate": "Fri, 31 Jul 2026 21:53:53 -0400",
-      "description": "Liberal MPs have blocked parliamentary hearings aimed at clarifying what the Carney government promised U.S. President Donald Trump to get the Gordie Howe International Bridge opened.",
-      "content": "<media:description type=\"plain\"><![CDATA[Transports trucks use the Gordie Howe International Bridge in Windsor, Ont., on Monday, July 27, 2026, the first day the crossing was open to vehicles. THE CANADIAN PRESS/Dax Melmer]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Dax Melmer</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/OSW3AOZVVAI52PP2PL5P4JGBCA.jpg?auth=afaa2cad59825f28083c62834dda05d2410418474bcc1299abbce15439a16d26&amp;smart=true&amp;width=1400&amp;height=933",
-      "_src": "bnn",
-      "_ogDesc": "Liberal MPs have blocked parliamentary hearings aimed at clarifying what the Carney government promised U.S. President Donald Trump to get the Gordie Howe International Bridge opened.",
-      "body": "<p>OTTAWA — Liberal MPs have blocked parliamentary hearings aimed at clarifying what the Carney government promised U.S. President Donald Trump to get the Gordie Howe International Bridge opened.</p>\n<p>The move to shut down hearings came as one Liberal MP admitted she had been confused by her own government’s position.</p>\n<p>The House committee on government operations and estimates met Wednesday at the request of the Conservatives to decide whether to hold hearings on a revenue-sharing agreement with the U.S. that convinced Washington to open the bridge this week.</p>\n<p>The proposed agreement in principle says Canada will share half of net toll revenues with the U.S. for the next 15 years. That seems to delay a 2012 agreement that would see Canada recover its costs from financing the construction of the bridge before sharing revenues.</p>\n<p>Prime Minister Mark Carney said on previous occasions that the tolls would not be split with the United States until after Canada’s construction debt is paid off.</p>\n<p>Speaking to reporters in Charlottetown last week, Carney admitted he could have been more clear in his comments.</p>\n<p>“Could I have explained it better on a Sunday morning at Stampede? Yeah. With a cowboy hat on? Yes, I could have explained it better,” Carney said at the time.</p>\n<p>Liberal MP Pauline Rochefort told the committee Wednesday that she was initially confused by what her government was saying.</p>\n<p>“When I first learned of the 2026 agreement in principle, I will admit that I was confused, and I can therefore appreciate why there has been misunderstanding,” she said. “The confusion disappeared completely once I recognized that there were two separate agreements that worked together.”</p>\n<p>Tory MP Harb Gill said the bridge deal appears to be a concession to the U.S.</p>\n<p>“This government’s negotiating posture reminds me of a cheap lawn chair. (It) looks sturdy sitting there, then somebody puts a little pressure on it, and it falls immediately. There goes another leg, and somehow the press release the following day says the chair is stronger than ever,” he said.</p>\n<p>Conservatives advanced a motion at committee to call in three federal ministers for hours of questioning and direct the parliamentary budget officer to analyze costs and revenues associated with the bridge.</p>\n<p>The majority Liberals voted against those hearings, arguing the motion did not speak to the benefits of the deal. They did not propose amendments to the motion.</p>\n<p>MPs from both parties spoke at length during Wednesday’s proceedings. One compared the situation to a pigeon trying to evade a cat and another explained at length the roots of the word “pontificate.”</p>\n<p>Multiple MPs made comments about whether wearing a cowboy hat prevents the wearer from speaking truthfully.</p>\n<p>Committee chair Kelly McCauley repeatedly asked MPs to stick to discussing the motion at hand. NDP MP Heather McPherson accused the government of filibustering in order to avoid a vote.</p>\n<p>Conservative Leader Pierre Poilievre showed up briefly during a recess, saying he was there to support the team. He left through a side door without taking questions from reporters.</p>\n<p>At a news conference Wednesday in Red Deer, Alta., Carney argued Canada had paid a small sum compared to the economic benefit the bridge offers.</p>\n<p>“That’s being pragmatic and moving forward. And we’ve got a bridge that’s open, we’ve got opportunities open,” he said.</p>\n<p><i>This report by The Canadian Press was first published July 29, 2026. </i></p>\n<p><i>Dylan Robertson, The Canadian Press</i></p>"
     },
     {
       "title": "$389M Metro Vancouver developer subsidy ‘strikes a balance,’ says chair",
@@ -360,20 +348,8 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "saltwire.com",
+      "_publisher": "PNI Atlantic News",
       "_pubUrl": "https://www.saltwire.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "The Canadian Real Estate July 2026 Market Breakdown",
-      "link": "https://news.google.com/articles/CBMiigFBVV95cUxNcGFOOGZLQWZKZUhTWFhVbW9FWjNBWkZ2WmxPZEMtRXBCUm5rQUwzRm5nSVN6OEdZaVlMdUVUdWRlSmtEenVmTWJVMWNOeWlwRDdsb0ppb3NpLWxPUEFqaEJ3aXNoWEJPRms5WWdWWEQyU1NjdzdTVDhYS202Y2Y1N2QyMmVqOHRxbEE?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 09:02:10 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Real Estate Magazine Canada",
-      "_pubUrl": "https://realestatemagazine.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -511,7 +487,7 @@
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
+      "_src": "gnontre",
       "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
@@ -524,18 +500,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/realtor-ca.png?id=67558512&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "Northern housing costs squeeze supply despite affordability gains",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxQZVlRMlZnOHhPcDNmcDc3WVI4eXl5R29qbXhmb2tMOTZtZU80YlFEMTY3UmRfTDlRTDdQUlRzNkREQVB1aGdoTmZiOVQ2RUtfdkZVVWtXMHQ1QnhrbXJJNkUzTFBkM2s3M3Z0UnZzX1NyZFVTcnVWa2VrU1V6aXlQLW9weDFqMENDblpkTGszSG1WOGNXc29TT3U5QTExNURuUjEzOHRVRXhqQ25WcHpHRV9hMG1hdlk1RFpGZUQ2c1NraklMZDhfS2N2Zw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 20:28:53 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Fixing housing affordability could cost $1.7 trillion, economist says",
@@ -585,7 +549,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "PR Newswire Canada",
+      "_publisher": "Newswire Canada",
       "_pubUrl": "https://www.newswire.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -599,18 +563,6 @@
       "_src": "gnre",
       "_publisher": "Business in Vancouver",
       "_pubUrl": "https://www.biv.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "/R E P E A T -- Media Advisory: CMHC to release 2026 Northern Housing Report/",
-      "link": "https://news.google.com/articles/CBMi6wFBVV95cUxOUnYxREk3ZXpFYko4T21Sb1d3VU5HUFZUVlhxaWFlazY4TDdtMlhTQjFhREFqdzBCNkk5NFBoX2p0bEgtWXNFa0p0OTFpcUxMNVBMWnZKRERnUVZZX1BXTEJGWEFYX2ZGOXZTYm5yYnZja3hVVENnSENuVjFmRjBIc0wzeklkSVcxdk9EWXY3OFFQckY4UnJoZktiS3RKeWVDbU1QUzB4d3pkYl9XZDVwRjBTS2lFWnpKeEJ0aVAzYjNETm5JTnVHaW11YTBYaXJRZ2hZV29Gdl8wcnVYdkZ0SWlBWU4zMVFaeTNj?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 13:00:31 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -641,18 +593,6 @@
       "_src": "gnmort",
       "_publisher": "Yahoo! Finance Canada",
       "_pubUrl": "https://ca.finance.yahoo.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "CMHC forecasts gradual housing market recovery",
-      "link": "https://news.google.com/articles/CBMiaEFVX3lxTFBiblM1UE44UEVnWWxLeGViWE1pdHZjSmIxbDJMdjM0dkMtMWhGcVVwOEhFVXYwSy1xNlgtdW5iM3JUUEgtWFdLNVRJTEFYMUk2V2RpTUF2YjB1T2pqWDdBNUVoVGNJWUhF?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:24:18 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "reminetwork.com",
-      "_pubUrl": "https://www.reminetwork.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -811,7 +751,7 @@
       "thumbnail": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/07/web1_a01-07242026-vtc-news-ramada-lawsuit.jpeg;w=960",
       "_src": "timescolonist",
       "_ogDesc": "The Duncan Ramada suffered damage, including burns from guests smoking and using drugs, as well as defecating and urinating in their rooms, the manager said.",
-      "body": "<p>The province breached its obligation to restore a Duncan hotel used as temporary housing during the COVID-19 pandemic to its original condition, and failed to pay rent while the hotel was in unusable condition, a judge has ruled.</p>\n<p>The Ramada hotel&rsquo;s general manager &ldquo;provided considerable, and at times, graphic evidence about what occurred at the hotel while it was occupied by the vulnerable population, including but not limited to significant drug use, sex work and the premises being used as bicycle &lsquo;chop shops,&rsquo; &rdquo; Justice Karrie A. Wolfe said in a decision at B.C. Supreme Court in Victoria.</p>\n<p>He described damage from guests &shy;smoking and using drugs in rooms, including burns on carpets, furnishing and mattresses, ceiling fans detached and guests defecating and urinating in their rooms instead of using bathrooms.</p>\n<p>The 34-room hotel just off the highway was leased temporarily by the Cowichan branch of the Canadian Mental Health Association, with rent paid to the owner by B.C. Housing.</p>\n<p>B.C. Housing later took over the CMHA Cowichan branch&rsquo;s lease obligations.</p>\n<p>All residents associated with B.C. Housing vacated the hotel by the end of April 2022.</p>\n<p>The hotel&rsquo;s owners subsequently launched a lawsuit against B.C. Housing and the CMHA Cowichan branch, arguing the two breached their agreement by failing to restore the hotel to its original &shy;condition and failing to pay rent for the rooms when the building was still unfit for habitation after the lease ended.</p>\n<p>While the hotel owners initially named the CMHA Cowichan branch as a defendant in the lawsuit, they dropped the claim against the mental health association shortly before the trial started in November.</p>\n<p>Both the owners and the province accepted there was an agreement between them that allowed B.C. Housing to use the property as housing between Dec. 1, 2020, and April 30, 2022.</p>\n<p>But B.C. Housing only continued &shy;paying rent until the end of September 2022, the point at which it believed repairs would &shy;reasonably have been completed if not for what it argued were &ldquo;obstacles and delays&rdquo; on the part of the hotel.</p>\n<p>An engineer tasked by B.C. Housing to assess damage found there was &ldquo;significant damage&rdquo; to the rooms, including to walls, baseboard trims, door trims and casings, window coverings, mattresses and box springs, carpets, furniture and bathroom fixtures. He found there was no possibility to restore furniture to consumer use, and any items salvaged would only be suitable for donation.</p>\n<p>Exterior repairs needed included removal of debris and minor graffiti, privacy-fencing upgrades, painting, minor landscaping and general cleaning, the engineer determined.</p>\n<p>In August 2022, B.C. Housing staff emailed the hotel manager with two options for restoration: B.C. Housing could pay an engineer to complete repairs estimated at just over $1 million, but it would not be responsible for any delays caused by the hotel owners, or B.C. Housing could pay the amount to the hotel owners as a settlement and leave the owners to work directly with the engineer.</p>\n<p>The hotel manager said the engineer summarized the majority of work needed, but more repairs would be required and he had asked the engineer to provide an updated quote.</p>\n<p>No revised quote was ever prepared, the decision says.</p>\n<p>A B.C. Housing employee accused the hotel manager of purposely delaying its response to B.C. Housing&rsquo;s offer to do the restoration work, something the manager denied.</p>\n<p>At the end of August 2022, the B.C. Housing employee sent the hotel manager an email &shy;saying B.C. Housing would make a final payment of $178,250 and &shy;consider its obligations under the lease fulfilled.</p>\n<p>Both parties agree that by the end of September 2022, B.C. Housing had paid $867,675 to the hotel owners as compensation for the loss of use of the rooms from May to September 2022, $60,041 for security and fencing and $45,568 to the engineering company for consulting.</p>\n<p>Wolfe said there was &ldquo;little doubt&rdquo; that the province breached its obligation to restore the hotel.</p>\n<p>All 34 rooms had been &shy;gutted as of May 20, 2022, and have not been restored, leaving &ldquo;no question&rdquo; the hotel has not been restored to a functioning Ramada hotel, Wolfe said in her decision.</p>\n<p>She acknowledged the &shy;province said it did everything reasonably possible to move the restoration forward but was hampered by a disagreement over the scope of the work and what it alleged was non-responsiveness from the hotel owners, something they dispute.</p>\n<p>Both parties agreed that assessing the hotel&rsquo;s conduct with respect to its contractual obligations should be left to the second phase of the trial.</p>\n<p>Costs will also be addressed at a future date.</p>\n<p>B.C. Housing said through a spokesperson that the parties could not agree on final terms to return the building to its final condition.</p>\n<p>&ldquo;We respect the court process, and have a range of views on this matter, which we will continue to advance through appropriate legal avenues,&rdquo; a spokesperson said.</p>\n<p>B.C. Housing declined to &shy;comment further while the &shy;matter continues through the court process.</p>\n<p>Lawyers for the owners declined to comment because the second phase of the trial remains before the courts.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"34465153555a195158585d5b404074405d595147575b585b5a5d47401a575b59\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12586094&amp;t=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#013e7274636b6462753c52696073646524333167736e6c24333155686c6472243331426e6d6e6f68727524324024333151736e77686f6264243331637364606269646524333165747578243331756e243331736472756e7364243331696e75646d243331747264652433316072243331696e7472686f662432402433316b7465666427606c713a636e65783c69757571722432402433472433477676762f75686c6472626e6d6e6f6872752f626e6c2433476d6e62606d2c6f64767224334771736e77686f62642c63736460626964652c657475782c756e2c736472756e73642c696e75646d2c747264652c60722c696e7472686f662c6b746566642c303334393731383524324774756c5e726e74736264243245446c60686d5e526960736424333774756c5e6c646568746c243245446c60686d5e526960736424333774756c5e62606c716068666f243245446c60686d5e5269607364243145243140243145243140406d726e243240243331636424333172747364243331756e243331626964626a2433316e7475243331606d6d2433316e67243331756e656078243336722433316d60756472752433316f647672243331607524333169757571722432402433472433477676762f75686c6472626e6d6e6f6872752f626e6c2431452431402431452431404d686a6424333166647575686f66243331786e74732433316f6476722433316378243331646c60686d2432472433315268666f2433317471243331676e732433316e74732433316f6476726d6475756473243331607524333169757571722432402433472433477676762f75686c6472626e6d6e6f6872752f626e6c2433476560686d78\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=Province%20breached%20duty%20to%20restore%20hotel%20used%20as%20housing%3A%20judge%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
+      "body": "<p>The province breached its obligation to restore a Duncan hotel used as temporary housing during the COVID-19 pandemic to its original condition, and failed to pay rent while the hotel was in unusable condition, a judge has ruled.</p>\n<p>The Ramada hotel&rsquo;s general manager &ldquo;provided considerable, and at times, graphic evidence about what occurred at the hotel while it was occupied by the vulnerable population, including but not limited to significant drug use, sex work and the premises being used as bicycle &lsquo;chop shops,&rsquo; &rdquo; Justice Karrie A. Wolfe said in a decision at B.C. Supreme Court in Victoria.</p>\n<p>He described damage from guests &shy;smoking and using drugs in rooms, including burns on carpets, furnishing and mattresses, ceiling fans detached and guests defecating and urinating in their rooms instead of using bathrooms.</p>\n<p>The 34-room hotel just off the highway was leased temporarily by the Cowichan branch of the Canadian Mental Health Association, with rent paid to the owner by B.C. Housing.</p>\n<p>B.C. Housing later took over the CMHA Cowichan branch&rsquo;s lease obligations.</p>\n<p>All residents associated with B.C. Housing vacated the hotel by the end of April 2022.</p>\n<p>The hotel&rsquo;s owners subsequently launched a lawsuit against B.C. Housing and the CMHA Cowichan branch, arguing the two breached their agreement by failing to restore the hotel to its original &shy;condition and failing to pay rent for the rooms when the building was still unfit for habitation after the lease ended.</p>\n<p>While the hotel owners initially named the CMHA Cowichan branch as a defendant in the lawsuit, they dropped the claim against the mental health association shortly before the trial started in November.</p>\n<p>Both the owners and the province accepted there was an agreement between them that allowed B.C. Housing to use the property as housing between Dec. 1, 2020, and April 30, 2022.</p>\n<p>But B.C. Housing only continued &shy;paying rent until the end of September 2022, the point at which it believed repairs would &shy;reasonably have been completed if not for what it argued were &ldquo;obstacles and delays&rdquo; on the part of the hotel.</p>\n<p>An engineer tasked by B.C. Housing to assess damage found there was &ldquo;significant damage&rdquo; to the rooms, including to walls, baseboard trims, door trims and casings, window coverings, mattresses and box springs, carpets, furniture and bathroom fixtures. He found there was no possibility to restore furniture to consumer use, and any items salvaged would only be suitable for donation.</p>\n<p>Exterior repairs needed included removal of debris and minor graffiti, privacy-fencing upgrades, painting, minor landscaping and general cleaning, the engineer determined.</p>\n<p>In August 2022, B.C. Housing staff emailed the hotel manager with two options for restoration: B.C. Housing could pay an engineer to complete repairs estimated at just over $1 million, but it would not be responsible for any delays caused by the hotel owners, or B.C. Housing could pay the amount to the hotel owners as a settlement and leave the owners to work directly with the engineer.</p>\n<p>The hotel manager said the engineer summarized the majority of work needed, but more repairs would be required and he had asked the engineer to provide an updated quote.</p>\n<p>No revised quote was ever prepared, the decision says.</p>\n<p>A B.C. Housing employee accused the hotel manager of purposely delaying its response to B.C. Housing&rsquo;s offer to do the restoration work, something the manager denied.</p>\n<p>At the end of August 2022, the B.C. Housing employee sent the hotel manager an email &shy;saying B.C. Housing would make a final payment of $178,250 and &shy;consider its obligations under the lease fulfilled.</p>\n<p>Both parties agree that by the end of September 2022, B.C. Housing had paid $867,675 to the hotel owners as compensation for the loss of use of the rooms from May to September 2022, $60,041 for security and fencing and $45,568 to the engineering company for consulting.</p>\n<p>Wolfe said there was &ldquo;little doubt&rdquo; that the province breached its obligation to restore the hotel.</p>\n<p>All 34 rooms had been &shy;gutted as of May 20, 2022, and have not been restored, leaving &ldquo;no question&rdquo; the hotel has not been restored to a functioning Ramada hotel, Wolfe said in her decision.</p>\n<p>She acknowledged the &shy;province said it did everything reasonably possible to move the restoration forward but was hampered by a disagreement over the scope of the work and what it alleged was non-responsiveness from the hotel owners, something they dispute.</p>\n<p>Both parties agreed that assessing the hotel&rsquo;s conduct with respect to its contractual obligations should be left to the second phase of the trial.</p>\n<p>Costs will also be addressed at a future date.</p>\n<p>B.C. Housing said through a spokesperson that the parties could not agree on final terms to return the building to its final condition.</p>\n<p>&ldquo;We respect the court process, and have a range of views on this matter, which we will continue to advance through appropriate legal avenues,&rdquo; a spokesperson said.</p>\n<p>B.C. Housing declined to &shy;comment further while the &shy;matter continues through the court process.</p>\n<p>Lawyers for the owners declined to comment because the second phase of the trial remains before the courts.</p>\n<p><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a9dbcccec8c784ccc5c5c0c6dddde9ddc0c4ccdacac6c5c6c7c0dadd87cac6c4\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12586094&amp;t=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#d7e8a4a2b5bdb2b4a3ea84bfb6a5b2b3f2e5e7b1a5b8baf2e5e783bebab2a4f2e5e794b8bbb8b9bea4a3f2e496f2e5e787a5b8a1beb9b4b2f2e5e7b5a5b2b6b4bfb2b3f2e5e7b3a2a3aef2e5e7a3b8f2e5e7a5b2a4a3b8a5b2f2e5e7bfb8a3b2bbf2e5e7a2a4b2b3f2e5e7b6a4f2e5e7bfb8a2a4beb9b0f2e496f2e5e7bda2b3b0b2f1b6baa7ecb5b8b3aeeabfa3a3a7a4f2e496f2e591f2e591a0a0a0f9a3bebab2a4b4b8bbb8b9bea4a3f9b4b8baf2e591bbb8b4b6bbfab9b2a0a4f2e591a7a5b8a1beb9b4b2fab5a5b2b6b4bfb2b3fab3a2a3aefaa3b8faa5b2a4a3b8a5b2fabfb8a3b2bbfaa2a4b2b3fab6a4fabfb8a2a4beb9b0fabda2b3b0b2fae6e5e2efe1e7eee3f2e491a2a3ba88a4b8a2a5b4b2f2e49392bab6bebb8884bfb6a5b2f2e5e1a2a3ba88bab2b3bea2baf2e49392bab6bebb8884bfb6a5b2f2e5e1a2a3ba88b4b6baa7b6beb0b9f2e49392bab6bebb8884bfb6a5b2f2e793f2e796f2e793f2e79696bba4b8f2e496f2e5e7b5b2f2e5e7a4a2a5b2f2e5e7a3b8f2e5e7b4bfb2b4bcf2e5e7b8a2a3f2e5e7b6bbbbf2e5e7b8b1f2e5e7a3b8b3b6aef2e5e0a4f2e5e7bbb6a3b2a4a3f2e5e7b9b2a0a4f2e5e7b6a3f2e5e7bfa3a3a7a4f2e496f2e591f2e591a0a0a0f9a3bebab2a4b4b8bbb8b9bea4a3f9b4b8baf2e793f2e796f2e793f2e7969bbebcb2f2e5e7b0b2a3a3beb9b0f2e5e7aeb8a2a5f2e5e7b9b2a0a4f2e5e7b5aef2e5e7b2bab6bebbf2e491f2e5e784beb0b9f2e5e7a2a7f2e5e7b1b8a5f2e5e7b8a2a5f2e5e7b9b2a0a4bbb2a3a3b2a5f2e5e7b6a3f2e5e7bfa3a3a7a4f2e496f2e591f2e591a0a0a0f9a3bebab2a4b4b8bbb8b9bea4a3f9b4b8baf2e591b3b6bebbae\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=Province+breached+duty+to+restore+hotel+used+as+housing%3a+judge&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=Province%20breached%20duty%20to%20restore%20hotel%20used%20as%20housing%3A%20judge%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fprovince-breached-duty-to-restore-hotel-used-as-housing-judge-12586094\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
     },
     {
       "title": "District of North Van OKs sweeping changes to single-family homes",
@@ -870,6 +810,18 @@
       "_src": "timescolonist"
     },
     {
+      "title": "CMHC forecasts home price declines as housing slowdown deepens",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxOR1NBRFZoNEhPcGU5bXdDbFZURkU4aG9IWGV5VzFFMzhSSHJLUTlOejBKeTdJX2FKcWhwOThxU2NIQlB5T1lCMnIxTUlOd1RTNTdBbmF5V09kaDRvRGp0OEpwNXcyd2hmaVY3TnhyNDdveFNqSjh6YkJkVUR1Z0JxYzBNOFNSdThJUkdBeFZFYXViNWZBVVlHSEN5a041Q3A4VDNJT0xRNTFxR0ZyNHZB?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 02:02:42 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Toronto New Home Prices Crash More Than 10% Over 30 Days",
       "link": "https://betterdwelling.com/toronto-new-home-prices-crash-more-than-10-over-30-days/",
       "pubDate": "Wed, 22 Jul 2026 20:30:25 +0000",
@@ -900,6 +852,18 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/image.png?id=67520792&amp;width=980",
       "_src": "storeys"
+    },
+    {
+      "title": "Economic uncertainty to continue weighing on housing market: CMHC",
+      "link": "https://news.google.com/articles/CBMiuAFBVV95cUxQVldPYlgtZlJjeVplWWoyNllmVzlBS2pGOHdFTm16UUZtWW14Qy1JNGhfVW9iSlBWZDd1RHV1WE42Z2V6alFsRno5dWxBakxUR2M5NUphVWNaYmJldmhZd3VENUY4akJUX2JOaWtHWkxiOXdFOUVKWDFXeHZIT0RBdm90UkFaelZUb19Gd2plUkJiYm1GODRRT1JDTW1iTUVvWDNaaUM5TzY5SkpWSEg4YWlubjdqLTVH?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "Newswire Canada",
+      "_pubUrl": "https://www.newswire.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "GTA Low-Rise Sales Outpace Historic Average For Third Straight Month",
@@ -1013,7 +977,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
+      "_publisher": "cmhc-schl.gc.ca",
       "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1075,18 +1039,6 @@
       "_src": "gnott",
       "_publisher": "crea.ca",
       "_pubUrl": "https://www.crea.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Council approves plan to cut fees on new Ottawa homes by thousands of dollars",
-      "link": "https://news.google.com/articles/CBMiogFBVV95cUxOQmhNcURtalk2dVRYci1OUzd6SkE1RG5KM0xhd2MtQ2trd0M3a1NTc3lZV0I1R3hPOUQxMV93ZjNobTFoalE1X1FpdUJTUlU2TXBOWlM4UmFVV2JVaHhUWGpaTm9MandEZDJOWmxXMzdveE9WckxaY2t2UTNySE44VlRSeGgxRTdrYzhKeHFMMHBabEwwWG9VRjJNaGVjR1dEQXc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1217,7 +1169,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnott",
-      "_publisher": "madeinca.ca",
+      "_publisher": "Made in CA",
       "_pubUrl": "https://madeinca.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1235,14 +1187,26 @@
     },
     {
       "title": "Newcomers are buying homes faster as Canadian-born ownership rates decline: StatCan",
-      "link": "https://news.google.com/articles/CBMiuwFBVV95cUxNVVQzUG1pVzlkczVKcVQ5ZTVPUHFZM0lHd3JTSTN1N2gtejBBM2d4c1BVX2V5X0VSYmpTc21qeFppcGxpdXVocldSODF0am9pcnJYbHJuOFQ1Nms1dlZWanlPZ0NWRlFoRWpYMDVvSnZ0OVgzVVJtWGdXNlpzVHplVHhkR0FTX18xYklMdXJ0QmQ5OEltczJWZmVBTkRFSkpQeTJSN1hOZ3lZTVYyVUthYldfQXo4WWxuUE00?oc=5",
+      "link": "https://news.google.com/articles/CBMi0AFBVV95cUxNb0REQXpPWDh6VDAxRHl2MXpENXVEVk9RRmJoRmh4Y0VPYUc2djFXczctU005LUI3QXY3SWJsclB3cFIzRXkxNVJEMXd3ZmxFeUFhZ2FzWXNjQzFDVUlvTHVuaGpvVEctWm5ZdmZJMDRZekNmT2o3VHdDZ2hWT0tPTlhucnhnQl9vaVdWb1Ruck5hSU9BMFpPUEhNU0I2Zm5sS095QmNkSFNPOU5xWjBPenhZSV9ObWduSzNZLWlRTl9jSHNpN2kzbFRuQ2FKUE82?oc=5",
       "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "CP24",
-      "_pubUrl": "https://www.cp24.com",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canadian Real Estate Just Flashed A Sign Not Seen Since The 90s Crash",
+      "link": "https://news.google.com/articles/CBMingFBVV95cUxQX0l2T1d1RUZYdDZuQWRnWUo0MUNpeXltcjAxblRiOGVxeUd3eVhqbUN0UlN4ZE1IeWY2WW5EampxLTRpTFgtWmlUaWw4ZWxRMThnSmJmWXhmOU1USGc2MW9jbkxaQnlONlVpb3h3ZjZpeEZsbWp2bGxBV2p6V0syYVlOMzlLSUU5bGJwNF93STE4VTRETi1kVVVuU0lVQQ?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Better Dwelling",
+      "_pubUrl": "https://betterdwelling.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1265,7 +1229,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "ontarioconstructionnews.com",
+      "_publisher": "Ontario Construction News",
       "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1282,15 +1246,39 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Zero concrete launches point to presale pressures in Metro Vancouver",
-      "link": "https://news.google.com/articles/CBMipAFBVV95cUxQM2R3Sy1kemtuVDlNZWxqNWNtY0xwY2tOMGJHOHB6bUxUMDZnTGhJMHFqRzN1VzlnaWRTUG85VjNXTWVVNTdrVHpSdW5vY2NfLTFUV0pFMUU2NU1pRWc5WWt3VDE2c1ZrdFMzQ1R2bjVJbFJHbnVnQUUwXzlHeTFUcWNjRHBiT08tdjV0V2x5RzA4YkZwbVpyUnRtcFk1U0JLT0VQSw?oc=5",
-      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+      "title": "Ottawa sees 10% drop in homes sales in May",
+      "link": "https://news.google.com/articles/CBMihgFBVV95cUxQV2IzTTBrdHZHaHIwSWJia0ZLcXQ4TUV5c2k2cnpWQklPOExtUTZGSFFUMUVPVHZNejItNjRTYjVrTkdzOTIzaXQ3LWl6ZnZnSXB1ZnhYamFacGFCVUw0dnRUd3JXR1FDRXZOY0VTTjRRMlVDaVRPbzJpbi0wckJNRXpFUW5BZw?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Business in Vancouver",
-      "_pubUrl": "https://www.biv.com",
+      "_src": "gnott",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Spring Home Sales Stronger Than Last Year",
+      "link": "https://news.google.com/articles/CBMia0FVX3lxTE93dkY1RHdrbjYxR1czNjh5YjBCS3lJOHZPY2YwSy1WdUhxcWw1ZE5ISWFNQ3pVYlR0cjBWZV9YTk1LMURJdC0tR3FyQjZNd0tad3F3Wm43ZTNiR01CMTVPcWpORnNXV0IzUmdZ?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "TRREB",
+      "_pubUrl": "https://trreb.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "A 20% housing drop still leaves Canadians locked out of market",
+      "link": "https://news.google.com/articles/CBMirgFBVV95cUxOelpvQXVaQlBqV0dzTkloLXNSNDhBUlNWTGVwRjhQOTJ0ekdNZlUxSUdrRjJTeUdBNnJCZ19keFI5T0RxeVZTZlVpU1dxVVlmQ0hCd3E2MEVrdWotcVZkT3RIX0o4STItVW5wLU9kNTJqTnI4S2QyaDV4cUFqeUVCd1pIdjNJOEphMHotUW95YkU2cjJjcXZLOS1vSXdqWWNtb0dNemZRdEtCaEg2clE?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1342,15 +1330,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "A Framework for Projecting Housing Use Associated with Immigrants and Non-Permanent Residents",
-      "link": "https://news.google.com/articles/CBMid0FVX3lxTE00Z1Mtalh1RXJFS0xxN0pFbm5COHEwUW1ob0EzaHBSZTlWc25BQkpyRHNENDVoU3dzYjVydTVpQVJYemZMNHVrYjNOWlBZTW1HUXdSWmJ4ZkxIV19wM3BHTE96Q0VHRUFqeTJMbXVOek1sWkFrcXFn?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "title": "Ottawa completes 53 per cent of Housing Acceleration Plan actions as committees review progress",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPakxpOGktcmNjeTF4c1VSbXFPcE9aT0JubG91TU5WVlhyX0p5LUdqZVFOcW5QYUtCUDhVRDI1QXVuVkZoVlFDdzVwWlN3V3haSGhPb2NFal9FZll5SFFySUNycUhWaDZwOHhtNEtsNHBrYmFWY1JYcFFMR1M2Q0JTanhXdGNWZlBaaHI0b1FkaU9VUFkyU1U2QkxzekhUcXcwenB3MUcxTnNOaDdqbWJ3Slk4UHB1TlkydVkwdG8weXlaaTluUmM2UkQ4dw?oc=5",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "Statistics Canada",
-      "_pubUrl": "https://www150.statcan.gc.ca",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "2025 Annual Report and advancing Canada’s housing system",
+      "link": "https://news.google.com/articles/CBMinwFBVV95cUxOTEFUeU00Q0UxbG5zSTREMlAyQjVTZ2hBOUdPaFBaaGl5dllLX04xRVBpa2trNGl4emxjempKY003eGhldlRLb1d0TUFqNk04M0JySG9WaVhyS0libzRuYXZ5TzdYeVJDZmFMSWRVVHR3U3B4b1NlTHBWSXE2SEJYVE05MnQ4RG1XVVpDYVluU0h6ZXUxczUtODNvM21EeGs?oc=5",
+      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnmort",
+      "_publisher": "cmhc-schl.gc.ca",
+      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1385,7 +1385,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "thestar.com",
+      "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1399,6 +1399,30 @@
       "_src": "gnhprice",
       "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa municipal official warns of limited local autonomy under provincial Bill 98 standardization",
+      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxQTExZanNaZHFqREtXbWRzY1VPNUpreHF6b3B6UENTdjlFTXV0VVoyNzVuVThFdGlVMXZ4aDIySmZRSHFFdXQ1eUZIRlZJaVJncFZCanJfWk9VWE5PM1I2VGdRZEFFbWZhZHhJbTJmMFlIc0RFQmJ3THFHaXVTbURCcGhmSnFIZENiVWNiMVJtWUo0ejZlczEwenU0YkpnaWhLWW85VHpYQjVjVGVRYUZZdHpNWmxnckhUcmRpNXdBb3pKdw?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "Ontario Construction News",
+      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Seven Ottawa-area markets ranked in top 10 for affordable housing in Ontario",
+      "link": "https://news.google.com/articles/CBMifEFVX3lxTFB3NWZKUi1mYjI2eF9La01rTE0tdk45ckl4eGxVN3I3MDVUelYtNjJDWVhCbllyVUctUnlaUjlGUFlUVkQtWXhNckVWRjFWSUxGX1JoNzVLZ25kTVJiMkNOTkQ1WE92cFM5ektuMmhxVUpjY0Z4XzV2b3NZakY?oc=5",
+      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "Ottawa Citizen",
+      "_pubUrl": "https://ottawacitizen.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1438,18 +1462,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Toronto's Condo Market Reset: How Strategic Developers Are Turning 2026's Correction Into Opportunity",
-      "link": "https://news.google.com/articles/CBMi7gFBVV95cUxQZUpHMTV0eWpQOGY3WWlJd1FoTy1DbGJINUdKZ3R2Y25MOGxsWHNDc0F0UGxocnlJMVpoZHljZ1lDYmhZam9GWnNzLXJEaU1adXZTVnNlWWtWeTJlbFZqTGRqbmRDQUpGclQ0TkVXaVFObFdMb01YbXVDQTZ1blprZW5BU3RPQVRoZ01YT3AwaUlrbFhpRVYwWV8wNWNDT25HMUlZMGhZczVXWDdtRE02R0xacVU4VmVSVWxXdzJndW1yVzlSb3lka2ZUUkhRWHRxOTVjZWtpZnY3WklLWGZhMmtkSUJWQVNVOGZ2d0d3?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Oshkosh Northwestern",
-      "_pubUrl": "https://www.thenorthwestern.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "City affordable housing proposal waives requirement for affordable housing",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxNQ3YtTGJYdzVSaGJiY3BXeU5XMk5hOENsYklpMWtleWp4MlhYN0hDM01CdmxXNHBCRk1kRWUtejZFM0hLT0tFeHBEdnVsY1VXdzVaZ0FmNUpibGdMUTdTbk52VU9wRFZweHhOWGZNQW1mVHJQVFpXQ1pZRXEwU1RITGI0RU16QnBlX3AzVTVZUS0zZ21SeGZXVDlPVGRxdzJOaFBkX0NaR2k1NlVvRG1NdWVsbGF1aFhZeXMxWmg3dw?oc=5",
       "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
@@ -1471,18 +1483,6 @@
       "_src": "gnottlrt",
       "_publisher": "iPolitics",
       "_pubUrl": "https://www.ipolitics.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Rental apartments led housing starts in 2025, as new ownership-geared builds decline",
-      "link": "https://news.google.com/articles/CBMijgFBVV95cUxPa1g1ZGhrZkV4N2RDZXB5Q3lhYk5zVmtKc2pZU3dYSzJaZW51b3o2TFBRYjRya2VkNXFqN25ydDVTbmc3MERzM19yYV9paWZFUWJaalRCRHVkekNMeFZ1LVNQdklRM1RWWGp6X1lYZnVPUTB4SENLRXdKRk9JaTgxaVhCdDdTemUtX1lWeWtR?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1517,7 +1517,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "ontarioconstructionnews.com",
+      "_publisher": "Ontario Construction News",
       "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1553,20 +1553,20 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "thestar.com",
+      "_publisher": "Toronto Star",
       "_pubUrl": "https://www.thestar.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa approves landmark zoning by-law to boost housing density; city buys $95 million landfill site",
-      "link": "https://news.google.com/articles/CBMizwFBVV95cUxPQl9md2puZlRHQWZNa0xwanFSZWRnb1JiTHgxblVKUEpmRUVoWHd4aFIxTFNTMkJTd1ViWFVEWGhSWjE0Y3kyS3FDTDZZNUxTOGJLbl9COGxJRENENmVNckd0bkxyckxhWmpLZEtUNUFyUWtlTXN3M1FzaUJUTklFMjhxcTRZUm5ZbXMxOXk1T0huY1ZfR25oV3hZUlFKNFhZTV9nazZpSVM1cVhMY2p6SXBxMVdqOFl5VzB6RERlVFNDVDQ5NGhja3lyc2txcGM?oc=5",
-      "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "title": "Lifetime, DiamondCorp Launch New Condo Project Amid Downturn",
+      "link": "https://news.google.com/articles/CBMimgFBVV95cUxOQ3JVTmk1N2JSdVViVEZnLUp5N1F1RkpCOWtiU0d5UlRhMXZkd3FVdTlEazI4RThGaGJVQzVPUDJ0TFU4ZWNDVjhOam9aX29SaDZSeTRTV1ozazAtMkJycWticGlhYlc5WjF2VEQ3dzZjclU4bURsYndQaEc5QUpFSXhmcVotdm5peVRCTzBqY040S253M2RtcmZ3?oc=5",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "ontarioconstructionnews.com",
-      "_pubUrl": "https://ontarioconstructionnews.com",
+      "_src": "gnnewcon",
+      "_publisher": "Connect CRE Canada",
+      "_pubUrl": "https://www.connectcre.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1589,7 +1589,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "insauga.com",
+      "_publisher": "INsauga",
       "_pubUrl": "https://www.insauga.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1642,6 +1642,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "The Year Ahead: Housing",
+      "link": "https://news.google.com/articles/CBMicEFVX3lxTFBWVDFMZ2lEX1d2Z2prWGJxLTFrZjQwaTdjM2dDU3N3QS00cTNtbE5RdXJTQ3l0UU5abWc5QndoazhtT3ZTSjg2VUZPTEJYejVXVWVDSTdWaVZNc0JtX2VCMXhfT0UxQ2NVa05Gbk9zSEQ?oc=5",
+      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Macleans.ca",
+      "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "The housing burden of unchecked immigration: Peter Copeland in Commonplace",
       "link": "https://news.google.com/articles/CBMiogFBVV95cUxNMl9RT3ZHQUw2a0xMa3l1elFQeWlXS1dKRGt5RW5FYXRReEtiMGJ4SDN2TnNWS1NjMTRhX3hfVUgwT3JvVkpUQ1NWZmtiYXpNVTMyMFlXdnRjOXZvLWkwRjdLX2hGcGRiQUV3M2d6XzJHNzA1TTctVU5udGlwSUhMcW1QTmxBMF9iNm9YZ2RIS2YzOTlRWXN1VlM2QTRFaTBubXc?oc=5",
       "pubDate": "Mon, 15 Dec 2025 08:00:00 GMT",
@@ -1666,15 +1678,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
-      "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "title": "Non-permanent residents in the homeownership market",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxNQ29jcGlNWDVzd3pmUEQxRXUxZnNJWXlNWElEcjlIeVlNZE54clpkTFEyeGlyTkxRdGFaZmxzMXViRUotQzhWOWFoclpSaGFFWnc3OFZnaVJmSU5qV24wdWg0VFd2NGxOdEtJTjJZMWtGRTZ4NjNaSTlidG1zSTA4Vnl3?oc=5",
+      "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
+      "_src": "gnimmig",
+      "_publisher": "Statistics Canada",
+      "_pubUrl": "https://www150.statcan.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1721,8 +1733,20 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "TD Economics",
+      "_publisher": "economics.td.com",
       "_pubUrl": "https://economics.td.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Navigating Toronto’s frozen pre-construction condo market",
+      "link": "https://news.google.com/articles/CBMi4wFBVV95cUxPQ3podVBSOFBRaW5BOUdLcmNMNVpoQ3FDbXltekdIZ1FuME5PQ3hkYXg5RmRiWDNteXZUTXJzODZIbTlYWVQtQlFCaUpNSHRVVDhyQzJvVEctOVNpV3RJSGdUUkRhVllsMGVNaWMwM2dVQjRuTlM2TXhQUWZndFNRVnZzUl9aaHM4RG5KUUdpUzBlVEM0NzFFUFFkN2tmbzlDMEh6TDRqTDNPVE1KUzhrOGEtM2djWnQtZVlPOThCNlEyR0ZjNjljR0dHbW93dnM5bHRBa0dpeFIyUXNURUZpcGp6VQ?oc=5",
+      "pubDate": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1750,6 +1774,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Ottawa could allow 3-storey buildings in all neighbourhoods under new zoning bylaw",
+      "link": "https://news.google.com/articles/CBMivgFBVV95cUxQeVRpTmZUeDIyeGptU2UtbW5ueVhtaEFWMGp4a1FQNHp6cm9icW5uQlhvNTRBWDFBdTJfTldmUXZsS3lPSmg0WXNIcjg2OEtfUEU5TUhRd3MwTDNBNVJ1M0g4d2RtRXNmWjZ4QWJwWlJCS3NtZHdxejJMWERvb1VkOXZyNG5lRGZPU00xUFB3SzlXNEtZdUUzSE9leUo5aXhTUjVKSURVNHN6RzBjOFoyeU9TZy1GazhKVXpFSGxR?oc=5",
+      "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Alternative federal budget 2026: Affordable housing and homelessness",
       "link": "https://news.google.com/articles/CBMitwFBVV95cUxNUXhJby1FUXNDMVN0Mm5VMktDd2hkOWxPY3FuMkFKU2oza0FIdXNRNHRMRkVxV2pVM1RvQ1V0eVpCSFloZmlkQUN6aTdXM2FlWmVIeEFKMkpfRGNHZkIxNzJPV2piYkU4SFlKd2Y5dnVoQ2NFaUplcURDbGJEV1BjRnRjMHVZTXRRTkNlalJKcmZJdzVEdWthMXZnc3pNR3pCNU92U21va1pIUEkyYkVsS0lnUDBqUTg?oc=5",
       "pubDate": "Thu, 28 Aug 2025 04:40:00 GMT",
@@ -1771,18 +1807,6 @@
       "_src": "gnpolicy",
       "_publisher": "The Macdonald-Laurier Institute",
       "_pubUrl": "https://macdonaldlaurier.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Committee approves zoning for residential developments in Orléans, Barrhaven",
-      "link": "https://news.google.com/articles/CBMiqwFBVV95cUxQbkg0b3UwUlgyN1JETXdqS3Y0aDFtVGE3X2pUanlYblR3cjlKVGVPanhUVExkQXptN21iNENyWW14ejJRdlZsVi0tMlZaWkh6RmI0QW8yWE9CVGlzSWZENjA4MW4xWV94MHlkU2pkNHhlWFI3dE53RDRxbXN5dGFvLV9NNTlYY1dhZWpSbTVMUExmVmRGVy1HVGhlQ1FqQWtjYkZ1aVNwZXh4cFU?oc=5",
-      "pubDate": "Sun, 08 Jun 2025 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CityNews Ottawa",
-      "_pubUrl": "https://ottawa.citynews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
