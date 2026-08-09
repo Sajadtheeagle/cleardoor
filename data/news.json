@@ -1,6 +1,6 @@
 {
-  "ts": 1786220207396,
-  "fetched": "2026-08-08T20:16:47.396Z",
+  "ts": 1786236555435,
+  "fetched": "2026-08-09T00:49:15.435Z",
   "sources": [
     {
       "id": "cmt",
@@ -88,6 +88,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Sale closed in Ottawa: $649,000 for a residential home",
+      "link": "https://news.google.com/articles/CBMiowFBVV95cUxPWnA1bktpdnh4RTc2cDVpNEMydUxvbE5DQjQ4SGZ3aDRUQUV3c0ZDQUJvTlhBQ2xmdDdSM0g3eVJhUmJwdHdNMkgtOS1VQVNydFduSGNzcnFWZDFzcDJaVHA2UDdXa3NrQW9ZZ3dpekdsc3NYX2w5WnRNd0ViZng0cG5kUHoyMGZFdDZ5ZUZTdGlBMFNpak1IMjg5UU9MckRhTkUw?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 17:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnott",
+      "_publisher": "shawlocal.com",
+      "_pubUrl": "https://www.shawlocal.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
     {
       "title": "What you need to know about Toronto’s shift to a ‘balanced’ housing market",
       "link": "https://www.bnnbloomberg.ca/business/real-estate/2026/08/08/what-you-need-to-know-about-torontos-shift-to-a-balanced-housing-market/",
@@ -282,8 +294,7 @@
       "description": "A new report says the average national asking rent fell four per cent in July compared with last year and now stands at $2,037.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Quebec-moving-day2-500x376.jpg",
-      "_src": "cmt",
-      "_ogDesc": "A new report says the average national asking rent fell four per cent in July compared with last year and now stands at $2,037."
+      "_src": "cmt"
     },
     {
       "title": "Housing minister says B.C. in talks with Ottawa over cutting development cost charges",
@@ -292,8 +303,7 @@
       "description": "British Columbia's housing minister said her government is working with Ottawa to help fund the infrastructure needed as it pushes to build more homes in the province.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/12/B.C.-Housing-Minister-Christine-Boyle-500x343.jpg",
-      "_src": "cmt",
-      "_ogDesc": "British Columbia&#039;s housing minister said her government is working with Ottawa to help fund the infrastructure needed as it pushes to build more homes in the province. "
+      "_src": "cmt"
     },
     {
       "title": "Political, economic risks cloud Canada's housing market outlook",
@@ -343,8 +353,7 @@
       "description": "The Canadian economy added a surprise 75,100 jobs last month while the unemployment rate hit its lowest level in two years -- the latest evidence the economy is on a recovery path.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Canadian-employment-July-2026_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The Canadian economy added a surprise 75,100 jobs last month while the unemployment rate hit its lowest level in two years -- the latest evidence the economy is on a recovery path."
+      "_src": "cmt"
     },
     {
       "title": "Economists play down BoC rate hike risks after surprisingly strong jobs data",
@@ -354,7 +363,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -378,7 +387,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -414,7 +423,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnontre",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -457,8 +466,7 @@
       "description": "Montreal-area home sales fell 10% year-over-year in July as the province's real estate board says activity cooled across the entire market.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Adam-Samir-Marouane-Bahharr-and-Juba-load-furniture-onto-a-truck-500x397.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Montreal-area home sales fell 10% year-over-year in July as the province&#039;s real estate board says activity cooled across the entire market."
+      "_src": "cmt"
     },
     {
       "title": "GTA condo market stays under pressure as July listings shrink",
@@ -530,8 +538,7 @@
       "description": "The Greater Toronto Area's housing market cooled in July after a run of four straight months with year-over-year gains.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/A-rooftop-terrace-of-a-condo-building-is-seen-in-downtown-Toronto-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The Greater Toronto Area&#039;s housing market cooled in July after a run of four straight months with year-over-year gains."
+      "_src": "cmt"
     },
     {
       "title": "GTA listings fall as housing market tightens in July",
@@ -562,8 +569,7 @@
       "description": "Federal programs, mortgage-insurance rules and provincial tax rebates use different definitions, meaning previous ownership does not always disqualify a buyer.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/First-time-homebuyer-piece_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Federal programs, mortgage-insurance rules and provincial tax rebates use different definitions, meaning previous ownership does not always disqualify a buyer."
+      "_src": "cmt"
     },
     {
       "title": "Carney promises $2.7 billion to build rental homes in Toronto",
@@ -572,8 +578,7 @@
       "description": "The federal government is investing at least $2.7 billion to build more than 18 housing projects across Toronto.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Prime-Minister-Mark-Carney-talks-to-reporters-500x310.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The federal government is investing at least $2.7 billion to build more than 18 housing projects across Toronto."
+      "_src": "cmt"
     },
     {
       "title": "Vancouver-area home sales drop nearly 10% in July as summer demand slows: board",
@@ -582,8 +587,7 @@
       "description": "Vancouver's real estate board says the region saw a nearly 10% drop in home sales in July compared with a year ago, erasing June's gains that kicked off the summer.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/04/Vancouver-housing-market-500x337.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Vancouver&#039;s real estate board says the region saw a nearly 10% drop in home sales in July compared with a year ago, erasing June&#039;s gains that kicked off the summer."
+      "_src": "cmt"
     },
     {
       "title": "Calgary home sales down 9% in July amid condo oversupply: board",
@@ -592,8 +596,7 @@
       "description": "Home sales in Calgary were down in July compared with a year ago as prices also fell, which the city's real estate board says is partly due to \"persistent oversupply\" of condominiums.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/high-rises-in-Calgary-500x344.jpg",
-      "_src": "cmt",
-      "_ogDesc": "Home sales in Calgary were down in July compared with a year ago as prices also fell, which the city&#039;s real estate board says is partly due to \"persistent oversupply\" of condominiums."
+      "_src": "cmt"
     },
     {
       "title": "Toronto Business Closures Hit Highest Level Since 2020 Lockdowns",
@@ -616,18 +619,6 @@
       "_src": "storeys"
     },
     {
-      "title": "New research suggests rising risks for Canada’s housing market",
-      "link": "https://news.google.com/articles/CBMioAFBVV95cUxOeVZPWVp0cXJDLWtWNFVfdE1HWW5IMzVtZXdrNkV0Wi1NNmFyMlVfTng0OU9EbG1NWFpuYzRiVk9qUnVqOFAwSTNoR01YdTB5Q1I2UWk0WE5uMm9zQnRSekFKekRjN1VwSWluTHBmbjR2b2RCX2dSVmFfV2x5RWhpWnEydWFjUXlhVHVadzEwdjZ5dXdqOVBTRTRmUUZ5NU55?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:54:38 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "reminetwork.com",
-      "_pubUrl": "https://www.reminetwork.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "There are signs of hope in Canada's housing market. But is it time to use the 'b-word'?",
       "link": "https://news.google.com/articles/CBMihwFBVV95cUxNalhxYWFfZHJDMFUtNEpGS3h0WHFRdkNVU1VDb1dOcEJ1NktWdHJ0VUlmcXhocFNqYVpjOFBTUFRONmZXdjBrTzlNRUFKN2pQMEc3enZESHB6aktQZ28xUGlDRDNOeHZiV21mZlNPX2FDQks1MUx5cG9LejEtS2UtRkxrMnMtTE0?oc=5",
       "pubDate": "Wed, 05 Aug 2026 13:35:19 GMT",
@@ -635,7 +626,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnre",
-      "_publisher": "Financial Post",
+      "_publisher": "financialpost.com",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -647,7 +638,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Asian Pacific Post",
+      "_publisher": "asianpacificpost.com",
       "_pubUrl": "https://asianpacificpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -658,8 +649,7 @@
       "description": "DLC Group CEO Gary Mauris explains how the acquisition came together and responds to concerns about competition after two major mortgage submission platforms came under common ownership.",
       "content": "",
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/DLC-Filogix-Acquisition-Impact2-500x334.png",
-      "_src": "cmt",
-      "_ogDesc": "DLC Group CEO Gary Mauris explains how the acquisition came together and responds to concerns about competition after two major mortgage submission platforms came under common ownership."
+      "_src": "cmt"
     },
     {
       "title": "Canada&#8217;s Fake GDP Growth: Fictitious Rents Add More Than Oil",
@@ -700,6 +690,18 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/new-home-under-construction-in-richmond-hill-on-shutterstock.jpg?id=34011882&amp;width=980",
       "_src": "storeys"
+    },
+    {
+      "title": "Ontario’s housing crisis explained",
+      "link": "https://news.google.com/articles/CBMiXkFVX3lxTFBTNlExQXhxbWlwdFFaTjhwcHlZcnpDNTFwWUh5aWxOZ3JPZ2tCbmMzaGYwc0tjUjhQX1Z0TlRjUF9QdUlNUkhjbnRqQWxveHlFbV9vdnVLaVc2VXZ6aXc?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:45:25 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "RENX",
+      "_pubUrl": "https://renx.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Canada GDP's rebound gives the Bank of Canada room to hold rates steady",
@@ -851,27 +853,27 @@
       "_src": "timescolonist"
     },
     {
-      "title": "Posthaste: Why the Bank of Canada might hike rates more than any of its peers next year",
-      "link": "https://news.google.com/articles/CBMikAFBVV95cUxNTERLblg5dVhGMFRqcUNQN0MyanNsNFhBYXlRbzcwUXJaUU1xRlJBTElZZ2c3RFJJRDIyLXUya3R5MW5GNG5MVm8zQ0dKR0ZILVVFd0F0bU9nQk9RWFRUck1Yb1poTjhaZFlMcnVkS1o0TDF3YUFKZjFSU25xV0pUVGw0SG9qVEpiYWV2YWVqd0I?oc=5",
+      "title": "Media Advisory: CMHC to release 2026 Northern Housing Report",
+      "link": "https://news.google.com/articles/CBMiiAFBVV95cUxOY0hOS2RkUkx5RHBic1ljdHg1X2NGcERLcnEwbDF6Vm1MMi1MRDlYNnVSSjBTYTR2aVpsZVU1bElPemlXWXJiS3A1NkJyWUNGOHplRmwtMG9qbUtlQnJGTlVhOHRYdWE5NnpESlQtWjdiM3ZkNzdSRzJlVkJzNmVvRXVfUkhFLUhp?oc=5",
       "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
+      "_src": "gnmort",
+      "_publisher": "Yahoo! Finance Canada",
+      "_pubUrl": "https://ca.finance.yahoo.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Ontario Projected To See Stronger Housing Market Improvement Than BC: CMHC",
-      "link": "https://news.google.com/articles/CBMiZEFVX3lxTFBSdVhBamljeTJlNkZHYjhMcnJTVDAxZlYxQ1hhMGZhSDRjdDl4ZE1SWTEzU1lNVllEUUJhLW1NbGFsQ080Q2NQRk9KcVh0cjJEZFFrZDFDb000UVEtVDZaN3VTcTY?oc=5",
+      "title": "Paul Rushforth, prominent Ottawa real estate broker and radio personality, dies at 52",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxQellqbUxXajVWbGJLcVhXQ2x6SHY1ZWxEV2M4Ni03eE1jVVRjX0RLNE9kT0Q5Y3EzV1JROTZXZTRVUEdvT1l4UWg4eU5weGs2dW5TVWg0ejV6dU80NUVaSzc1RUwzNGFWWVdRXy1fbERXRkZRUUQ5b0phV2dISVQ1T3pzQkRPbnJFaXQ5R1lxMG55b0VwZDdmcDRwelRmVGNmdTREVzZDOG5NeGdRMEYxcXY5ZlY?oc=5",
       "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "storeys.com",
-      "_pubUrl": "https://storeys.com",
+      "_src": "gnott",
+      "_publisher": "Real Estate Magazine Canada",
+      "_pubUrl": "https://realestatemagazine.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -884,18 +886,6 @@
       "_src": "betterdwelling",
       "_ogDesc": "Canadian real estate is falling faster than anywhere else in the G7, yet it remains one of the frothiest markets in the group. Bank for International Settlements (BIS) data shows real (inflation-adjusted) home prices dropped across all but two G7 countries in Q4 2025, the latest common quarter. Despite Canada’s sharp correction, it still lays [&hellip;]",
       "body": "<p>Canadian real estate is falling faster than anywhere else in the G7, yet it remains one of the frothiest markets in the group. <a href=\"https://www.bis.org/index.htm\">Bank for International Settlements (BIS)</a> data shows real (inflation-adjusted) home prices dropped across all but two G7 countries in Q4 2025, the latest common quarter. Despite Canada’s sharp correction, it still lays claim to the title of the second-highest price growth since 2010.</p>\n<h2><strong>Canadian Real Estate Is Leading The Way Lower </strong></h2>\n<p><em>Indexed value of real home prices across the G7. </em></p>\n<p>Source: BIS; Better Dwelling.</p>\n<p>Canada recorded the sharpest quarterly decline in the G7, with home prices falling 2.1% in Q4 2025. It was followed by Japan (-1.5%), Germany (-0.3%), France (-0.2%), and the U.K. (-0.2%). The only countries with positive moves were the U.S. (+0.4%) and Italy (+1.5%), leaving a wide gap from leader to laggard.</p>\n<p>That weakness carried over into annual growth, where Canada again led the group lower with a 5.5% drop from a year prior. The only other G7 countries to report negative annual growth were the U.S. (-1.7%) and the U.K. (-1.1%). The remaining four posted gains, though only Italy (+2.9%) and Japan (+2.3%) saw material growth after inflation.</p>\n<h2><strong>Canadian Home Prices Saw Explosive Growth From 2010 To Peak</strong></h2>\n<p><em>G7 home price change from 2010 to each country’s peak. </em></p>\n<p><em>Source: BIS; Better Dwelling. </em></p>\n<p>Canada leading the group lower isn’t a surprise—it led the way higher by a wide margin. From 2010 to its Q1 2022 peak, Canadian real home prices surged 98.6%. That growth was over 50% higher than the next closest markets: the U.S. (+61.1%, peaking in Q4 2024) and Germany (+60.6%, peaking in Q4 2021).</p>\n<p>Baseline-to-peak gains were far more modest across the rest of the G7: Japan (+24.0% in Q1 2025), the U.K. (+22.4% in Q3 2022), and France (+12.8% in Q3 2022).</p>\n<p>The weird exception is Italy (+0.3%), where prices actually peaked back in Q3 2010—putting its recent 1.5% quarterly lead into clear context, eh?</p>\n<h2><strong>Canada Leads Way Lower, Not One G7 Country Is At Its Peak</strong></h2>\n<p><em>G7 home price change from peak to Q4 2025. </em></p>\n<p><em>Source: BIS; Better Dwelling. </em></p>\n<p>Canada is also leading the way lower from its peak, plunging 28.4% from Q1 2022. It is followed by Italy (-24.3%), which is still trying to recover a peak it hit roughly 15 years ago. Only two countries remain within spitting distance of their record highs: Japan (-2.1%) and the U.S. (-1.7%).</p>\n<h2><strong>G7 Home Prices From 2010 to 2025</strong></h2>\n<p>Canada is no longer the frothiest market in the G7. That honour has been claimed by the U.S., where prices climbed 58.3% from 2010 to Q4 2025. However, even with Canada’s sharp correction, prices have still beaten inflation by 42.3% over the same period, securing its spot as the second frothiest market. From there, it’s a steep drop to Germany (+29.3%) in third place, followed by Japan (+21.4%), the U.K. (+10.3%), and France (+0.1%).</p>\n<p>The only country where home prices failed to keep pace with inflation is Italy, where they sit 24.1% lower than in 2010. In nominal terms, Italian prices are exactly where they were back then—meaning the entire decline is simply the result of inflation eating away at the value.</p>\n<p>A sharp correction makes for great headlines, but zoom out and the reality is clear: Canada isn’t experiencing a collapse—it is just slowly letting the air out of a historic, decade-long bubble. Whether the market is actually correcting also depends on where you are. The national figure is lower, but <a href=\"https://betterdwelling.com/canadas-housing-downturn-east-coast-prices-jump-up-to-28k-in-a-month/\">only two provinces have seen a significant correction</a>, while most printed fresh highs last month.</p>"
-    },
-    {
-      "title": "CMHC predicts weak housing market activity for rest of year in updated forecast",
-      "link": "https://news.google.com/articles/CBMizAFBVV95cUxPTnhIdjFMbjl6VkZYS2FlVTVJYkQ0eVViem94TkVOcU5WX3NHNXBWbWRGcmJQRVl3RkxockFDSldWd0FmNGVjUUdqZzVlV3hwY1VKUEc4SDhMcEFrbjNCUVhuMFBTdTFlNEFWenVmd3RScFhwZ1d6dDF5dXZqRkRNZzZYUTNWZkNGdGowTjBvUWdrUXJRMGlJTkQwR2FLZHBfODNfYWJLcFhfaVZqYXlVT3pBNkFyOWdTR3p4MjByMUo4ckFBYmZzTndFMGw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Canada Housing Market Outlook: Summer 2026",
@@ -931,6 +921,18 @@
       "_src": "gnott",
       "_publisher": "CityNews Ottawa",
       "_pubUrl": "https://ottawa.citynews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "CMHC predicts weak housing market activity for rest of year in updated forecast",
+      "link": "https://news.google.com/articles/CBMizAFBVV95cUxPTnhIdjFMbjl6VkZYS2FlVTVJYkQ0eVViem94TkVOcU5WX3NHNXBWbWRGcmJQRVl3RkxockFDSldWd0FmNGVjUUdqZzVlV3hwY1VKUEc4SDhMcEFrbjNCUVhuMFBTdTFlNEFWenVmd3RScFhwZ1d6dDF5dXZqRkRNZzZYUTNWZkNGdGowTjBvUWdrUXJRMGlJTkQwR2FLZHBfODNfYWJLcFhfaVZqYXlVT3pBNkFyOWdTR3p4MjByMUo4ckFBYmZzTndFMGw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1001,7 +1003,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnnewcon",
-      "_publisher": "Financial Post",
+      "_publisher": "financialpost.com",
       "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1042,18 +1044,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxQYzdIUE1ldkJVWG1DUXJoaHVuY2ptSVViV0xIc2lxMll4RUQ5T2xDZkRySHU3U1RXNVA1OGEwX0UzRy1HbEZvTEZJSW05T2MxWTkyUmpmazE0LXpmOC0zSnBIWUFjNUUwTmlJcjhHeUl2aFRoX041c2NuSjB3NzZPNWN3?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "Bank of Canada",
-      "_pubUrl": "https://www.bankofcanada.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The Bank of Canada holds its interest rate on July 15",
       "link": "https://news.google.com/articles/CBMigAFBVV95cUxOY1I1Mk44TnpNUzNBSGFVblFnd2V2YTBkd1VHTWRjd3N6Q1dwa3JpVDU0VUpBT1JfTUlXcUJYZ1cyeTNmQmFtSU95a2M1NjcwZFRNbmlzY0h2S09pRnlXbFZZMEpDMWRzelFaV0czWjU4cFBXQjBkeUpHeXdrOW5GSA?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1066,6 +1056,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
+      "link": "https://news.google.com/articles/CBMiggFBVV95cUxQYzdIUE1ldkJVWG1DUXJoaHVuY2ptSVViV0xIc2lxMll4RUQ5T2xDZkRySHU3U1RXNVA1OGEwX0UzRy1HbEZvTEZJSW05T2MxWTkyUmpmazE0LXpmOC0zSnBIWUFjNUUwTmlJcjhHeUl2aFRoX041c2NuSjB3NzZPNWN3?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "bankofcanada.ca",
+      "_pubUrl": "https://www.bankofcanada.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Bank of Canada holds key interest rate at 2.25% as economic growth rebounds",
       "link": "https://news.google.com/articles/CBMiggFBVV95cUxOT2dJdG5iVUV1TXIxNENXekVTek91V2xfclJONExlVlYwSnNqTHZHWVZfX1lITDQ1N2RiRUhtYzJvdHdJdnRvdHNSano4Qng2Q2FibGRpZFpaZUdDbWdBT00tZmV1Z3ludmFDM1pRLU56bXVTaC1TcXZ4WWtJaDJzb1F3?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1073,20 +1075,8 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "cbc.ca",
+      "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
-      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1099,6 +1089,18 @@
       "_src": "gnboc",
       "_publisher": "Global News",
       "_pubUrl": "https://globalnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1121,7 +1123,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnboc",
-      "_publisher": "mcgill.ca",
+      "_publisher": "McGill University",
       "_pubUrl": "https://www.mcgill.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1133,7 +1135,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "cbc.ca",
+      "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1169,7 +1171,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "theglobeandmail.com",
+      "_publisher": "The Globe and Mail",
       "_pubUrl": "https://www.theglobeandmail.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1181,7 +1183,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "cbc.ca",
+      "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1234,6 +1236,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Posthaste: Why the Bank of Canada might be closer than you think to ending its pause on interest rates",
+      "link": "https://news.google.com/articles/CBMieEFVX3lxTE1Nb25UYmF6ZzlycExIOUVyYnRzVVlaZUlGQVFCR0lPMm1KcDJLS2tyekI1a3FQQWtyVFo5MXJZSFVfREpiRFJwSTBnMms4TFZsOWZJTjQ5Y2JXZk1sWnBHTmpweDUyenlNaEdrVFVtdUZ2RWRzRm1MTA?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "financialpost.com",
+      "_pubUrl": "https://financialpost.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa municipal committee approves zoning for nearly 500 new homes in Woodpark, Kanata",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxPVVVpLWFzYnFIeGVLaEpTZnNwU2JybzcxbjFhd2E5eVFnckc1dk53Qkt6R0F1VHdCNTNTZlV0QkRTdEJMMVZiZ0hIYTE5bXQ2TzJzVmc1RW1qTVAzam5JOFFkNWxIclhpYkprX0R0elJiT2xvbEVnZ3Q4NGEtNkdaQUNHUl9qQWp3ckFfd1ItR0p2RXh5UmMzZDV3Q3dmTUFlVXNwM3MtLUhhOWVRbG5IZGVFWHVucGdGV0JRV3FvYw?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
@@ -1267,18 +1281,6 @@
       "_src": "gnhprice",
       "_publisher": "mpamag.com",
       "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ask an expert: Why development charges make new homes more expensive in Canada",
-      "link": "https://news.google.com/articles/CBMikgFBVV95cUxPcllzLVN2ckVKZk03WnpLQjRIcWxnZEdMNnZfelVFbm95aEVCZDNVOW9vdTA0UGNnWjNUVGdQX3UzdDFVNUxXSE15MTlXXzhaWHRfQUxEZjVmcFNfTEFDckxTOVR0OWZCaGVObkhZcnFMTkxyYURXSENlYkZNRExyNVM3QTJSOWc0aUo1dFVwWDU2Zw?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnmort",
-      "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
-      "_pubUrl": "https://www.cmhc-schl.gc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1337,7 +1339,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "Rabble.ca",
+      "_publisher": "rabble.ca",
       "_pubUrl": "https://rabble.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1349,7 +1351,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "ImmigCanada Immigration Consulting Services",
+      "_publisher": "ImmigCanada",
       "_pubUrl": "https://immigcanada.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1387,18 +1389,6 @@
       "_src": "gnmort",
       "_publisher": "Canada Mortgage and Housing Corporation | CMHC",
       "_pubUrl": "https://www.cmhc-schl.gc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "May &amp; June Ottawa Real Estate Market Update",
-      "link": "https://news.google.com/articles/CBMiggFBVV95cUxPcThXYlc2ZmpmMmpRNXpIRkVvRWFoNkxySTdCT2JLbjdzc2xoajRoR0lqRzBoY0FJWDdSaUtFYU4yVGIzLXFydGJVeUxTZ0YwWndzczRzQnVpWXdwU2FQYU1hc0ZTS3ptWjVrSDRYSy02RFZQV2hEVDkzZE9yMUVHY2hn?oc=5",
-      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "weknowottawa.com",
-      "_pubUrl": "https://www.weknowottawa.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1486,18 +1476,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Seven Ottawa-area markets ranked in top 10 for affordable housing in Ontario",
-      "link": "https://news.google.com/articles/CBMifEFVX3lxTFB3NWZKUi1mYjI2eF9La01rTE0tdk45ckl4eGxVN3I3MDVUelYtNjJDWVhCbllyVUctUnlaUjlGUFlUVkQtWXhNckVWRjFWSUxGX1JoNzVLZ25kTVJiMkNOTkQ1WE92cFM5ektuMmhxVUpjY0Z4XzV2b3NZakY?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnott",
-      "_publisher": "Ottawa Citizen",
-      "_pubUrl": "https://ottawacitizen.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Toronto finally has funding for Waterfront East LRT, but city could be on the hook if project goes over budget",
       "link": "https://news.google.com/articles/CBMikwFBVV95cUxOZnNUeWRxYXU5QUJaTXpfVmV1UlFsRjNreUdialdQU2V2Mk1kcEhfNDVxbTMxYTlucjRNODRVeUtPQ2hkZVVnMjlrakhEQktnWF9INFNFQ1hpcXVtRFZSLTkwSEE1UUpKSkxzSGNwLUV5QU9TLWwtUVRSMmNvT2NzZFJKYXIyV1JkaVlTZlhob3BzUmM?oc=5",
       "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
@@ -1505,7 +1483,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "cbc.ca",
+      "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1558,18 +1536,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Toronto's Condo Market Reset: How Strategic Developers Are Turning 2026's Correction Into Opportunity",
-      "link": "https://news.google.com/articles/CBMi7gFBVV95cUxQZUpHMTV0eWpQOGY3WWlJd1FoTy1DbGJINUdKZ3R2Y25MOGxsWHNDc0F0UGxocnlJMVpoZHljZ1lDYmhZam9GWnNzLXJEaU1adXZTVnNlWWtWeTJlbFZqTGRqbmRDQUpGclQ0TkVXaVFObFdMb01YbXVDQTZ1blprZW5BU3RPQVRoZ01YT3AwaUlrbFhpRVYwWV8wNWNDT25HMUlZMGhZczVXWDdtRE02R0xacVU4VmVSVWxXdzJndW1yVzlSb3lka2ZUUkhRWHRxOTVjZWtpZnY3WklLWGZhMmtkSUJWQVNVOGZ2d0d3?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Oshkosh Northwestern",
-      "_pubUrl": "https://www.thenorthwestern.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Ask an Expert: What CMHC’s housing affordability index is and why it matters",
       "link": "https://news.google.com/articles/CBMipAFBVV95cUxQb3hWVjZWSTZiU1RsN043RGZYYkhFbDV0WDFmdHh2YW1RbU12czhfZ2FrSE1vVkxHWGN6OHRRdlBwc3VxRFJsODZZNkRfVWZLbHpLcXF0WWJ0U3M2WWV0SFZpTVVXYndRYVNyajVXRUhXQ09KbG1iODAwZHM4SjA1OWZSQTRtVFBiVUVLQTQtUTgzN3A2d0RscU5VcTVuRW9ORzEzcQ?oc=5",
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
@@ -1589,7 +1555,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "cbc.ca",
+      "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1603,30 +1569,6 @@
       "_src": "gnottlrt",
       "_publisher": "iPolitics",
       "_pubUrl": "https://www.ipolitics.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "New $1.3B Fund Launched To Buy Unsold GTA Condos, Convert To Rental",
-      "link": "https://news.google.com/articles/CBMibkFVX3lxTE1PV2VYeG1PRVlNN2dTYXhJeWRyaE5vRUNabjNCeXZOd25FTGJ6Q3JhV093Tll1YTVFQ0lHSjB0MDQ3SnBHMzMycTVoVWFIenRnTXNsTFN3aS10dTRCR0liSDNmekJ5T2l2dXlRLWhn?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "storeys.com",
-      "_pubUrl": "https://storeys.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Rental apartments led housing starts in 2025, as new ownership-geared builds decline",
-      "link": "https://news.google.com/articles/CBMijgFBVV95cUxPa1g1ZGhrZkV4N2RDZXB5Q3lhYk5zVmtKc2pZU3dYSzJaZW51b3o2TFBRYjRya2VkNXFqN25ydDVTbmc3MERzM19yYV9paWZFUWJaalRCRHVkekNMeFZ1LVNQdklRM1RWWGp6X1lYZnVPUTB4SENLRXdKRk9JaTgxaVhCdDdTemUtX1lWeWtR?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnnewcon",
-      "_publisher": "Financial Post",
-      "_pubUrl": "https://financialpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1690,6 +1632,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Lifetime, DiamondCorp Launch New Condo Project Amid Downturn",
+      "link": "https://news.google.com/articles/CBMimgFBVV95cUxOQ3JVTmk1N2JSdVViVEZnLUp5N1F1RkpCOWtiU0d5UlRhMXZkd3FVdTlEazI4RThGaGJVQzVPUDJ0TFU4ZWNDVjhOam9aX29SaDZSeTRTV1ozazAtMkJycWticGlhYlc5WjF2VEQ3dzZjclU4bURsYndQaEc5QUpFSXhmcVotdm5peVRCTzBqY040S253M2RtcmZ3?oc=5",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Connect CRE Canada",
+      "_pubUrl": "https://www.connectcre.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Ottawa's zoning overhaul faces final vote Wednesday: here's what's at stake",
       "link": "https://news.google.com/articles/CBMivwFBVV95cUxOQXZSRTZKMnA5c2JXQ0hCZ3ViRlpwbjZXQlVjVC1NS3lWT0lGZG5pcWdIQ1IyVUJ3cWtwYU9mYnlod2NPM2l4UU91NVNmUFA3ZWp6NHE3cHplU2ZkUkEtOWI2d2UtRzdEdkE5WXRKbmtNUU1CZVFyZ0x1cHdYWGRob2syYkVZUExsMGpsTEpHZ2ZEUDh0T253OEt6NElnMlk1djhsMUtCTmJ6WWEzSW42LTdCR0xrbWlabm9WUUp3VQ?oc=5",
       "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT",
@@ -1697,7 +1651,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "cbc.ca",
+      "_publisher": "CBC",
       "_pubUrl": "https://www.cbc.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1709,7 +1663,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnhprice",
-      "_publisher": "INsauga",
+      "_publisher": "insauga.com",
       "_pubUrl": "https://www.insauga.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1721,7 +1675,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "SenCanada.ca",
+      "_publisher": "sencanada.ca",
       "_pubUrl": "https://sencanada.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1750,6 +1704,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "The Year Ahead: Housing",
+      "link": "https://news.google.com/articles/CBMicEFVX3lxTFBWVDFMZ2lEX1d2Z2prWGJxLTFrZjQwaTdjM2dDU3N3QS00cTNtbE5RdXJTQ3l0UU5abWc5QndoazhtT3ZTSjg2VUZPTEJYejVXVWVDSTdWaVZNc0JtX2VCMXhfT0UxQ2NVa05Gbk9zSEQ?oc=5",
+      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Macleans.ca",
+      "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "Hazeldean at Savage: Zoning By-law Amendment",
       "link": "https://news.google.com/articles/CBMigwFBVV95cUxNMjUwRWFDeDNUUHJ6dTJPNi12a0k4QVVDVDBpUl9GeVZYdGlwekFKMjBPeG1DbzBmd01iR1pKMTdGLWNTSEJVSzJqdU1XRDkwSmg5UE1Rck5BLW1JOWduaWo0SU43clZjZkxlMWc5bTlOMmZEeVZLNXNleW5sWWdRYTVYOA?oc=5",
       "pubDate": "Fri, 12 Dec 2025 08:00:00 GMT",
@@ -1759,6 +1725,18 @@
       "_src": "gnottdev",
       "_publisher": "Glen Gower",
       "_pubUrl": "https://glengower.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Residential construction resets for tighter times amid federal shifts",
+      "link": "https://news.google.com/articles/CBMixgFBVV95cUxOa3NFRVBUZzFvVHlDTFFXV0VqdnJtM1g0NVlQenVWa3liQTZhLXN4TWo0dzA1d040WEE5YTVFX0FDOGZQWHVCTnZlVmpuZ2paQjJ1c0d6VFo2OE9ZejVEcFp2cXN4bnVRdC11U3F1ZXVJS29PSlQ5VDlJNlZSZmRMeFgzRk1vQ3VGcnlRM0FXRXVvSlhTV3RybjJzU2lPM2xVbWU5dEVhMjV5Q3NpSXFva09hN1lrbnF2ZDdLU3g0NlZFbGpDUHc?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnnewcon",
+      "_publisher": "Western Investor",
+      "_pubUrl": "https://www.westerninvestor.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1781,7 +1759,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "Altus Group",
+      "_publisher": "altusgroup.com",
       "_pubUrl": "https://www.altusgroup.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1829,7 +1807,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "C.D. Howe Institute",
+      "_publisher": "cdhowe.org",
       "_pubUrl": "https://cdhowe.org",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1858,18 +1836,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Public Inquiry finds there were failures on both sides of Ottawa LRT project",
-      "link": "https://news.google.com/articles/CBMiqAFBVV95cUxQY2FDZGdlWHNZOGlkcm1fQXAtNHUwOFVhejhkdWQzckEtTkpHMk0yZjJYeTR5Vi1tVk9ZQzZfM2RGVTZ6TDhKT0JaV3RsN1BFa2FKcU5QT2gwT1RVN0lIWW14cE11cnFPdXRoc2Fva2pHNTlYbDF4Q3RIQ0lmdkh3aE41WUtRakY1NjBDU283eWF3UDZMLWVINWJraXFKQW95TGhlWHdZMUo?oc=5",
-      "pubDate": "Thu, 01 Dec 2022 08:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "ReNew Canada",
-      "_pubUrl": "https://www.renewcanada.net",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Government of Canada supports Ottawa International Airport with new funding for critical infrastructure projects",
       "link": "https://news.google.com/articles/CBMiggJBVV95cUxQU3YydHVDZWRxMi1Tc1ZjZUZORS01Nl9xd1VLNVl0LVE3dVJtZDNLRTF0RElhSG9xSEF5RU1rS3BMOXdZX1dzbHVZZmI1WHdNUG9yRDJ0X1lad29sb2QzVTR6ak9aMnVBZXZPYl9KZ3Q3LWVyV0E3V3czZXJhYXBDeDRsMG1YRURJdXRCT2Jrdkx4azB2RFZObzB1UlpSMWIyeWlUcFU5cFk2ZjIya0lVZDhfWXdLQW43RUs1M1ZvenRoblZrYUZsZGJ2S1BLa3FyQVhhTHFXeDhCNkVCYjU3R2ZJZ0tLSFNha3dveWtZeVhfS19OV2ZfX00wbmVodGpKaXc?oc=5",
       "pubDate": "Mon, 28 Nov 2022 08:00:00 GMT",
@@ -1891,6 +1857,18 @@
       "_src": "gnottlrt",
       "_publisher": "TVO.org",
       "_pubUrl": "https://www.tvo.org",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa LRT infrastructure, track maintenance workers join transit union",
+      "link": "https://news.google.com/articles/CBMie0FVX3lxTFBzeElyd29OZU1Lak1mekp2eFRTc01XdmR1OWVrWU44YXlpYThBMmFUUkhneFMwLTM4WDVZY0kxbUVIQWM5VmY5MmZQeFJnQWstUDZQeFNaemtWNVl0Z0JzejIwcHdSYm5DdHpWX2Nhd3Q3QjA3bEhOdlAwYw?oc=5",
+      "pubDate": "Fri, 09 Jul 2021 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "Global News",
+      "_pubUrl": "https://globalnews.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
