@@ -1,6 +1,6 @@
 {
-  "ts": 1786582766030,
-  "fetched": "2026-08-13T00:59:26.030Z",
+  "ts": 1786598847415,
+  "fetched": "2026-08-13T05:27:27.415Z",
   "sources": [
     {
       "id": "cmt",
@@ -89,6 +89,17 @@
   ],
   "items": [
     {
+      "title": "U.S. jury awards US$29M damages to Boeing 737 Max victim’s family",
+      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/08/13/us-jury-awards-us29m-damages-to-boeing-737-max-victims-family/",
+      "pubDate": "Thu, 13 Aug 2026 01:06:02 -0400",
+      "description": "A Chicago jury awarded US$29 million in damages to the family of an Irish-born United Nations employee who died in a 2019 Boeing 737 Max crash, a U.S. court spokesman said Wednesday.",
+      "content": "<media:description type=\"plain\"><![CDATA[Relatives of Ethiopian Airlines crash victims gather at an anniversary memorial service in Addis Ababa, Ethiopia on March 8, 2020. (Mulugeta Ayene / AP Photo)]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Mulugeta Ayene</media:credit>",
+      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/AS236USAVZAIFA4FYS4QBUNIKM.jpg?auth=0281cb7a62d614d16529dd0831c3d0d63a707162e4be65d143196dcae218925e&amp;smart=true&amp;width=7000&amp;height=4667",
+      "_src": "bnn",
+      "_ogDesc": "A Chicago jury awarded US$29 million in damages to the family of an Irish-born United Nations employee who died in a 2019 Boeing 737 Max crash, a U.S. court spokesman said Wednesday.",
+      "body": "<p>NEW YORK — A Chicago jury awarded US$29 million in damages to the family of an Irish-born United Nations employee who died in a 2019 Boeing 737 Max crash, a U.S. court spokesman said Wednesday.</p>\n<p>The civil suit was brought against Boeing by Naoise Connolly Ryan, widow of Michael “Mick” Ryan, an engineer with the UN World Food Programme who was one of the victims in the Ethiopian Airlines crash that killed all 157 people on board.</p>\n<p>Ryan had worked during the Ebola crisis in Liberia and with Rohingya refugees. A UN memorial page to Ryan, who was 39 at the time of the crash, also recognized his work Afghanistan, Sri Lanka, Nepal, and Ethiopia.</p>\n<p>The case is one of the final remaining civil suits pending against Boeing following the pair of deadly Max crashes in 2018 and 2019 that together claimed 346 lives.</p>\n<p>The vast majority of claims have been settled out of court with undisclosed terms, but Naoise Ryan’s attorney Steven Marks had described his client as “committed to seeking accountability and justice from a jury and not accepting money from Boeing directly.”</p>\n<p>Boeing has apologized for the crashes and acknowledged that anti-stall software was implicated in both accidents.</p>\n<p>Boeing did not immediately respond to a request for comment.</p>\n<p>In May, a Chicago jury awarded $49.5 million in damages to the family of Samya Stumo, a 24-year-old American who was killed on the same Ethiopian Airlines flight.</p>\n<h2>Related Stories</h2>"
+    },
+    {
       "title": "Law firm Motley Rice’s fee for Meta case in New Mexico could top US$67 million",
       "link": "https://www.bnnbloomberg.ca/business/technology/2026/08/13/law-firm-motley-rices-fee-for-meta-case-in-new-mexico-could-top-us67-million/",
       "pubDate": "Thu, 13 Aug 2026 00:45:44 -0400",
@@ -111,6 +122,16 @@
       "body": "<p>Costco Canada is warning shoppers about a recall involving certain yogurt products that may contain mould.</p>\n<p><a href=\"https://customerservice.costco.ca/app/answers/answer_view/a_id/1020033/session/L3RpbWUvMTc4NjU2OTUxOC9nZW4vMTc4NjU2OTUxOC9zaWQvZlV2aDIxYWswbENwd1p3M1ZUY3RncVVWd3NFUzR4NWFkbEVRU2JMRFN4SGFYV2hFX09ueUY1bUdZalJnMFNvTm1TczhyaENjNGFPJTdFd25STzZUYzVvUlZWdWNxMHBqd3ZyVTdKeFZHQXlxcGlMQThfU2phVWpMQ3clMjElMjE=\" rel=\"\">The recall</a> affects both The Greek Gods’ Honey Yogurt and Organic Yogurt Plain items, both sold in two 650-gram containers.</p>\n<p>The affected products, which were recalled by Hain Celestial, which owns The Greek Gods brand, may have been purchased at Costco warehouses or Costco Business Centres between June and August 2026.</p>\n<p>The recalled Honey Yogurt has best-before dates ranging from Aug. 1 to Sept. 15, 2026, while the recalled Organic Yogurt Plain has dates ranging from Aug. 9 to Sept. 13, 2026.</p>\n<p>“Please do not consume, serve, use, sell or distribute” the affected yogurt, Costco Canada wrote in its notice.</p>\n<p>The recalled products can be returned to any Costco warehouse for a full refund.</p>\n<p>Consumers with questions can contact Hain Celestial by <a href=\"https://www.greekgodsyogurt.com/contact-us/\" rel=\"\">email</a> or by phone at 1-800-421-1655, Monday to Friday from 9 a.m. to 7 p.m. EST.</p>\n<p>Customers are also being asked to pass the recall information along to anyone they may have given the affected yogurt to.</p>\n<h2>Related Stories</h2>"
     },
     {
+      "title": "Desjardins mortgage portfolio grows 8% as quarterly earnings rise",
+      "link": "https://www.canadianmortgagetrends.com/2026/08/desjardins-mortgage-portfolio-grows-8-as-quarterly-earnings-rise/",
+      "pubDate": "Thu, 13 Aug 2026 02:43:29 +0000",
+      "description": "Residential mortgage balances reached $206.8 billion, while improved margins and lower credit-loss provisions helped lift second-quarter earnings.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/05/Desjardins_sm-500x333.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Residential mortgage balances reached $206.8 billion, while improved margins and lower credit-loss provisions helped lift second-quarter earnings."
+    },
+    {
       "title": "Ottawa, Quebec and N.L. to announce new Churchill Falls deal next week: sources",
       "link": "https://www.bnnbloomberg.ca/business/2026/08/12/new-churchill-falls-deal-to-be-announced-next-week-sources/",
       "pubDate": "Wed, 12 Aug 2026 22:35:20 -0400",
@@ -120,6 +141,16 @@
       "_src": "bnn",
       "_ogDesc": "CTV News has learned the federal government, as well as the Quebec and Newfoundland and Labrador provincial governments, are poised to announce a new deal on Churchill Falls next week. ",
       "body": "<p>OTTAWA – CTV News has learned the federal government, as well as the Quebec and Newfoundland and Labrador provincial governments, are poised to announce a new deal on Churchill Falls next week.</p>\n<p>The previous “memorandum of understanding (MOU),” inked in December 2024 by then-premiers Andrew Furey and Francois Legault, became a focal point of the Newfoundland and Labrador provincial election last October, with the leader of the Progressive Conservative Party - and now premier - Tony Wakeham criticizing the terms of the MOU and promising a referendum on it.</p>\n<p>Once elected, Wakeham struck a review committee, which concluded the terms of the MOU were not “in the public interest.” The premier then said he would embark on renegotiations with the new premier of Quebec, Christine Fréchette.</p>\n<p>Wakeham also signalled he wanted the federal government involved, and multiple provincial and federal sources told CTV News that both Prime Minister Mark Carney and federal Energy Minister Tim Hodgson were heavily involved in negotiations and “deep in the weeds,” viewing the construction of the hydroelectric project as one of national significance and important for energy security, in light of persistent economic threats from the United States.</p>\n<p>CTV News reached out to Wakeham’s office, where a spokesperson confirmed significant progress in negotiations has been made, but added that “as of right now, no final deal has been signed.”</p>\n<p>Sources tell CTV News the new deal will allow for more power to be sent to Labrador, a key sticking point for Wakeham, and the federal government will play a role in the financing of transmission lines, with significant loan guarantees and investment tax credits.</p>\n<p>The original Churchill Falls deal, signed in 1969, resulted in Newfoundland selling power at a discount to Quebec at rates far below market value. That deal was only set to expire in 2041.</p>\n<p>The 2024 MOU allowed for new rates for the power to take hold in 2027, in an effort to rectify what<b> </b>Newfoundlanders have spent decades calling a raw deal – they had the resource, but Quebec got the bargain.</p>\n<p>Provincial sources say the bulk of the 2024 deal will remain in place.</p>\n<p><i>With files from CTV News’ Garrett Barry</i></p>\n<h2>Related Stories</h2>"
+    },
+    {
+      "title": "Manulife Bank mortgage portfolio grows 12% to $28.7 billion",
+      "link": "https://www.canadianmortgagetrends.com/2026/08/manulife-bank-mortgage-portfolio-grows-12-to-28-7-billion/",
+      "pubDate": "Thu, 13 Aug 2026 02:24:34 +0000",
+      "description": "Residential lending continued to drive balance growth, while non-performing mortgages remained below 0.2% of the portfolio.",
+      "content": "",
+      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Manulife-earnings_sm-500x334.jpg",
+      "_src": "cmt",
+      "_ogDesc": "Residential lending continued to drive balance growth, while non-performing mortgages remained below 0.2% of the portfolio."
     },
     {
       "title": "Canadians want illegal firearm trafficking to be a priority in trade negotiations, polling finds",
@@ -186,17 +217,6 @@
       "_src": "bnn",
       "_ogDesc": "Canada’s lead trade negotiator with the U.S. Janice Charette has warned her American counterparts that if the White House imposes new 50 per cent tariffs on Aug. 19, it could put further trade talks at risk.",
       "body": "<p>Canada’s lead trade negotiator with the U.S. Janice Charette has warned her American counterparts that if the White House imposes <a href=\"https://www.ctvnews.ca/world/trumps-tariffs/article/trump-retaliating-against-us-booze-ban-dairy-with-50-tariffs-on-canadian-goods/\" rel=\"\" title=\"https://www.ctvnews.ca/world/trumps-tariffs/article/trump-retaliating-against-us-booze-ban-dairy-with-50-tariffs-on-canadian-goods/\">new 50 per cent tariffs on Aug. 19</a>, it could put further trade talks at risk.</p>\n<p>Industry sources tell CTV News there was no ultimatum given to U.S. Trade Representative Jamieson Greer, but that he does understand the reality of the situation.</p>\n<p>Charette’s comments were first reported by The Globe and Mail on Wednesday.</p>\n<p>According to one industry source, it was conveyed to Greer that there is no way the federal government can push the provinces to return U.S. alcohol to store shelves without comprehensive and meaningful tariff relief for affected industries like steel and aluminum.</p>\n<p>CTV News is not identifying the sources who are not authorized to disclose the details of their briefings and discussions on the trade talks.</p>\n<p>Provincial bans on U.S. alcohol are among the primary policies highlighted by Trump as an irritant. Eight out of the 10 provinces – excluding Alberta and Saskatchewan – have removed U.S. alcohol from store shelves since last year.</p>\n<p>Ahead of next week’s deadline, Canada-U.S. Trade Minister Dominic LeBlanc and Charette are in Washington and <a href=\"https://www.ctvnews.ca/politics/article/canada-us-trade-officials-aim-to-present-trump-with-layout-of-deal-before-deadline/\" rel=\"\">met Greer on Tuesday</a> for the third time in as many weeks.</p>\n<p>Last week, <a href=\"https://www.ctvnews.ca/politics/article/alcohol-dairy-and-autos-what-is-and-isnt-on-the-table-in-canada-us-trade-negotiations/\" rel=\"\">industry sources told CTV News</a> that proposals being discussed between Canadian and American officials include removing the counter-tariffs on autos and provincial bans on alcohol. Proposals are also being exchanged about changing how dairy quotas are managed.</p>\n<p>In return, Canadians are seeking relief on Section 232 tariffs. Under that section, the U.S. has imposed 15 to 50 per cent tariffs on steel, aluminum and copper products, 25 per cent tariffs on autos and trucks and 10 per cent tariffs on softwood timber and lumber.</p>\n<p><a href=\"https://www.ctvnews.ca/politics/article/canada-us-trade-officials-aim-to-present-trump-with-layout-of-deal-before-deadline/\" rel=\"\">CTV News also reported Tuesday</a> that both Canadian and U.S. trade representatives are aiming to present a layout of a trade deal in front of Trump days before the Aug. 19 deadline.</p>"
-    },
-    {
-      "title": "European acquisition powers cannabis company Organigram to record revenues",
-      "link": "https://www.bnnbloomberg.ca/business/company-news/2026/08/12/european-acqusition-powers-cannabis-company-organigram-to-record-revenues/",
-      "pubDate": "Wed, 12 Aug 2026 19:49:16 -0400",
-      "description": "Cannabis company Organigram Global Inc. says the acquisition of a European medical cannabis company has helped drive it to record quarterly revenues.",
-      "content": "<media:description type=\"plain\"><![CDATA[Workers are seen in cannabis company Organigram Global Inc.'s facility in Moncton, N.B., in this undated handout photo. THE CANADIAN PRESS/HANDOUT- Thiago De Oliveira Muniz]]></media:description><media:credit role=\"author\" scheme=\"urn:ebu\">Thiago De Oliveira Muniz</media:credit>",
-      "thumbnail": "https://www.bnnbloomberg.ca/resizer/v2/JDLIYJEIV5CDPD2KGB4PCEYJIE.jpg?auth=9a1bdb7cb2fc344e549e4dc5c639a61aca41dc87abb4b212899ad6ed0f05ac68&amp;smart=true&amp;width=1400&amp;height=788",
-      "_src": "bnn",
-      "_ogDesc": "Cannabis company Organigram Global Inc. says the acquisition of a European medical cannabis company has helped drive it to record quarterly revenues.",
-      "body": "<p>TORONTO &mdash; Cannabis company Organigram Global Inc. says the acquisition of a European medical cannabis company has helped drive it to record quarterly revenues and fundamentally reshaped the firm.</p>\n<p>Organigram said the April purchase of German-based Sanity Group GmbH added about $38 million in net revenue during the three-month period that ended on June 30. Organigram was already an investor in the company and acquired all its remaining issued and outstanding shares for about 107-million euros (about $173.7 million).</p>\n<p>“Organigram today is a fundamentally different company than it was earlier this year,” CEO James Yamanaka said during a call with analysts Tuesday to discuss the company’s third-quarter financial results.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/company-news/\"><b>Latest updates on company news here</b></a></li></ul>\n<p>“We are larger in scale, broader in geographic reach, and better positioned for long-term profitable growth.”</p>\n<p>Founded in New Brunswick in 2013, Organigram’s corporate offices are in Toronto with its flagship flower and ready-to-consume products facility located in Moncton, N.B. It produces hash and craft flower in Lac-Supérieur, Que.; edibles, including extracts, in Winnipeg; hydrocarbons and carbon dioxide for extracts and concentrates in Aylmer, Ont., and handles distribution from London, Ont.</p>\n<p><a href=\"https://www.bnnbloomberg.ca/stock/OGI:CT/\" target=\"_self\" rel=\"\" title=\"https://www.bnnbloomberg.ca/stock/OGI:CT/\">Organigram</a> said Sanity has about 10 per cent of the German cannabis market. Under its European growth strategy, the subsidiary is expanding operations in Switzerland, the U.K., Poland and Czechia. That includes a recreational cannabis pilot project and a new medical cannabis partnership in Switzerland, its upcoming entry into the Polish market and launching branded products in the U.K. through strategic partnerships.</p>\n<p>In Canada, Yamanaka said Organigram has an 11.1 per cent share of the recreational cannabis market. That includes 12.5 per cent of the cannabis flower category, up two percentage points year-over-year, and 36 per cent of regular pre-rolls.</p>\n<ul><li><a href=\"https://www.bnnbloomberg.ca/business/economics/\"><b>Latest economic news on BNNBloomberg.ca</b></a></li></ul>\n<p>Edibles were a soft spot for the company, said the CEO. While the company’s share of the segment stayed relatively stable, he said it is feeling pressure from lower-priced competitors.</p>\n<p>Yamanaka said the company believes it can expand its market share further as quality, consistency and potency continue to improve. He said the company has reduced its number of products by about 10 per cent compared to last year to bring more discipline to the portfolio.</p>\n<p>“Rather than chasing shelf space through product proliferation, we’re positioning ourselves to gradually invest behind fewer, stronger brands with clear consumer positioning and less overlap,” he said.</p>\n<p>Organigram’s net revenue for the quarter was $105.8 million compared to $70.8 million over the same period a year ago, mostly due to the Sanity acquisition.</p>\n<p>The company’s net income was $105.5 million, up from a net loss of $6.3 million in the third quarter of 2025.</p>\n<p>The company’s diluted earnings per common share came in at about $0.77, compared to a loss of about $0.05 per common share a year ago.</p>\n<p><i>By Devin Stevens in Halifax.</i></p>\n<p><i>This report by The Canadian Press was first published Aug. 12, 2026.</i></p>"
     },
     {
       "title": "Canada’s Foreign Investment Surge Isn’t Confidence, It’s A Looming Debt Crisis",
@@ -345,7 +365,7 @@
       "thumbnail": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/08/web1_vka-field-22226.jpg;w=960",
       "_src": "timescolonist",
       "_ogDesc": "The first of five buildings housing the North Naden Accommodations is set to be finished early next year, with the rest to be completed by 2030.",
-      "body": "<p>Building 355 units of &shy;military accommodations at CFB &shy;Esquimalt near the intersection of Colville and Admirals roads is expected to cost about $86 million, says the Department of National Defence.</p>\n<p>Construction began at the former Upper Naden sports field last month, and the first of five two-storey buildings in the North Naden &shy;Accommodations is set to be finished early next year, with the rest to be completed by 2030.</p>\n<p>Bird Design-Build Construction Inc. was awarded a $19.9-million contract in October 2024 for the first building.</p>\n<p>The design-build contract will be amended over time to include the other four wood-construction modular buildings, department spokesperson Kened Sadiku said in a statement, noting the &shy;project will cost an estimated $86 million. There were &shy;previously plans to build a 400-unit temporary accommodations complex on the sports field, but DND announced it was building permanent accommodations shortly before crews broke ground on the project.</p>\n<p>The North Naden Accommodations project will be the second junior non-commissioned member training accommodations facility that will be built to replace the aging 480-unit Nelles Block, which has been in use since the 1950s and is expected to be demolished in the mid-2030s. The other 480-unit facility, announced in 2024 by then-defence minister Bill Blair with an estimated $165-million price tag, is also scheduled to break ground this year on a parking lot near the Nelles Block. That design-build contract was awarded to Ellis Don Corp.</p>\n<p>Thomas Froese, civil engineering department chair at the University of Victoria, said design-build contracts such as the ones awarded to Bird and Ellis Don allow for more flexibility for projects that might see big changes after they are commissioned.</p>\n<p>&ldquo;There are really significant advantages in having a contractor involved during the design process because they&rsquo;re both really two different sets of expertise. The architect and engineer are one set, and the contractor is a different set,&rdquo; he said in an interview.</p>\n<p>For example, an architect might call for a window of a specific size without realizing that if it was slightly smaller, a contractor could source windows locally that are cheaper and &shy;better quality instead of &shy;importing them from Europe, he said.</p>\n<p>&ldquo;Contractors can do a much better job of that kind of thing than designers. So it really works best when they&rsquo;re working together,&rdquo; he said.</p>\n<p>The traditional way of awarding construction contracts through a design-bid-build process might be cheaper, he said, but if you start changing things after the fact, &ldquo;you&rsquo;ve lost all of that competitive advantage, and who knows what the final cost will be if you start changing things up too much.&rdquo;</p>\n<p>Design-build contracts have been around for decades, mostly for major one-off infrastructure projects such as bridges.</p>\n<p>But in the past two decades, that approach has worked its way down to smaller projects because of the added flexibility a design-build contract has, he said.</p>\n<p>&ldquo;Risk is huge in the construction industry, because small changes in terms of even five per cent difference in cost can be a huge amount of money,&rdquo; Froese said.</p>\n<p>&ldquo;The differences between the contracts have a lot more to do with risk, and what happens if changes need to be made, and what happens if things don&rsquo;t go the way we expected,&rdquo; he said, adding that it&rsquo;s important to use the right contract for the right job.</p>\n<p>Sadiku said the &shy;$86-million price tag for North Naden Accommodations is an &shy;estimate, and the final costs could change as the project advances.</p>\n<p><a href=\"http://mailto: mjlo@timescolonist.com\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12643011&amp;t=New+housing+units+at+CFB+Esquimalt+expected+to+cost+%2486M%3a+DND&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#635c101601090600175e300b0211060746515305110c0e465153370a0e0610465153200c0f0c0d0a10174650224651532d06144651530b0c16100a0d04465153160d0a17104651530217465153202521465153261012160a0e020f17465153061b130600170607465153170c465153000c10174651534651575b552e465022465153272d2745020e1358010c071a5e0b171713104650224651254651251414144d170a0e0610000c0f0c0d0a10174d000c0e4651250f0c00020f4e0d0614104651250d06144e0b0c16100a0d044e160d0a17104e02174e0005014e061012160a0e020f174e061b1306001706074e170c4e000c10174e5b550e4e070d074e525155575053525246502516170e3c100c16110006465027260e020a0f3c300b02110646515516170e3c0e06070a160e465027260e020a0f3c300b02110646515516170e3c00020e13020a040d465027260e020a0f3c300b021106465327465322465327465322220f100c465022465153010646515310161106465153170c465153000b0600084651530c1617465153020f0f4651530c05465153170c07021a465154104651530f02170610174651530d06141046515302174651530b171713104650224651254651251414144d170a0e0610000c0f0c0d0a10174d000c0e4653274653224653274653222f0a0806465153040617170a0d044651531a0c16114651530d061410465153011a465153060e020a0f465025465153300a040d4651531613465153050c114651530c16114651530d0614100f061717061146515302174651530b171713104650224651254651251414144d170a0e0610000c0f0c0d0a10174d000c0e46512507020a0f1a\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=New+housing+units+at+CFB+Esquimalt+expected+to+cost+%2486M%3a+DND&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=New%20housing%20units%20at%20CFB%20Esquimalt%20expected%20to%20cost%20%2486M%3A%20DND%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
+      "body": "<p>Building 355 units of &shy;military accommodations at CFB &shy;Esquimalt near the intersection of Colville and Admirals roads is expected to cost about $86 million, says the Department of National Defence.</p>\n<p>Construction began at the former Upper Naden sports field last month, and the first of five two-storey buildings in the North Naden &shy;Accommodations is set to be finished early next year, with the rest to be completed by 2030.</p>\n<p>Bird Design-Build Construction Inc. was awarded a $19.9-million contract in October 2024 for the first building.</p>\n<p>The design-build contract will be amended over time to include the other four wood-construction modular buildings, department spokesperson Kened Sadiku said in a statement, noting the &shy;project will cost an estimated $86 million. There were &shy;previously plans to build a 400-unit temporary accommodations complex on the sports field, but DND announced it was building permanent accommodations shortly before crews broke ground on the project.</p>\n<p>The North Naden Accommodations project will be the second junior non-commissioned member training accommodations facility that will be built to replace the aging 480-unit Nelles Block, which has been in use since the 1950s and is expected to be demolished in the mid-2030s. The other 480-unit facility, announced in 2024 by then-defence minister Bill Blair with an estimated $165-million price tag, is also scheduled to break ground this year on a parking lot near the Nelles Block. That design-build contract was awarded to Ellis Don Corp.</p>\n<p>Thomas Froese, civil engineering department chair at the University of Victoria, said design-build contracts such as the ones awarded to Bird and Ellis Don allow for more flexibility for projects that might see big changes after they are commissioned.</p>\n<p>&ldquo;There are really significant advantages in having a contractor involved during the design process because they&rsquo;re both really two different sets of expertise. The architect and engineer are one set, and the contractor is a different set,&rdquo; he said in an interview.</p>\n<p>For example, an architect might call for a window of a specific size without realizing that if it was slightly smaller, a contractor could source windows locally that are cheaper and &shy;better quality instead of &shy;importing them from Europe, he said.</p>\n<p>&ldquo;Contractors can do a much better job of that kind of thing than designers. So it really works best when they&rsquo;re working together,&rdquo; he said.</p>\n<p>The traditional way of awarding construction contracts through a design-bid-build process might be cheaper, he said, but if you start changing things after the fact, &ldquo;you&rsquo;ve lost all of that competitive advantage, and who knows what the final cost will be if you start changing things up too much.&rdquo;</p>\n<p>Design-build contracts have been around for decades, mostly for major one-off infrastructure projects such as bridges.</p>\n<p>But in the past two decades, that approach has worked its way down to smaller projects because of the added flexibility a design-build contract has, he said.</p>\n<p>&ldquo;Risk is huge in the construction industry, because small changes in terms of even five per cent difference in cost can be a huge amount of money,&rdquo; Froese said.</p>\n<p>&ldquo;The differences between the contracts have a lot more to do with risk, and what happens if changes need to be made, and what happens if things don&rsquo;t go the way we expected,&rdquo; he said, adding that it&rsquo;s important to use the right contract for the right job.</p>\n<p>Sadiku said the &shy;$86-million price tag for North Naden Accommodations is an &shy;estimate, and the final costs could change as the project advances.</p>\n<p><a href=\"http://mailto: mjlo@timescolonist.com\">[email&#160;protected]</a></p>\n<ul><li><a href=\"/submissions/typo?id=12643011&amp;t=New+housing+units+at+CFB+Esquimalt+expected+to+cost+%2486M%3a+DND&amp;u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\">See a typo/mistake?</a></li> <li><a href=\"/submissions/newstip\">Have a story/tip?</a></li></ul>\n<ul><li> 0 Shares </li> <li> <a href=\"/cdn-cgi/l/email-protection#221d515740484741561f714a4350474607101244504d4f071012764b4f4751071012614d4e4d4c4b51560711630710126c47550710124a4d57514b4c45071012574c4b56510710124356071012616460071012675153574b4f434e56071012475a524741564746071012564d071012414d51560710120710161a146f071163071012666c6604434f5219404d465b1f4a565652510711630710640710645555550c564b4f4751414d4e4d4c4b51560c414d4f0710644e4d41434e0f4c4755510710644c47550f4a4d57514b4c450f574c4b56510f43560f4144400f475153574b4f434e560f475a5247415647460f564d0f414d51560f1a144f0f464c460f131014161112131307116457564f7d514d57504147071166674f434b4e7d714a43504707101457564f7d4f47464b574f071166674f434b4e7d714a43504707101457564f7d41434f52434b454c071166674f434b4e7d714a435047071266071263071266071263634e514d071163071012404707101251575047071012564d071012414a4741490710124d5756071012434e4e0710124d44071012564d46435b071015510710124e43564751560710124c47555107101243560710124a565652510711630710640710645555550c564b4f4751414d4e4d4c4b51560c414d4f0712660712630712660712636e4b4947071012454756564b4c450710125b4d57500710124c475551071012405b071012474f434b4e071164071012714b454c0710125752071012444d500710124d57500710124c4755514e475656475007101243560710124a565652510711630710640710645555550c564b4f4751414d4e4d4c4b51560c414d4f07106446434b4e5b\" target=\"_blank\" class=\"sc-item sc-item-em noparams clearfix ga ga-ext\" data-ga-category=\"Share\" data-ga-action=\"Email\" data-ga-label=\"Local News\"> <i class=\"ic ic-email-o ib\" aria-hidden=\"true\"></i> Share by Email </a> </li> <li> <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"facebook\"> <i class=\"ic ic-facebook-w ib\" aria-hidden=\"true\"></i> Share on Facebook </a> </li> <li> <a href=\"https://x.com/share?text=New+housing+units+at+CFB+Esquimalt+expected+to+cost+%2486M%3a+DND&amp;url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011&amp;via=timescolonist\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-x noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"twitter\"> <i class=\"ic ic-x-w ib\" aria-hidden=\"true\"></i> Share on X </a> </li> <li> <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\" target=\"_blank\" class=\"sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext\" data-ga-category=\"NTG social\" data-ga-action=\"social share\" data-ga-label=\"linkedin\"> <i class=\"ic ic-linkedin-w ib\" aria-hidden=\"true\"></i> Share on LinkedIn </a> </li> <li> <i class=\"ic ic-print-w ib\" aria-hidden=\"true\"></i> Print </li> <li> <a href=\"sms:?body=New%20housing%20units%20at%20CFB%20Esquimalt%20expected%20to%20cost%20%2486M%3A%20DND%20https%3a%2f%2fwww.timescolonist.com%2flocal-news%2fnew-housing-units-at-cfb-esquimalt-expected-to-cost-86m-dnd-12643011\" class=\"sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md\" data-ga-category=\"Share\" data-ga-action=\"Text\" data-ga-label=\"Local News\"> <i class=\"text-hide ic ic-sms-w ib\">Share via Text Message</i> </a> </li></ul>\n<h2>More Local News</h2>\n<h2>Featured Flyer</h2>\n<h2>Featured Local Savings</h2>"
     },
     {
       "title": "Canada&#8217;s Young Adults Make Less Than 50 Years Ago, Senior Incomes Surged",
@@ -455,30 +475,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Is a Bank of Canada rate hike becoming more likely?",
-      "link": "https://news.google.com/articles/CBMinAFBVV95cUxOSmZ1UnkxMTlnYUZyMU9mOVR0aFVHMzVRaHN2Z0VId3lhTVJFZlNFcG82cVRhMUdaU19nbDIyd2JXWTdvWjdVZFFYZmJVSFJ0R2JtakRUejZNeFk4MDJjSUNaYXQ1OTIweGp5OXZQYnlrRWcxSG54S1pHYTVlbEdBZ2hXeTN6dlBKWGJRTl9KWFkzRjZ2dlpLVTRhRVE?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:15:19 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "mpamag.com",
-      "_pubUrl": "https://www.mpamag.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "With Toronto condos crashing, is it time to scrap the foreign-buyer ban?",
-      "link": "https://news.google.com/articles/CBMi7AFBVV95cUxQNlEzUlZTU0hwQmF6ZHFRbHhqWXJJOGoyeW9YVUlqTHFPa1duTnBQc0lxbmRUTkdTbXVBQUMtWEpPaWpCSVZLRGNmYVZiODdvZG4zenBPTW9OenJJRTltMmpMQlg5LWxWVzhmeU5GY2pqeWV5Z1p2VDdlZ3lfdWY2bnRjdm1QX1ROeWM2cVZIMXd5YUM1czM5QTVkejYyYTl5Z0RiLUNkYUpyc0VNRTNxa2ZuWFdxNjVpYXRoZ2VJYnVsU2c0azQxZmlDUno2dGYtVHFpZ01RNWZWNl9rZldYNzJOWmJxdXNMR1Z3RA?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 09:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Toronto Star",
-      "_pubUrl": "https://www.thestar.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Former CMHC chief Evan Siddall named chair of Build Canada Homes",
       "link": "https://www.canadianmortgagetrends.com/2026/08/former-cmhc-chief-evan-siddall-named-chair-of-build-canada-homes/",
       "pubDate": "Tue, 11 Aug 2026 01:59:23 +0000",
@@ -559,12 +555,15 @@
     },
     {
       "title": "Canada Is Building More Homes (But Fewer Of Them Are For People To Own)",
-      "link": "https://storeys.com/canada-housing-ownership-decline-desjardins/",
-      "pubDate": "Mon, 10 Aug 2026 18:38:56 +0000",
-      "description": "<img src=\"https://storeys.com/media-library/image.jpg?id=41624111&width=1245&height=700&coordinates=0%2C31%2C0%2C31\"/><br/><br/><p>It’s no secret that developers have lost faith in Canada’s once-booming condo sector. It’s also no secret that the rental segment has emerged as something of a saving grace for the housing market, with new and pivoted projects alike benefiting from government-backed incentives. But a new report from Desjardins underscores that the broad volley from condo to rental is not a risk-free trade-off.</p><p>Authored by Economist Kari Norman, the <a href=\"https://coop.desjardins.com/content/dam/pdf/en/personal/savings-investment/economic-studies/canada-condo-construction-7-august-2026.pdf\" target=\"_blank\">report</a> points out while there have been around 130,000 rental housing starts recorded over the last four quarters, condo starts have slipped below the 50,000-mark for the first time since the 2009 global recession. </p><p>“This pivot reflects a dramatic change in market conditions,” writes Norman. “Condo projects depend heavily on investor presales to secure construction financing, but those presales have fallen sharply as investors retreat from the market. Higher interest rates have eroded affordability and made financing more expensive for both buyers and developers.”</p><p>“By contrast, targeted Canada Mortgage and Housing Corporation financing programs and the <a href=\"https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/purpose-built-rental-housing.html\" rel=\"noopener noreferrer\" target=\"_blank\">removal of the GST on new rental construction</a> have significantly improved the economics of purpose-built rental projects,” Norman goes on to say. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"11a6a08049db5c7fb28351cdf76813d6\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"55de9\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=67599476&width=980\"/> </p><p>The uptick in rental construction is inherently a good thing. Canada has been under-building purpose-built rental housing since the 1990s, and the country has grappled with a deep deficit for decades. But the shift to rental is also masking a steep decline in the pipeline of homes meant for ownership, says Norman, particularly as it becomes more common for condo developments to be pivoted to rental.</p><p>In the Greater Toronto Hamilton Area (GTHA), for instance, 11,424 condo units were cancelled between 2024 and the first quarter of 2026, according to <a href=\"https://www.urbanation.ca/news/standing-condo-inventory-hits-record-high-q1\" target=\"_blank\">research</a> from Urbanation, and of those, 4,064 were converted into purpose-built rental.</p><p>“Until recently, it was pretty rare to see new condo projects cancel and convert to rental,” Urbanation President <a href=\"https://www.linkedin.com/in/shaunhildebrand/\" target=\"_blank\">Shaun Hildebrand</a> told STOREYS in a <a href=\"https://storeys.com/condo-rental-pivot-momentum-gta/\" target=\"_self\">September 2025 interview</a>. At that time, 1,778 individual units across nine condo projects had been converted to rental since the beginning of 2024. “Before 2024, only seven did so during the previous 10 years. Today, almost every condo project struggling to sell is looking at the option to convert to rental.”</p><p>We’re seeing this happen in real time. In one recent example, Minto Communities filed a major revision to its Grand Park Village project — a five-building, mixed-use community coming up down the street from the Mimico GO station — <a href=\"https://storeys.com/grand-park-village-mimico-revised/\" target=\"_self\">shifting the proposed unit tenure</a> from condo to rental. Although there isn’t data like Urbanation’s on condo-to-rental pivots for other Canadian markets, this is <a href=\"https://storeys.com/surrey-condos-pivot-to-rentals/\">not a GTHA-specific occurrence</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"\" class=\"rm-shortcode\" data-rm-shortcode-id=\"ac4d742d769ed627d8ce50edfa5fbe14\" data-rm-shortcode-name=\"rebelmouse-image\" id=\"2d5ee\" loading=\"lazy\" src=\"https://storeys.com/media-library/image.png?id=67599478&width=980\"/> </p><p>“The longer-term implications need to be considered,” says Norman in her report. “Many aspiring homeowners see condos as the first rung on the property ladder, particularly in major cities where the high price tag of detached housing is beyond their reach. With investor presales weakening, condo starts in Montreal, Toronto, and Vancouver are all now well below their 2019 levels.”</p><p>“With large condo developments taking several years to move from presales to completion, today’s sharp decline in starts may not become fully visible in completed supply until later this decade,” Norman adds. “Currently, there isn’t a shortage of homes for sale. But there’s a risk that demand — whether from investors or prospective owner-occupiers — could grow faster than new projects can be approved, financed, and built. Even a gradual recovery in demand could coincide with relatively few new ownership units coming to market, renewing upward pressure on prices.”</p><p>The Desjardins report says that Canada is already facing a 30,000-unit slump in housing starts intended for ownership. Starts data indicates that the ownership share of starts has sunk from 70% to about 45% in the four quarters leading up to Q2 2026. </p>",
+      "link": "https://news.google.com/articles/CBMickFVX3lxTFB2aG1SanJJLTVYTDdrbndfZDZTME9sVVhLQ3FlZ3RzZ0NENlNNZDhmbHFFM1JxRTAwTnphdGViQ0tZSFU5QWFyTHZ0cC13UFhwSXRScmJFTzgtaVFCZmtDZFV1aFRpUk4wLVBCdHgycEYyQQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 18:44:01 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
-      "thumbnail": "https://storeys.com/media-library/image.jpg?id=41624111&amp;width=980",
-      "_src": "storeys"
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "storeys.com",
+      "_pubUrl": "https://storeys.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Surrey eyes site near USA border for housing",
@@ -593,6 +592,18 @@
       "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Chexy-mortgage-rewards-program2-500x334.png",
       "_src": "cmt",
       "_ogDesc": "Chexy’s new mortgage rewards program offers one Aeroplan point per dollar paid, but borrowers must consistently redeem those points above the program’s 1.75% fee to come out ahead."
+    },
+    {
+      "title": "The accidental millionaires: How a 2-year window in Canadian mortgage rules created real estate wealth",
+      "link": "https://news.google.com/articles/CBMihwFBVV95cUxQTTFPZWg0dThTZ2hDbVFZTDJ0aFRrd09SZW1GLVpEb3c5ZDZvb3RGUUJKNGV1RXhvYVNoMWVDTGg4T2NiYmlyVG9wbDJTRGFKOHUxR0ItOUxnTWEwNXNNTzRaUkNYLUU5VGtRZGtsS3ZZcVJXU0FBeEd1Tmd1R2FOX0EzTWxmZXM?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 10:20:58 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnontre",
+      "_publisher": "Money.ca",
+      "_pubUrl": "https://money.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "This Week’s Top Stories: Canada’s GDP Boosted By Fictitious Rents, Population Revisions and Jobs",
@@ -708,16 +719,6 @@
       "_ogDesc": "A new report says the average national asking rent fell four per cent in July compared with last year and now stands at $2,037."
     },
     {
-      "title": "Housing minister says B.C. in talks with Ottawa over cutting development cost charges",
-      "link": "https://www.canadianmortgagetrends.com/2026/08/housing-minister-says-b-c-in-talks-with-ottawa-over-cutting-development-cost-charges/",
-      "pubDate": "Fri, 07 Aug 2026 15:28:26 +0000",
-      "description": "British Columbia's housing minister said her government is working with Ottawa to help fund the infrastructure needed as it pushes to build more homes in the province.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2025/12/B.C.-Housing-Minister-Christine-Boyle-500x343.jpg",
-      "_src": "cmt",
-      "_ogDesc": "British Columbia&#039;s housing minister said her government is working with Ottawa to help fund the infrastructure needed as it pushes to build more homes in the province. "
-    },
-    {
       "title": "Private 93-Acre Turnagain Island On BC's Sunshine Coast Sells For $13M",
       "link": "https://storeys.com/turnagain-island-sold-sunshine-coast/",
       "pubDate": "Fri, 07 Aug 2026 15:27:37 +0000",
@@ -745,28 +746,6 @@
       "_src": "timescolonist"
     },
     {
-      "title": "Canada adds 75,100 Jobs, unemployment rate hits two-year low",
-      "link": "https://www.canadianmortgagetrends.com/2026/08/canadian-employment-rises-by-75100-jobless-rate-at-two-year-low/",
-      "pubDate": "Fri, 07 Aug 2026 13:14:10 +0000",
-      "description": "The Canadian economy added a surprise 75,100 jobs last month while the unemployment rate hit its lowest level in two years -- the latest evidence the economy is on a recovery path.",
-      "content": "",
-      "thumbnail": "https://www.canadianmortgagetrends.com/wp-content/uploads/2026/08/Canadian-employment-July-2026_sm-500x333.jpg",
-      "_src": "cmt",
-      "_ogDesc": "The Canadian economy added a surprise 75,100 jobs last month while the unemployment rate hit its lowest level in two years -- the latest evidence the economy is on a recovery path."
-    },
-    {
-      "title": "The best cities in Canada for renters, the Home of the Week and more top real estate stories",
-      "link": "https://news.google.com/articles/CBMiqwFBVV95cUxQVlA3RkFMNlBCZ1JNYm9jQ1c4djBCcEVFZmE2UlIxdFd0S0dGRmZYU0laZVlCNm55NDR2aERBSWVfdWt2UUdJc05JMzQ1WExFZlhtYUtGVnA5VjNNMWFlZ1YyVUM4NFVXYVNPN2F4TS0zYkpTUTJtTm1UYUhjSGF4cHlIRzdIaElhb0tTcnhvRGZ5MTBRR05EbEdqODc1YzFMdTVqeDFtelgxVEU?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 12:30:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "The Globe and Mail",
-      "_pubUrl": "https://www.theglobeandmail.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Build Canada Homes’ first moves: 4,000 direct-build units and a controversial B.C. condo conversion push",
       "link": "https://news.google.com/articles/CBMi1gFBVV95cUxQQ2d0eUZnU2xPMVE1aVkxWU5QZTZiMDN5ZC1BQ1NwVEs0WXlXblNmZWxWR3JHcThabnk2OVNKUVZIZ2pVaktYbzBQT2h6dlNyam8xSEpaSWZKUW9wV25TRzdidXNPc3pYVlQxRGptNU9rN0NQRTNBUHRSQjg4SVhabTltQmJOQXgzZFhScFBQd2Q3dkVta3BKLTNLR2Rmc3JZVGprVFBuSVRBTnQzdGRySGJ1cnEtakZqQ2oxX1RMV3BON0JCb2E1VUx6Mk5CQy1FYVhmcWpB?oc=5",
       "pubDate": "Fri, 07 Aug 2026 01:48:10 GMT",
@@ -779,16 +758,13 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Diverging trends across Canada’s housing markets in July",
-      "link": "https://news.google.com/articles/CBMi5AFBVV95cUxPVkdYTERJaEJJNUNVaHFtWXRQMkFJaXl3SkRJQmp0b2lGZjFUYnhRZllHZ3l0LVp0S2drU0pSNFFjeFpKYnNnNGVnZVpmR3gyUlZrOFFLNjd5Zk91VkRMQ3BDZmg0NVdxX2gwSG1jc3MwUVlBcThJU1R3bE1kRWV3NDd3TXJxbWFFVkw0NVJJUElKNVM2MndTQmdYOVpWOGJQeGZ6S0E2U2pUTHNXTzJLUzAyakRhbG5ad0IxR3FpUVRXeWNtS0ZuOUc2MXE3eWItYUdITkpaSXVGM2N4VTRVQTljMFI?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 21:05:27 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "title": "Housing minister says B.C. in talks with Ottawa over cutting development cost charges",
+      "link": "https://www.timescolonist.com/national-business/housing-minister-says-bc-in-talks-with-ottawa-over-cutting-development-cost-charges-12637593",
+      "pubDate": "Fri, 07 Aug 2026 00:09:00 GMT",
+      "description": "VICTORIA — British Columbia's housing minister said her government is working with Ottawa to help fund the infrastructure needed as it pushes to build more homes in the province.  \r\n B.C.",
       "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      "thumbnail": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/08/3b73ecd5f4221511f520b708c1a278f96435302ec503b9d7f4503389dcde7cad.jpg;w=960",
+      "_src": "timescolonist"
     },
     {
       "title": "Toronto Real Estate Prices Wipe Out 2026 Gains, Drop To 5-Year Low",
@@ -821,18 +797,6 @@
       "content": "",
       "thumbnail": "https://storeys.com/media-library/40-under-40-sitemedia.png?id=67583707&amp;width=980",
       "_src": "storeys"
-    },
-    {
-      "title": "Calgary still ranks among fastest growing cities in Canada",
-      "link": "https://news.google.com/articles/CBMimwFBVV95cUxNWU85LV9WNWk5MU8tWmdKWXc4eC1ISkhYX19PdU1MZFZnaUFhU3hONnVldWZsMWhXQVV4Wk1JRHpvWUJpNFpWRkdWNlVvVFFLYjNKaV9HbnNkaG12VU9ZRzMxY1N6YmJnLUgya3N1ZkhRT09laFpGdS1JN05sclVNSUMwcGZ0NERhTW1vTklfZWJ3RW9aYjl5REJvSQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 16:25:02 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "Calgary Herald",
-      "_pubUrl": "https://calgaryherald.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Sunray Group Buys North York Office Complex To Transform Into \"Toronto Fortune Centre\"",
@@ -1020,15 +984,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canada's housing market dealt with 'successive blows': Minto CEO",
-      "link": "https://news.google.com/articles/CBMifkFVX3lxTE0tazhnS2V0OUlQX2RPQU1LbEl5VnBtNU05TGc3NWd5eGlmbzdtMXNjYldYbGpkWGVoTk10VHpVdk56M0hodFZUVnZpd0h3VGFRbVR2emhrOWpXRDFldlpHN25UWnU5dm5KNzhMa1lISFBSY25tYmNDLWlKVUxoUQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "title": "CMHC forecasts home price declines as housing slowdown deepens",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxOR1NBRFZoNEhPcGU5bXdDbFZURkU4aG9IWGV5VzFFMzhSSHJLUTlOejBKeTdJX2FKcWhwOThxU2NIQlB5T1lCMnIxTUlOd1RTNTdBbmF5V09kaDRvRGp0OEpwNXcyd2hmaVY3TnhyNDdveFNqSjh6YkJkVUR1Z0JxYzBNOFNSdThJUkdBeFZFYXViNWZBVVlHSEN5a041Q3A4VDNJT0xRNTFxR0ZyNHZB?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnre",
-      "_publisher": "RENX",
-      "_pubUrl": "https://renx.ca",
+      "_src": "gnontre",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1053,6 +1017,30 @@
       "_src": "gnnewcon",
       "_publisher": "Financial Post",
       "_pubUrl": "https://financialpost.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
+      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:52:55 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "CTV News",
+      "_pubUrl": "https://www.ctvnews.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada’s housing market takes another small step towards recovery",
+      "link": "https://news.google.com/articles/CBMi9gFBVV95cUxQUnBJc05VMXk5RFQ3THZla0M1Q25MRTM3TkVVRUxzQkh3a1Zub01jdEZWbVpsTmF2akRuRDN2ajMtT0cwQ21iNUZ2Q3hkMDA5Q1ZZTTd1azRqSW82cXN3Skd2RkhlNlNrdGVJclFBVVJaNG85TGdZZDRjZ3RoRVg5UUJXaFFIMkVYTFMwckFjd1BMa3dNM0RlUHg4dFBxektTRHBsZDNZYTBQSXo3VzlBemFZcEhpVUF3WGRQdm5EOGhWNUZyNklzdVd6b2tTT0d5Uzl0ZjV1TGNtLWJqR21zVFp3cGRxc2hQYmMzRVNfZHhBb2RsVEE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnre",
+      "_publisher": "rbc.com",
+      "_pubUrl": "https://www.rbc.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1116,18 +1104,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Bank of Canada holds key rate steady at 2.25%, predicts economic rebound",
-      "link": "https://news.google.com/articles/CBMirwFBVV95cUxQMDNOcElLcnZ1LUxNU2ZNN1ZUQTRWMUdwV281MU1FdGZMTndxemNTUTVVY3daMUg1cGxidFRJOHlVWTM1c1luVTMzaFV1ZW93RWtRN0hjR2kxQXEtQVM3LWVWNVhFang3N1FYNG5JeGdhQ2NMT202V1FFMGhoVTA3cjFkTkdBRWMzbEgzeWRuRVVxVThqbV93VGNUOWpZUVZuZTNDOWJDZ2p2ZWxxNWow?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnboc",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "The 500,000-Home Myth: Why Canada’s Biggest Housing Target Is Misleading",
       "link": "https://news.google.com/articles/CBMifkFVX3lxTFB4MTA5MWZJdlpPb0NPRndfSEFua29fVlZOdlVPVnZrOVdESW9iT1J0cXF0cFVsVlJuclh1dDAxMUFwZGM5UXFxem10NFlVbHJFQU5BbkJqTG5Cbm05VGp1SlR5bzhBYkw1V2JHMkdwUVJMd3ZRMEY5X0o2Z1kzZw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -1137,6 +1113,18 @@
       "_src": "gnimmig",
       "_publisher": "missingmiddleinitiative.ca",
       "_pubUrl": "https://www.missingmiddleinitiative.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Expert: Bank of Canada’s interest rate announcement",
+      "link": "https://news.google.com/articles/CBMinwFBVV95cUxPZkMyejRybzU3WWtRQ0V2MGp5Qm1IT0pLTTJ0czdqWllyZmhSWWpiWS13RmE3SC1pSEdRR202M1d3TWFsMDliQTdlel9US2xGblNRRlg0aUotdl9BVi1LMndwNkpZUTluaEJIZk4zRGFndS1TTkYzcWV5S1VTcmowcmlYVTBoMEFmdWRuX19fRlY2UVJvZVNtNUhWdDRtcDg?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnboc",
+      "_publisher": "McGill University",
+      "_pubUrl": "https://www.mcgill.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1152,15 +1140,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Canada’s housing markets hit some bumps in June",
-      "link": "https://news.google.com/articles/CBMi2AFBVV95cUxOMnIwSHZfamZVS0pUMC1CYXBjeWxnVmdfLWYwa0hGTFZ3SjhncG93NVlKNzlpcHRfOVM3VUNXSkRCUnF4Z1VJQWVQdklCWDdDbHBjUFRRSldUekNoblFqNU1UUHpXUFUxMkFtSFpzanZNcENjLWwtdy1HNEdYSjdzWjJtRVc3MkR1aFhadF9kdEs5Njc0cUQwQm1SeDZYT0FaQi1MZmlhNnkxN3JWV3FTYlJTMlpla0VCUzVhWVdHZkFEQVllOWhldlM0OWlmS29HOEZKRmQyazk?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "title": "Greater Toronto home sales up 9.4% in June as board predicts price growth could come",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxPelJ1YXZVSmpVVmQ1Y2dESTBoTTVQckg2cFVNbG94MXpsdmZqT1c2WjZPVUlTUHhubDdrdXc5NS0zaVVMYTc3TGpPcTdPdW1xWnBDTnRXNFEwWGJlOWJ3ZlhhNHV2bjVQY2pvUU41NnQzZ1ZEaEZhcnhQNXN5dndDdE9iODFvX3I2M3ZEV0ZSTWRrUGtTWE5taW9MU1V6NVVxX19yT3hST2txR1Z4b1REdkMyVzU5TS1NX2QwT1B5SEJ1N0lT?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "rbc.com",
-      "_pubUrl": "https://www.rbc.com",
+      "_src": "gnhprice",
+      "_publisher": "CP24",
+      "_pubUrl": "https://www.cp24.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1200,15 +1188,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Homes under $500,000 account for growing proportion of Ontario real estate: report - CMT News",
-      "link": "https://news.google.com/articles/CBMixgFBVV95cUxNZjJxWmtmM2JzNGRhOFhjM1YtSVI4b2dZR3lBNkZnWFFMdk9Lc3hyaGl1eFJrR2c1cURIOHM2SE5MT01sMVNpd3JfQXkwLXhSZkNnV2FVeDBydjhiSXhlTEJqaVVSUzZBWlMwSkNhR0Fab05OWkFLSzRYSjRjc3FnWjFNMV81UWt0YU52WlBmOXpwSXNUNU1TM0w4Tk1pdGxNUE4zQ3plSVROZ1laeFBBQkx2NU5IcFh2aU92ck92MUZGWjlGM1E?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "title": "FIRST READING: Canada intervenes (again) to stop housing prices going down",
+      "link": "https://news.google.com/articles/CBMilAFBVV95cUxOMllDUGVOY19YX1hMSDU1dnhaa1QwemFSTGdMTUp6M1p6UzN5NXpUMkZ3d1B0UXlxaTVNVU4wQTB2WWpCWUNyMHFiNHFjMTRjV3NPSDRYZURRcjJRVkN1TnBvS1ZUNzg2bTV3Skh0dHNLbTdnbzdXNWowTUt3TXdVdFJCc0ZOdUd5Z2JvM0ttZWs4WWM4?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "Canadian Mortgage Trends",
-      "_pubUrl": "https://www.canadianmortgagetrends.com",
+      "_src": "gnre",
+      "_publisher": "National Post",
+      "_pubUrl": "https://nationalpost.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1236,15 +1224,15 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Newcomers are buying homes faster as Canadian-born ownership rates decline: StatCan",
-      "link": "https://news.google.com/articles/CBMi0AFBVV95cUxNb0REQXpPWDh6VDAxRHl2MXpENXVEVk9RRmJoRmh4Y0VPYUc2djFXczctU005LUI3QXY3SWJsclB3cFIzRXkxNVJEMXd3ZmxFeUFhZ2FzWXNjQzFDVUlvTHVuaGpvVEctWm5ZdmZJMDRZekNmT2o3VHdDZ2hWT0tPTlhucnhnQl9vaVdWb1Ruck5hSU9BMFpPUEhNU0I2Zm5sS095QmNkSFNPOU5xWjBPenhZSV9ObWduSzNZLWlRTl9jSHNpN2kzbFRuQ2FKUE82?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "title": "Canadian Real Estate Just Flashed A Sign Not Seen Since The 90s Crash",
+      "link": "https://news.google.com/articles/CBMingFBVV95cUxQX0l2T1d1RUZYdDZuQWRnWUo0MUNpeXltcjAxblRiOGVxeUd3eVhqbUN0UlN4ZE1IeWY2WW5EampxLTRpTFgtWmlUaWw4ZWxRMThnSmJmWXhmOU1USGc2MW9jbkxaQnlONlVpb3h3ZjZpeEZsbWp2bGxBV2p6V0syYVlOMzlLSUU5bGJwNF93STE4VTRETi1kVVVuU0lVQQ?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnimmig",
-      "_publisher": "CTV News",
-      "_pubUrl": "https://www.ctvnews.ca",
+      "_src": "gnre",
+      "_publisher": "Better Dwelling",
+      "_pubUrl": "https://betterdwelling.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1267,7 +1255,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
+      "_publisher": "ontarioconstructionnews.com",
       "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1296,15 +1284,27 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Spring Home Sales Stronger Than Last Year",
-      "link": "https://news.google.com/articles/CBMia0FVX3lxTE93dkY1RHdrbjYxR1czNjh5YjBCS3lJOHZPY2YwSy1WdUhxcWw1ZE5ISWFNQ3pVYlR0cjBWZV9YTk1LMURJdC0tR3FyQjZNd0tad3F3Wm43ZTNiR01CMTVPcWpORnNXV0IzUmdZ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "title": "A 20% housing drop still leaves Canadians locked out of market",
+      "link": "https://news.google.com/articles/CBMirgFBVV95cUxOelpvQXVaQlBqV0dzTkloLXNSNDhBUlNWTGVwRjhQOTJ0ekdNZlUxSUdrRjJTeUdBNnJCZ19keFI5T0RxeVZTZlVpU1dxVVlmQ0hCd3E2MEVrdWotcVZkT3RIX0o4STItVW5wLU9kNTJqTnI4S2QyaDV4cUFqeUVCd1pIdjNJOEphMHotUW95YkU2cjJjcXZLOS1vSXdqWWNtb0dNemZRdEtCaEg2clE?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnontre",
-      "_publisher": "TRREB",
-      "_pubUrl": "https://trreb.ca",
+      "_src": "gnre",
+      "_publisher": "Canadian Mortgage Trends",
+      "_pubUrl": "https://www.canadianmortgagetrends.com",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Canada's deflating housing bubble stymies wealth effect of booming stock market",
+      "link": "https://news.google.com/articles/CBMixAFBVV95cUxQTzRMTUo0ZTNYaUllUFpteUcyX0FSTG1id3BhaWRhYlJyd1lUWkNGdzZJLXJPRlpGUTJnaWdvUWxVUlFlVUdHY0pZcVY1M29TUVFnM3Znc1FyMDdReVBFcEZwVEZrVS1zZDBINjBlRld0WDJzYjlJYkwzWU5iSUs5T05VRG11dHdsZXQtQjVQMmIzRzNLbWozS0tqWWlMXzdwUGlYbEk1YlB2bXp2TDFhdlE5SVljb3J3WEp6TzBJcWFfLXJF?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnimmig",
+      "_publisher": "Reuters",
+      "_pubUrl": "https://www.reuters.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1339,20 +1339,8 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "ImmigCanada Immigration Consulting Services",
+      "_publisher": "immigcanada.com",
       "_pubUrl": "https://immigcanada.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa completes 53 per cent of Housing Acceleration Plan actions as committees review progress",
-      "link": "https://news.google.com/articles/CBMiywFBVV95cUxPakxpOGktcmNjeTF4c1VSbXFPcE9aT0JubG91TU5WVlhyX0p5LUdqZVFOcW5QYUtCUDhVRDI1QXVuVkZoVlFDdzVwWlN3V3haSGhPb2NFal9FZll5SFFySUNycUhWaDZwOHhtNEtsNHBrYmFWY1JYcFFMR1M2Q0JTanhXdGNWZlBaaHI0b1FkaU9VUFkyU1U2QkxzekhUcXcwenB3MUcxTnNOaDdqbWJ3Slk4UHB1TlkydVkwdG8weXlaaTluUmM2UkQ4dw?oc=5",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1363,7 +1351,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnimmig",
-      "_publisher": "The Logic",
+      "_publisher": "thelogic.co",
       "_pubUrl": "https://thelogic.co",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1399,7 +1387,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "ontario.ca",
+      "_publisher": "Ontario Newsroom",
       "_pubUrl": "https://news.ontario.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1461,18 +1449,6 @@
       "_src": "gnhprice",
       "_publisher": "BNN Bloomberg",
       "_pubUrl": "https://www.bnnbloomberg.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Ottawa municipal official warns of limited local autonomy under provincial Bill 98 standardization",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxQTExZanNaZHFqREtXbWRzY1VPNUpreHF6b3B6UENTdjlFTXV0VVoyNzVuVThFdGlVMXZ4aDIySmZRSHFFdXQ1eUZIRlZJaVJncFZCanJfWk9VWE5PM1I2VGdRZEFFbWZhZHhJbTJmMFlIc0RFQmJ3THFHaXVTbURCcGhmSnFIZENiVWNiMVJtWUo0ejZlczEwenU0YkpnaWhLWW85VHpYQjVjVGVRYUZZdHpNWmxnckhUcmRpNXdBb3pKdw?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
-      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1548,18 +1524,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "City affordable housing proposal waives requirement for affordable housing",
-      "link": "https://news.google.com/articles/CBMivwFBVV95cUxNQ3YtTGJYdzVSaGJiY3BXeU5XMk5hOENsYklpMWtleWp4MlhYN0hDM01CdmxXNHBCRk1kRWUtejZFM0hLT0tFeHBEdnVsY1VXdzVaZ0FmNUpibGdMUTdTbk52VU9wRFZweHhOWGZNQW1mVHJQVFpXQ1pZRXEwU1RITGI0RU16QnBlX3AzVTVZUS0zZ21SeGZXVDlPVGRxdzJOaFBkX0NaR2k1NlVvRG1NdWVsbGF1aFhZeXMxWmg3dw?oc=5",
-      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottdev",
-      "_publisher": "CBC",
-      "_pubUrl": "https://www.cbc.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "It’s been four years since Ottawa’s LRT public inquiry. Where does the train stand now?",
       "link": "https://news.google.com/articles/CBMiwgFBVV95cUxNbnVwWWZwVDgwMU1mbEhfbjdHQ2VSZzZuc3JRNnVqTFRDMGc5dGYyWHFOY0JDVXJ3c2hwMHZVNXViYVFvVm56M19QZXo1cnBoZGpyVUJrZXJ3SkpDMnJrNl9pblRUZUVyWjRIMzFuX1dwZlRFVXBXcHBYMEFvMFJCTnEwbmpoNXc5VVZNeFNlLW81bldfLWhGRDRsNUtmcXdEYnRTeXB6d3JoTjZaVy1XQzB0d29HTDBCTzN4SkxpV1hPZw?oc=5",
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
@@ -1608,18 +1572,6 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Calgary home sales down 11 per cent in February as condo activity slips: board",
-      "link": "https://news.google.com/articles/CBMi3AFBVV95cUxNOVpKMXZKY2R1VFVmZW5ubXNhT0w2MkRKOXpaNThyNEdMcHh5UjVxLU1vWjhKOHRCSDZwdUdzNGJzU2xpX1Z1d2lkbTlYT01iMDVqM0E1Z0ZucHNKblZoaUkyUjlXOGUyVkpMLTRWeF8wZFVvQTlVY3N0WW5sdzhnNUUyWGxmUHh1cTluS3ZpZVNOOG10bi1WR3Vzay1MRjlsdkUtY0NzMzlCaUdaZDItY0ZlQnJlTmNGY3lDZlFNd3ZUU1RfeU85Z3R6cnFBeVR6Ylo0cmJBeUhudGJW?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnhprice",
-      "_publisher": "canada.constructconnect.com",
-      "_pubUrl": "https://canada.constructconnect.com",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "Orléans 1,500-unit development proposal tests Ottawa’s new no-minimum parking rules",
       "link": "https://news.google.com/articles/CBMiuAFBVV95cUxPQXM2clRpNWR6aHJOWFhyYjU1cVRtUXVOQUJ1QjdETzBDdWROcFM5c2ZYTFRTY3Y2ZUdpeTBmVDF0b3pITFBtSWJIWm54UHh0SG5ZME84YzN1eTNPX0syM25EM3hFQ2p5ZjJzeUVfWTlkb2FGTURSejNDRXNlSjktQlFKNjJJZzBmSE5VRmZBWVEzYjM1elNvbFVkME9iVU1uYy12amV5M1c2QVJ3Sm9RbGZ1SmFsbFpm?oc=5",
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
@@ -1627,7 +1579,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "Ontario Construction News",
+      "_publisher": "ontarioconstructionnews.com",
       "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1641,6 +1593,18 @@
       "_src": "gnhprice",
       "_publisher": "Macleans.ca",
       "_pubUrl": "https://macleans.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa approves landmark zoning by-law to boost housing density; city buys $95 million landfill site",
+      "link": "https://news.google.com/articles/CBMizwFBVV95cUxPQl9md2puZlRHQWZNa0xwanFSZWRnb1JiTHgxblVKUEpmRUVoWHd4aFIxTFNTMkJTd1ViWFVEWGhSWjE0Y3kyS3FDTDZZNUxTOGJLbl9COGxJRENENmVNckd0bkxyckxhWmpLZEtUNUFyUWtlTXN3M1FzaUJUTklFMjhxcTRZUm5ZbXMxOXk1T0huY1ZfR25oV3hZUlFKNFhZTV9nazZpSVM1cVhMY2p6SXBxMVdqOFl5VzB6RERlVFNDVDQ5NGhja3lyc2txcGM?oc=5",
+      "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "ontarioconstructionnews.com",
+      "_pubUrl": "https://ontarioconstructionnews.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
@@ -1699,7 +1663,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "canada.constructconnect.com",
+      "_publisher": "constructconnect.com",
       "_pubUrl": "https://canada.constructconnect.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1723,7 +1687,31 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottdev",
-      "_publisher": "Glen Gower",
+      "_publisher": "glengower.ca",
+      "_pubUrl": "https://glengower.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "Ottawa's zoning overhaul should drive density, not 3-storey 'mansions,' councillor says",
+      "link": "https://news.google.com/articles/CBMiywFBVV95cUxNdkJOanJXM3RadkhUZ1BXNERpaE10ZGFYSGx4eU5LZVpSZWprWlNQS0pKY1g4ei01NjNMOW1VNEhZWHl6YmZjVmg4TjdzaU55V0hZX0dxODdSMHQxc3lOTDB6dEpPZDd1ak5KUW01THR3X3hTSlVYcENpNGc2SzFaWVoyZGVSaWlDS3pLVjlEMVl0R2Nyb3JMSGlTM2ZHdW1hMkdKRW0zV2dDVHFTa1dxMUlZSi1VaURiZ2E4QWZhMWp1SWsyV3dvbkVRcw?oc=5",
+      "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "CBC",
+      "_pubUrl": "https://www.cbc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "6310 and 6320 Hazeldean Road: Minor Zoning By-law Amendment and Site Plan Control",
+      "link": "https://news.google.com/articles/CBMitAFBVV95cUxPdWpUbU8xaU94VVNLUl9CQVY0N0RKanNEMzRkZHlrNlVYZVgtRHRrY2sxOEc5cktVTDl3MGZqNWlkTlZxRXZ5OXBPanE0WEtFNEw0cmRfa3Q2bXBUS3hKbTJMSkoyajR0SnQ4T0FldTduYzkzcXozRks2QkVwMXVfTGwyeVdEbGd4eVRkTmtUQjh0aDhXeEZKYUVUSkFpNVVkQVV6cmdmX01sN2U1dUV6V0dMZmM?oc=5",
+      "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottdev",
+      "_publisher": "glengower.ca",
       "_pubUrl": "https://glengower.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1771,7 +1759,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnpolicy",
-      "_publisher": "policyalternatives.ca",
+      "_publisher": "Policy Alternatives",
       "_pubUrl": "https://www.policyalternatives.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1812,6 +1800,18 @@
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
+      "title": "Only Doug Ford and the Ontario PCs Will Protect Ottawa’s Economy",
+      "link": "https://news.google.com/articles/CBMinAFBVV95cUxPNDhDemdzY2tzVkFCb0VnVDlybzJMNzBfbmxkUWhSbU9mQXlQUXplRG5lMHc1eURpdjc3OW5RNGxZUHk5bl8wbVJrdjJqWTF6MlZPd1JqdkJKbXAtUmJkSWluYXpwd1BwVEVWWmNSTmM4aXQyYWlSdzUxeGV1Y1JqeWRXU1NCQWpaZFk1cTlVdXYta3YtdHdMZEctTjQ?oc=5",
+      "pubDate": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "content": "",
+      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "_src": "gnottlrt",
+      "_publisher": "PC Party of Ontario",
+      "_pubUrl": "https://ontariopc.ca",
+      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
       "title": "CMHC 2023: Housing Reports Retrospective",
       "link": "https://news.google.com/articles/CBMilAFBVV95cUxNeTVpVndac3I4dTE2eEgzR1hyaW9qVXNtWDM4WUl3SXNBenNCWTYtZld0eHZpRVktRDk1VlFyQndkTDJ5c2o3QUh1UkEtcW1RYkxYejZMbWJwTmFjTGtqUWlha2o2MXItNEdGamhGUTFibGVvMUJ6LW52RDZNVy0yLW1mLTB2WmJDY2hwRnA2VXJOWGR0?oc=5",
       "pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
@@ -1831,7 +1831,7 @@
       "content": "",
       "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "_src": "gnottlrt",
-      "_publisher": "canada.constructconnect.com",
+      "_publisher": "constructconnect.com",
       "_pubUrl": "https://canada.constructconnect.com",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
@@ -1869,18 +1869,6 @@
       "_src": "gnottlrt",
       "_publisher": "Global News",
       "_pubUrl": "https://globalnews.ca",
-      "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
-      "title": "Government of Canada…",
-      "link": "https://news.google.com/articles/CBMiwgFBVV95cUxORWdtVzhzY0VySzZxSFJRT01JVXJyNEZENTJnOUZrZDhGQlpVanlLMXZvRW02ZHk2QzI2SUhhUVkxdDE1ZkJRNW5KcnJmYlJkdnp2UlYtektEckF3NHo4c3BCbmV4T0k1YkhlUkFTbUtzTkd1dkduV0t3OEFyT0FWVGFSejYwOEJRazh6YjVTY2U0MGJaMmJPc19CVVpGUUUyVnVreHdYM0pUaWQxRE5BZU9SMTN4TzZYSFZWLWFXejk4dw?oc=5",
-      "pubDate": "Wed, 16 Jun 2021 07:00:00 GMT",
-      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "content": "",
-      "thumbnail": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "_src": "gnottlrt",
-      "_publisher": "Ottawa International Airport Authority",
-      "_pubUrl": "https://www.yow.ca",
       "_ogDesc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
